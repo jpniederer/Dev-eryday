@@ -23,11 +23,6 @@ timezone: America/Chicago
 twitter_username: jpniederer
 github_username:  jpniederer
 
-defaults:
-  -
-  values:
-    author: "Joshua Niederer"
-
 # Build settings
 markdown: kramdown
 theme: minima
