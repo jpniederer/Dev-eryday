@@ -10,4 +10,4 @@ The philosophy behind Dev-eryday is to improve every day. The name, "Dev-eryday,
 
 You can find the source code for Dev-eryday at
 {% include icon-github.html username="jpniederer" %} /
-[Dev-eryday](https://github.com/jpniderer/Dev-eryday)
+[Dev-eryday](https://github.com/jpniederer/Dev-eryday)
