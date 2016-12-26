@@ -23,6 +23,11 @@ timezone: America/Chicago
 twitter_username: jpniederer
 github_username:  jpniederer
 
+disqus:
+  shortname: Dev-eryday
+
+google_analytics: UA-42944312-6
+
 # Build settings
 markdown: kramdown
 theme: minima
