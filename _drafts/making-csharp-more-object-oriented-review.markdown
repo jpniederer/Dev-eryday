@@ -16,27 +16,35 @@ Poorly designed classes do everything on their own. These classes are not design
 
 Sequences
 -----------
+Wrapping code in a foreach or similar loops makes code hard to reason about the purpose, difficult to prove its correctness, and makes finding bugs a challenge. For these reasons we should aspire to not use loop structures. A sequence should be able to loop through itself. In .NET languages, LINQ extension methods can be created to replace loops. LINQ versions often require less code to write and are far more readable than their loop counterpart.
 
 Splitting Structure and Operations
 -----------
+The Composite Pattern is a means of building a collection of objects of the same type into a new object that implements the same interface. We can act on the composite object in the same ways we can the standard one since the same interface is used for both objects. Concrete classes need to be given meaningful names. For instance, we should prefer to present a type Painters for storing a collection of Painter objects over presenting IEnumerable<Painter> to consumers. 
 
 Strategy Objects and Algorithms
 -----------
+Algorithms that vary in time can be turned into objects. By turning algorithms into objects, we can use them as interchangable pieces and call the right one based on the current circumstances. We should favor composition over inheritance, because composition is more flexible. Inheritance can be added to improve the consuming client code readability. Sometimes algorithms can be made general. We should do this when possible to avoid duplicate code and take advantage of similarity. Refactor code one step at a time in order to improve the system's design. When changes need to be made, add a class to achieve the desired result. Leave the existing classes the same, this idea follows along with the [Open Closed Principle][ocp].
 
 Immutable Objects
 -----------
 
+
 Special Case Objects
 -----------
+
 
 Optional Objects
 -----------
 
+
 Avoiding Switch Statements
 -----------
 
+
 Chaining
 -----------
+
 
 Overall
 -----------
@@ -45,3 +53,4 @@ This was an amazing course with a ton of ideas that need to be examined further 
 After watching this course, I'm planning on doing some major refactorings to the SimpleHealthTracking code base to take advantage of some of the techniques presented in the course. Refactoring SimpleHealthTracking would also be an opportunity to reinforce the material. 
 
 [srp]: https://en.wikipedia.org/wiki/Single_responsibility_principle
+[ocp]: https://en.wikipedia.org/wiki/Open/closed_principle
