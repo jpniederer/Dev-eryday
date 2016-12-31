@@ -28,23 +28,23 @@ Algorithms that vary in time can be turned into objects. By turning algorithms i
 
 Immutable Objects
 -----------
-
+Aliasing bugs can occur when shared objects are accessible in more than one location. The shared object can be modified in multiple places so the state may not be as expected. We can avoid aliasing bugs by converting entities (objects that can be mutated) into values (immutable objects). Since the value objects are immutable, their state cannot be changed simplifying code maintenance and making the system more stable. One downside of value objects is that they require more code than entities.
 
 Special Case Objects
 -----------
-
+We can create special case objects to handle common occurances. One such special case object would be to create an object that replaces null. This technique allows us to not have to check for null references. Without having null references, all objects can be treated the same and the code is simplified.
 
 Optional Objects
 -----------
-
+Use optional objects to handle null references when the [null object pattern][nop] and special case object aren't applicable (i.e. when no object exists). Optional objects are implemented as a collection where the collection contians one object or none. When there is an object in the collection the method is called, otherwise nothing is called. This allows us to never return null, eliminates null checking, and makes the code more readable.
 
 Avoiding Switch Statements
 -----------
-
+Switch statements can easily become unwieldy and are not objects. Classes have to be forced into switch statement structure and modifying the switch statement forces the containing class to be updated leading to maintainability issues and potential bugs. Dynamic dispatch can be used to replace switch statements by encapsulating state in separate classes. State objects are mapped to their operations through a simple dictionary based key/value store. 
 
 Chaining
 -----------
-
+if instructions can be converted into distinct rule objects. Once the rule objects are defined, we can order the rules by priority and process them according to their priority. The benefits of this practice is that the rules can be swapped at run time and their priorities can be updated as needed. 
 
 Overall
 -----------
@@ -54,3 +54,4 @@ After watching this course, I'm planning on doing some major refactorings to the
 
 [srp]: https://en.wikipedia.org/wiki/Single_responsibility_principle
 [ocp]: https://en.wikipedia.org/wiki/Open/closed_principle
+[nop]: https://en.wikipedia.org/wiki/Null_Object_pattern
