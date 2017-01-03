@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Deploying Dev-eryday to GitHub Pages"
-date:   
+date: 2017-1-2 19:30:00 +0000
 categories: jekyll
 ---
-Deploying my Dev-eryday Jekyll project to GitHub Pages was a fairly painless process. GitHub is amazingly developer friendly and provides some truly great documentation to move the process along.
+Deploying my Dev-eryday Jekyll project to GitHub Pages was a fairly painless process. GitHub is amazingly developer friendly and provides some truly great documentation to move the process along. Another great feature of GitHub Pages is the automatic deployment on commit.
 
 Major Steps
 ------------
@@ -24,7 +24,7 @@ Major Steps
 Where to Next?
 -------------
 
-I'd like to spend some time styling the site to make it more unique. The Minima theme is great and will work for now, but it'd be nice to design something that really stands out from the crowd. I'll have to keep researching the Jekyll platform and let my sub-conscience work on this task. Outside of that, I'm currently working through a course on Pluralsight called, ["Making Your C# Code More Object Oriented"][oriented]. The course is presented by Zoran Horvat and I highly recommend checking it out. It presents many fine techniques to improving code quality and demonstrates compelling uses of object oriented programming.
+I'd like to spend some time styling the site to make it more unique. The Minima theme is great and will work for now, but it'd be nice to design something that really stands out from the crowd. I'll have to keep researching the Jekyll platform and let my sub-conscience work on this task. This may not be changed for a while as it's merely a "nice to have" at this point. Outside of that, I'm currently working through a course on Pluralsight called, ["Making Your C# Code More Object Oriented"][oriented]. The course is presented by Zoran Horvat and I highly recommend checking it out. It presents many fine techniques to improving code quality and demonstrates compelling uses of object oriented programming.
 
 [A-name]: https://help.github.com/articles/setting-up-an-apex-domain/#configuring-a-records-with-your-dns-provider
 [oriented]: https://app.pluralsight.com/library/courses/c-sharp-code-more-object-oriented/table-of-contents
