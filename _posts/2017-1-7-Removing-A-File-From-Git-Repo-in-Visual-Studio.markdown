@@ -8,12 +8,13 @@ On more than one occasion, I've accidently committed a file to GitHub that I did
 
 Steps
 -------------
-1. Update the gitignore file for the repository has an entry excluding the file that needs to be removed.
-2. Issue the command below from a git enabled shell (I used Powershell on my Windows PC).
-  {% highlight batchfile %}
+1\. Update the gitignore file for the repository has an entry excluding the file that needs to be removed.
+2\. Issue the command below from a git enabled shell (I used Powershell on my Windows PC):
+
+    {% highlight batchfile %}
     git rm --cached "C:\Exact\File\Path\FileName.ext"
-  {% endhighlight %}
-3. Commit the changes to the repo.
+    {% endhighlight %}
+3\. Commit the changes to the repo.
 
 At this point the offending file will no longer be present in the Git repo. Be sure to copy it to any other PCs that will need some form of that file in the future, because it will no longer get the latest verison of the file when pulling the latest version.
 
