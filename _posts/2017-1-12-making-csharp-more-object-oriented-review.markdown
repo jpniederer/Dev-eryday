@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Course Review: Making Your C# Code More Object Oriented"
-date:   
+date:   2017-1-12 9:00:00 +0000
 categories: Object Oriented Programming
 ---
 I'm an unabashed fan of the Pluralsight training website. Not only does it have great learning material, but it also has an unrivaled selection of content. In the realm of training, it's like if Netflix combined with Amazon Prime and HBO Go to form one super video streaming site. Pluralsight is a fantastic resource. Lately, I've been watching the course, "Making Your C# Code More Object Oriented." It's an amazing course, one that I recommend highly. Here is a brief summary of what it covers.
