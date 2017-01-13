@@ -20,3 +20,7 @@ Problem Solving Technique
 On Solving Hard Problems
 --------------
 The process above can be used to solve hard problems, but you'll probably get worn out trying long before the solution is found without special insight. When solving hard problems, it's important to take a step back and let your subconscious attack the problem when you're stuck. Set a timer for 30 minutes and work at understanding and solving the problem. When the time is up, stop thinking about the problem. Do something active, like going for a walk or hitting the gym. Your brain will keep working on the problem even if you aren't actively thinking about it. The subconscious will often find insights you never would have uncovered without it. These insights will eventually lead to a solution.
+
+At the End of Day
+--------------
+When everything is said and done, problem solving is all about moving forward. Ask yourself, "what do I need to know to move forward right now?" every step along the way. Each answer to that question moves the solution closer to the end state. Keep at it, a solution will be found. 
