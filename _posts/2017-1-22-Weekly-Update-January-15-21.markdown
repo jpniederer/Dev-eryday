@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Update: January 15-21 2017"
+title:  "Weekly Update: January 15-21, 2017"
 date: 2017-1-22 21:10:00 +0000
 categories: Dev-eryday
 ---
@@ -18,7 +18,9 @@ Finished
 Currents
 --------
 **MOOC Course:** [Machine Learning][ML]
+
 **PluralSight Course(s):** [C# Language Internals - Part 1][clr], [Building Applications with React and Redux in ES6][React]
+
 **Books:** *[Tools of Titans][tools]*, *[The Charisma Myth][tcm]*
 
 [bjde]: https://app.pluralsight.com/library/courses/javascript-development-environment/table-of-contents
