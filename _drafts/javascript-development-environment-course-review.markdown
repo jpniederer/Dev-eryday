@@ -10,6 +10,6 @@ For the last week I've been taking the course, ["Building a JavaScript Developme
 The key focus of the course is to create a robust development environment that utilizes the best tools available to developers. Through leveraging these tools, software developers and their teams can improve the quality of their code and the deliverables being created.
 
 
-As a developer who has primarily built projects for the web using MVC frameworks, the JavaScript development is a complex beast. 
+As a developer who has primarily built projects for the web using MVC frameworks, the JavaScript development is a complex beast. There are so many decisions to be made when rolling your own project template.
 
 [bjde]: https://app.pluralsight.com/library/courses/javascript-development-environment/table-of-contents
