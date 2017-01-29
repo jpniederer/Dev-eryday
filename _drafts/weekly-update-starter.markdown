@@ -9,7 +9,9 @@ categories: Dev-eryday
 
 Finished
 --------
-**Name:** 
+**PluralSight Course(s):**
+
+**Book(s):** 
 
 Currents
 --------
@@ -17,6 +19,9 @@ Currents
 
 **PluralSight Course(s):** 
 
-**Books:** 
+**Book(s):** 
+
+On the Next...
+--------
 
 [ML]: https://www.coursera.org/learn/machine-learning/

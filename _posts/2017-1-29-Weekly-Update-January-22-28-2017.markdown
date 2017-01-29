@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: January 22-28, 2017"
-date: 2017-1-29 21:10:00 +0000
+date: 2017-1-29 15:20:00 +0000
 categories: Dev-eryday
 ---
 
-Wow, it's the last full week of January already. Time moves fast when you're active! I've had another productive week of learning. Most of the learning time this week has been devoted to diving headfirst into learning React. Working through a couple of introductions to the web component framework has been a lot of fun. I completed week three, covering [Logistic Regression][lr], of the Stanford Machine Learning class.
+Wow, it's the last full week of January already. Time moves fast when you're active! I've had another productive week of learning. Most of the learning time this week has been devoted to diving headfirst into learning React. Working through a couple of introductions to the web component framework has been a lot of fun. I also completed week three, covering [Logistic Regression][lr], of the Stanford Machine Learning class.
 
-On the reading front, I've been immersed in reading *Tools of Titans* by Tim Ferriss. The book is a gold mine of ideas from some of the most successful people in the world. I recommend it for anyone. Beyond that, I finished *The Charisma Myth*. It's a good look on how to improve our conversation skills. The three keys to Charisma are as follows:
+On the reading front, I've been immersed in reading *Tools of Titans* by Tim Ferriss. The book is a gold mine of ideas from some of the most successful people in the world. I recommend it for anyone curious about tricks others are using to achieve success. Beyond that, I finished *The Charisma Myth*. It's a good look on how to improve our conversation skills. The three keys to Charisma are as follows:
 
 1. Presence
 2. Warmth
@@ -15,7 +15,7 @@ On the reading front, I've been immersed in reading *Tools of Titans* by Tim Fer
 
 Finished
 --------
-**PluralSight Course:** [C# Language Internals - Part 1][clr]
+**PluralSight Course(s):** [C# Language Internals - Part 1][clr]
 
 **Book(s):** *[The Charisma Myth][tcm]*
 
@@ -23,9 +23,9 @@ Currents
 --------
 **MOOC Course:** [Machine Learning][ML]
 
-**PluralSight Course(s):** [Building Applications with React and Redux in ES6][React], [Building Applications in React Using Flux][flux]
+**PluralSight Course(s):** [Building Applications with React and Redux in ES6][React], [Building Applications with React and Flux][flux]
 
-**Books:** *[Tools of Titans][tools]*
+**Book(s):** *[Tools of Titans][tools]*
 
 On the Next...
 --------
