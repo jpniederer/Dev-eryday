@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Problem Solving Approach"
-date:   
+date: 2017-2-2 7:20:00 +0000
 categories: Problem Solving
 ---
-Ever since I was a kid, I've always enjoyed solving problems. Through solving lots of mathematical problems I saw my skills improve, but was I as good as I could be? It wasn't until college that I considered the process of how to solve problems. It was then that I realized that improving my process could give me an edge. So I was looking at books in the library when I stumbled upon *How to Solve It* by George Polya. This book was exactly what I needed. It had tons of tricks for taking my problem skills to the next level and I couldn't recommend it more. Here's the high level appoach that I use to solve problems, which is largly lifted from Polya's recipe.
+Ever since I was a kid, I've always enjoyed solving problems. Through solving lots of mathematical problems I saw my skills improve, but was I as good as I could be? It wasn't until college that I considered the process of how to solve problems. It was then that I realized that improving my problem solving process could give me an edge. So I was looking at books in the library when I stumbled upon *How to Solve It* by George Polya. This book was exactly what I needed. It had tons of tricks for taking my problem skills to the next level and I couldn't recommend it more. Here's the high level appoach that I use to solve problems, which is largly lifted from Polya's recipe.
 
 Problem Solving Technique
 --------------
