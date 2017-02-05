@@ -38,7 +38,7 @@ Ten Ways to Become a Better Software Developer
    Solve [interview problems][ip], work through problems in textbooks, or create your own problems to practice programming. There are so many ways to practice programming. Websites like [HackerRank][hr] and [Topcoder][tc] offer up programming challenges and have interactive leader boards. Solving any problem that requires you to think can be effective practice.
 10. Share Gratitude
 
-   [Gratitude][ga] is a powerful tool, one not normally associated with software development skills. Through practicing gratitude, all of our skills are amplified and we generally become happier. Developing gratitude can impact every part of your life.
+    [Gratitude][ga] is a powerful tool, one not normally associated with software development skills. Through practicing gratitude, all of our skills are amplified and we generally become happier. Developing gratitude can impact every part of your life.
  
 
 There are so many ways to get better at software development. This is just a simple list I put together in a few minutes, largely centered around techniques I've used or have read about. Everyone's path to greatness is a little bit different. Some of these techniques will resonate with you more than others, find whatever works for you. The important thing is build skill consistantly, regardless of how the skills are built. What are some of the methods you're using to improve your software development skills? 
