@@ -16,7 +16,7 @@
 title: Dev-eryday
 email: josh@jpniederer.com
 description: > # this means to ignore newlines until "baseurl:"
-  Dev-every is a personal project created to aid in becoming a better software developer. This site serves to log my efforts and to share knowledge, creations, insights, and whatever else I discover along the way.
+  Dev-every is a personal project created by Joshua Niederer to aid in becoming a better software developer. The concept is to develop myself and my skills every day. This site serves to log my efforts and to share knowledge, creations, insights, and whatever else I discover along the way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dev-eryday.com" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: America/Chicago
