@@ -9,7 +9,7 @@ categories: Dev-eryday
 
 Finished
 --------
-**PluralSight Course(s):**
+**PluralSight Course(s):** [Building Applications with React and Redux in ES6][React]
 
 **Book(s):** 
 
@@ -25,3 +25,4 @@ On the Next...
 --------
 
 [ML]: https://www.coursera.org/learn/machine-learning/
+[React]: https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents
