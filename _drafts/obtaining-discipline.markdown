@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Obtaining Discipline"
-date: 2017-2-24 19:40:00 +0000
+date: 2017-2-25 19:40:00 +0000
 categories: Dev-eryday
 ---
 
@@ -18,4 +18,4 @@ Having discipline is like a super power. So few people have it these days that i
 * Should I play this video game or create a new video game?
 * Should I sit down and relax after work or do a strenuous workout?
 
-All of these questions have a clear, rational answer as to which one is the healthier long term choice. Unforetunately, the right answer is rarely easy. The right answer is often serveral degrees of magnitude harder than the easy one.
+All of these questions have a clear, rational answer as to which one is the healthier long term choice. Unfortunately, the right answer is rarely easy. The right answer is often serveral degrees of magnitude harder than the easy one.
