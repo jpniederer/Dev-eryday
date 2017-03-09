@@ -7,6 +7,8 @@ categories: Dev-eryday
 
 Visual Studio 2017 came out this week. I promptly installed it on both my laptop and desktop. I'm excited for this release of the venerable IDE. Now in its 20th year, Visual Studio has aged gracefully and is one of the nicest development environments around. Check out all the new features and changes that come with Visual Studio 2017 [here][VS]. I'm most excited about some of the improved code navigation features and the quicker load time. Along with the new IDE bits, Microsoft also shipped C# 7.0, F# 4.1, and newer versions of TypeScript and JavaScript. There are lots of new toys to play with!
 
+Beyond playing with Visual Studio 2017, I started putting thoughts together for my new idea list recording application. The tool will be called Idealistz and I've got the domain [www.idealistz.com][IL] registered.
+
 Finished
 --------
 **PluralSight Course(s):** [JavaScript: The Good Parts][JS]
@@ -23,7 +25,9 @@ Currents
 
 On the Next...
 --------
+I plan to start working on Idealistz.
 
 [VS]: https://www.visualstudio.com/en-us/news/releasenotes/vs2017-relnotes
 [ML]: https://www.coursera.org/learn/machine-learning/
 [JS]: https://app.pluralsight.com/library/courses/javascript-good-parts/table-of-contents
+[IL]: http://www.idealistz.com/
