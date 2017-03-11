@@ -9,6 +9,8 @@ Visual Studio 2017 came out this week. I promptly installed it on both my laptop
 
 Beyond playing with Visual Studio 2017, I started putting thoughts together for my new idea list recording application. The tool will be called Idealistz and I've got the domain [www.idealistz.com][IL] registered.
 
+For learning I devoured Douglas Crockford's Javascript: The Good Parts presentation on Pluralsight. The talk was fantastic. The course contains many exercises that test one's ability to write functional code in JS. 
+
 Finished
 --------
 **PluralSight Course(s):** [JavaScript: The Good Parts][JS]
@@ -25,7 +27,7 @@ Currents
 
 On the Next...
 --------
-I plan to start working on Idealistz.
+I plan to start working on Idealistz in the weeks ahead. The features that get implemented largely rely on the demand for the service. At the very least I intend to build it out far enough to so that I can use it as an idea repository.
 
 [VS]: https://www.visualstudio.com/en-us/news/releasenotes/vs2017-relnotes
 [ML]: https://www.coursera.org/learn/machine-learning/
