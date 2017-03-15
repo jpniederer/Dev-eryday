@@ -5,17 +5,19 @@ date: 2017-3-18 14:30:00 +0000
 categories: Dev-eryday
 ---
 
-
+I got caught up on the machine learning class by finishing all the course content. Overall the course was fantastic. There are so many powerful ideas in the subject. 
 
 Finished
 --------
+**MOOC Course:** [Machine Learning][ML]
+
 **PluralSight Course(s):** 
 
 **Book(s):** *[][]*
 
 Currents
 --------
-**MOOC Course:** [Machine Learning][ML]
+**MOOC Course:** 
 
 **PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core]
 
