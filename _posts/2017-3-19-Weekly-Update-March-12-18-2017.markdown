@@ -5,7 +5,7 @@ date: 2017-3-19 00:01:00 +0000
 categories: Dev-eryday
 ---
 
-I got caught up on the machine learning class by finishing all the course content. Overall the course was fantastic. There are so many powerful ideas in the subject. I treated the course as a survey of Machine Learning. The course didn't prepare me to start doing work in the field, but I at least have a level of comfort with subject that I didn't have before. A couple of books I'm planning on working through as a follow up are: *[Python Machine Learning][ml1]* and *[Deep Learning][m2]*.
+I got caught up on the machine learning class by finishing all the course content. Overall the course was fantastic. There are so many powerful ideas in the subject. I treated the course as a survey of Machine Learning. The course didn't prepare me to start doing work in the field, but I at least have a level of comfort with subject that I didn't have before. A couple of books I'm planning on working through as a follow up are: *[Python Machine Learning][ml1]* and *[Deep Learning][ml2]*.
 
 From a Pluralsight standpoint, my viewing time was all over the map this week. There are so many interesting courses on there that it's hard to pick just one. I started two more .NET Core courses: [Building a RESTful API with ASP.NET Core][rest] and [Getting Started with .NET Core on Mac and Linux][mac]. These courses, in addition to [Implementing and Securing an API with ASP.NET Core][core], are being used to gain insight on setting up the backend for Idealistz. I also started [Advanced JavaScript][js] by Kyle Simpson. I've been on a major JavaScript kick for the last couple of weeks. The language is really starting to show its beauty and I'm going to keep building on this momentum.
 
