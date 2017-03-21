@@ -15,7 +15,7 @@ Finished
 
 Currents
 --------
-**MOOC Course:** [Machine Learning][ML]
+**MOOC Course:** 
 
 **PluralSight Course(s):** 
 
@@ -24,4 +24,4 @@ Currents
 On the Next...
 --------
 
-[ML]: https://www.coursera.org/learn/machine-learning/
+

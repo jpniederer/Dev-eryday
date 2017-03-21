@@ -26,4 +26,4 @@ Things I Want to Learn or Improve At
 
 The Process
 ------------
-I will put in the effort to build my skills and I will continually improve over the next few months. I may not hit these targets or even learn about these specific subjects, but there will be constant growth. I'm looking at skill acquisition with an eye towards the longterm perspective. Each thing I learn now expands my body of knowledge. 
+I will put in the effort to build my skills and I will continually improve over the next few months. I may not hit these targets or even learn about these specific subjects at all, but there will be constant growth. I'm looking at skill acquisition with an eye towards the longterm perspective. Each thing I learn now expands my body of knowledge. 
