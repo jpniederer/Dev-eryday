@@ -5,15 +5,15 @@ date: 2017-3-26 21:10:00 +0000
 categories: Dev-eryday
 ---
 
-Lots of learning this week, as always. 
+Lots of learning this week, as always. I went through all of the [Advanced JavaScript][js] course on Pluralsight. The quality of the course has got me wanting to check out Kyle Simpson's [You Don't Know JS][know] book series.
 
-In addition to working through numerous courses on Pluralsight, I've been trying to pick up the game of chess. Growing up I never really played the game much but I'm currently fascinated by it. The game is so deep and complex. Right now I'm using [lichess][lc] to learn how to play the game and mostly compete against the AI in games. I'm terrible but getting better each day. The site is technically impressive and open source. Check out the code on [github][ls].
+In addition to working through numerous courses on Pluralsight, I've been trying to pick up the game of chess. Growing up I never really played the game much but I'm currently fascinated by it. The game is so deep and complex. Right now I'm using [lichess][lc] to learn how to play the game and trying compete against the AI in games. I'm terrible but getting better each day. The site is technically impressive and open source. Check out the code on [github][ls]. Looking at the source code makes me want to study Scala.
 
-On the MOOC front, I started a new course on Coursera called [Mastering the Software Engineering Interview][se]. I've seen that there are books on this topic, like *Cracking the Coding Interview*, but I've never seen the content covered from the perspective of a university course. I'm through all the content from the first week and it's high-quality so far. The course does not actually let non-paying customers complete the exercises though so there will be no formal completion for me. Luckily I'm more interested in the course material than I'm am in actually completing it.
+On the MOOC front, I started a new course on Coursera called [Mastering the Software Engineering Interview][se]. I've seen that there are books on this topic, like *Cracking the Coding Interview*, but I've never seen the content covered from the perspective of a university course. I'm through all the content from the first week and it's high-quality so far. The course does not actually let non-paying customers complete the exercises though so there will be no formal completion for me. Luckily I'm more interested in the course material than I'm am in earning a certificate of completion.
 
 Finished
 --------
-**PluralSight Course(s):**
+**PluralSight Course(s):** [Advanced JavaScript][js]
 
 **Book(s):** 
 
@@ -21,7 +21,7 @@ Currents
 --------
 **MOOC Course:** [Mastering the Software Engineering Interview][se]
 
-**PluralSight Course(s):** 
+**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Building a RESTful API with ASP.NET Core][rest], [Getting Started with .NET Core on Mac and Linux][mac]
 
 **Book(s):** 
 
@@ -31,3 +31,8 @@ On the Next...
 [se]: https://www.coursera.org/learn/cs-tech-interview/
 [li]: https://lichess.org/
 [ls]: https://github.com/ornicar/lila
+[core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
+[js]: https://app.pluralsight.com/library/courses/advanced-javascript/table-of-contents
+[rest]: https://app.pluralsight.com/library/courses/asp-dot-net-core-restful-api-building/table-of-contents
+[mac]: https://app.pluralsight.com/library/courses/dotnet-core-mac-linux-getting-started/table-of-contents
+[know]: https://github.com/getify/You-Dont-Know-JS
