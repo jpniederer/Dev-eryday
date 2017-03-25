@@ -23,7 +23,7 @@ Currents
 
 **PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Building a RESTful API with ASP.NET Core][rest], [Getting Started with .NET Core on Mac and Linux][mac]
 
-**Book(s):** 
+**Book(s):** *[Vagabonding: An Uncommon Guide to the Art of Long-Term Travel][vaga]*
 
 On the Next...
 --------
@@ -36,3 +36,4 @@ On the Next...
 [rest]: https://app.pluralsight.com/library/courses/asp-dot-net-core-restful-api-building/table-of-contents
 [mac]: https://app.pluralsight.com/library/courses/dotnet-core-mac-linux-getting-started/table-of-contents
 [know]: https://github.com/getify/You-Dont-Know-JS
+[vaga]: https://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel-ebook/dp/B000FBFMKM/ref=sr_1_1?ie=UTF8&qid=1490408843&sr=8-1&keywords=vagabonding
