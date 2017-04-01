@@ -9,7 +9,7 @@ It looks like Pluralsight has added a [React path][path]. I've already worked th
 
 Working with Elixir has been a lot of fun.
 
-I started reading the book *[Musashi][mus]. I'm only a couple of chapters in but the story is strong. 
+I started reading the book *[Musashi][mus]*. I'm only a couple of chapters in but the story is strong. It's long, almost 1000 pages, so I'll probably finish it sometime around June.
 
 Finished
 --------
@@ -28,6 +28,9 @@ Currents
 On the Next...
 --------
 
+Baseball is starting back up this week. I'm sure that I will binge on Cubs games. In the past, there's always been some anticipation as to whether or not it'd be *the* year. Well, the year finally came in 2016 with the Cubs finally winning the World Series. The Cubs are the toast of baseball and 2017 is going to be a fun season to be a Cubs fan.
+
+I'm going to continue digging into Elixir. I will also push forward into both React and .NET Core.
 
 [vaga]: https://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel-ebook/dp/B000FBFMKM/ref=sr_1_1?ie=UTF8&qid=1490408843&sr=8-1&keywords=vagabonding
 [elixir]: https://app.pluralsight.com/library/courses/elixir-getting-started/table-of-contents
