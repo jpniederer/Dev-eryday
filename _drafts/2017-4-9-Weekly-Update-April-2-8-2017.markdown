@@ -5,7 +5,7 @@ date: 2017-4-9 21:10:00 +0000
 categories: Dev-eryday
 ---
 
-*Musashi* might be the best novel I've ever read. The way that Takezo grows into Musashi and wills himself into his best possible self is inspiring. Musashi's relentless, singular focus on becoming the best samurai in Japan consumes his entire being. The book is filled with adventure, action, and philosophical gems. I could not recommend reading it more. 
+*Musashi* might be the best novel I've ever read. I'm not even half way through it yet, but the book is amazing. The way that Takezo grows into Musashi and wills himself into his best possible self is inspiring. Musashi's relentless, singular focus on becoming the best samurai in Japan consumes his entire being. The book is filled with adventure, action, and philosophical gems so far. I could not recommend reading it more. 
 
 Finished
 --------
