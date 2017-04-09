@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update: April 2 to 8, 2017"
-date: 2017-4-9 21:10:00 +0000
+date: 2017-4-9 11:15:00 +0000
 categories: Dev-eryday
 ---
 
