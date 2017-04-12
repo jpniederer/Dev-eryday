@@ -5,7 +5,7 @@ date: 2017-4-16 21:10:00 +0000
 categories: Dev-eryday
 ---
 
-
+Lots of great reading this week! I devoured Tom Verducci's *[The Cubs Way][cubs]*. The book is truly a must read for any Cubs fan, possibly any baseball fan. Verducci gives a deep account of how Theo Epstein and his staff turned around the entire narrative of the Cubs. The book also touches on the players, coaches, and how the Cubs won the 2016 World Series. Once known only for losing, the Cubs way is now winning. Beyond that I continued forward with *[Musashi][mus]*. It just gets better and better.
 
 Finished
 --------
