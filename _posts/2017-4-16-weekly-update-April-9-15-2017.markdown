@@ -1,13 +1,19 @@
 ---
 layout: post
 title:  "Weekly Update: April 9 to 15, 2017"
-date: 2017-4-16 21:10:00 +0000
+date: 2017-4-16 17:30:00 +0000
 categories: Dev-eryday
 ---
 
-I started a new repository called [PlayingWithReact][pr]. I'm using it to play with the library by testing out ideas and any material I'm learning. It's also being used to walk through interesting tutorials I find. 
+I started a new repository called [PlayingWithReact][pr]. I'm using it to play with the library by testing out ideas and any material I'm learning. It's also being used to walk through interesting tutorials I find. I think I'll create "Playing with X" repos for all of the things I'm focused on learning.
 
-Lots of great reading this week! I devoured Tom Verducci's *[The Cubs Way][cubs]*. The book is truly a must read for any Cubs fan, possibly any baseball fan. Verducci gives a deep account of how Theo Epstein and his staff turned around the entire narrative of the Cubs. The book also touches on the players, coaches, and how the Cubs won the 2016 World Series. Once known only for losing, the Cubs way is now winning. Beyond that I continued forward with *[Musashi][mus]*. It just gets better and better. I'm about 50% of the way through it now. I should have it done in three or four weeks.
+Lots of great reading this week! I devoured Tom Verducci's *[The Cubs Way][cubs]*. The book is truly a must read for any Cubs fan, possibly any baseball fan. Verducci gives a deep account of how Theo Epstein and his staff turned around the entire narrative of the Cubs. The book also touches on the players, coaches, and how the Cubs won the 2016 World Series. Once known only for losing, the Cubs way is now winning. One notable takeaway was Epstein's acrostic of traits of what it means to be Cub:
+
+    C - Courage
+    U - Urgancy
+    B - Belief
+
+Beyond that I continued forward with *[Musashi][mus]*. It just gets better and better. I'm about 50% of the way through it now. I should have it done in three or four weeks worth of reading.
 
 Finished
 --------
@@ -34,7 +40,6 @@ In the week ahead, I'm going to try to start fewer new courses and to push throu
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [react]: https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
 [pho]: https://app.pluralsight.com/library/courses/phoenix-getting-started/table-of-contents
-[ilp]: https://github.com/jpniederer/IdeaListParser
 [cubs]: https://www.amazon.com/Cubs-Way-Building-Baseball-Breaking-ebook/dp/B01M5LDUNR/ref=sr_1_1?ie=UTF8&qid=1491880527&sr=8-1&keywords=the+cubs+way
 [best]: https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents
 [pr]: https://github.com/jpniederer/PlayingWithReact
