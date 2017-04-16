@@ -5,7 +5,9 @@ date: 2017-4-16 21:10:00 +0000
 categories: Dev-eryday
 ---
 
-Lots of great reading this week! I devoured Tom Verducci's *[The Cubs Way][cubs]*. The book is truly a must read for any Cubs fan, possibly any baseball fan. Verducci gives a deep account of how Theo Epstein and his staff turned around the entire narrative of the Cubs. The book also touches on the players, coaches, and how the Cubs won the 2016 World Series. Once known only for losing, the Cubs way is now winning. Beyond that I continued forward with *[Musashi][mus]*. It just gets better and better.
+I started a new repository called [PlayingWithReact][pr]. I'm using it to play with the library by testing out ideas and any material I'm learning. It's also being used to walk through interesting tutorials I find. 
+
+Lots of great reading this week! I devoured Tom Verducci's *[The Cubs Way][cubs]*. The book is truly a must read for any Cubs fan, possibly any baseball fan. Verducci gives a deep account of how Theo Epstein and his staff turned around the entire narrative of the Cubs. The book also touches on the players, coaches, and how the Cubs won the 2016 World Series. Once known only for losing, the Cubs way is now winning. Beyond that I continued forward with *[Musashi][mus]*. It just gets better and better. I'm about 50% of the way through it now. I should have it done in three or four weeks.
 
 Finished
 --------
@@ -23,7 +25,7 @@ Currents
 
 On the Next...
 --------
-
+In the week ahead, I'm going to try to start fewer new courses and to push through at least one of the .NET Core classes I've started. I've been neglecting them in favor of JavaScript and Elixir based materials lately. There's no problem with that, but I'd like to knock at least one of them out this coming week.
 
 [mus]: https://www.amazon.com/dp/B00CD428BU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 [se]: https://www.coursera.org/learn/cs-tech-interview/
@@ -35,3 +37,4 @@ On the Next...
 [ilp]: https://github.com/jpniederer/IdeaListParser
 [cubs]: https://www.amazon.com/Cubs-Way-Building-Baseball-Breaking-ebook/dp/B01M5LDUNR/ref=sr_1_1?ie=UTF8&qid=1491880527&sr=8-1&keywords=the+cubs+way
 [best]: https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents
+[pr]: https://github.com/jpniederer/PlayingWithReact
