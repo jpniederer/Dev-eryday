@@ -10,7 +10,7 @@ I started a new repository called [PlayingWithReact][pr]. I'm using it to play w
 Lots of great reading this week! I devoured Tom Verducci's *[The Cubs Way][cubs]*. The book is truly a must read for any Cubs fan, possibly any baseball fan. Verducci gives a deep account of how Theo Epstein and his staff turned around the entire narrative of the Cubs. The book also touches on the players, coaches, and how the Cubs won the 2016 World Series. Once known only for losing, the Cubs way is now winning. One notable takeaway was Epstein's acrostic of traits of what it means to be Cub:
 
     C - Courage
-    U - Urgancy
+    U - Urgency
     B - Belief
 
 Beyond that I continued forward with *[Musashi][mus]*. It just gets better and better. I'm about 50% of the way through it now. I should have it done in three or four weeks worth of reading.
