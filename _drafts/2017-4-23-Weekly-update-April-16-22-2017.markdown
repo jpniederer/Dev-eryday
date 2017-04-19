@@ -4,11 +4,11 @@ title:  "Weekly Update: April 16 to 22, 2017"
 date: 2017-4-23 17:30:00 +0000
 categories: Dev-eryday
 ---
-
+Possibly the only problem I have with Pluralsight is that they add too many courses I want to watch. That is a truly great problem to have! This week they added a course called [What Every Developer Must Know About HTTPS][https] by Troy Hunt. The course is a fantastic overview of the HTTPS technology and covers not only how to take advantage of it, but also how to do it for free and in a way that makes your site at least as fast as HTTP. 
 
 Finished
 --------
-**PluralSight Course(s):** 
+**PluralSight Course(s):** [What Every Developer Must Know About HTTPS][https]
 
 **Book(s):** 
 
@@ -34,3 +34,4 @@ On the Next...
 [cubs]: https://www.amazon.com/Cubs-Way-Building-Baseball-Breaking-ebook/dp/B01M5LDUNR/ref=sr_1_1?ie=UTF8&qid=1491880527&sr=8-1&keywords=the+cubs+way
 [best]: https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents
 [pr]: https://github.com/jpniederer/PlayingWithReact
+[https]: https://app.pluralsight.com/library/courses/https-every-developer-must-know/table-of-contents
