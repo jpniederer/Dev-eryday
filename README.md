@@ -1,5 +1,5 @@
 # Dev-eryday
-Dev-eryday is a personal challenge to improve as much as possible. My intent is to learn, create, and share. This is a personal project created to aid in becoming a better software developer. The corresponding website, http://dev-eryday.com, serves to log my efforts and to share knowledge, creations, insights, and whatever else I discover along the way.
+Dev-eryday is a personal challenge to improve as much as possible. My intent is to learn, create, and share. This is a personal project created to aid in becoming a better software developer. The corresponding website, https://dev-eryday.com, serves to log my efforts and to share knowledge, creations, insights, and whatever else I discover along the way.
 
 "Dev-eryday" is the combination of the word "development" and the phrase "every day." I'm a professional software developer who wants to get better at my craft. Through Dev-eryday, I want to show how lots of small changes over time can have a huge impact. My goal in life is to improve in some way every single day. This site will share the journey about how I am improving as a software developer. When it comes to our skills there is no finished product.
 
