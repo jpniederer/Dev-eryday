@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update: April 16 to 22, 2017"
-date: 2017-4-23 17:30:00 +0000
+date: 2017-4-23 15:46:00 +0000
 categories: Dev-eryday
 ---
 Possibly the only problem I have with Pluralsight is that they add too many courses I want to watch. That is a truly great problem to have! This week they added a course called [What Every Developer Must Know About HTTPS][https] by Troy Hunt. The course is a fantastic overview of the HTTPS technology and covers not only how to take advantage of it, but also how to do it for free and in a way that makes your site at least as fast as HTTP. The course inspired me to get HTTPS support to the very site you're visiting now. I'll have a post up about it in the week to come.
@@ -24,7 +24,7 @@ On the Next...
 --------
 I could finish *Musashi* this week. I'm currenly 75% of the way through and it's hard to put it down. More realistically, I'll finish it the week after this one.
 
-I'm going to move a couple more sites of mine into HTTPS. I'm going to also keep studying React, Elixir, and .NET Core.
+I'm going to move a couple more sites of mine into HTTPS. Outside of those updates, I'm going to also keep studying React, Elixir, and .NET Core.
 
 [mus]: https://www.amazon.com/dp/B00CD428BU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 [se]: https://www.coursera.org/learn/cs-tech-interview/
