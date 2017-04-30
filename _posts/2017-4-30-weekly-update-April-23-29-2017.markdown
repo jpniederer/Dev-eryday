@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update: April 23 to 29, 2017"
-date: 2017-4-30 15:46:00 +0000
+date: 2017-4-30 15:15:00 +0000
 categories: Dev-eryday
 ---
 
@@ -10,6 +10,8 @@ Wow, four months of Dev-eryday have already gone by! It's always remarkable how 
 I got back into React in a big way this week. I finished the [Styling React Components][sty] course on Pluralsight. Overall, the course was a nice look at several different ways that components can be styled when using React. Another React course I started working through is [Building Scalable React Apps][re]. Building Scalable React Apps walks you through the process of building a React application using the popular [React Boilerplate][rb] starter kit. I'm really enjoying the course so far.
 
 *Musashi* has been completed. It was a phenomenal read. I recommend it for anyone. *Musashi* is a story of growth, love, adventure, philosophy, and is a true tome. Having finished the book, I'm positive it's in the top five fiction books I've ever read. The level of Musashi's discipline is inspiring. The character is a true epic hero who can be used to gain valuable insight on what it takes to become world class at any practice.
+
+Another step forward in HTTPS this week. I moved both my [personal][jp] site and [SimpleHealthTracking][sht] to HTTPS. It's nice to get those domains a little more secured.
 
 Finished
 --------
@@ -23,7 +25,7 @@ Currents
 --------
 **PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Building a RESTful API with ASP.NET Core][rest], [Building Scalable React Apps][re]
 
-**Book(s):** 
+**Book(s):** *[Siddartha][sid]*
 
 On the Next...
 --------
@@ -39,3 +41,6 @@ I should find another MOOC course to work on the week ahead. There are so many g
 [re]: https://app.pluralsight.com/library/courses/react-boilerplate-building-scalable-apps/table-of-contents
 [sty]: https://app.pluralsight.com/library/courses/react-styling-components/table-of-contents
 [rb]: https://www.reactboilerplate.com
+[jp]: https://www.jpniederer.com
+[sht]: https://www.simplehealthtracking.com/home/landing/
+[sid]: https://en.wikipedia.org/wiki/Siddhartha_(novel)
