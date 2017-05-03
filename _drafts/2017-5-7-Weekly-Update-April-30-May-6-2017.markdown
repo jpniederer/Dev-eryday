@@ -4,7 +4,7 @@ title:  "Weekly Update: April 30 to  May 6, 2017"
 date: 2017-5-7 15:15:00 +0000
 categories: Dev-eryday
 ---
-
+This week I started working through online programming challenges on [leetcode][lc]. It's been an enjoyable challenge so far. There are so many problems out there to solve. It's incredible how many online tools are out there to improve at solving programming problems. 
 
 Finished
 --------
@@ -29,3 +29,4 @@ On the Next...
 [rb]: https://www.reactboilerplate.com
 [sid]: https://en.wikipedia.org/wiki/Siddhartha_(novel)
 [rich]: https://www.amazon.com/dp/B004WL4BW6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+[lc]: https://www.leetcode.com
