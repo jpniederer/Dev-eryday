@@ -4,7 +4,9 @@ title:  "Weekly Update: April 30 to  May 6, 2017"
 date: 2017-5-7 15:15:00 +0000
 categories: Dev-eryday
 ---
-This week I started working through online programming challenges on [leetcode][lc]. It's been an enjoyable challenge so far. There are so many problems out there to solve. It's incredible how many online tools are out there to improve at solving programming problems. 
+This week I started working through online programming challenges on [leetcode][lc]. It's been an enjoyable challenge so far. There are so many problems out there to solve. It's incredible how many online tools are out there to improve at solving programming problems. HackerRank, the online UVa Judge, and leetcode all offer similar tools to work through programming challenges. For more of a mathematical point of view there is the classic Project Euler. There is definitely no shortage of problems to sate even the most prolific problem solver.
+
+I took a little bit of a breather on Pluralsight courses this week. Sure I continued to watch a little bit each day, but didn't push hard through any of the courses I was viewing. However, I did spend a good amount of time reviewing material from courses I've taken previously.
 
 Finished
 --------
