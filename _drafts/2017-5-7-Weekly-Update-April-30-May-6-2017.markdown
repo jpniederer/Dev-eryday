@@ -8,6 +8,8 @@ This week I started working through online programming challenges on [leetcode][
 
 I took a little bit of a breather on Pluralsight courses this week. Sure I continued to watch a little bit each day, but didn't push hard through any of the courses I was viewing. However, I did spend a good amount of time reviewing material from courses I've taken previously.
 
+On the MOOC side, I went back to edX's [Sabermetrics 101][saber] course and it's amazing. Sabermetrics is the intersection of three of my favorite subjects: software, math, and baseball. I registered to take the course back in 2014 and never finished. I'm glad I didn't work through it then because I get to enjoy it now! The course offers introductions to SQL, R, applied data science (baseball), and statistics. None of the material is completely new to me, but the blending of all of them together is like a dream come true.
+
 Finished
 --------
 **PluralSight Course(s):** [Building Scalable React Apps][re]
@@ -16,13 +18,15 @@ Finished
 
 Currents
 --------
+**MOOC(s):** [Sabermetrics 101: Introduction to Baseball Analytics][saber]
+
 **PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Building a RESTful API with ASP.NET Core][rest], 
 
 **Book(s):** *[Siddartha][sid]*
 
 On the Next...
 --------
-
+I'm going to continue to work through the Sabermetrics class and keep building up my React skills. 
 
 [rest]: https://app.pluralsight.com/library/courses/asp-dot-net-core-restful-api-building/table-of-contents
 [mac]: https://app.pluralsight.com/library/courses/dotnet-core-mac-linux-getting-started/table-of-contents
@@ -32,3 +36,4 @@ On the Next...
 [sid]: https://en.wikipedia.org/wiki/Siddhartha_(novel)
 [rich]: https://www.amazon.com/dp/B004WL4BW6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 [lc]: https://www.leetcode.com
+[saber]: https://www.edx.org/course/sabermetrics-101-introduction-baseball-bux-sabr101x-0
