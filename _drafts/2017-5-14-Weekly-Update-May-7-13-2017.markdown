@@ -8,11 +8,13 @@ The more things I do, the more I realize that consistency is the strongest indic
 
 This was a solid week for continuing forward with React. I finished the [Building Scalable React Apps][re] course on Pluralsight. The course is a fantastic overview on building a HackerNews/Reddit-like link aggregation service. After completing it and several other React tutorials on Pluralsight, I can say that this is my favorite React course on the site.
 
+I also completed another course that merged the worlds of .NET Core and React. The course is called [Using ASP.NET Core to Build Singe-page Applications][spa]. It showed off how easy it is to get started building single page applications with .NET Core. Microsoft has created some ASP.NET Core project templates that come with the front end package of your choice setup out of the box. One note about the templates, they by default use TypeScript so using them is also a good oppurtunity get a taste of that flavor of development. It'd be worth looking into if someone has created similar default projects using Babel. If not, that'd be a project worth creating and open sourcing for the development community.
+
 Finished
 --------
 **Book(s):** *[Siddartha][sid]* 
 
-**Pluralsight Course(s):** [Building Scalable React Apps][re]
+**Pluralsight Course(s):** [Building Scalable React Apps][re], [Using ASP.NET Core to Build Single-page Applications][spa]
 
 Currents
 --------
@@ -24,7 +26,7 @@ Currents
 
 On the Next...
 --------
-
+I'm going to circle back to the Sabermetrics course. This week work was hectic and I didn't get enough time to focus on the course. Hopefully I'll learn something that takes my fantasy baseball teams to the next level.
 
 [rest]: https://app.pluralsight.com/library/courses/asp-dot-net-core-restful-api-building/table-of-contents
 [mac]: https://app.pluralsight.com/library/courses/dotnet-core-mac-linux-getting-started/table-of-contents
@@ -33,3 +35,5 @@ On the Next...
 [rb]: https://www.reactboilerplate.com
 [sid]: https://en.wikipedia.org/wiki/Siddhartha_(novel)
 [saber]: https://www.edx.org/course/sabermetrics-101-introduction-baseball-bux-sabr101x-0
+[spa]: https://app.pluralsight.com/library/courses/aspnet-core-build-single-page-applications/table-of-contents
+[ms]: https://github.com/aspnet/JavaScriptServices
