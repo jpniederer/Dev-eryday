@@ -28,7 +28,7 @@ On the Next...
 --------
 I'm going to circle back to the Sabermetrics course. This week work was hectic and I didn't get enough time to focus on the course. Hopefully I'll learn something that takes my fantasy baseball teams to the next level.
 
-For reading, I'm going to start looking at Kent Beck's classic *Smalltalk Best Practice Patterns*. Smalltalk may not be a popular language, and I never intend to use it, but supposedly this book contains a ton of gems on how to write better code. Reviewers hearald the book as being full of patterns that can be applied to any code base. It sounds like a promising reading experience lies ahead.
+For reading, I'm going to start looking at Kent Beck's classic *Smalltalk Best Practice Patterns*. Smalltalk may not be a popular language, and I never intend to use it, but supposedly this book contains a ton of gems on how to write better code. Reviewers herald the book as being full of patterns that can be applied to any code base. It sounds like a promising reading experience lies ahead.
 
 [rest]: https://app.pluralsight.com/library/courses/asp-dot-net-core-restful-api-building/table-of-contents
 [mac]: https://app.pluralsight.com/library/courses/dotnet-core-mac-linux-getting-started/table-of-contents
