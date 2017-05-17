@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Weekly Update: May 14 to 20, 2017"
+date: 2017-5-21 13:00:00 +0000
+categories: Dev-eryday
+---
+
+
+Finished
+--------
+**Book(s):** *[Anything You Want][ayw]* 
+
+**Pluralsight Course(s):** 
+
+Currents
+--------
+**MOOC(s):** [Sabermetrics 101: Introduction to Baseball Analytics][saber]
+
+**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Building a RESTful API with ASP.NET Core][rest]
+
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*
+
+On the Next...
+--------
+
+
+[rest]: https://app.pluralsight.com/library/courses/asp-dot-net-core-restful-api-building/table-of-contents
+[core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
+[saber]: https://www.edx.org/course/sabermetrics-101-introduction-baseball-bux-sabr101x-0
+[sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
+[ayw]: https://www.amazon.com/Anything-You-Want-Lessons-Entrepreneur-ebook/dp/B00SI0B5FS/ref=sr_1_1?ie=UTF8&qid=1494987347&sr=8-1&keywords=anything+you+want
