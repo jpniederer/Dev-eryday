@@ -4,7 +4,7 @@ title:  "Weekly Update: May 14 to 20, 2017"
 date: 2017-5-21 13:00:00 +0000
 categories: Dev-eryday
 ---
-
+This week I've spent a ton of time looking into Web API on .NET Core. There are a number of tutorials that make it pretty easy to get up to speed quickly. Since using Web API with .NET Core is so similar to how it was before with ASP.NET 5, there is a very natural learning curve for developers familiar with the technology. There is one area of development I've found severely lacking in terms of guidance though: how to Web API for authentication with .NET Identity and IdentityServer4. I in the process of finding out how to use the platform to authenticate a web React front end and then authenticate the API when calls are made from the app. 
 
 Finished
 --------
@@ -22,7 +22,7 @@ Currents
 
 On the Next...
 --------
-
+I'm going to continue digging deeper into how to use a .NET Core Web API to secure a React frontend and the API itself. I'm planning to read through docs and implement any security tutorials I can find. The .NET Core MVC project shows how to implement the basic .NET Identity features (register account, login, logout, etc.). At the very least, I should be able to mimic this functionality using REST based calls.
 
 [rest]: https://app.pluralsight.com/library/courses/asp-dot-net-core-restful-api-building/table-of-contents
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
