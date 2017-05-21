@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update: May 14 to 20, 2017"
-date: 2017-5-21 13:00:00 +0000
+date: 2017-5-21 17:00:00 +0000
 categories: Dev-eryday
 ---
 This week I've spent a ton of time looking into Web API on .NET Core. There are a number of tutorials that make it pretty easy to get up to speed quickly. Since using Web API with .NET Core is so similar to how it was before with ASP.NET 5, there is a very natural learning curve for developers familiar with the technology. There is one area of development I've found severely lacking in terms of guidance though: how to Web API for authentication with .NET Identity and IdentityServer4. I in the process of finding out how to use the platform to authenticate a web React front end and then authenticate the API when calls are made from the app.
