@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Weekly Update: May 21 to 27, 2017"
+date: 2017-5-28 17:00:00 +0000
+categories: Dev-eryday
+---
+
+It feels like it's taken me forever, but I finally finished one of two the .NET Core Web API courses I've been taking on Pluralsight. [Building a RESTful API with ASP.NET Core][rest] is a fantastic display of how to build a REST based API. All of the common API features are covered in addition to some not as common ones including versioning, caching, and logging. The course even covers HATEOAS for media type calls. There is a ton of content to unpack here. One thing the course doesn't cover, but is coming in a follow-up course, is security and authentication of the API. The [Implementing and Securing an API with ASP.NET Core][core] has an example of how to do this, so until the next course is released, I will use that course to supplement security information.
+
+
+
+Finished
+--------
+**PluralSight Course(s):** [Building a RESTful API with ASP.NET Core][rest]
+
+**Book(s):** *[The Elements of Style][style]*
+
+Currents
+--------
+**MOOC(s):** [Sabermetrics 101: Introduction to Baseball Analytics][saber]
+
+**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Building a RESTful API with ASP.NET Core][rest]
+
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*
+
+On the Next...
+--------
+
+[rest]: https://app.pluralsight.com/library/courses/asp-dot-net-core-restful-api-building/table-of-contents
+[core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
+[saber]: https://www.edx.org/course/sabermetrics-101-introduction-baseball-bux-sabr101x-0
+[sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
+[style]: https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/194564401X
