@@ -11,7 +11,7 @@ It's great how the summer holidays (Memorial Day, Independance Day, Labor Day), 
 
 Finished
 --------
-**PluralSight Course(s):** 
+**PluralSight Course(s):** [ASP.NET Core: The Request Life Cycle][req]
 
 **Book(s):** 
 
@@ -19,7 +19,7 @@ Currents
 --------
 **MOOC(s):** [Sabermetrics 101: Introduction to Baseball Analytics][saber]
 
-**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core]
+**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[On Writing Well][oww]*
 
@@ -34,3 +34,5 @@ On the Next...
 [oww]: https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548
 [gh]: https://github.com
 [vsts]: https://www.visualstudio.com/team-services/
+[ddd]: https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents
+[req]: https://app.pluralsight.com/library/courses/aspnet-core-mvc-request-life-cycle/table-of-contents
