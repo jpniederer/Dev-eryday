@@ -4,7 +4,7 @@ title:  "Weekly Update: June 4 to 10, 2017"
 date: 2017-6-11 14:45:00 +0000
 categories: Dev-eryday
 ---
-
+It's always nice to get a new tool. Some tools can fundamentally change the way you work, others merely take away a bit of friction from your process. This week I got a new monitor. It's an [Acer H277HU][mon]. Acer isn't paying me to say this, but it's the best monitor I've ever used. The screen quality is great, but it's the USB-C connection that is the true standout feature. By connecting a single USB-C cable from the monitor to my laptop, I get a second screen, charging, and two standard USB connections. So one cable, lots of possibilities. Technology is good. At 27", the 2560x1440 image is crisp and clear. The speakers are perfect for watching videos at my desk and offer all the noise I'll ever need. The monitor doesn't revolutionize the way I work, it does iron out a number of rough edges. That's all that can be asked from it. 
 
 Finished
 --------
@@ -32,3 +32,4 @@ On the Next...
 [ddd]: https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents
 [ar]: https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
 [comp]: https://app.pluralsight.com/library/courses/react-creating-reusable-components/table-of-contents
+[mon]: https://www.amazon.com/gp/product/B01B64O3M4/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
