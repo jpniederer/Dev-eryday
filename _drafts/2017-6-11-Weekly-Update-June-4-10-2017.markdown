@@ -6,6 +6,8 @@ categories: Dev-eryday
 ---
 It's always nice to get a new tool. Some tools can fundamentally change the way you work, others merely take away a bit of friction from your process. This week I got a new monitor. It's an [Acer H277HU][mon]. Acer isn't paying me to say this, but it's the best monitor I've ever used. The screen quality is great, but it's the USB-C connection that is the true standout feature. By connecting a single USB-C cable from the monitor to my laptop, I get a second screen, charging, and two standard USB connections. So one cable, lots of possibilities. Technology is good. At 27", the 2560x1440 image is crisp and clear. The speakers are perfect for watching videos at my desk and offer all the noise I'll ever need. The monitor doesn't revolutionize the way I work, it does iron out a number of rough edges. That's all that can be asked from it. 
 
+Pluralsight delivers something new to be excited about almost every week. This week is no exception as they added a new Cory House course titled [Creating Reuseable React Components][comp]. It's a deep look into how to build a reusable component library that can be leveraged on multiple projects. The best part of the course so far has been how to setup your React project for self-documentation using the [react-docgen][doc] package. It'd be nice to create a set of distributable React components that I can apply to all future projects. 
+
 Finished
 --------
 **PluralSight Course(s):** 
@@ -33,3 +35,4 @@ On the Next...
 [ar]: https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
 [comp]: https://app.pluralsight.com/library/courses/react-creating-reusable-components/table-of-contents
 [mon]: https://www.amazon.com/gp/product/B01B64O3M4/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
+[doc]: https://github.com/reactjs/react-docgen
