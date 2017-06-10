@@ -10,22 +10,21 @@ Pluralsight delivers something new to be excited about almost every week. This w
 
 Finished
 --------
+**MOOC(s):** [Sabermetrics 101: Introduction to Baseball Analytics][saber]
+
 **PluralSight Course(s):** 
 
 **Book(s):** *[On Writing Well][oww]*
 
 Currents
 --------
-**MOOC(s):** [Sabermetrics 101: Introduction to Baseball Analytics][saber]
-
 **PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd], [Creating Reuseable React Components][comp]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*
 
 On the Next...
 --------
-
-
+I'm going to write some code on the IdeaListz project this week. I've been letting it slip lately as other things always seem to take the priority. Side projects are one of those things where if you don't make the time for them, there's not going to be any time for them. I'm thinking about spinning up the most basic version of the web service possible and using it as a prototype. It would only need the most basic CRUD operations. Once the prototype is in place, I'd be able to use it to implement the React-based user interfaces. 
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [saber]: https://www.edx.org/course/sabermetrics-101-introduction-baseball-bux-sabr101x-0
