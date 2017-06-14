@@ -5,7 +5,21 @@ date: 2017-6-4 18:24:00 +0000
 categories: Programming
 ---
 
-Programming is writing. Even though the code we write is processed by computers that are indifferent to our style, it's essential to take care special care to write clearly and concisely. Lately I've been looking into ways to improve my natural language writing. In this venture, I've read both *[The Elements of Style][style]* by William Strunk and E.B. White, and *[On Writing Well][oww]* by William Zinsser. It's amazing how much of the advice from Strunk, White, and Zinsser applies not only to writing, but also to programming.
+Programming is writing. Even though the code we write is processed by computers that are indifferent to our style, it's essential to take special care to write code that is clear and concise. Lately I've been looking into ways to improve my natural language writing. So far I've completed both *[The Elements of Style][style]* by William Strunk and E.B. White, and *[On Writing Well][oww]* by William Zinsser, and I'm getting better each day. The thought I kept having while reading, "it's amazing how much of the advice from Strunk, White, and Zinsser applies not only to writing, but also to writing code."
+
+Sure, not all of the advice is applicable. It'd be crazy if every writing tip these classics offer up were relevant to writing code. English and <Insert Your Favorite Programming Language Here> aren't equivalent. Regardless of the differences between natural language and code, we should write with intention in the best way that we can. The end goal of anything we write is for it to be read.
+
+The ideas that follow are taken from Zinsser's *On Writing Well*. I share some of Zinsser's best advice about writing. Each tidbit has additional comments about how it can be applied to writing code.
+
+Simplicity
+--------
+Writers strive to produce clear and simple passages. It's common for professional's to make their writing intentionally opaque, "but the secret of good writing is to strip every sentence to its cleanest components" (7). The simpler the message, the easier it is to understand. The same is true for our code. Simple, understandable solutions that get the job done are just as effective as the impenetrable one that requires 10 interfaces, 3 classes, and its own DSL just to print "Hello World." Robust multi-class solutions certainly have places where they're the best tool for the job, but make it as easy to understand as possible. Rewrite it until the greenest developer you know can explain the solution to you.
+
+Removing Clutter
+--------
+
+Unity
+--------
 
 Refactoring
 --------
