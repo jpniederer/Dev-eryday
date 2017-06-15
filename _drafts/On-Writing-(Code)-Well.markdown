@@ -9,7 +9,7 @@ Programming is writing. Even though the code we write is processed by computers 
 
 Sure, not all of the advice is applicable. It'd be crazy if every writing tip these classics offer up were relevant to writing code. English and <Insert Your Favorite Programming Language Here> aren't equivalent. Regardless of the differences between natural language and code, we should write with intention in the best way that we can. The end goal of anything we write is for it to be read.
 
-The ideas that follow are taken from Zinsser's *On Writing Well*. I share some of Zinsser's best advice about writing. Each tidbit has additional comments about how it can be applied to writing code.
+The ideas that follow are taken from Zinsser's *On Writing Well*. I share some of Zinsser's best advice about writing. Each tidbit has additional comments about how it can be applied to writing code. Many of the tips are common practices that most software developers are already following, but it never hurts to be reminded of such important tricks. Even if the tips don't make your software skills improve, perhaps they'll help your writing style.
 
 Simplicity
 --------
@@ -17,6 +17,13 @@ Writers strive to produce clear and simple passages. It's common for professiona
 
 Removing Clutter
 --------
+If a word doesn't serve a purpose it should be removed. "Look for clutter in your writing and prune it ruthlessly. Be grateful for everything you can throw away" (17). It might be apparent already, but if Zinsser were a programmer he would not stand for having unused variables in his code. Unused variables, dead or excessive comments, and deprecated functions and classes are all examples of ways we clutter our codebases. With the power of source control, there is no good reason not to remove a piece of code as soon as it stops being needed. Every dead line of code increases technical debt and makes the system harder to support.
+
+Write with Care
+--------
+"In terms of craft, there's no excuse for losing readers through sloppy workmanship" (26). Nobody likes to read shoddy work. It's not pleasant. Not only that, but sloppy code can make a simple task drag out into a long one. Finding bugs or updating a feature within careless code is a brutal chore. The best way to take care when writing is write your prose or code in a style that you would want to read. Try to make content that when chance brings you back to it you are glad to read it again. This will create a presence in your work that sets the tone for the output.  
+
+This concept isn't just limited to our code. Developers often release tools for others to use. It's so important to help the user experience to be as easy as possible. Let's imagine two JavaScript libraries that can be used for time calculations. Let's call the libraries TimeCalc A and TimeCalc B. TimeCalc A has 100s of features but all of the examples are poorly documented and sample code rarely works. TimeCalc B has 20 features but has great documentation and each example has passing unit tests. TimeCalc A is going to lose its audience to TimeCalc B because the it isn't as inviting. Taking care in your writing can enhance any software or tool you produce.
 
 Unity
 --------
