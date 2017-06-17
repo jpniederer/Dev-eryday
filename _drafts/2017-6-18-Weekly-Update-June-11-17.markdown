@@ -9,7 +9,7 @@ This week I started digging deeper into what exactly is going on with the Blockc
   
   2. [Blockchain Fundamentals][block] - Blockchain Fundaments is a course that was added to Pluralsight this week that is led by Jan-Erik Sandberg. The course offers a background on what the blockchain is, how it can be used, how to use it in development, and how to use it moving forward.
 
-I finished Cory House's new course on [Creating Reuseable React Components][comp]. The course gives a survey of the options developers have when building a React component library. House's courses are some of the finest on Pluralsight and this course is no exception. It's clear that he is passionate about the subject matter and is constantly searching for and sharing the best ways to approach React projects. This course is more centered around setting up and releasing a React component library than it is about writing code.
+I finished Cory House's new course on [Creating Reuseable React Components][comp]. The course gives a survey of the options developers have when building a React component library. House's courses are some of the finest on Pluralsight and this course is no exception. It's clear that he is passionate about the subject matter and is constantly searching for and sharing the best ways to approach React projects. One note about the content, this course is more centered around setting up and releasing a React component library than it is about writing code. The techniques here can be used to make you better at the craft of software development but not necessarily the act of writing code.
 
 Finished
 --------
@@ -25,7 +25,7 @@ Currents
 
 On the Next...
 --------
-I've moved the idealistz source to VSTS rather than storing it on GitHub. The major reason I chose to move it to a closed source environment is because I don't know what it can be yet. I've never really felt the urge to monetize any of my projects so far. It's possible this one could be bigger than my past projects. I could move it all back to GitHub eventually, but for now I'm going to close the source and see what kind of solution I can create.
+I've moved the idealistz source to VSTS rather than storing it on GitHub. The major reason I chose to move it to a closed source environment is because I don't know what it can be yet. I've never really felt the urge to monetize any of my projects so far. It's possible this one could be bigger than my past projects. I want to see how much I can grow the solution and see what it can become. I could move it all back to GitHub eventually, but for now I'm going to close the source and see what kind of solution I can create.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
