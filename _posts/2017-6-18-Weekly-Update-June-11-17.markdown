@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: June 11 to 17, 2017"
-date: 2017-6-18 21:25:00 +0000
+date: 2017-6-18 13:12:00 +0000
 categories: Dev-eryday
 ---
 This week I started digging deeper into what exactly is going on with the Blockchain. I've always been interested in it but never felt like actually going further than the wikipedia page and a couple of whitepages. Sure, I've monitored Bitcoin prices for years, wishing I had invested when I first heard about them, but the subject has never been more than a curiosity. Now, with the way Bitcoin and Ethereum are growing, the potential of blockchain systems is impossible to ignore. There are two sources I've used to get started learning about the space:
-  1. [The Quiet Master of Cryptocurrency - Nick Szabo][pod] - This is a podcast where Nick Szabo, Naval Ravikant, and Tim Ferriss discuss what crytocurrency is and how it is going to take over the banking industry. The podcast is a perfect place to start. It'll at the very least get you excited about the subject.
+  1. [The Quiet Master of Cryptocurrency - Nick Szabo][pod] - This is a podcast where Nick Szabo, Naval Ravikant, and Tim Ferriss discuss what cryptocurrency is and how it is going to take over the banking industry. The podcast is a perfect place to start. It'll at the very least get you excited about the subject.
   
-  2. [Blockchain Fundamentals][block] - Blockchain Fundaments is a course that was added to Pluralsight this week that is led by Jan-Erik Sandberg. The course offers a background on what the blockchain is, how it can be used, how to use it in development, and how to use it moving forward.
+  2. [Blockchain Fundamentals][block] - Blockchain Fundamentals is a course that was added to Pluralsight this week that is led by Jan-Erik Sandberg. The course offers a background on what the blockchain is, how it can be used, how to use it in development, and how to use it moving forward.
 
 I finished Cory House's new course on [Creating Reuseable React Components][comp]. The course gives a survey of the options developers have when building a React component library. House's courses are some of the finest on Pluralsight and this course is no exception. It's clear that he is passionate about the subject matter and is constantly searching for and sharing the best ways to approach React projects. One note about the content, this course is more centered around setting up and releasing a React component library than it is about writing code. The techniques here can be used to make you better at the craft of software development but not necessarily the act of writing code.
 
@@ -19,9 +19,9 @@ Finished
 
 Currents
 --------
-**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd], 
+**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd] 
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, 
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*
 
 On the Next...
 --------
