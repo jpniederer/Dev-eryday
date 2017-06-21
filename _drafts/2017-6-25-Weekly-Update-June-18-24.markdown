@@ -4,13 +4,13 @@ title:  "Weekly Update: June 18 to 24, 2017"
 date: 2017-6-25 13:12:00 +0000
 categories: Dev-eryday
 ---
-
+It's always nice to read something that can empower you. This week I couldn't put down *[Getting Real][real]* by 37Signals. The book focuses on how to build, launch, maintain, and grow a lean web application. Everything the author's preach is practical and can be used to create a better product. For anyone interested in delivering small, usable applications, *[Getting Real]* is a tome. The author's have also written two other books: *[Rework][work]* and *[Remote: Office Not Required][mote]*. I haven't read *Remote* yet, but I can also strongly recommend *Rework*. There's a reason why [Basecamp][base] has been such a successful product, these books provide actionable advice that can be taken to try to do something similar. 
 
 Finished
 --------
 **PluralSight Course(s):** 
 
-**Book(s):** 
+**Book(s):** *[Getting Real][real]*
 
 Currents
 --------
@@ -26,7 +26,7 @@ On the Next...
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
 [ddd]: https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents
 [ar]: https://app.pluralsight.com/library/courses/advanced-redux/table-of-contents
-[comp]: https://app.pluralsight.com/library/courses/react-creating-reusable-components/table-of-contents
-[man]: https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/ref=sr_1_1?ie=UTF8&qid=1497233710&sr=8-1&keywords=man%27s+search+for+meaning
-[block]: https://app.pluralsight.com/library/courses/blockchain-fundamentals/table-of-contents
-[pod]: http://tim.blog/2017/06/04/nick-szabo/
+[real]: https://gettingreal.37signals.com/
+[work]: https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=6GPJYRA719XCG2K5VMDK
+[mote]: https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=6GPJYRA719XCG2K5VMDK
+[base]: https://basecamp.com/
