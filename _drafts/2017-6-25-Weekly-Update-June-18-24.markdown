@@ -16,7 +16,7 @@ Currents
 --------
 **PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd] 
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Poor Charlie's Almanac: The Wit and Wisdom of Charles T. Munger][pc]*
 
 On the Next...
 --------
@@ -30,3 +30,4 @@ On the Next...
 [work]: https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=6GPJYRA719XCG2K5VMDK
 [mote]: https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=6GPJYRA719XCG2K5VMDK
 [base]: https://basecamp.com/
+[pc]: https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018/ref=sr_1_1?ie=UTF8&qid=1498098260&sr=8-1&keywords=poor+charlie%27s+almanack
