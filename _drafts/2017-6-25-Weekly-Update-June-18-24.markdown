@@ -4,11 +4,13 @@ title:  "Weekly Update: June 18 to 24, 2017"
 date: 2017-6-25 13:12:00 +0000
 categories: Dev-eryday
 ---
-It's always nice to read something that can empower you. This week I couldn't put down *[Getting Real][real]* by 37Signals. The book focuses on how to build, launch, maintain, and grow a lean web application. Everything the author's preach is practical and can be used to create a better product. For anyone interested in delivering small, usable applications, *[Getting Real]* is a tome. The author's have also written two other books: *[Rework][work]* and *[Remote: Office Not Required][mote]*. I haven't read *Remote* yet, but I can also strongly recommend *Rework*. There's a reason why [Basecamp][base] has been such a successful product, these books provide actionable advice that can be taken to try to do something similar. 
+It's always nice to read something that can empower you. This week I couldn't put down *[Getting Real][real]* by 37Signals. The book focuses on how to build, launch, maintain, and grow a lean web application. Everything the author's preach is practical and can be used to create a better product. For anyone interested in delivering small, usable applications, *[Getting Real]* is a tome. The author's have also written two other books: *[Rework][work]* and *[Remote: Office Not Required][mote]*. I haven't read *Remote* yet, but I can also strongly recommend *Rework*. There's a reason why [Basecamp][base] has been such a successful product, these books provide actionable advice that can be taken to try to do something similar.
+
+This week I dove head first into the development of IdeaListz. I'm working on the React components first. It's been a lot of fun working to create the components and putting them together to form the molecules that will drive the entire application. It's always fun to start a new project like this. Those first couple of days of working are filled with so much uncertainty due to all of the problems that need to be solved. It's going to be a nice challenge to get the application online.
 
 Finished
 --------
-**PluralSight Course(s):** 
+**PluralSight Course(s):** [Advanced Redux][ar]
 
 **Book(s):** *[Getting Real][real]*
 
