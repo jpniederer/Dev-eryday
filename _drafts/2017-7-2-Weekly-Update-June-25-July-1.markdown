@@ -14,9 +14,9 @@ Finished
 
 Currents
 --------
-**PluralSight Course(s):** 
+**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd]
 
-**Book(s):** 
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Poor Charlie's Almanac: The Wit and Wisdom of Charles T. Munger][pc]*, *[Fullstack React: The Complete Guide to ReactJS and Friends][rjs]*
 
 On the Next...
 --------
