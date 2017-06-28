@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  "Weekly Update: June 25 to July 1, 2017"
-date: 2017-7-1 13:12:00 +0000
+date: 2017-7-2 13:12:00 +0000
 categories: Dev-eryday
 ---
+Wow, six months in the books for dev-eryday. It's been a great experience so far. It's truly amazing how far you can go if you focus on learning a little bit each day. Dev-eryday is a commitment to becoming the best software developer, and person, that I can be. The goal is to go to bed at night a little bit better than I was when I woke up in the morning. That's it. I've accomplished this each day in 2017 and I plan to keep going indefinitely.
 
+There's a great Charlie Munger quote I read recently in *[Poor Charlie's Almanac][pc]*: Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Step by step you get ahead, but not necessarily in fast spurts. But you build discipline by preparing for fast spurts.... Slug it out one inch at a time, day by day. At the end of the day--if you live long enough--most people get what they deserve.
+
+Munger's thoughts here are directly in line with my views on learning.
 
 Finished
 --------
