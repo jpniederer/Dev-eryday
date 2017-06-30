@@ -10,6 +10,8 @@ There's a great Charlie Munger quote I read recently in *[Poor Charlie's Almanac
 
 Munger's thoughts here are directly in line with my views on learning.
 
+This week I attacked *[Fullstack React][rjs]*. I'm almost halfway through the text and it's been well worth the time invested into it. The example projects have been well thought out so far, and the accompanying explanations are thorough. It's definitely helping the development of IdeaListz move along smoothly.
+
 Finished
 --------
 **PluralSight Course(s):** 
