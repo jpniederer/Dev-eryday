@@ -14,7 +14,7 @@ This week I attacked *[Fullstack React][rjs]*. I'm almost halfway through the te
 
 Finished
 --------
-**PluralSight Course(s):** 
+**PluralSight Course(s):** [Specification Pattern in C#][spec]
 
 **Book(s):** 
 
@@ -38,3 +38,4 @@ On the Next...
 [base]: https://basecamp.com/
 [pc]: https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018/ref=sr_1_1?ie=UTF8&qid=1498098260&sr=8-1&keywords=poor+charlie%27s+almanack
 [rjs]: https://www.fullstackreact.com/
+[spec]: https://app.pluralsight.com/library/courses/csharp-specification-pattern/table-of-contents
