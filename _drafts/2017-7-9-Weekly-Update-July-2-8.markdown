@@ -4,7 +4,7 @@ title:  "Weekly Update: July 2 to 8, 2017"
 date: 2017-7-9 13:12:00 +0000
 categories: Dev-eryday
 ---
-
+I hope everyone had a great fourth of July. Mine was a good time. The weather was hot but bearable, and seemingly every house in my neighborhood was lighting off fireworks. It's always best when the show comes to you and my neighborhood delivered quite a show.
 
 Finished
 --------
