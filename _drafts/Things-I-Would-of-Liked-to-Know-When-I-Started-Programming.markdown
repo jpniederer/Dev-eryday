@@ -31,38 +31,38 @@ Languages Worth Knowing
 ---------
 Any programming language is worth knowing, but there are a few that are more relevant than others. Really though, as long as you settle on learning one, there is no wrong descision when starting out. Don't get caught up in trying to find the perfect language to learn. There is no perfect language. Luckily, for us programmers, there are a lot of great ones. Here are the four I'd recommend to younger me, learning any of these will open up a world of possibilities.
 
-JavaScript
+JavaScript - JavaScript is everywhere. Learn it, use it, and prosper. Maybe don't pick it up as your first language, it can make learning other languages trickier, but definitely knock it out second.
 
-C#
+C# - C# has grown into an amazing language. It's like Java, but better and evolves quicker. 
 
-Java
+Java - Java is a nice entry point to the C-style language family. It's also huge, lucrative, and quite intimidating.
 
-Python
+Python - Python has the best syntax of any programming language and it's very friendly to beginners. 
 
 
 Tools and Subjects That Are Essential
 ---------
 These are the tools that you'll need to pick up in order to be a productive professional. School might not teach these but by learning them you can seperate yourself from the pack.
 
-Text Editor - I prefer to use Visual Studio Code nowadays.
+Text Editor - I prefer to use Visual Studio Code nowadays. There are a lot of other worthy options: VIM, EMACS, Atom, Sublime Text, Notepad++.
 
-Source Control
+Source Control - Learn Git. Git is winning source control.
 
-CSS
+CSS - Know enough CSS to make a respectable design. Inspect the code for styles you like by right-clicking on the control within your browser. Use this code as a starting point to make something similar.
 
-SQL
+SQL - SQL makes summarizing and analyzing relational data a joy.
 
-HTML
+HTML - 
 
-Bootstrap
+Bootstrap - Anybody can design something passable with the use of Bootstrap. Bootstrap gives us the ability to easily create reactive designs that work on all screen sizes.
 
-Testing
+Testing - 
 
-Problem Solving
+Problem Solving - 
 
-Databases
+Databases - 
 
-Comfort in Discomfort
+Comfort in Discomfort - 
 
 
 Books
