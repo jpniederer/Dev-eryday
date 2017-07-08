@@ -12,7 +12,7 @@ Finished
 --------
 **PluralSight Course(s):** [Applying Functional Principles in C#][fun]
 
-**Book(s):** *[Poor Charlie's Almanac: The Wit and Wisdom of Charles T. Munger][pc]*,
+**Book(s):** *[Poor Charlie's Almanac: The Wit and Wisdom of Charles T. Munger][pc]*
 
 Currents
 --------
