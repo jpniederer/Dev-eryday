@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Weekly Update: July 2 to 8, 2017"
-date: 2017-7-9 13:12:00 +0000
+date: 2017-7-9 15:15:00 +0000
 categories: Dev-eryday
 ---
 I hope everyone had a great fourth of July. Mine was a good time. The weather was hot but bearable, and seemingly every house in my neighborhood was lighting off fireworks. It's always best when the show comes to you and my neighborhood delivered quite a show.
 
-This week I was immersed in [Applying Functional Principles in C#][fun]. The course is on Pluralsight and taught by Vladimir Khorikov. I came by the course by chance from a course I happened to watch by Khorikov last week, [Specification Pattern in C#][spec]. The coverage of the Specification Pattern was so enjoyable that I had to check out more of Khorikov's work. The course guides learners through the process of refactoring a project from a non-functional design to a more readable and functional one. It's a very impressive process. Key ideas include immutability, minimizing exceptions, mitigating primitives, avoiding nulls, and preventing errors on entry using [railway-oriented programming][rop]. The course was packed with ideas and concepts that can be used to improve any codebase. I will be taking more of Khorikov's courses in the coming weeks and deconstructing the ideas from this course for months.
+This week I was immersed in [Applying Functional Principles in C#][fun]. The course is on Pluralsight and taught by Vladimir Khorikov. I came by the course by chance from a course I happened to watch by Khorikov last week, [Specification Pattern in C#][spec]. The coverage of the Specification Pattern was so enjoyable that I had to check out more of Khorikov's work. The course guides learners through the process of refactoring a project from a non-functional design to a more readable and functional one. It's a very impressive process. Key ideas covered include immutability, minimizing exceptions, mitigating primitives, avoiding nulls, and preventing errors using [railway-oriented programming][rop]. The course was packed with ideas and concepts that can be used to improve any codebase. I will be taking more of Khorikov's courses in the coming weeks and deconstructing the ideas from this course for months.
 
 Finished
 --------
