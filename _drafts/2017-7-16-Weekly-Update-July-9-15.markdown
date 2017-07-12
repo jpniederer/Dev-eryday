@@ -33,4 +33,4 @@ On the Next...
 [rwr]: https://github.com/jeromedalbert/real-world-react?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_76
 [rjsn]: http://reactjsnewsletter.com
 [art]: https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026
-[dddone]: √
+[dddone]: https://app.pluralsight.com/library/courses/domain-driven-design-in-practice/table-of-contents
