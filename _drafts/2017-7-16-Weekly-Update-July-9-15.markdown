@@ -8,7 +8,7 @@ categories: Dev-eryday
 
 Finished
 --------
-**PluralSight Course(s):** [Domain-Driven Design in Practice][dddone]
+**PluralSight Course(s):** [Domain-Driven Design in Practice][dddone], [Fundamentals of Functional Programming in JavaScript][jsfun]
 
 **Book(s):** *[War of Art][art]*
 
@@ -34,3 +34,4 @@ On the Next...
 [rjsn]: http://reactjsnewsletter.com
 [art]: https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026
 [dddone]: https://app.pluralsight.com/library/courses/domain-driven-design-in-practice/table-of-contents
+[jsfun]: https://app.pluralsight.com/library/courses/javascript-functional-programming-fundamentals/table-of-contents
