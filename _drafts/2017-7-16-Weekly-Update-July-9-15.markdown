@@ -4,7 +4,7 @@ title:  "Weekly Update: July 9 to 15, 2017"
 date: 2017-7-16 13:12:00 +0000
 categories: Dev-eryday
 ---
-
+I learned a lot this week. I dove deep in to Redux by implementing my own version of the tool. Using createStore, dispatch, getState, and a reducer makes it a lot easier to handle state in a React application. Using a state container allows for simple patterns for accessing state within components. Using the official [Redux][red] library elevates the React tool set.
 
 Finished
 --------
@@ -35,3 +35,4 @@ On the Next...
 [art]: https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026
 [dddone]: https://app.pluralsight.com/library/courses/domain-driven-design-in-practice/table-of-contents
 [jsfun]: https://app.pluralsight.com/library/courses/javascript-functional-programming-fundamentals/table-of-contents
+[red]: http://redux.js.org/
