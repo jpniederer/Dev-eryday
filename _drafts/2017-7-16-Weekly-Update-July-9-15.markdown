@@ -6,6 +6,8 @@ categories: Dev-eryday
 ---
 I learned a lot this week. I dove deep in to Redux by implementing my own version of the tool. Using createStore, dispatch, getState, and a reducer makes it a lot easier to handle state in a React application. Using a state container allows for simple patterns for accessing state within components. Using the official [Redux][red] library elevates the React tool set.
 
+Outside of hitting React hard, I completed Steven Pressfield's *[War of Art][art]*. It' a great book. I'm working on a post that examines what software developers can do to fight resistance using the practical advice presented in *War of Art*. Software development is a creative act and Pressfield's guidance is worth taking to heart.
+
 Finished
 --------
 **PluralSight Course(s):** [Domain-Driven Design in Practice][dddone], [Fundamentals of Functional Programming in JavaScript][jsfun]
