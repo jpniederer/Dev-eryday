@@ -4,9 +4,9 @@ title:  "Weekly Update: July 9 to 15, 2017"
 date: 2017-7-16 13:12:00 +0000
 categories: Dev-eryday
 ---
-I learned a lot this week. I dove deep in to Redux by implementing my own version of the tool. Using createStore, dispatch, getState, and a reducer makes it a lot easier to handle state in a React application. Using a state container allows for simple patterns for accessing state within components. Using the official [Redux][red] library elevates the React tool set.
+I learned a lot this week. I dove deep in to Redux by implementing my own version of the tool. Using createStore, dispatch, getState, and a reducer makes it a lot easier to handle state in a React application. Using a state container allows for simple patterns for accessing state within components. Using the official [Redux][red] library elevates the React tool set but it's a great exercise to build one from scratch.
 
-Outside of hitting React hard, I completed Steven Pressfield's *[War of Art][art]*. It' a great book. I'm working on a post that examines what software developers can do to fight resistance using the practical advice presented in *War of Art*. Software development is a creative act and Pressfield's guidance is worth taking to heart.
+Outside of hitting React hard, I completed Steven Pressfield's *[War of Art][art]*. It' a great book about how professionals work and what sets them apart from amateurs. I'm working on a post that examines what software developers can do to fight resistance using the practical advice presented in *War of Art*. Software development is a creative act and Pressfield's guidance is worth taking to heart. I'm sure that the advice could be applied to any field. We all need help getting to work from time to time.
 
 Finished
 --------
@@ -22,7 +22,7 @@ Currents
 
 On the Next...
 --------
-
+This week I'm going to take it to the next level. I'm going to turn the volume up to 11 and utilize everything I have. It's not a sprint, but it's good to turn the intensity up every once in a while. Time is finite, I've gotta remember this. Each day is an opportunity to move forward. Some times the wheels will spin, but through concentrated effort there are no unsolvable problems. Right now I'm trying to improve physically, mentally, spiritually, and professionally. I'll be moving forward in each of these in the week ahead.
 
 [fun]: https://app.pluralsight.com/library/courses/csharp-applying-functional-principles/table-of-contents
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
