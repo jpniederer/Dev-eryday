@@ -4,7 +4,7 @@ title:  "Weekly Update: July 16 to 22, 2017"
 date: 2017-7-23 12:25:00 +0000
 categories: Dev-eryday
 ---
-
+I finally finished *[Fullstack React][rjs]*. It was a wonderful overview of the current best practices of using React. The book covers a wide range of topics and gives you enough information about each of them to get you started. It may not cover every topic in depth, the coverage of React Native was fairly lax, but *Fullstack React* is a great reference to have for any software developer interested in using React.
 
 Finished
 --------
