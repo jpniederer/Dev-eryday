@@ -10,7 +10,7 @@ Finished
 --------
 **PluralSight Course(s):** [Domain-Driven Design in Practice][ddd2]
 
-**Book(s):** *[Fullstack React: The Complete Guide to ReactJS and Friends][rjs]*
+**Book(s):** *[Fullstack React: The Complete Guide to ReactJS and Friends][rjs]*, *[Are Your Lights On?][lights]*
 
 Currents
 --------
@@ -20,7 +20,7 @@ Currents
 
 On the Next...
 --------
-
+This week Udacity was running a sale on their nanodegree programs. I had been considering taking the [React][react] to get an idea of the quality of instruction, with $200 off I decided it was worth the expense. The program seems like an interesting challenge. My session will be starting up on July 25 so I will busy with that this week. For the first week, I hope to at least get a good start on the initial project. A lot of the early stuff will be review, as it's covering the fundamentals of React, but being a part of the learning community and working through the projects will be where much of the value will be found.
 
 [fun]: https://app.pluralsight.com/library/courses/csharp-applying-functional-principles/table-of-contents
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
@@ -36,3 +36,5 @@ On the Next...
 [ddd2]: https://app.pluralsight.com/library/courses/domain-driven-design-in-practice/table-of-contents
 [jsfun]: https://app.pluralsight.com/library/courses/javascript-functional-programming-fundamentals/table-of-contents
 [red]: http://redux.js.org/
+[lights]: https://www.amazon.com/Are-Your-Lights-Figure-Problem/dp/0932633161/ref=sr_1_1?ie=UTF8&qid=1500601956&sr=8-1&keywords=are+your+lights+on
+[react]: https://www.udacity.com/course/react-nanodegree--nd019
