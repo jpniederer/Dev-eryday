@@ -16,9 +16,9 @@ Finished
 
 Currents
 --------
-**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd], [Working With Graph Algorithms in Python][graph]
+**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd], [Working With Graph Algorithms in Python][graph], [Advanced React.js][arjs]
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, 
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca][tao]*
 
 On the Next...
 --------
@@ -41,3 +41,5 @@ This week Udacity was running a sale on their nanodegree programs. I had been co
 [lights]: https://www.amazon.com/Are-Your-Lights-Figure-Problem/dp/0932633161/ref=sr_1_1?ie=UTF8&qid=1500601956&sr=8-1&keywords=are+your+lights+on
 [react]: https://www.udacity.com/course/react-nanodegree--nd019
 [graph]: https://app.pluralsight.com/library/courses/graph-algorithms-python/table-of-contents
+[arjs]: https://app.pluralsight.com/library/courses/reactjs-advanced/table-of-contents
+[tao]: https://tim.blog/2017/07/06/tao-of-seneca/
