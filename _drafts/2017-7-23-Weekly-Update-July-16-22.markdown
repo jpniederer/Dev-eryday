@@ -4,7 +4,9 @@ title:  "Weekly Update: July 16 to 22, 2017"
 date: 2017-7-23 12:25:00 +0000
 categories: Dev-eryday
 ---
-I finally finished *[Fullstack React][rjs]*. It was a wonderful overview of the current best practices of using React. The book covers a wide range of topics and gives you enough information about each of them to get you started. It may not cover every topic in depth, the coverage of React Native was fairly lax, but *Fullstack React* is a great reference to have for any software developer interested in using React.
+I finally finished *[Fullstack React][rjs]*. It was a wonderful overview of the current best practices for using React. The book covers a wide range of topics and gives you enough information about each of them to get you started. It may not cover every topic in depth, the coverage of React Native was fairly lax, but *Fullstack React* is a great reference to have for any software developer interested in using React.
+
+Another interesting course popped up on Pluralsight this week. A course titled, [Working With Graph Algorithms in Python][graph], was published. Courses centered around data structures and algorithms are uncommon on Pluralsight. I'm about an hour into the course so far and I'm really enjoying the content. It's mostly review, outside of the particular implementations in Python, so far but it's definitely a topic worth reviewing regularly. 
 
 Finished
 --------
@@ -14,7 +16,7 @@ Finished
 
 Currents
 --------
-**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd], 
+**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd], [Working With Graph Algorithms in Python][graph]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, 
 
@@ -38,3 +40,4 @@ This week Udacity was running a sale on their nanodegree programs. I had been co
 [red]: http://redux.js.org/
 [lights]: https://www.amazon.com/Are-Your-Lights-Figure-Problem/dp/0932633161/ref=sr_1_1?ie=UTF8&qid=1500601956&sr=8-1&keywords=are+your+lights+on
 [react]: https://www.udacity.com/course/react-nanodegree--nd019
+[graph]: https://app.pluralsight.com/library/courses/graph-algorithms-python/table-of-contents
