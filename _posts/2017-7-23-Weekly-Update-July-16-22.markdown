@@ -4,9 +4,9 @@ title:  "Weekly Update: July 16 to 22, 2017"
 date: 2017-7-23 12:25:00 +0000
 categories: Dev-eryday
 ---
-I finally finished *[Fullstack React][rjs]*. It was a wonderful overview of the current best practices for using React. The book covers a wide range of topics and gives you enough information about each of them to get you started. It may not cover every topic in depth, the coverage of React Native was fairly lax, but *Fullstack React* is a great reference to have for any software developer interested in using React.
+I finally finished *[Fullstack React][rjs]*. It was a wonderful overview of the current best practices for using React. The book covers a wide range of topics and gives you enough information about each of them to get you started. It may not cover every topic in depth, I especially found the coverage of React Native to be lax, but *Fullstack React* is a great reference to have for any software developer interested in using React.
 
-Another interesting course popped up on Pluralsight this week. A course titled, [Working With Graph Algorithms in Python][graph], was published. Courses centered around data structures and algorithms are uncommon on Pluralsight. I'm about an hour into the course so far and I'm really enjoying the content. It's mostly review, outside of the particular implementations in Python, so far but it's definitely a topic worth reviewing regularly. 
+Another interesting course popped up on Pluralsight this week. A course titled, [Working With Graph Algorithms in Python][graph], was published. Courses centered around data structures and algorithms are uncommon on Pluralsight. I'm about an hour into the course so far and I'm really enjoying the content. It's mostly review, outside of the particular implementations in Python, so far but it's definitely a topic worth reviewing regularly. Graphs have many practical applications and are a common topic of discussion in software engineering interviews.
 
 Finished
 --------
@@ -22,7 +22,7 @@ Currents
 
 On the Next...
 --------
-This week Udacity was running a sale on their nanodegree programs. I had been considering taking the [React][react] to get an idea of the quality of instruction, with $200 off I decided it was worth the expense. The program seems like an interesting challenge. My session will be starting up on July 25 so I will busy with that this week. For the first week, I hope to at least get a good start on the initial project. A lot of the early stuff will be review, as it's covering the fundamentals of React, but being a part of the learning community and working through the projects will be where much of the value will be found.
+This week Udacity was running a sale on their nanodegree programs. I had been considering taking the [React][react] to get an idea of the quality of instruction for the nanodegrees and to earn a certification. With $200 off the content, I decided it was worth the expense to check it out. The program seems like an interesting challenge. My session will be starting up on July 25 so I will busy with that this week. For the first week, I hope to at least get a good start on the initial project. A lot of the early stuff will be review, as it's covering the fundamentals of React, but being a part of the learning community and working through the projects will be where much of the value will be found.
 
 [fun]: https://app.pluralsight.com/library/courses/csharp-applying-functional-principles/table-of-contents
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
