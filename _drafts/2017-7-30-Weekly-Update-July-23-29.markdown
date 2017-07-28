@@ -4,7 +4,7 @@ title:  "Weekly Update: July 23 to 29, 2017"
 date: 2017-7-30 12:25:00 +0000
 categories: Dev-eryday
 ---
-
+This week brought the opening of the [React Nanodegree][rnd] for my cohort. I'm liking the content so far. The information in the React Fundamentals section has been 100% review but the content is presented well and in great detail. The Udacity course UI is impressive and it makes for a compelling web experience. The content I've enjoyed the most so far is the supplemental material covering JS6+. Each concept has an interactive coding problem that directly tests the concept. It's great.
 
 Finished
 --------
@@ -14,13 +14,15 @@ Finished
 
 Currents
 --------
+**Course(s):** [React Nanodegree][rnd]
+
 **PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd], [Advanced React.js][arjs]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca][tao]*
 
 On the Next...
 --------
-
+This week I will submit my myreads homework assignment for review. I forked the repo early in the week and made some good progress on the project over the weekend. I'm going to hit it hard this week and try to make get the first project in the books.
 
 [fun]: https://app.pluralsight.com/library/courses/csharp-applying-functional-principles/table-of-contents
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
@@ -37,7 +39,7 @@ On the Next...
 [jsfun]: https://app.pluralsight.com/library/courses/javascript-functional-programming-fundamentals/table-of-contents
 [red]: http://redux.js.org/
 [lights]: https://www.amazon.com/Are-Your-Lights-Figure-Problem/dp/0932633161/ref=sr_1_1?ie=UTF8&qid=1500601956&sr=8-1&keywords=are+your+lights+on
-[react]: https://www.udacity.com/course/react-nanodegree--nd019
+[rnd]: https://www.udacity.com/course/react-nanodegree--nd019
 [graph]: https://app.pluralsight.com/library/courses/graph-algorithms-python/table-of-contents
 [arjs]: https://app.pluralsight.com/library/courses/reactjs-advanced/table-of-contents
 [tao]: https://tim.blog/2017/07/06/tao-of-seneca/
