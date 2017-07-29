@@ -22,7 +22,7 @@ Currents
 
 On the Next...
 --------
-This week I will submit my myreads homework assignment for review. I forked the repo early in the week and made some good progress on the project over the weekend. I'm going to hit it hard this week and try to make get the first project in the books.
+Over the next week, I will submit my myreads homework assignment for review. I forked the repo early on this week and made some good progress on the project over the weekend. I'm going to hit it hard this coming week and try to get the first project in the books. The project isn't "due" until September 3, but it's worth getting a out in front of.
 
 [fun]: https://app.pluralsight.com/library/courses/csharp-applying-functional-principles/table-of-contents
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
