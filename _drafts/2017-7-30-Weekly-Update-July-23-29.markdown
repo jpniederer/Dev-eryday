@@ -6,11 +6,13 @@ categories: Dev-eryday
 ---
 This week brought the opening of the [React Nanodegree][rnd] for my cohort. I'm liking the content so far. The information in the React Fundamentals section has been 100% review but the content is presented well and in great detail. The Udacity course UI is impressive and it makes for a compelling web experience. The content I've enjoyed the most so far is the supplemental material covering JS6+. Each concept has an interactive coding problem that directly tests the concept. It's great.
 
+I spent a little bit of time this week quick reading through James Altucher's *[Choose Yourself Guide to Wealth][self]*. The book isn't focused on software, or even tech, but has some interesting content that can help anyone get on the path to wealth. It was free via Amazon Prime Reading earlier this year and I still had it in my library. I'm a fan of Altucher's work on Quora and his advice on creating ideas every day is awesome. This book is a nice, quick read that is worth breezing through on a weekend morning.
+
 Finished
 --------
 **PluralSight Course(s):** [Working With Graph Algorithms in Python][graph]
 
-**Book(s):** 
+**Book(s):** *[Choose Yourself Guide to Wealth][self]*
 
 Currents
 --------
@@ -22,7 +24,7 @@ Currents
 
 On the Next...
 --------
-Over the next week, I will submit my myreads homework assignment for review. I forked the repo early on this week and made some good progress on the project over the weekend. I'm going to hit it hard this coming week and try to get the first project in the books. The project isn't "due" until September 3, but it's worth getting a out in front of.
+Over the next week, I will submit my myreads homework assignment for review. I forked the repo early on this week and made some good progress on the React Fundamentals over the weekend. I'm going to hit it hard this coming week and try to get the first project in the books. The project isn't "due" until September 3, but it's worth getting out in front of.
 
 [fun]: https://app.pluralsight.com/library/courses/csharp-applying-functional-principles/table-of-contents
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
@@ -43,3 +45,4 @@ Over the next week, I will submit my myreads homework assignment for review. I f
 [graph]: https://app.pluralsight.com/library/courses/graph-algorithms-python/table-of-contents
 [arjs]: https://app.pluralsight.com/library/courses/reactjs-advanced/table-of-contents
 [tao]: https://tim.blog/2017/07/06/tao-of-seneca/
+[self]: https://www.amazon.com/Choose-Yourself-Guide-Wealth-ebook/dp/B00U7IS4S0/ref=sr_1_1?ie=UTF8&qid=1501360991&sr=8-1&keywords=choose+yourself+guide+to+wealth
