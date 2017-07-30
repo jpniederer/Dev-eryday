@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update: July 23 to 29, 2017"
-date: 2017-7-30 12:25:00 +0000
+date: 2017-7-30 13:05:00 +0000
 categories: Dev-eryday
 ---
 This week brought the opening of the [React Nanodegree][rnd] for my cohort. I'm liking the content so far. The information in the React Fundamentals section has been 100% review but the content is presented well and in great detail. The Udacity course UI is impressive and it makes for a compelling web experience. The content I've enjoyed the most so far is the supplemental material covering JS6+. Each concept has an interactive coding problem that directly tests the concept. It's great.
