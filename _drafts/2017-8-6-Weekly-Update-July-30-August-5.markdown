@@ -8,15 +8,15 @@ categories: Dev-eryday
 
 Finished
 --------
-**PluralSight Course(s):** [Working With Graph Algorithms in Python][graph]
+**PluralSight Course(s):** [Domain-Driven Design Fundamentals][ddd]
 
-**Book(s):** *[Choose Yourself Guide to Wealth][self]*
+**Book(s):** 
 
 Currents
 --------
 **Course(s):** [React Nanodegree][rnd]
 
-**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Domain-Driven Design Fundamentals][ddd], [Advanced React.js][arjs]
+**PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Advanced React.js][arjs]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca][tao]*
 
