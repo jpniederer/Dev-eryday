@@ -5,6 +5,7 @@ date: 2017-8-6 13:05:00 +0000
 categories: Dev-eryday
 ---
 
+GitHub doesn't count contributions made to forked repositories as an action. This is suprising. I figured that my commits to my forked MyReads repo would be enough to move my check in streak forward. Luckily, I verified my GitHub page and saw that my assumption was wrong and made some quick edits to this post to keep the streak alive. The streak really doesn't mean anything but it's nice to have solid green boxes. I want to get it to at least 365 before I stop committing daily.
 
 Finished
 --------
