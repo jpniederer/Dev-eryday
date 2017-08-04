@@ -19,11 +19,11 @@ Currents
 
 **PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Advanced React.js][arjs]
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca][tao]*
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca][tao]*, *[Building Microservices: Designing Fine-Grained Systems][micro]*
 
 On the Next...
 --------
-
+In the week ahead I will finish *[Building Microservices][micro]*. I'm about halfway through and really enjoying it. The book is full of ideas on how to build flexible systems. The key idea behind Microservices is that by keeping systems small and composable we can deliver functionality faster while building more robust and reliable solutions. I look forward to learning more about them, and applying the concepts in the near future.
 
 [fun]: https://app.pluralsight.com/library/courses/csharp-applying-functional-principles/table-of-contents
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
@@ -45,3 +45,4 @@ On the Next...
 [arjs]: https://app.pluralsight.com/library/courses/reactjs-advanced/table-of-contents
 [tao]: https://tim.blog/2017/07/06/tao-of-seneca/
 [self]: https://www.amazon.com/Choose-Yourself-Guide-Wealth-ebook/dp/B00U7IS4S0/ref=sr_1_1?ie=UTF8&qid=1501360991&sr=8-1&keywords=choose+yourself+guide+to+wealth
+[micro]: https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/ref=sr_1_1?ie=UTF8&qid=1501815666&sr=8-1&keywords=microservices
