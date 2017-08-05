@@ -11,8 +11,6 @@ Finished
 --------
 **PluralSight Course(s):** [Domain-Driven Design Fundamentals][ddd]
 
-**Book(s):** 
-
 Currents
 --------
 **Course(s):** [React Nanodegree][rnd]
