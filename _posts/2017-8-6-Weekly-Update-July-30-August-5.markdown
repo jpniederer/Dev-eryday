@@ -5,7 +5,9 @@ date: 2017-8-6 13:05:00 +0000
 categories: Dev-eryday
 ---
 
-GitHub doesn't count contributions made to forked repositories as an action. This is suprising. I figured that my commits to my forked MyReads repo would be enough to move my check in streak forward. Luckily, I verified my GitHub page and saw that my assumption was wrong and made some quick edits to this post to keep the streak alive. The streak really doesn't mean anything but it's nice to have solid green boxes. I want to get it to at least 365 before I stop committing daily.
+GitHub doesn't count contributions made to forked repositories as an action. This is suprising. I figured that my commits to my forked MyReads repo would be enough to move my check in streak forward. Luckily, I verified my GitHub page and saw that my assumption was wrong and made some quick edits to this post to keep the streak alive. The streak really doesn't mean anything but it's nice to have solid green boxes. I want to get it to at least 365 before I stop committing daily. It's silly, but having that streak alive helps keep me motivated.
+
+This week I put some quality time into the [React Nanodegree][md]. I'm around 98% through the first project and will submit it for review early next week. The myreads project has been solid project to get my feet wet with the nanodegree learning platform. Udacity provides a rubric and a few starter files and then you get to use what you learned in the course material to deliver the functionality laid out in the rubric.
 
 Finished
 --------
@@ -22,6 +24,8 @@ Currents
 On the Next...
 --------
 In the week ahead I will finish *[Building Microservices][micro]*. I'm about halfway through and really enjoying it. The book is full of ideas on how to build flexible systems. The key idea behind Microservices is that by keeping systems small and composable we can deliver functionality faster while building more robust and reliable solutions. I look forward to learning more about them, and applying the concepts in the near future.
+
+I will also make a lot of progress on the React Nanodegree course material. I said I'd finish the myreads project this week, and I probably could get a passing grade on it right now, but I will definitely get it submitted in the following week. Having finished the React Fundamentals section of the course, the focus has now moved on to a section called React & Redux. I'm a third of the way through it now and the aim is to get it done this week.
 
 [fun]: https://app.pluralsight.com/library/courses/csharp-applying-functional-principles/table-of-contents
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
