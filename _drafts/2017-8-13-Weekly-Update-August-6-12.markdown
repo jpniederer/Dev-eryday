@@ -20,7 +20,7 @@ Currents
 
 **PluralSight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure]
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca][tao]*, 
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca][tao]*
 
 On the Next...
 --------
