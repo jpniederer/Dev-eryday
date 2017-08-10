@@ -24,6 +24,7 @@ Currents
 
 On the Next...
 --------
+I'm on pace to finish up the React and Redux course material early next week. Once I've completed it, I will start in earnest on the next project. 
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
