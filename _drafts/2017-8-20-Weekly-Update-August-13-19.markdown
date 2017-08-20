@@ -5,12 +5,9 @@ date: 2017-8-20 11:12:00 +0000
 categories: Dev-eryday
 ---
 
+I didn't finish anything this week! No books and no courses. I did make progress though. I'm progressing nicely through everything I'm working through. I've started actively working the [readable][read] project from the [React Nanodegree][rnd]. It's coming along nicely but is a lot more difficult and more interesting.
 
-Finished
---------
-**Pluralsight Course(s):** 
-
-**Book(s):** 
+I'm really enjoying reading through *[Tao of Seneca][tao]*. Seneca offers guidance for acting in the world with amazing clarity. It's amazing how much of his advice can be applied directly millenia after he lived.
 
 Currents
 --------
@@ -22,6 +19,7 @@ Currents
 
 On the Next...
 --------
+I'm planning to continue progressing on the readable project. It's possible that I'll complete it in the week ahead but there's no rush. I'm enjoying process of developing. It's not really important when I complete it, it's only important that I master the material.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
