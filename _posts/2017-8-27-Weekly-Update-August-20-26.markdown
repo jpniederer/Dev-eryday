@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update:  August 20 to 26, 2017"
-date: 2017-8-27 20:45:00 +0000
+date: 2017-8-27 14:37:00 +0000
 categories: Dev-eryday
 ---
 Every so often, it helps to take a step back and evaluate your process. No matter how finely tuned your process is, there's always potential for improvement. This week I took a look at a couple of courses on Pluralsight that focus on how developers can stay at the top of their game.  The courses were [How to Stay Abreast in the Ever-changing World of Tech][curr] and [Keeping Up with Technology][keep]. Both of these courses are worth watching and offer actionable advice on how to improve one's skill set. The ideas intersected quite a bit. The advice on staying away from the bleeding edge in Keeping Up with Technology. It's so easy to get caught up in the shiny new thing. Another key takeaway is the dedication to fundamentals and soft skills, both of which never go out of style.
