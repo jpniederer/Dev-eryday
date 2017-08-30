@@ -4,17 +4,19 @@ title:  "Weekly Update:  August 27 to September 2, 2017"
 date: 2017-9-3 14:37:00 +0000
 categories: Dev-eryday
 ---
-
+My favorite courses on Pluralsight are the ones that go deeper into the material than most reasonable people would. No author gets deeper into object oriented programming techniques than Zoran Horvat. His latest course, [Advanced Defensive Programming Techniques][adp] is remarkable for its depth and clarity. I'm about halfway through skimming the course to get a quick overview and it's awesome work. I'm going to revisit almost all of material. The course is deep and well worth any time invested in it.
 
 Finished
 --------
 **Pluralsight Course(s):** [Redux Saga][saga]
 
+**Book(s):** *[Tao of Seneca: Volume 1][tao]*
+
 Currents
 --------
 **Course(s):** [React Nanodegree][rnd]
 
-**Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], 
+**Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Advanced Defensive Programming Techniques][adp]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca][tao]*
 
@@ -38,3 +40,4 @@ On the Next...
 [saga]: https://app.pluralsight.com/library/courses/redux-saga/table-of-contents
 [sagas]: https://msdn.microsoft.com/en-us/library/jj591569.aspx
 [resaga]: https://github.com/redux-saga/redux-saga
+[adp]: https://app.pluralsight.com/library/courses/advanced-defensive-programming-techniques/table-of-contents
