@@ -4,6 +4,8 @@ title:  "Weekly Update:  August 27 to September 2, 2017"
 date: 2017-9-3 14:37:00 +0000
 categories: Dev-eryday
 ---
+Summer 2017 is in the books, I hope you got a nice tan. Labor Day weekend is here and fall is hot on its heels. It's amazing how quickly summer came and went this year. Time truly files when you're present in each moment. As Dev-eryday moves into its ninth month, I'm really liking the progress that I've made. This summer I've pushed my skills with React to new heights and my total body knowledge base is getting stronger each day. I'm looking forward to seeing what the process of learning every day has in store for the rest of the year.
+
 My favorite courses on Pluralsight are the ones that go deeper into the material than most reasonable people would. No author gets deeper into object oriented programming techniques than Zoran Horvat. His latest course, [Advanced Defensive Programming Techniques][adp] is remarkable for its depth and clarity. I'm about halfway through skimming the course to get a quick overview and it's awesome work. I'm going to revisit almost all of material. The course is deep and well worth any time invested in it.
 
 Finished
