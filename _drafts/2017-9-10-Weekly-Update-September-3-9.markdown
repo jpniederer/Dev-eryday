@@ -4,13 +4,7 @@ title:  "Weekly Update:  September 3 to 9, 2017"
 date: 2017-9-10 12:12:00 +0000
 categories: Dev-eryday
 ---
-
-
-Finished
---------
-**Pluralsight Course(s):** 
-
-**Book(s):** 
+I finished the Readable project. I submitted it twice. On the first attempt, I forgot the "--save" switch when installing react-router-dom so when the reviewer issued "npm start" they experienced an error. After that quick fix, and making a few of the edits recommended in the code review, I was able to resubmit. The second attempt was accepted and I'm now 2/3 done with the [React Nanodegree][rnd]. I'm enjoying the program so far.
 
 Currents
 --------
@@ -22,7 +16,9 @@ Currents
 
 On the Next...
 --------
+This week I'm going to finish a couple Pluralsight courses and get back into reading. I've been watching course content and reading each day but didn't carve out enough time to finish anything last week.
 
+For the React Nanodegree, I'm going to spend a lot of time with React Native. The React Native portion of the program is up next and it goes live on Tuesday.  I've played with it a little bit in the past, but I haven't built anything notable with it yet. This will change over the next few weeks.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
