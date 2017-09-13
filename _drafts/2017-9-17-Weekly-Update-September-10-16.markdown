@@ -5,12 +5,15 @@ date: 2017-9-17 12:12:00 +0000
 categories: Dev-eryday
 ---
 
+Finished
+--------
+**Pluralsight Course(s):** [Advanced Defensive Programming Techniques][adp]
 
 Currents
 --------
 **Course(s):** [React Nanodegree][rnd]
 
-**Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Advanced Defensive Programming Techniques][adp]
+**Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], 
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 2][tao]*
 
