@@ -4,7 +4,7 @@ title:  "Weekly Update:  September 10 to 16, 2017"
 date: 2017-9-17 12:12:00 +0000
 categories: Dev-eryday
 ---
-I've now got a full year check in streak on GitHub. It started back last September when I started building SimpleHealthTracking. Lately I've been getting a lot of check ins from the React Nanodegree program. The streak has ben an amazing chance to commit a daily practice.
+I've now got a full year check in streak on GitHub. It started back last September when I started building SimpleHealthTracking. Lately I've been getting a lot of check ins from the React Nanodegree program. The streak has ben an amazing chance to commit a daily practice. The streak pushes me keep at it day in and day out. Some days are more productive than others, but as long as there is a little progress each day the process is working.
 
 This week I completed the the [Advanced Defensive Programming Techniques][adp] course. The course was great.
 
