@@ -6,7 +6,7 @@ categories: Dev-eryday
 ---
 I've now got a full year check in streak on GitHub. It started back last September when I started building SimpleHealthTracking. Lately I've been getting a lot of check ins from the React Nanodegree program. The streak has ben an amazing chance to commit a daily practice. The streak pushes me keep at it day in and day out. Some days are more productive than others, but as long as there is a little progress each day the process is working.
 
-This week I completed the the [Advanced Defensive Programming Techniques][adp] course. The course was great.
+This week I completed the the [Advanced Defensive Programming Techniques][adp] course. The course was great. On the React front, the React Native portion of the [React Nanodegree][rnd] went live. I'm working my way through it and currently a couple of sections in.
 
 Finished
 --------
