@@ -22,7 +22,7 @@ Currents
 
 On the Next...
 --------
-
+I will continue forward with the React Native portion of the [React Nanodegree][rnd] this week. I'd like to finish course material if at all possible. It's awesome how React skills can be taken from the web and directly onto mobile devices. Learn once, write anywhere is a definite advantage. I'm interested in digging in further to determine how well React Native compares to building apps with a tool like Xamarin or to standard native apps.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
