@@ -5,10 +5,13 @@ date: 2017-9-24 18:37:00 +0000
 categories: Dev-eryday
 ---
 
+I coasted through this week. On Pluralsight, I rushed through the [Mastering Flux and Redux][ux] course on Pluralsight. It was interesting. The course focuses purely on the Flux and Redux libraries. It does not couple it with any of the UI libraries like React or Angular. I like this approach to the material as it allows the course to focus only on the ideas behind the *ux technologies.
 
 Finished
 --------
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Mastering Flux and Redux][ux]
+
+**Book(s):** *[Tao of Seneca: Volume 2][tao]*
 
 Currents
 --------
@@ -16,7 +19,7 @@ Currents
 
 **Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], 
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 2][tao]*
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*
 
 On the Next...
 --------
@@ -27,3 +30,4 @@ On the Next...
 [rnd]: https://www.udacity.com/course/react-nanodegree--nd019
 [tao]: https://tim.blog/2017/07/06/tao-of-seneca/
 [secure]: https://app.pluralsight.com/library/courses/asp-dotnet-core-oauth2-openid-connect-securing/table-of-contents
+[ux]: https://app.pluralsight.com/library/courses/flux-redux-mastering/table-of-contents
