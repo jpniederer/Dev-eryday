@@ -7,6 +7,8 @@ categories: Dev-eryday
 
 I coasted through this week. On Pluralsight, I rushed through the [Mastering Flux and Redux][ux] course on Pluralsight. It was interesting. The course focuses purely on the Flux and Redux libraries. It does not couple it with any of the UI libraries like React or Angular. I like this approach to the material as it allows the course to focus only on the ideas behind the *ux technologies.
 
+The React Native portion of the [React Nanodegree] is coming along nicely. I've completed the course material and I'm looking to start on the project in the next couple of days. 
+
 Finished
 --------
 **Pluralsight Course(s):** [Mastering Flux and Redux][ux]
