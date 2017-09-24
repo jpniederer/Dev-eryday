@@ -7,7 +7,7 @@ categories: Dev-eryday
 
 I coasted through this week. On Pluralsight, I rushed through the [Mastering Flux and Redux][ux] course on Pluralsight. It was interesting. The course focuses purely on the Flux and Redux libraries. It does not couple it with any of the UI libraries like React or Angular. I like this approach to the material as it allows the course to focus only on the ideas behind the *ux technologies. Many other sources that attempt to teach Redux rely completely on the UI library.
 
-The React Native portion of the [React Nanodegree] is coming along nicely. I've completed the course material and I'm looking to start on the project in the next couple of days. In other React news, Facebook announced that they're switching the project to the MIT license. See the [post][rl] that was made about the decision. That's exciting news and should help stabilize the community. The post also mentions that React 16 is being released next week.
+The React Native portion of the [React Nanodegree][rnd] is coming along nicely. I've completed the course material and I'm looking to start on the project in the next couple of days. In other React news, Facebook announced that they're switching the project to the MIT license. See the [post][rl] that was made about the decision. That's exciting news and should help stabilize the community. The post also mentions that React 16 is being released next week.
 
 Finished
 --------
@@ -25,7 +25,7 @@ Currents
 
 On the Next...
 --------
-I'm going to get to work on the React Native project this week. It's a flash card app. I'd like to get a little bit of the functionality implemented this week. Beyond working on that, I'm excited for the release of React 16. It'll be interesting to see how the rewrite of internals will impact the libary.
+I'm going to get to work on the React Native project this week. It's a flash card app. I'd like to get at least a little bit of the functionality implemented. Beyond working on that, I'm excited for the release of React 16. It'll be interesting to see how the rewrite of internals will impact the libary. It's great to see where the React library is moving.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
