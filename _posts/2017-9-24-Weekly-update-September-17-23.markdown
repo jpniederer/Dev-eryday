@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update:  September 17 to 23, 2017"
-date: 2017-9-24 18:37:00 +0000
+date: 2017-9-24 14:57:00 +0000
 categories: Dev-eryday
 ---
 
@@ -25,7 +25,7 @@ Currents
 
 On the Next...
 --------
-I'm going to get to work on the React Native project this week. It's a flash card app. I'd like to get at least a little bit of the functionality implemented. Beyond working on that, I'm excited for the release of React 16. It'll be interesting to see how the rewrite of internals will impact the libary. It's great to see where the React library is moving.
+I'm going to get to work on the React Native project this week. It's a flash card app. I'd like to get at least a little bit of the functionality implemented, we'll see. Beyond working on that, I'm excited for the release of React 16. It'll be interesting to see how the rewrite of internals will impact the libary. It's great to see where the React library is moving.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
