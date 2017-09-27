@@ -9,7 +9,7 @@ categories: Dev-eryday
 
 Finished
 --------
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Building a Node Web API][node]
 
 **Book(s):** *[Principles: Life and Work][pri]*
 
@@ -33,3 +33,4 @@ On the Next...
 [ux]: https://app.pluralsight.com/library/courses/flux-redux-mastering/table-of-contents
 [rl]: https://code.facebook.com/posts/300798627056246
 [pri]: https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D/ref=sr_1_1?ie=UTF8&qid=1506360609&sr=8-1&keywords=principles
+[node]: https://app.pluralsight.com/library/courses/play-by-play-node-web-api-john-papa-sam-artioli/table-of-contents
