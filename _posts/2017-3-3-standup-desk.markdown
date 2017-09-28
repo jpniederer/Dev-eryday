@@ -30,5 +30,8 @@ With all the standing I've been doing, it's been a bit hard to get myself to run
 
 All in all, I recommend all developers pick up a convertable desk or do something to cut down on the amount of time spent sitting. It's not a revolutionary change, but it's certainly a healthy one. Less sitting and more activity is always a welcome change in my book. I will test out the desk for a few more weeks and produce an update then. It should be interesting to see how my usage changes over time and to see how the body adjusts.
 
+**Update:** Reviews.com has a great overview of current stand up desks. Check it out [here][reviews] if you're in the market for a new standup desk.
+
 [desk]: https://www.amazon.com/Halter-ED-600-Preassembled-Adjustable-Elevating/dp/B01LMBGTWI/ref=sr_1_1?ie=UTF8&qid=1488505039&sr=8-1&keywords=halter+ed-600
 [sit]: http://www.cnn.com/2015/01/21/health/sitting-will-kill-you/index.html
+[reviews]: https://www.reviews.com/standing-desk/
