@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Weekly Update:  September 24 to 30, 2017"
-date: 2017-10-1 14:57:00 +0000
+date: 2017-10-1 12:57:00 +0000
 categories: Dev-eryday
 ---
 With September coming to a close yesterday, we're now 75% through 2017. There's only three more months left in the year. That means that Dev-eryday has been going strong for nine months. Very cool! It's been a great experience so far and I've learned a lot through the challenge. If there's one thing I think I'd like to do over the next three months it's to generate more content. I'd like to write up some more posts and also publish more code. The marathon is reaching the home stretch, finish strong.
 
-The week started off pretty slow and I didn't work on the React Native project until the weekend. The majority of the progress early in the week was from reading. The book I'm really focusing on right now is called *[Principles][pri]*. It's written by Ray Dalio and it presents the principles that Dalio has used to become one of the world's most successful investors. Dalio is a deep, and logical thinking and his principles can be applied to both life and business. It's not about directly about software development, but the material is still applicable. Beyond *Principles*, I rushed through *[Grokking Algorithms][grok]* one afternoon. The book is a fun look at a variety of algorithms. I recommend it for anyone already familiar with the subject who is looking for a refresher on algorithms or possibly someone looking for a quick introduction.
+The week started off pretty slow and I didn't work on the React Native project until the weekend. The majority of the progress early in the week was from reading. The book I'm really focusing on right now is called *[Principles][pri]*. It's written by Ray Dalio and it presents the principles that Dalio has used to become one of the world's most successful investors. Dalio is a deep, and logical thinker and his principles can be applied to both life and business. It's not about directly about software development, but the material is still applicable. Beyond *Principles*, I rushed through *[Grokking Algorithms][grok]* one afternoon. The book is a fun look at a variety of algorithms. I recommend it for anyone already familiar with the subject who is looking for a refresher on algorithms or people looking for a quick introduction to the topic.
 
 
 Finished
