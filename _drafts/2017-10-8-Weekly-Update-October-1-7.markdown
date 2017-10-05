@@ -4,14 +4,14 @@ title:  "Weekly Update:  October 1 to 7, 2017"
 date: 2017-10-8 12:57:00 +0000
 categories: Dev-eryday
 ---
-
+This week I finished *[Principles: Life and Work][pri]* by Ray Dalio. It was a great read. Anyone who is curious about how others think would find value in the book. After getting through *Principles* I started reading *[Clean Architecture: A Craftsman's Guide to Software Structure and Design][clean]* by Robert Martin. This is another book in Martin's Clean Code series focusing on techniques that professional software developers can use to improve the quality of their code. The key idea of *Clean Architecture* is that no matter what kind of software project we're working on the architecture best practices apply.
 
 
 Finished
 --------
 **Pluralsight Course(s):** 
 
-**Book(s):** 
+**Book(s):** *[Principles: Life and Work][pri]*
 
 Currents
 --------
@@ -19,7 +19,7 @@ Currents
 
 **Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Getting Started with ASP.NET Core and OAuth][core2]
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*, *[Principles: Life and Work][pri]*
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*, *[Clean Architecture: A Craftsman's Guide to Software Structure and Design][clean]*
 
 On the Next...
 --------
@@ -37,3 +37,4 @@ On the Next...
 [core2]: https://app.pluralsight.com/library/courses/asp-dot-net-core-oauth/table-of-contents
 [grok]: https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/
 [mf]: https://github.com/jpniederer/reactnd-MobileFlashcards
+[clean]: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/
