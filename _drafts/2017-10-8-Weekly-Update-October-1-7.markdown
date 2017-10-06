@@ -4,7 +4,9 @@ title:  "Weekly Update:  October 1 to 7, 2017"
 date: 2017-10-8 12:57:00 +0000
 categories: Dev-eryday
 ---
-This week I finished *[Principles: Life and Work][pri]* by Ray Dalio. It was a great read. Anyone who is curious about how others think would find value in the book. After getting through *Principles* I started reading *[Clean Architecture: A Craftsman's Guide to Software Structure and Design][clean]* by Robert Martin. This is another book in Martin's Clean Code series focusing on techniques that professional software developers can use to improve the quality of their code. The key idea of *Clean Architecture* is that no matter what kind of software project we're working on the architecture best practices apply.
+Beyond watching a lot of playoff baseball, I spent a ton of time solving problems on the website [CodeFights][cf]. It's a really fun way to improve your programming skills. The reason I find it more enjoyable than the other "solve this programming problem and we'll check it" websites is how well the people at CodeFights did on the gameification. Everytime I go to the site I tell myself I will just solve one problem.  An hour, and a few problems later, I'll still be working on problems. The site is really well done. The problems are fun and there are many varieties of problem sets to choose from. 
+
+It was a good week on the reading front. I finished *[Principles: Life and Work][pri]* by Ray Dalio. It was a great read. Anyone who is curious about how others think would find value in the book. After getting through *Principles* I started reading *[Clean Architecture: A Craftsman's Guide to Software Structure and Design][clean]* by Robert Martin. This is another book in Martin's Clean Code series focusing on techniques that professional software developers can use to improve the quality of their code. The key idea of *Clean Architecture* is that no matter what kind of software project we're working on the architecture best practices apply.
 
 
 Finished
@@ -38,3 +40,4 @@ On the Next...
 [grok]: https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/
 [mf]: https://github.com/jpniederer/reactnd-MobileFlashcards
 [clean]: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/
+[cf]: https://codefights.com/
