@@ -8,7 +8,7 @@ categories: Dev-eryday
 
 Finished
 --------
-**Pluralsight Course(s):**
+**Pluralsight Course(s):** [Getting Started with ASP.NET Core and OAuth][core2]
 
 **Book(s):** 
 
@@ -16,7 +16,7 @@ Currents
 --------
 **Course(s):** [React Nanodegree][rnd]
 
-**Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Getting Started with ASP.NET Core and OAuth][core2]
+**Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], 
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*, *[Clean Architecture: A Craftsman's Guide to Software Structure and Design][clean]*
 
