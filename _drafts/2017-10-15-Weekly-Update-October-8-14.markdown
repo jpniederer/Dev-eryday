@@ -4,7 +4,7 @@ title:  "Weekly Update:  October 8 to 14, 2017"
 date: 2017-10-15 11:21:00 +0000
 categories: Dev-eryday
 ---
-
+I was able to finish the [Getting Started with ASP.NET Core and OAuth][core2] on Pluralsight. The course provides a practical look at how to use [IdentityServer4][is4] with ASP.NET Core. IdentityServer4 makes it easy to produce authentication using OpenID Connect and OAuth 2.0 via ASP.NET Core 2. On top of showing the ins and outs of how to use IdentityServer4, it also shows how to integrate Google Authentication and Auth0 into the mix. It's a very cool course and I'll be using its content to build some cool stuff.
 
 Finished
 --------
@@ -38,3 +38,4 @@ On the Next...
 [mf]: https://github.com/jpniederer/reactnd-MobileFlashcards
 [clean]: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/
 [cf]: https://codefights.com/
+[is4]: http://docs.identityserver.io/en/release/
