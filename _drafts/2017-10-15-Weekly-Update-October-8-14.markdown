@@ -10,8 +10,6 @@ Finished
 --------
 **Pluralsight Course(s):** [Getting Started with ASP.NET Core and OAuth][core2]
 
-**Book(s):** 
-
 Currents
 --------
 **Course(s):** [React Nanodegree][rnd]
@@ -22,7 +20,7 @@ Currents
 
 On the Next...
 --------
-
+I didn't work on the [Mobile FlashCards][mf] app nearly as much time as I thought I would this week. With all the playoff baseball I didn't get to focus on it like I thought I would. The Cubs winning their series with the Nationals was a double edged sword. On one hand I'm happy they won but on the other if they lose I have more time to produce and learn. Either way it's a good situation to have. I will carve out a little more time this week and make progress on the app.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
