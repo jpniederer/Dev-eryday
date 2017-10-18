@@ -4,19 +4,19 @@ title:  "Weekly Update:  October 15 to 21, 2017"
 date: 2017-10-22 14:45:00 +0000
 categories: Dev-eryday
 ---
-
+At the start of the week I didn't feel like jumping directly into the [MobileFlashcards][mf] application. So rather than getting back into the swing of the project, I rewatched all of the course content from the [React Nanodegree's][rnd] React Native section. It was nice going back over all of the material. Going over the material for a second time was really helful. The videos over styling were especially strong. React Native's specific flavor of Flexbox is full of little details that require deeper review.
 
 Finished
 --------
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Rapid ES6 Training][es6]
 
-**Book(s):**
+**Book(s):** *[How to Get Filthy Rich in Rising Asia: A Novel][rich]*
 
 Currents
 --------
 **Course(s):** [React Nanodegree][rnd]
 
-**Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Rapid ES6 Training][es6]
+**Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*, *[Clean Architecture: A Craftsman's Guide to Software Structure and Design][clean]*
 
@@ -35,3 +35,4 @@ On the Next...
 [clean]: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/
 [is4]: http://docs.identityserver.io/en/release/
 [es6]: https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents
+[rich]: https://www.amazon.com/How-Filthy-Rich-Rising-Asia-ebook/dp/B008ON449S/
