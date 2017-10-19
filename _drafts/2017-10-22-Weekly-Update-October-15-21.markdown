@@ -6,6 +6,8 @@ categories: Dev-eryday
 ---
 At the start of the week I didn't feel like jumping directly into the [MobileFlashcards][mf] application. So rather than getting back into the swing of the project, I rewatched all of the course content from the [React Nanodegree's][rnd] React Native section. It was nice going back over all of the material. Going over the material for a second time was really helful. The videos over styling were especially strong. React Native's specific flavor of Flexbox is full of little details that require deeper review.
 
+Once the course review was complete, it was time to get back into the MobileFlashcards project. All the review helped out and made progressing on the project a lot quicker. One thing that made an impact was knowing what was needed for the project while watching the course material. Anytime I saw something that would be useful within the project I made a little note. Beyond that, the React Native workflow is pretty cool. I have development environments set up in both macOS and Windows. My macOS environment has an iOS emulator and the Windows one relies on an Android emulator. It's nice to have both platforms covered.
+
 Finished
 --------
 **Pluralsight Course(s):** [Rapid ES6 Training][es6]
