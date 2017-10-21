@@ -24,7 +24,9 @@ Currents
 
 On the Next...
 --------
+This week I'm going to continue moving forward with the Mobile Flashcards application. Prior to now it's been pretty slow going so far. The momentum from the end of last week will carry the project through. I'm not sure if I'll finish it this week, but I'm going to work hard and see if I can.
 
+On top of the progress with the Mobile Flashcards app, I'd really like to knockout another book this week. I'm thinking I'll focus my reading time on finishing *Clean Architecture*. The book is probably the most entertaining technically focused book I've picked up this year, and it's full of knowledge that can directly benefit real world software. Maybe by the time I've finished a little bit of the book's wisdom will have rubbed off on me.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
