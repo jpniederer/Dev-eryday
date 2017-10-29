@@ -4,7 +4,7 @@ title:  "Weekly Update:  October 22 to 28, 2017"
 date: 2017-10-29 14:10:00 +0000
 categories: Dev-eryday
 ---
-It's been a great week. I made a lot of progress on the [MobileFlashcards][mf] application. Only a few more features to go and the project will be complete. Developing for mobile has been a lot of fun. The coolest thing for me is running the in-development app on my laptop and accessing via Expo over the local network on my Android device. That is such an awesome feature and allows me to test on both iOS and Android very easily. It's also amazing how quickly you can go from idea to implementation in React Native. The environment lends itself well to rapid development. My guess is that it gets tricky to use with complex apps but basic CRUD type features are a joy to build. 
+It's been a great week. I made a lot of progress on the [MobileFlashcards][mf] application. Only a few more features to go and the project will be complete. Developing for mobile has been a lot of fun. The coolest thing for me is running the in-development app on my laptop and accessing via Expo over the local network on my Android device. That is such an awesome feature and it allows me to easily test on both iOS and Android. It's also amazing how quickly you can go from idea to implementation in React Native. The environment lends itself well to rapid development. My guess is that it gets tricky to use with complex apps but basic CRUD type features are a joy to build. 
 
 Finished
 --------
@@ -22,7 +22,7 @@ Currents
 
 On the Next...
 --------
-I'm going to finish the React Nanodegree this week. The final project is close to completion now and I'm going to put in the time required to complete it this week.
+I'm going to finish the React Nanodegree this week. My final project is close to completion now and I'm going to put in the time required to complete it. That will be a good way to start November.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
