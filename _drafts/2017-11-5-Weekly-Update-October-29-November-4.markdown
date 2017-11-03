@@ -4,19 +4,19 @@ title:  "Weekly Update:  October 29 to November 4, 2017"
 date: 2017-11-5 14:10:00 +0000
 categories: Dev-eryday
 ---
-
+So I finished the [React Nanodegree][rnd] this week. I wrote a few quick thoughts about the program [here][fin]. It's a solid program and I'm glad that I did it.
 
 Finished
 --------
 **Course(s):** [React Nanodegree][rnd]
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core],
 
-**Book(s):** 
+**Book(s):** [Extreme Ownership][eo]
 
 Currents
 --------
-**Pluralsight Course(s):** [Implementing and Securing an API with ASP.NET Core][core], [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure]
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*, *[Clean Architecture: A Craftsman's Guide to Software Structure and Design][clean]*
 
@@ -37,3 +37,4 @@ On the Next...
 [es6]: https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents
 [cow]: https://www.amazon.com/Purple-Cow-New-Transform-Remarkable/dp/1591843170/
 [ml]: https://app.pluralsight.com/library/courses/play-by-play-machine-learning-exposed/table-of-contents
+[eo]: https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2/
