@@ -28,3 +28,4 @@ I used GitHub to host each of my projects from the course. Feel free to take a l
 [mf]: https://github.com/jpniederer/reactnd-MobileFlashcards
 [native]: https://facebook.github.io/react-native/
 [dux]: http://redux.js.org/
+[sg]: https://www.udemy.com/user/sgslo/
