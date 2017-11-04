@@ -38,3 +38,4 @@ On the Next...
 [cow]: https://www.amazon.com/Purple-Cow-New-Transform-Remarkable/dp/1591843170/
 [ml]: https://app.pluralsight.com/library/courses/play-by-play-machine-learning-exposed/table-of-contents
 [eo]: https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2/
+[fin]: https://dev-eryday.com/react/2017/11/01/Finished-React-Nanodegree.html
