@@ -10,13 +10,13 @@ Finished
 --------
 **Pluralsight Course(s):** 
 
-**Book(s):** 
+**Book(s):** *[Clean Architecture: A Craftsman's Guide to Software Structure and Design][clean]*
 
 Currents
 --------
 **Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure]
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*, *[Clean Architecture: A Craftsman's Guide to Software Structure and Design][clean]*
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*
 
 On the Next...
 --------
