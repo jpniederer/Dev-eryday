@@ -4,7 +4,7 @@ title:  "Weekly Update: November 5-11, 2017"
 date: 2017-11-12 14:10:00 +0000
 categories: Dev-eryday
 ---
-
+I finished *[Clean Architecture: A Craftsman's Guide to Software Structure and Design][clean]* this week. The book is a great survey of some important techniques that can be used to create well designed software. Since it's a survey, each section is short and scratches the surface on many topics. Though maybe not as good as *[Clean Code][code]*, *Clean Architecture* is a SOLID read.
 
 Finished
 --------
@@ -28,3 +28,4 @@ On the Next...
 [secure]: https://app.pluralsight.com/library/courses/asp-dotnet-core-oauth2-openid-connect-securing/table-of-contents
 [core2]: https://app.pluralsight.com/library/courses/asp-dot-net-core-oauth/table-of-contents
 [clean]: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/
+[code]: https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/
