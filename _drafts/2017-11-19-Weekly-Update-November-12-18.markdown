@@ -22,7 +22,7 @@ Currents
 
 On the Next...
 --------
-
+This week is Thanksgiving week in the United States. That means a four day weekend. I'm planning to have a nice relaxing holiday. Sure, I'll continue learning each day but the primary goal will be recharging. I might also spend some time brainstorming on what I want to focus on doing in 2018. Next year is almost here.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
