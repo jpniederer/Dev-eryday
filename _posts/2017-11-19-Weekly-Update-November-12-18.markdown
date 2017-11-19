@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Weekly Update: November 12-18, 2017"
-date: 2017-11-19 21:18:00 +0000
+date: 2017-11-19 15:45:00 +0000
 categories: Dev-eryday
 ---
-This summer I studied quite a bit about [Domain-Driven Design (ddd)][ddd]. I didn't become an expert on the subject or use it directly in any projects, but would feel comfortable talking about ubiquitous languages and anemic domains, among many other topics, for at least a little while. One of the courses I used to get this far was the fantastic [Domain-Driven Design in Practice][dd2] by Vladimir Khorikov. I've viewed several other courses by Khorikov since then and have come away impressed each time. This week Pluralsight released a new course from Khorikov, [Refactoring from Anemic Domain Model Towards a Rich One][rich]. It's not a long course, but it's packed with wisdom. I'm about halfway through and the ddd skills are seeping in ever further.
+This summer I studied quite a bit about [Domain-Driven Design (DDD)][ddd]. I didn't become an expert on the subject or use it directly in any projects, but would feel comfortable talking about ubiquitous languages and anemic domains, among many other topics, for at least a little while. One of the courses I used to get this far was the fantastic [Domain-Driven Design in Practice][dd2] by Vladimir Khorikov. I've viewed several other courses by Khorikov since then and have come away impressed each time. This week Pluralsight released a new course from Khorikov, [Refactoring from Anemic Domain Model Towards a Rich One][rich]. It's not a long course, but it's packed with wisdom. I'm about halfway through and the DDD skills are seeping in ever further.
 
-Another source that brought me into ddd was the [Coding Blocks][cb] podcast. Often they will take an important book, like Eric Evans' [Domain-Driven Design: Tackling Complexity in the Heart of Software][dd3], and discuss its content over a series of episodes. It's a great listening for any long drive or slow afternoon at the office. The start of their episodes on DDD can be found here in [Episode 58 - Why Domain Driven Design][pod].
+Another source that brought me into DDD was the [Coding Blocks][cb] podcast. Often they will take an important book, like Eric Evans' [Domain-Driven Design: Tackling Complexity in the Heart of Software][dd3], and discuss its content over a series of episodes. It's great listening for any long drive or slow afternoon at the office. The start of their episodes on DDD can be found here in [Episode 58 - Why Domain Driven Design][pod].
 
 Finished
 --------
@@ -22,7 +22,7 @@ Currents
 
 On the Next...
 --------
-This week is Thanksgiving week in the United States. That means a four day weekend. I'm planning to have a nice relaxing holiday. Sure, I'll continue learning each day but the primary goal will be recharging. I might also spend some time brainstorming on what I want to focus on doing in 2018. It'd be nice to make 2018 even better than 2017 has been. Next year is almost here, it's time to start making it great.
+This week is Thanksgiving week in the United States. That means a four day weekend for a lot of folks. I'm planning to have a nice relaxing holiday. Sure, I'll continue learning each day but the primary goal will be recharging. I might also spend some time brainstorming on what I want to focus on doing in 2018. It'd be nice to make 2018 even better than 2017 has been. Next year is almost here, it's time to start planning what will make it great.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
