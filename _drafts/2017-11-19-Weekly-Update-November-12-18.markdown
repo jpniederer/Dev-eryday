@@ -18,7 +18,7 @@ Currents
 --------
 **Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Refactoring from Anemic Domain Model Towards a Rich One][rich]
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*, [Brave New World][bnw]
 
 On the Next...
 --------
@@ -43,3 +43,4 @@ This week is Thanksgiving week in the United States. That means a four day weeke
 [dd2]: https://app.pluralsight.com/library/courses/domain-driven-design-in-practice/table-of-contents
 [cb]: https://www.codingblocks.net/
 [dd3]: https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/
+[bnw]: https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523/
