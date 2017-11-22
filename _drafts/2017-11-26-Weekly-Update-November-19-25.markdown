@@ -8,13 +8,13 @@ categories: Dev-eryday
 
 Finished
 --------
-**Pluralsight Course(s):** None
+**Pluralsight Course(s):** [Refactoring from Anemic Domain Model Towards a Rich One][rich]
 
 **Book(s):** *[Brave New World][bnw]*
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Refactoring from Anemic Domain Model Towards a Rich One][rich]
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*
 
