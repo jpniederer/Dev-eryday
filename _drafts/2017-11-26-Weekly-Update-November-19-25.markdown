@@ -20,7 +20,7 @@ Currents
 
 On the Next...
 --------
-
+This week I'm going to continue playing with iPad. Now that I have the iPad it'd be nice to get back into doing some stuff with React Native. It was a lot of fun using it as part of the React Nanodegree program and I'd like to get deeper into it.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
