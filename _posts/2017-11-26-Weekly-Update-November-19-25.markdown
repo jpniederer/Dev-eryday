@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Weekly Update: November 19-25, 2017"
-date: 2017-11-19 15:45:00 +0000
+date: 2017-11-26 11:35:00 +0000
 categories: Dev-eryday
 ---
-I got a new toy this week. For the last month or so I've been wanting to get an [iPad Pro][pro]. I finally broke down and bought it. I'm planning to use the device as an idea and learning machine. Another strong reason for wanting it was so I can use it as a mobile secondary monitor when I'm on the go. I haven't spent enough time with it to say anything definitive about it yet, but both the device and the Apple Pencil are compelling tools. I'm currently using it to prototype some potential logos and the transition from writing on paper to writing on a tablet has been smoother than I thought possible. 
+I got a new toy this week. For the last month or so I've been wanting to get an [iPad Pro][pro]. I finally broke down and bought one. I'm planning to use the device as an idea and learning machine. Another strong reason for wanting it was so I can use it as a mobile secondary monitor when I'm on the go. I haven't spent enough time with it to say anything definitive about it yet, but both the device and the Apple Pencil are compelling tools. The device is fast and is an amazing information consumption machine. I'm currently using it to prototype some potential logos and the transition from writing on paper to writing on a tablet has been smoother than I thought possible.
 
 Finished
 --------
@@ -20,7 +20,9 @@ Currents
 
 On the Next...
 --------
-This week I'm going to continue playing with iPad. Now that I have the iPad it'd be nice to get back into doing some stuff with React Native. It was a lot of fun using it as part of the React Nanodegree program and I'd like to get deeper into it.
+This week I'm going to continue playing with the iPad. I'm going to continue working on logos and trying to master using the device for idea generation, designing, and prototyping new systems. Now that I have the iPad it'd also be nice to get back into doing some stuff with React Native. It was a lot of fun using it as part of the React Nanodegree program and I'd like to get deeper into it.
+
+Another thing I'm wanting to dive deeper into is Visual Studio for Mac. I've used it a little bit this year but not nearly as much as I thought I would. One big reason for that is how great VSCode is. Anytime I'm away from Windows, I've found myself using VSCode. VSCode has been all I've really needed. That said, it's never a bad idea to learn how to use a new tool, especially one this robust, so I'd like to get more comfortable with Visual Studio for Mac.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
