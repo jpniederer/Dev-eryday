@@ -4,7 +4,7 @@ title:  "Weekly Update: November 26 to December 2, 2017"
 date: 2017-12-3 11:35:00 +0000
 categories: Dev-eryday
 ---
-
+I started a new challenge this week. The challenge is [Five Languages in Five Weeks][fnf] and consists of spending the next five weeks trying to learn a different programming language each week. It's going to be a fun ride. For the first week I'm learning [TypeScript][ts].
 
 Finished
 --------
@@ -14,7 +14,7 @@ Finished
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure]
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Getting Started with TypeScript][tss], [TypeScript In-depth][tsi]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Tao of Seneca: Volume 3][tao]*
 
@@ -43,3 +43,7 @@ On the Next...
 [dd3]: https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/
 [bnw]: https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523/
 [pro]: https://www.bhphotovideo.com/c/product/1342184-REG/apple_mpdy2ll_a_10_5_ipad_pro_256gb.html
+[tss]: https://app.pluralsight.com/library/courses/typescript-getting-started/table-of-contents
+[tsi]: https://app.pluralsight.com/library/courses/typescript-in-depth/table-of-contents
+[fnf]: https://dev-eryday.com/
+[ts]: https://www.typescriptlang.org/
