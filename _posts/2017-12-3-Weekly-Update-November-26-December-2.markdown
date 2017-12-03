@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Weekly Update: November 26 to December 2, 2017"
-date: 2017-12-3 11:35:00 +0000
+date: 2017-12-3 8:41:00 +0000
 categories: Dev-eryday
 ---
-I started a new challenge this week. The challenge is [Five Languages in Five Weeks][fnf] and consists of spending the next five weeks trying to learn a different programming language each week. It's going to be a fun ride. For the first week I'm learning [TypeScript][ts]. It's going well so far. 
+I started a new challenge this week. The challenge is [Five Languages in Five Weeks][fnf] and consists of spending the next five weeks trying to learn a different programming language each week. It's going to be a fun ride. I won't learn any of the languages deeply, but I will get better at the process of learning programming languages. It should also lead to a better appreciation for language design. For the first week I'm learning [TypeScript][ts]. It's going well so far. 
 
-Since I've been preparing for and taking part in the Five Languages in Five Weeks challenge, I wasn't able to finish any books for courses this week. So this week is pretty light on completing material. I will probably finish less content over the next five weeks while focused on learning languages.
+Since I've been preparing for and taking part in the Five Languages in Five Weeks challenge, I didn't find the time to finish any books for courses this week. So this week is pretty light on completed material. I will probably finish less content over the next five weeks while focused on learning languages.
 
 Finished
 --------
@@ -22,9 +22,9 @@ Currents
 
 On the Next...
 --------
-I'm going to continue learning TypeScript through Thursday. I will definitely finish at least the [Getting Started with TypeScript][tss] course on Pluralsight. I'm halfway through the course right now and it's quite good. The course will quickly get anyone familiar with JavaScript up to speed on the basics of TypeScript very quickly.
+I'm going to continue learning TypeScript through Thursday. I will definitely finish at least the [Getting Started with TypeScript][tss] course on Pluralsight. I'm halfway through the course right now and it's quite good. The course will quickly get anyone familiar with JavaScript up to speed on the basics of TypeScript. The course demonstrates the basics of the language through building a multiplication quiz game.
 
-Once I'm done with my week with TypeScript, I will move on to [Elixir][ex] on Friday. I've attempted to learn Elixir a couple of times already, but I've been unable to sustain any kind of momentum with it. I'm hoping that the style of focusing only on Elixir will allow me to dig in further than I ever have before. I'm pretty excited for this chance to come at Elixir again at the end of this week.
+Once I'm done with my week with TypeScript, I will move on to [Elixir][ex] on Friday. I've attempted to learn Elixir a couple of times already, but I've been unable to sustain any kind of momentum with it. I'm hoping that the style of focusing only on Elixir for a week will allow me to dig in further than I ever have before. I'm pretty excited for this chance to come at Elixir again.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
