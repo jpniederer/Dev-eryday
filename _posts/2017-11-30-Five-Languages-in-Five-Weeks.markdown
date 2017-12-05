@@ -28,9 +28,9 @@ To get better at rapidly learning new programming languages. In my career I'm go
 **Week 2 - [Elixir][el]** (12/8/2017 - 12/14/2017)  
 **Week 3 - [Haskell][hl]** (12/15/2017 - 12/21/2017)  
 **Week 4 - [Go][gol]** (12/22/2017 - 12/28/2017)  
-**Week 5 - [Kotlin][kl]** (12/29/2017 - 1/4/2017)  
+**Week 5 - <del>[Kotlin][kl]</del>[Swift][sft]** (12/29/2017 - 1/4/2017)  
 
-I picked each of these languages because I have a strong interest in each of them. The fact that they are all fairly trendy right now was a big part of the selection process too. They also cover a wide range of paradigms and touch practically all types of delivery areas (web, systems, client side, apps, scientific computing, etc). Other languages I strongly considered were [Rust][ru] and [Swift][sft]. Haskell is probably the least reasonable language on the list, but poses the greatest challenge and growth opportunity. This list isn't set in stone yet, but I feel good about it.
+I picked each of these languages because I have a strong interest in each of them. The fact that they are all fairly trendy right now was a big part of the selection process too. They also cover a wide range of paradigms and touch practically all types of delivery areas (web, systems, client side, apps, scientific computing, etc). Other languages I strongly considered were [Rust][ru] and <del>[Swift][sft]</del>[Kotlin][kl]. Haskell is probably the least reasonable language on the list, but poses the greatest challenge and growth opportunity. This list isn't set in stone yet, but I feel good about it.
 
 ### Inspiration
 Over the long holiday weekend I spent a good amount of time thinking about things I could write to breathe some life into Dev-eryday. I feel like when 99% of my posts are "Weekly Update" posts that's a bit of a blog smell. I haven't been doing this site justice. So I did what I often do, I put together a list of things I could do to make Dev-eryday better. The best idea, by far, was to do a series where I attempt to learn five languages over five weeks. Coincidentally, I was also looking for a monthly challenge for December. At that moment, there was clarity and the path forward was set.
