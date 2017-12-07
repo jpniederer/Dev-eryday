@@ -4,7 +4,7 @@ title:  "Weekly Update: December 3 - 9, 2017"
 date: 2017-12-10 8:41:00 +0000
 categories: Dev-eryday
 ---
-
+The first week of [Five Languages in Five Weeks][fnf] is in the books. My week with [TypeScript][ts] was a lot of fun.
 
 Finished
 --------
@@ -20,7 +20,7 @@ Currents
 
 On the Next...
 --------
-
+I'm going to continue working with [Elixir][ex] until Thursday. At that point I will start working with [Haskell][hs]. Haskell is an exciting language because I'm a little scared by it. I haven't even looked at the syntax yet, but I know that it's supposed to be quite a bit different than most programming languages. I think that's a great thing. Yes, it's going to be uncomfortable, but that's what makes it exciting. As long as I get a "Hello World" program written for it and learn some of the basics I'll consider my week with Haskell a success.
 
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [sbp]: https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X
@@ -45,6 +45,6 @@ On the Next...
 [pro]: https://www.bhphotovideo.com/c/product/1342184-REG/apple_mpdy2ll_a_10_5_ipad_pro_256gb.html
 [tss]: https://app.pluralsight.com/library/courses/typescript-getting-started/table-of-contents
 [tsi]: https://app.pluralsight.com/library/courses/typescript-in-depth/table-of-contents
-[fnf]: https://dev-eryday.com/
+[fnf]: https://dev-eryday.com/challenge/2017/11/30/Five-Languages-in-Five-Weeks.html
 [ts]: https://www.typescriptlang.org/
 [ex]: http://elixir-lang.github.io/
