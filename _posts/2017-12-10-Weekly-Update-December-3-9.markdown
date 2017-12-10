@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update: December 3 - 9, 2017"
-date: 2017-12-10 8:41:00 +0000
+date: 2017-12-10 14:11:00 +0000
 categories: Dev-eryday
 ---
 The first week of [Five Languages in Five Weeks][fnf] is in the books. My week with [TypeScript][ts] was a lot of fun. I learned quite a bit and really got a good feel for the language. The best part of the week was gaining an appreciation for why TypeScript exists. Building a superset of JavaScript with types, the latest feature set, and extra goodies provides enough benefits on top of JavaScript to make TypeScript worth a long look to supplant a lot of JavaScript code.
