@@ -4,7 +4,9 @@ title:  "Weekly Update: December 3 - 9, 2017"
 date: 2017-12-10 8:41:00 +0000
 categories: Dev-eryday
 ---
-The first week of [Five Languages in Five Weeks][fnf] is in the books. My week with [TypeScript][ts] was a lot of fun.
+The first week of [Five Languages in Five Weeks][fnf] is in the books. My week with [TypeScript][ts] was a lot of fun. I learned quite a bit and really got a good feel for the language. The best part of the week was gaining an appreciation for why TypeScript exists. Building a superset of JavaScript with types, the latest feature set, and extra goodies provides enough benefits on top of JavaScript to make TypeScript worth a long look to supplant a lot of JavaScript code.
+
+I'm currently working on learning [Elixir][ex] as the Five in Five challenge moves into its second week. Elixir is quite different from the languages I typically use every day. This contrast is great because it can lead to new and interesting ways to look at old problems. The functional style may not always fit the problem, but thinking in that style is a chance to see things from another angle. 
 
 Finished
 --------
@@ -14,9 +16,9 @@ Finished
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], 
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Play by Play: Problem Solving in a Developer World][ps], [Getting Started with Elixir][expl]
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, 
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Elixir in Action][eia]*, *[Programming Elixir 1.3][pe]*
 
 On the Next...
 --------
@@ -48,3 +50,7 @@ I'm going to continue working with [Elixir][ex] until Thursday. At that point I 
 [fnf]: https://dev-eryday.com/challenge/2017/11/30/Five-Languages-in-Five-Weeks.html
 [ts]: https://www.typescriptlang.org/
 [ex]: http://elixir-lang.github.io/
+[ps]: https://app.pluralsight.com/library/courses/play-by-play-problem-solving-developer-world/table-of-contents
+[expl]: https://app.pluralsight.com/library/courses/elixir-getting-started/table-of-contents
+[pe]: https://pragprog.com/book/elixir13/programming-elixir-1-3
+[eia]: https://www.manning.com/books/elixir-in-action
