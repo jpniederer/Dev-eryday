@@ -42,10 +42,10 @@ Since I first thought up the Five Languages in Five Weeks challenge, this was pr
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [fnf]: https://dev-eryday.com/challenge/2017/11/30/Five-Languages-in-Five-Weeks.html
 [node]: https://nodejs.org/en/
-[hts]: https://github.com/jpniederer/FiveInFive-TypeScript/tree/master/HelloTypeScript
-[lf]: https://github.com/jpniederer/FiveInFive-TypeScript/tree/master/LanguageFeatures
-[tt]: https://github.com/jpniederer/FiveInFive-TypeScript/tree/master/TestingTypeScript
-[rc]: https://github.com/jpniederer/FiveInFive-TypeScript/tree/master/RosettaCode
+[hex]: https://github.com/jpniederer/FiveInFive-Elixir/tree/master/HelloElixir
+[lf]: https://github.com/jpniederer/FiveInFive-Elixir/tree/master/LanguageFeatures
+[tt]: https://github.com/jpniederer/FiveInFive-Elixir/tree/master/TestingElixir
+[rc]: https://github.com/jpniederer/FiveInFive-Elixir/tree/master/RosettaCode
 [re]: https://reactjs.org/
 [ang]: https://angular.io/
 [brew]: https://brew.sh/
