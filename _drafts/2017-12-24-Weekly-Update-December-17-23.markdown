@@ -4,20 +4,20 @@ title:  "Weekly Update: December 17 - 23, 2017"
 date: 2017-12-24 11:45:00 +0000
 categories: Dev-eryday
 ---
-
+The end of the year is practically here. That means that there is only one more week of the first year of Dev-eryday. It's amazing how quickly it's gone by. It feels like just yesterday I purchased the domain name and set up the original site. The practice hasn't always been fun, but the process has been overwhelmingly valuable to me. My committment to improving every single day set the tone for my entire year. Taking on the challenge of Dev-eryday led to an openness in taking on even more challenges. It's been a rewarding year. I'm planning to build on the success and lessons learned in 2017 to make 2018 even better.
 
 Finished
 --------
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Haskell Fundamentals Part 1][hf]
 
-**Book(s):** 
+**Book(s):** *[Surely You're Joking, Mr. Feynman!][fen]*
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Haskell Fundamentals Part 1][hf]
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Go Fundamentals][gof], [Object-Oriented Programming with Go][oogo]
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Learn You a Haskell for Great Good!][lh]*, *[Surely You're Joking, Mr. Feynman!][fen]*
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Learn You a Haskell for Great Good!][lh]*, *[Sapiens: A Brief History of Humankind][sap]*
 
 On the Next...
 --------
@@ -42,3 +42,6 @@ On the Next...
 [hf]: https://app.pluralsight.com/library/courses/haskell-fundamentals-part1/table-of-contents
 [lh]: http://learnyouahaskell.com/chapters
 [fen]: https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B003V1WXKU/
+[gof]: https://app.pluralsight.com/library/courses/go-fundamentals/table-of-contents
+[sap]: https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A/
+[oogo]: https://app.pluralsight.com/library/courses/go-object-oriented-programming/table-of-contents
