@@ -4,7 +4,9 @@ title:  "Weekly Update: December 17 - 23, 2017"
 date: 2017-12-24 11:45:00 +0000
 categories: Dev-eryday
 ---
-The end of the year is practically here. That means that there is only one more week of the first year of Dev-eryday. It's amazing how quickly it's gone by. It feels like just yesterday I purchased the domain name and set up the original site. The practice hasn't always been fun, but the process has been overwhelmingly valuable to me. My committment to improving every single day set the tone for my entire year. Taking on the challenge of Dev-eryday led to an openness in taking on even more challenges. It's been a rewarding year. I'm planning to build on the success and lessons learned in 2017 to make 2018 even better.
+The end of the year is practically here. There is only one more week of the first year of Dev-eryday. It's amazing how quickly it's gone by. It feels like just yesterday I purchased the domain name and set up the original site. The practice hasn't always been fun, but the process has been overwhelmingly valuable to me. My committment to improving every single day set the tone for my entire year. Taking on the challenge of Dev-eryday led to an openness in taking on even more challenges. It's been a rewarding year. I'm planning to build on the success and lessons learned in 2017 to make 2018 even better.
+
+This week I finished week three of the [Five Languagues in Five Weeks][fnf] challenge covering [Haskell][hs]. It was interesting to learn the basics of Haskell. I don't think I'll be digging in further into the language but it was fun to use it for a little a bit. I also started week four of the challenge covering [Go][g].
 
 Finished
 --------
@@ -17,12 +19,13 @@ Currents
 --------
 **Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Go Fundamentals][gof], [Object-Oriented Programming with Go][oogo]
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Learn You a Haskell for Great Good!][lh]*, *[Sapiens: A Brief History of Humankind][sap]*
+**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[Sapiens: A Brief History of Humankind][sap]*, *[The Go Programming Language][tgp]*
 
 On the Next...
 --------
+Christmas is this week. I might breeze through a couple of days this week to get a little break. When I'm working, I'm going to continue learning Go. On Friday the fifth and final week of the Five in Five challenge will start. I'll start learning [Swift][swi] at that point. I was originally planning to learn [Kotlin][kt] in week five but the draw of Apple's Swift was too strong to ignore.
 
-
+[hs]: https://www.haskell.org/
 [g]: https://golang.org/
 [tls]: https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992/
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
@@ -45,3 +48,6 @@ On the Next...
 [gof]: https://app.pluralsight.com/library/courses/go-fundamentals/table-of-contents
 [sap]: https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A/
 [oogo]: https://app.pluralsight.com/library/courses/go-object-oriented-programming/table-of-contents
+[tgp]: https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/
+[swi]: https://swift.org/
+[kl]: https://kotlinlang.org/
