@@ -9,13 +9,13 @@ categories: Dev-eryday
 Finished
 --------
 
-**Pluralsight Course(s):** [Go Fundamentals][gof]
+**Pluralsight Course(s):** [Go Fundamentals][gof], [Object-Oriented Programming with Go][oogo]
 
 **Book(s):** *[Sapiens: A Brief History of Humankind][sap]*
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Object-Oriented Programming with Go][oogo]
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[The Go Programming Language][tgp]*
 
