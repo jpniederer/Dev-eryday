@@ -9,13 +9,13 @@ categories: Dev-eryday
 Finished
 --------
 
-**Pluralsight Course(s):** [Go Fundamentals][gof], [Object-Oriented Programming with Go][oogo]
+**Pluralsight Course(s):** [Go Fundamentals][gof], [Object-Oriented Programming with Go][oogo], [Play by Play: Software Development in Swift - Beyond iOS][pbp]
 
 **Book(s):** *[Sapiens: A Brief History of Humankind][sap]*
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure]
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Swift 3 Fundamentals][sf]
 
 **Book(s):** *[Smalltalk Best Practice Patterns][sbp]*, *[The Go Programming Language][tgp]*
 
@@ -49,3 +49,5 @@ On the Next...
 [tgp]: https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/
 [swi]: https://swift.org/
 [kl]: https://kotlinlang.org/
+[pbp]: https://app.pluralsight.com/library/courses/play-by-play-software-development-swift-ios/table-of-contents
+[sf]: https://app.pluralsight.com/library/courses/swift3-fundamentals/table-of-contents
