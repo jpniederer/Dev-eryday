@@ -4,7 +4,9 @@ title:  "Weekly Update: December 24 - 31, 2017"
 date: 2017-12-31 11:30:00 +0000
 categories: Dev-eryday
 ---
+Here we are, the end of 2017. Dev-eryday is now officially a year old. It's been a good year. I watched a ton of Pluralsight videos, finished the React Nanodegree, read almost a book a week, and a good deal more. Dev-eryday forced me to work hard at getting better each day of 2017. The experiment has delivered on that.
 
+The [Five Languages in Five Weeks][fnf] challenge moved forward this week. I finished my week with [Go][g]. Go was fun to spend some time with and was a major step in a different direction than the previous two weeks featuring [Elixir][ex] and [Haskell][hs]. I will probably pick Go back up at some point, but it isn't something I'm prioritizing in 2018. After my time with Go concluded, I started learning [Swift][swi]. 
 
 Finished
 --------
@@ -21,7 +23,7 @@ Currents
 
 On the Next...
 --------
-
+I'm going to complete the Five Languages in Five Weeks challenge on Thursday. The challenge has probably been the most fulfilling challenge I've completed in 2017. Spending a week learning a programming language isn't super effective in and of itself, but the meta process of learning programming languages is a major skill. I feel life if the challenge has helped me in any way, it's in building up this meta skill. I'm excited to take this knowledge to grow moving forward.
 
 [hs]: https://www.haskell.org/
 [g]: https://golang.org/
