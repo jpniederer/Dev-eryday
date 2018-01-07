@@ -1,29 +1,29 @@
 ---
 layout: post
 title:  "Weekly Update: January 7, 2018"
-date: 2018-1-7 10:30:00 +0000
+date: 2018-1-7 17:55:00 +0000
 categories: Dev-eryday
 ---
- One week down, 51 more to go. I hope everyone had a productive first week of 2018. My first went pretty well. I completed my week with [Swift][swi] and wrapped up the [Five Languages in Five Weeks][fnf] challenge. Learning Swift was awesome. It was the most enjoyable language that I experimented with during the challenge.
+ One week down, 51 more to go. I hope everyone had a productive first week of 2018. My first went pretty well. I completed my week with [Swift][swi] and wrapped up the [Five Languages in Five Weeks][fnf] challenge. Learning Swift was awesome. It was the most enjoyable language that I experimented with during the challenge. I really don't know how much I'll be using it moving forward, but I would definitely like to circle back to it at some point.
 
- Once the dust settled after finishing Five in Five, it was time to get back into the swing of my regularly scheduled practice. 
+ Once the dust settled after finishing Five in Five, it was time to get back into the swing of my regularly scheduled learning. To do that, I picked up *[C# 7.0 in a Nutshell][nut]*. I'm skimming through a number of sections to build a deeper understanding of a few things. It's a really nice reference so far.
 
 Finished
 --------
 
-**Pluralsight Course(s):** [Swift 3 Fundamentals][sf], [Cloud Patterns and Architecture for Microsoft Azure Developers][cl]
+**Pluralsight Course(s):** [Swift 3 Fundamentals][sf]
 
 **Book(s):** *[Meditations][med]*
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], 
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Cloud Patterns and Architecture for Microsoft Azure Developers][cl]
 
-**Book(s):** *[Smalltalk Best Practice Patterns][sbp]*
+**Book(s):** *[C# 7.0 in a Nutshell][nut]*
 
 On the Next...
 --------
-I want to map out some learning goals for the year over the next couple of weeks. Right now I'm leaning towards having three main focuses: React, C# Mastery, and Machine Learning. I made a ton of forward progress on React in 2017 and I want to continue that by deploying software with in 2018. Beyond that, my time with five different languages reiterated just how great of a language C# is. I want to make a consistant effort to dive deeper into it in 2018. The last area I want to improve on is Machine Learning. It's a broad field with a ton of applications and I studied it a good amount in 2017 but never got too far.
+I want to map out some learning goals for the year over the next couple of weeks. Right now I'm leaning towards having three main focuses: React, C# Mastery, and Machine Learning. I made a ton of forward progress on React in 2017 and I want to continue that by deploying software with it in 2018. Beyond that, my time with five different languages reiterated just how great of a language C# is. I want to make a consistent effort to dive deeper into it in 2018, hence review *C# 7.0 in a Nutshell*. The last area I want to improve on is Machine Learning. It's a broad field with a ton of applications and I studied it a good amount in 2017 but never got too far. That's what I'm thinking right now. Stay tuned.
 
 [hs]: https://www.haskell.org/
 [g]: https://golang.org/
@@ -55,3 +55,4 @@ I want to map out some learning goals for the year over the next couple of weeks
 [sf]: https://app.pluralsight.com/library/courses/swift3-fundamentals/table-of-contents
 [cl]: https://app.pluralsight.com/library/courses/microsoft-azure-cloud-patterns-architecture/table-of-contents
 [med]: https://www.amazon.com/Meditations-Marcus-Aurelius-ebook/dp/B0082XJGRK/ref=mt_kindle?_encoding=UTF8&me=
+[nut]: https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650
