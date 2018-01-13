@@ -4,18 +4,18 @@ title:  "Weekly Update: January 8 - 14, 2018"
 date: 2018-1-14 17:55:00 +0000
 categories: Dev-eryday
 ---
- 
+This was a pretty quiet week. I read a lot and worked through [Cloud Patterns and Architecture for Microsoft Azure Developers][cl] on Pluralsight. It's amazing how cloud providers enable developers to build intricate system infrastructures in the cloud. You can literally create an entire data center in minutes with assuming you've built out your software and know what you're doing with the cloud provider. It's truly a great time to be a developer. The only the standing in the way of creating and deploying a product is time and execution.
 
 Finished
 --------
 
-**Pluralsight Course(s):** [Swift 3 Fundamentals][sf]
+**Pluralsight Course(s):** [Cloud Patterns and Architecture for Microsoft Azure Developers][cl]
 
-**Book(s):** *[Meditations][med]*
+**Book(s):** *[Zero to One][zto]
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Cloud Patterns and Architecture for Microsoft Azure Developers][cl]
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], 
 
 **Book(s):** *[C# 7.0 in a Nutshell][nut]*
 
@@ -52,5 +52,5 @@ On the Next...
 [pbp]: https://app.pluralsight.com/library/courses/play-by-play-software-development-swift-ios/table-of-contents
 [sf]: https://app.pluralsight.com/library/courses/swift3-fundamentals/table-of-contents
 [cl]: https://app.pluralsight.com/library/courses/microsoft-azure-cloud-patterns-architecture/table-of-contents
-[med]: https://www.amazon.com/Meditations-Marcus-Aurelius-ebook/dp/B0082XJGRK/ref=mt_kindle?_encoding=UTF8&me=
 [nut]: https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650
+[zto]: https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/
