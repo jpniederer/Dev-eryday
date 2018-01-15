@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Weekly Update: January 8 - 14, 2018"
-date: 2018-1-14 14:45:00 +0000
+title:  "Weekly Update: January 15 - 21, 2018"
+date: 2018-1-21 14:45:00 +0000
 categories: Dev-eryday
 ---
-This was a pretty quiet week. I read a lot and worked through [Cloud Patterns and Architecture for Microsoft Azure Developers][cl] on Pluralsight. It's amazing how cloud providers enable developers to build intricate system infrastructures in the cloud. You can literally create an entire data center in minutes assuming you've built out your software and know what you're doing on the specific cloud provider. It's truly a great time to be a developer. The only the standing in the way of creating and deploying a product is time and execution. There are no limits!
+
 
 Finished
 --------
 
-**Pluralsight Course(s):** [Cloud Patterns and Architecture for Microsoft Azure Developers][cl]
+**Pluralsight Course(s):** 
 
-**Book(s):** *[Zero to One][zto]*
+**Book(s):** 
 
 Currents
 --------
@@ -21,9 +21,7 @@ Currents
 
 On the Next...
 --------
-I'm thinking about starting a practice where I draw a picture for each weekly update. I think that would be a nice addition to these posts. It would certainly make these posts more interesting. It would be a good challenge too. I'm by no means good at drawing but that can't stop me from creating interesting things to accompany my posts.
 
-I'm going to keep getting after it this week. I'll finish another book, maybe finish a Pluralsight course or two. I will write seven IdeaLists and work out each day. It will probably be cold, it might even snow. It's going to be good week. 
 
 [hs]: https://www.haskell.org/
 [g]: https://golang.org/
