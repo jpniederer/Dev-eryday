@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Weekly Update: January 15 - 21, 2018"
-date: 2018-1-21 14:45:00 +0000
+date: 2018-1-21 19:45:00 +0000
 categories: Dev-eryday
 ---
-I'm trying a new thing where I have an image in all my weekly updates. Below is the first Weekly Update Image. It's a little branding for Dev-eryday. I've been getting better each day, so I put that idea into a little logo. I hope it inspires you to get a little bit better today.
+I'm trying a new thing where I have an image in all my weekly updates. Below is the first Weekly Update Image. It's a little branding for Dev-eryday. I've been getting better each day, so I put that idea into a little logo. I hope it inspires you to get a little bit better today. The iPad Pro makes cranking out quick images like this enjoyable and easy work.
 
 ![Better Every Day](https://farm5.staticflickr.com/4721/25929845708_5169520fd2_z.jpg)
 
@@ -28,7 +28,7 @@ Currents
 On the Next...
 --------
 
-I'm diving head first into React this week. I haven't touched since I got the React Nanodegree and I'm wanting to get back into it. I've been building out the web service for the IdeaListz application I want to launch and it's getting to be time to start developing the client side. It's going to be a fun week.
+I'm diving head first into React this week. I haven't touched it since I got the React Nanodegree and I'm wanting to get back into it. I've been building out the web service for the IdeaListz application I want to launch, and it's getting to be time to start developing the client side. It's going to be a fun week.
 
 [mac]: https://app.pluralsight.com/library/courses/microsoft-azure-cognitive-services-big-picture/table-of-contents
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
