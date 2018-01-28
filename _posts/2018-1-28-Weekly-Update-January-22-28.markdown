@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update: January 22 - 28, 2018"
-date: 2018-1-28 19:45:00 +0000
+date: 2018-1-28 00:00:00 +0000
 categories: Dev-eryday
 ---
 
@@ -9,7 +9,7 @@ Forward. Every single day is a chance to move closer to the desired destination.
 
 ![Forward](https://farm5.staticflickr.com/4612/39902235261_ef55fd868c_z.jpg)
 
-I read a lot this week. Most of it had nothing to do with software development, but I feel like I learned a lot of things that will have a profound effect on my wellbeing. First of all, I finished *[Waking Up][wu]* by Sam Harris. It's a book about spirituality through the lens of meditation and conscienceness. It's a fascinating read, one that can serve as a gateway to many interesting ideas. Once I was done with *[Waking Up]* it was time to start *[12 Rules for Life: An Antidote to Chaos][rul]* by Jordan Peterson. I've been waiting for this book to come out for months. It's finally here and I'm really enjoying it. There's a ton about psychology, human nature, biology, and so much more.
+I read a lot this week. Most of it had nothing to do with software development, but I feel like I learned a lot of things that will have a profound effect on my wellbeing. First of all, I finished *[Waking Up][wu]* by Sam Harris. It's a book about spirituality through the lens of meditation and conscienceness. It's a fascinating read, one that can serve as a gateway to many interesting ideas. Once I was done with *Waking Up* it was time to start *[12 Rules for Life: An Antidote to Chaos][rul]* by Jordan Peterson. I've been waiting for this book to come out for months. It's finally here and I'm really enjoying it. There's a ton about psychology, human nature, biology, and so much more.
 
 I got back into React a little bit this week by viewing [Redux Fundamentals][red] on Pluralsight. It was great review of React and Redux. The course is probably the best treatment of Redux I've seen. There was even a section where you build out a simplified version of redux by hand. Nothing can demonstrate the concepts of a system better than building it yourself.
 
