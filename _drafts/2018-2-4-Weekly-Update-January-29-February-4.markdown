@@ -14,15 +14,15 @@ categories: Dev-eryday
 Finished
 --------
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Making Your C# Code More Functional][fun]
 
-**Book(s):** 
+**Book(s):** *[12 Rules for Life: An Antidote to Chaos][rul]*
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Making Your C# Code More Functional][fun]
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure]
 
-**Book(s):** *[C# 7.0 in a Nutshell][nut]*, *[12 Rules for Life: An Antidote to Chaos][rul]*
+**Book(s):** *[C# 7.0 in a Nutshell][nut]*, *[Perennial Seller: The Art of Making and Marketing Work that Lasts][ps]* 
 
 On the Next...
 --------
@@ -38,3 +38,4 @@ On the Next...
 [nut]: https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650
 [wu]: https://www.amazon.com/Waking-Up-Spirituality-Without-Religion-ebook/dp/B00GEEB9YC/
 [li]: https://stevewedig.com/2014/02/03/software-developers-reading-list/
+[ps]: https://www.amazon.com/Perennial-Seller-Making-Marketing-Lasts-ebook/dp/B01N8SL7FH
