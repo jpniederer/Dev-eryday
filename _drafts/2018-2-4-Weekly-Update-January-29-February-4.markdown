@@ -5,9 +5,9 @@ date: 2018-2-4 00:00:00 +0000
 categories: Dev-eryday
 ---
 
+I finished *[12 Rules for Life: An Antidote to Chaos]* this week. It's an outstanding read. The 12 rules are listed in the image below. Jordan Peterson writes with depth and clarity about what he believes is the best way to live. Peterson's work as a clinical psychologist, university professor, and as a constant scholar positions him with unique insights that few others in the world can match. It's interesting to see the world from his perspective and the principles that he feels carry the most weight.
 
-
-![Forward](https://farm5.staticflickr.com/4612/39902235261_ef55fd868c_z.jpg)
+![12 Rules for Life](https://farm5.staticflickr.com/4648/25143497467_fa5649fa98_z.jpg)
 
 
 
