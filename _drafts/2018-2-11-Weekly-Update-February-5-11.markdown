@@ -7,7 +7,7 @@ categories: Dev-eryday
 
 I really enjoy the Play by Play series on Pluralsight. Each Play by Play shows industry professionals actually solving problems and creating solutions in real time. It's always interesting to how other professionals work. This week I watched the new Play by Play, [Packaging and Deploying a Real World ASP.NET Core App][pbp]] featuring Scott Allen and Lars Klint. Scott's advice to skip the Azure Web Portal and utilize scripts, that can be stored in version control, for site deployment alone made the course worth viewing.
 
-![12 Rules for Life](https://farm5.staticflickr.com/4648/25143497467_fa5649fa98_z.jpg)
+![React Logo](https://farm5.staticflickr.com/4648/25143497467_fa5649fa98_z.jpg)
 
 
 
@@ -26,7 +26,7 @@ Currents
 
 On the Next...
 --------
-
+I've been plugging away creating an IdeaListz application I've been talking about for almost a year now. I'm taking the really long approach on it. Reading *Perennial Seller* is pushing me even further in that direction. The system may never take off, but I want to make it as good as I can.
 
 
 [fun]: https://app.pluralsight.com/library/courses/making-functional-csharp/table-of-contents
