@@ -9,7 +9,7 @@ I really enjoy the Play by Play series on Pluralsight. Each Play by Play shows i
 
 ![React Logo](https://farm5.staticflickr.com/4648/25143497467_fa5649fa98_z.jpg)
 
-
+*Perennial Seller* is a book about creating things that last. Making things that withstand the test of time requires an incredible amount of effort. Not only do you have to put in the time and effort to do the work, you have to come up with the original idea, iterate on it to make it better, and devise a marketing scheme that makes people want it. I finished *Perennial Seller* this week. It's worth reading for anyone interested in creating something notable. The book doesn't cover a whole lot of new ground, *The War of Art* is a similar title that I liked more, but the content is organized well and has a realist's approach.
 
 Finished
 --------
