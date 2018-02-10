@@ -20,7 +20,7 @@ Finished
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure]
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Clean Architecture: Patterns, Practices, and Principles][ca]
 
 **Book(s):** *[C# 7.0 in a Nutshell][nut]*, 
 
@@ -42,3 +42,4 @@ I've been plugging away creating an IdeaListz application I've been talking abou
 [gv]: https://www.youtube.com/watch?v=7kVeCqQCxlk
 [cgl]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 [pbp]: https://app.pluralsight.com/library/courses/play-by-play-packaging-deploying-real-world-asp-dont-net-core-app/table-of-contents
+[ca]: https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles/table-of-contents
