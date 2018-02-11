@@ -7,7 +7,7 @@ categories: Dev-eryday
 
 I really enjoy the Play by Play series on Pluralsight. Each Play by Play shows industry professionals actually solving problems and creating solutions in real time. It's always interesting to how other professionals work. This week I watched the new Play by Play, [Packaging and Deploying a Real World ASP.NET Core App][pbp]] featuring Scott Allen and Lars Klint. Scott's advice to skip the Azure Web Portal and utilize scripts, that can be stored in version control, for site deployment alone made the course worth viewing.
 
-![React Logo](https://farm5.staticflickr.com/4648/25143497467_fa5649fa98_z.jpg)
+![React Logo](https://farm5.staticflickr.com/4755/28414757859_8018e24a12.jpg)
 
 *Perennial Seller* is a book about creating things that last. Making things that withstand the test of time requires an incredible amount of effort. Not only do you have to put in the time and effort to do the work, you have to come up with the original idea, iterate on it to make it better, and devise a marketing scheme that makes people want it. I finished *Perennial Seller* this week. It's worth reading for anyone interested in creating something notable. The book doesn't cover a whole lot of new ground, *The War of Art* is a similar title that I liked more, but the content is organized well and has a realist's approach.
 
@@ -22,11 +22,11 @@ Currents
 --------
 **Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Clean Architecture: Patterns, Practices, and Principles][ca]
 
-**Book(s):** *[C# 7.0 in a Nutshell][nut]*, 
+**Book(s):** *[C# 7.0 in a Nutshell][nut]*, *[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman][ap]*
 
 On the Next...
 --------
-I've been plugging away creating an IdeaListz application I've been talking about for almost a year now. I'm taking the really long approach on it. Reading *Perennial Seller* is pushing me even further in that direction. The system may never take off, but I want to make it as good as I can.
+I've been plugging away creating an IdeaListz application I've been talking about for almost a year now. I'm taking the really long approach on it. Reading *Perennial Seller* is pushing me even further in that direction. The system may never take off, but I want to make it as good as I can. Creating an MVP would probably be worthwhile though. So I'd like to strike a balance between creating something amazing and delivering something in the near future.
 
 
 [fun]: https://app.pluralsight.com/library/courses/making-functional-csharp/table-of-contents
@@ -43,3 +43,4 @@ I've been plugging away creating an IdeaListz application I've been talking abou
 [cgl]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 [pbp]: https://app.pluralsight.com/library/courses/play-by-play-packaging-deploying-real-world-asp-dont-net-core-app/table-of-contents
 [ca]: https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles/table-of-contents
+[ap]: https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382/
