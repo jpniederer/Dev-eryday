@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Weekly Update: February 5 - 11, 2018"
-date: 2018-2-11 14:00:00 +0000
+date: 2018-2-11 11:05:00 +0000
 categories: Dev-eryday
 ---
 
-I really enjoy the Play by Play series on Pluralsight. Each Play by Play shows industry professionals actually solving problems and creating solutions in real time. It's always interesting to how other professionals work. This week I watched the new Play by Play, [Packaging and Deploying a Real World ASP.NET Core App][pbp]] featuring Scott Allen and Lars Klint. Scott's advice to skip the Azure Web Portal and utilize scripts, that can be stored in version control, for site deployment alone made the course worth viewing.
+I really enjoy the Play by Play series on Pluralsight. Each Play by Play shows industry professionals actually solving problems and creating solutions in real time. It's always interesting to see how other professionals work. This week I watched the new Play by Play, [Packaging and Deploying a Real World ASP.NET Core App][pbp]] featuring Scott Allen and Lars Klint. In a couple of hours, Allen shows how to set up a robust continuous integration system on Azure via Visual Studio Team Services. Scott's advice to skip the Azure Web Portal and utilize scripts, that can be stored in version control, for site deployment alone made the course worth viewing. By having everything scripted, builds and deployment configurations can be shared and edited without worry.
 
 ![React Logo](https://farm5.staticflickr.com/4755/28414757859_8018e24a12.jpg)
 
@@ -26,7 +26,7 @@ Currents
 
 On the Next...
 --------
-I've been plugging away creating an IdeaListz application I've been talking about for almost a year now. I'm taking the really long approach on it. Reading *Perennial Seller* is pushing me even further in that direction. The system may never take off, but I want to make it as good as I can. Creating an MVP would probably be worthwhile though. So I'd like to strike a balance between creating something amazing and delivering something in the near future.
+I've been plugging away creating an IdeaListz application I've been talking about for almost a year now. I'm taking the really long approach on it. Reading *Perennial Seller* is pushing me even further in that direction. The system may never take off, but I want to make it as good as I can. Creating an MVP would probably be worthwhile though. So I'd like to strike a balance between creating something amazing and delivering something in the near future. I'm making it as a SPA with React and a web API built with ASP.NET Core.
 
 
 [fun]: https://app.pluralsight.com/library/courses/making-functional-csharp/table-of-contents
