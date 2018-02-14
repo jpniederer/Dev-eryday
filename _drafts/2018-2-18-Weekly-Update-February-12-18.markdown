@@ -5,7 +5,7 @@ date: 2018-2-18 11:05:00 +0000
 categories: Dev-eryday
 ---
 
-
+I'm thinking about starting to cut back my reading to focus more on technical books for a while. This week I finished *[Apprenticeship Patterns][ap]* and it's got me inspired to step my technical game up. I'm thinking that I'll primarily read technical books for at least a month and then assess from there. I like pulling from a wide variety of books for ideas so I don't want to limit the subjects I read about in the long term. For now though, it's all technical, all the time. It should be a fun experience.
 
 ![React Logo](https://farm5.staticflickr.com/4755/28414757859_8018e24a12.jpg)
 
@@ -14,15 +14,15 @@ categories: Dev-eryday
 Finished
 --------
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Clean Architecture: Patterns, Practices, and Principles][ca]
 
-**Book(s):** ** 
+**Book(s):** *[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman][ap]*
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [Clean Architecture: Patterns, Practices, and Principles][ca]
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], 
 
-**Book(s):** *[C# 7.0 in a Nutshell][nut]*, *[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman][ap]*
+**Book(s):** *[C# 7.0 in a Nutshell][nut]*, 
 
 On the Next...
 --------
