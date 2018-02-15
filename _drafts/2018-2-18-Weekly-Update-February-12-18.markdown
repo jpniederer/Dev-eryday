@@ -5,11 +5,11 @@ date: 2018-2-18 11:05:00 +0000
 categories: Dev-eryday
 ---
 
-I'm thinking about starting to cut back my reading to focus more on technical books for a while. This week I finished *[Apprenticeship Patterns][ap]* and it's got me inspired to step my technical game up. I'm thinking that I'll primarily read technical books for at least a month and then assess from there. I like pulling from a wide variety of books for ideas so I don't want to limit the subjects I read about in the long term. For now though, it's all technical, all the time. It should be a fun experience.
+I'm thinking about starting to cut back my reading to focus more on technical books for a while. This week I finished *[Apprenticeship Patterns][ap]* and it's got me inspired to step my technical game up. I'm thinking that I'll primarily read technical books for at least a month and then assess from there. I like pulling from a wide variety of books for ideas though, so I probably won't limit the subjects I read about for the long term. For now it's all technical, all the time. It should be a fun experience.
 
 ![React Logo](https://farm5.staticflickr.com/4755/28414757859_8018e24a12.jpg)
 
-
+I spent a lot of time on [Quizlet][ql] this week. I've known about the site for a while, but I hadn't really taken advantage of it until now. The site is extremely well made. I made a study deck over some terms related to nuclear reactors for some stuff I'm learning for work and it's really helping me gain an understanding of what I need to know. In fact, this experience has went so well, I think I'll make it a point in future to create decks around anything I want to learn. Making flash cards to learn is like test-driven learning.
 
 Finished
 --------
@@ -44,3 +44,4 @@ On the Next...
 [pbp]: https://app.pluralsight.com/library/courses/play-by-play-packaging-deploying-real-world-asp-dont-net-core-app/table-of-contents
 [ca]: https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles/table-of-contents
 [ap]: https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382/
+[ql]: https://quizlet.com/
