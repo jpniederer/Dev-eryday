@@ -14,7 +14,7 @@ I spent a lot of time on [Quizlet][ql] this week. I've known about the site for 
 Finished
 --------
 
-**Pluralsight Course(s):** [Clean Architecture: Patterns, Practices, and Principles][ca]
+**Pluralsight Course(s):** [Clean Architecture: Patterns, Practices, and Principles][ca], [Entity Framework Core 2: Getting Started][efc]
 
 **Book(s):** *[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman][ap]*
 
@@ -45,3 +45,4 @@ On the Next...
 [ca]: https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles/table-of-contents
 [ap]: https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382/
 [ql]: https://quizlet.com/
+[efc]: https://app.pluralsight.com/library/courses/entity-framework-core-2-getting-started/table-of-contents
