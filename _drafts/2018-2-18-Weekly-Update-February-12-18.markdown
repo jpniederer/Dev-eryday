@@ -20,9 +20,9 @@ Finished
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], 
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [React 16 - The Complete Guide][re]
 
-**Book(s):** *[C# 7.0 in a Nutshell][nut]*, 
+**Book(s):** *[C# 7.0 in a Nutshell][nut]*, *[Working Effectively with Legacy Code][lc]*
 
 On the Next...
 --------
@@ -31,7 +31,7 @@ On the Next...
 
 [fun]: https://app.pluralsight.com/library/courses/making-functional-csharp/table-of-contents
 [rul]: https://www.amazon.com/12-Rules-Life-Antidote-Chaos-ebook/dp/B01FPGY5T0/
-[red]: https://app.pluralsight.com/library/courses/redux-fundamentals/table-of-contents
+[re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [secure]: https://app.pluralsight.com/library/courses/asp-dotnet-core-oauth2-openid-connect-securing/table-of-contents
 [core2]: https://app.pluralsight.com/library/courses/asp-dot-net-core-oauth/table-of-contents
@@ -46,3 +46,4 @@ On the Next...
 [ap]: https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382/
 [ql]: https://quizlet.com/
 [efc]: https://app.pluralsight.com/library/courses/entity-framework-core-2-getting-started/table-of-contents
+[lc]: https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/
