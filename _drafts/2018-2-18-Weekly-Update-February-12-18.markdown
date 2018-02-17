@@ -7,7 +7,7 @@ categories: Dev-eryday
 
 I'm thinking about starting to cut back my reading to focus more on technical books for a while. This week I finished *[Apprenticeship Patterns][ap]* and it's got me inspired to step my technical game up. I'm thinking that I'll primarily read technical books for at least a month and then assess from there. I like pulling from a wide variety of books for ideas though, so I probably won't limit the subjects I read about for the long term. For now it's all technical, all the time. It should be a fun experience.
 
-![React Logo](https://farm5.staticflickr.com/4755/28414757859_8018e24a12.jpg)
+![Reading List](https://farm5.staticflickr.com/4744/38515072600_54e3b5c5aa_z.jpg)
 
 I spent a lot of time on [Quizlet][ql] this week. I've known about the site for a while, but I hadn't really taken advantage of it until now. The site is extremely well made. I made a study deck over some terms related to nuclear reactors for some stuff I'm learning for work and it's really helping me gain an understanding of what I need to know. In fact, this experience has went so well, I think I'll make it a point in future to create decks around anything I want to learn. Making flash cards to learn is like test-driven learning.
 
@@ -26,7 +26,7 @@ Currents
 
 On the Next...
 --------
-
+To start the technical reading, I began reading Michael Feathers' classic, *Working Effectively with Legacy Code*. I've heard nothing but good things about the book and its opening chapters have lived up to its lofty reputation. Feathers deems any code that doesn't have tests as legacy code. This assessment is open to debate, but it makes a lot of sense. Not having tests for a piece of functionality makes modifying the code in any way a non-trivial task. Since the tasks are harder to achieve, it makes developers ill-equiped to make the desired changes. I'm hoping to read through the book and take away as many lessons as I can.
 
 
 [fun]: https://app.pluralsight.com/library/courses/making-functional-csharp/table-of-contents
