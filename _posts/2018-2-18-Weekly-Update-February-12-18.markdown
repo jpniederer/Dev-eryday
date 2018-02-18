@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update: February 12 - 18, 2018"
-date: 2018-2-18 11:05:00 +0000
+date: 2018-2-18 18:00:00 +0000
 categories: Dev-eryday
 ---
 
@@ -26,7 +26,7 @@ Currents
 
 On the Next...
 --------
-To start the technical reading, I began reading Michael Feathers' classic, *Working Effectively with Legacy Code*. I've heard nothing but good things about the book and its opening chapters have lived up to its lofty reputation. Feathers deems any code that doesn't have tests as legacy code. This assessment is open to debate, but it makes a lot of sense. Not having tests for a piece of functionality makes modifying the code in any way a non-trivial task. Since the tasks are harder to achieve, it makes developers ill-equiped to make the desired changes. I'm hoping to read through the book and take away as many lessons as I can.
+To start the technical reading, I began reading Michael Feathers' classic, *Working Effectively with Legacy Code*. I've heard nothing but good things about the book and its opening chapters have lived up to its lofty reputation. Feathers deems any code that doesn't have tests as legacy code. This assessment is open to debate, but it makes a lot of sense. Not having tests for a piece of functionality makes modifying the code in any way a non-trivial task. Since the tasks are harder to complete, it makes developers ill-equiped to make the desired changes. I'm hoping to read through the book this week and take away as many lessons as I can.
 
 
 [fun]: https://app.pluralsight.com/library/courses/making-functional-csharp/table-of-contents
