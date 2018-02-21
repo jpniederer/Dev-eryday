@@ -5,7 +5,7 @@ date: 2018-2-25 18:00:00 +0000
 categories: Dev-eryday
 ---
 
-
+I don't know if I'll ever get used to the cadence of four day holiday work weeks. There's five or so of them each year and each time they come around it feels strange.
 
 ![Reading List](https://farm5.staticflickr.com/4744/38515072600_54e3b5c5aa_z.jpg)
 
