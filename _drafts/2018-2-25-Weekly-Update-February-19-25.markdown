@@ -27,6 +27,7 @@ Currents
 On the Next...
 --------
 
+I want to complete *Working Effectively with Legacy Code* this week. I'm halfway through it now and I think I should be able to finish it.
 
 
 [fun]: https://app.pluralsight.com/library/courses/making-functional-csharp/table-of-contents
