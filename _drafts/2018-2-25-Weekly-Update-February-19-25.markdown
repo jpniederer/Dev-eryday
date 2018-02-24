@@ -14,7 +14,7 @@ I spent a lot of time this week reading *Working Effectively with Legacy Code*. 
 Finished
 --------
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Functional-Lite Programming][fl]
 
 **Book(s):** 
 
@@ -30,6 +30,7 @@ On the Next...
 I want to complete *Working Effectively with Legacy Code* this week. I'm halfway through it now and I think I should be able to finish it.
 
 
+[fl]: https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents
 [fun]: https://app.pluralsight.com/library/courses/making-functional-csharp/table-of-contents
 [rul]: https://www.amazon.com/12-Rules-Life-Antidote-Chaos-ebook/dp/B01FPGY5T0/
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
