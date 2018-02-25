@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Weekly Update: February 19 - 25, 2018"
-date: 2018-2-25 18:00:00 +0000
+date: 2018-2-25 10:40:00 +0000
 categories: Dev-eryday
 ---
 
-I don't know if I'll ever get used to the cadence of four day holiday work weeks. There's five or so of them each year and every time they come around it feels strange. With Monday being President's Day, a national holiday, a lot of people got a quick four day work week. Don't get me wrong, I enjoy getting Mondays off, these four day weeks just have a different vibe. Maybe I'll get used to them by the time I retire.
+I don't know if I'll ever get used to the cadence of four-day holiday work weeks. There's five or so of them each year and every time they come around it feels strange. With Monday being President's Day, a national holiday, a lot of people got a quick four-day work week. Don't get me wrong, I enjoy getting Mondays off, but these four-day weeks just have a different vibe. Maybe I'll get used to them by the time I retire.
 
 ![Dev-eryday](https://farm5.staticflickr.com/4654/38655325360_01acdb57fc_z.jpg)
 
-I spent a lot of time this week reading *Working Effectively with Legacy Code*. I'm learning a lot by going through it. A lot of the ideas I've read about so far are seem to be natural practices. Things like sprout method/class and wrap method/class beautifully summarized techniques that I've aimed to use when editing legacy code. My guess is that these ideas have spread throughout the development community to the point of ubiquity. These ideas have spread so far that they seem natural at this point.
+I spent a lot of time this week reading *Working Effectively with Legacy Code*. I'm learning a lot by going through it. A lot of the ideas I've read about so far seem to be natural practices. Things like sprout method/class and wrap method/class beautifully summarized techniques that I've aimed to use when editing legacy code. My guess is that these ideas have spread throughout the development community to the point of ubiquity. These ideas have spread so far that they seem natural at this point.
 
 Finished
 --------
