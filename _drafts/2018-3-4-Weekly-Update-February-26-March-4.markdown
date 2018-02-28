@@ -14,15 +14,15 @@ categories: Dev-eryday
 Finished
 --------
 
-**Pluralsight Course(s):** [Functional-Lite Programming][fl]
+**Pluralsight Course(s):** [Machine Learning and Microsoft Cognitive Services][mlms]
 
-**Book(s):** *[C# 7.0 in a Nutshell][nut]*
+**Book(s):** *[Working Effectively with Legacy Code][lc]*
 
 Currents
 --------
 **Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [React 16 - The Complete Guide][re]
 
-**Book(s):** *[Working Effectively with Legacy Code][lc]*
+**Book(s):** 
 
 On the Next...
 --------
@@ -49,3 +49,4 @@ On the Next...
 [ql]: https://quizlet.com/
 [efc]: https://app.pluralsight.com/library/courses/entity-framework-core-2-getting-started/table-of-contents
 [lc]: https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/
+[mlms]: https://app.pluralsight.com/library/courses/microsoft-cognitive-services-machine-learning/table-of-contents
