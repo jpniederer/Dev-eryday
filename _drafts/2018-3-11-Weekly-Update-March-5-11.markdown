@@ -12,7 +12,7 @@ categories: Dev-eryday
 Finished
 --------
 
-**Pluralsight Course(s):** [Building Layouts with the CSS Grid][grid]
+**Pluralsight Course(s):** [Building Layouts with the CSS Grid][grid], [Client Side React Router 4][ro]
 
 **Book(s):** *[Working Effectively with Legacy Code][lc]*
 
@@ -51,3 +51,4 @@ On the Next...
 [di]: https://www.manning.com/books/dependency-injection-in-dot-net
 [grid]: https://app.pluralsight.com/library/courses/building-layouts-css-grid/table-of-contents
 [sb]: https://www.sketchbook.com/
+[ro]: https://app.pluralsight.com/library/courses/client-side-react-router-4/table-of-contents
