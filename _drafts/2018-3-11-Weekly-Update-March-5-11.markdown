@@ -18,7 +18,7 @@ Finished
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [React 16 - The Complete Guide][re], 
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [React 16 - The Complete Guide][re], [Good Parts of JavaScript and the Web][gp]
 
 **Book(s):** *[Dependency Injection in .NET][di]*
 
@@ -52,3 +52,4 @@ On the Next...
 [grid]: https://app.pluralsight.com/library/courses/building-layouts-css-grid/table-of-contents
 [sb]: https://www.sketchbook.com/
 [ro]: https://app.pluralsight.com/library/courses/client-side-react-router-4/table-of-contents
+[gp]: https://app.pluralsight.com/library/courses/good-parts-javascript-web/discussion
