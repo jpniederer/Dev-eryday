@@ -14,7 +14,7 @@ Finished
 
 **Pluralsight Course(s):** [Building Layouts with the CSS Grid][grid], [Client Side React Router 4][ro]
 
-**Book(s):** *[Working Effectively with Legacy Code][lc]*
+**Book(s):** *[Old Man and the Sea][sea]*
 
 Currents
 --------
@@ -53,3 +53,4 @@ On the Next...
 [sb]: https://www.sketchbook.com/
 [ro]: https://app.pluralsight.com/library/courses/client-side-react-router-4/table-of-contents
 [gp]: https://app.pluralsight.com/library/courses/good-parts-javascript-web/discussion
+[os]: https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway-ebook/dp/B000FC0SH8/
