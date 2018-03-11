@@ -4,10 +4,11 @@ title:  "Weekly Update: March 5 - 11, 2018"
 date: 2018-3-11 15:23:00 +0000
 categories: Dev-eryday
 ---
-
-
+With Daylight Savings Time starting up today, this week was an hour shorter than normal. An hour isn't that big of a deal but it definitely makes the week after a little bit harder than normal. Even though I might prefer a normal week, 167 hours is more than enough time to get a lot done.
 
 ![Dev-eryday](https://farm5.staticflickr.com/4604/39706428715_83a4cd30b0.jpg)
+
+I didn't stick to my "only reading technical books" practice this week. On Friday I felt like reading some fiction so I picked up Ernest Hemingway's *The Old Man and the Sea*. Reading tech books is good, but variety is needed. It's also nice to be able to finish boks in a reasonable amount of time, that isn't always possible with dense manuals. Coming in at around 100 pages, 59 in the ebook copy I was reading, I was done with Hemingway's classic before lunch on Saturday. It's a beautiful story and I'm glad I read it. The old man's struggle with the catch of a lifetime is symbolic of the battles we all face. The task of catching the big one will be hard, but delivering it to the shore may prove to be even more difficult. My biggest take away was how much the old man could've used another helping hand aboard the boat. Keeping the sharks at bay isn't a challenge I'd want to take on alone.
 
 Finished
 --------
@@ -25,7 +26,7 @@ Currents
 On the Next...
 --------
 
-
+I'm going to read a significant portion of *Dependency Injection in .NET* this week. I'm about a quarter of the way through it right now and it's a remarkable book. Moving away from "newing" up new objects when we need them towards letting the Dependency Injection Container handle it is a powerful idea. I really enjoyed the description of DI Containers work in chapter three.  There's a flowchart that lays out the process in a simplified manner. In short, the flow goes like this: the container will recursively search for types that can be created until it can build out the entire object tree. It's pretty cool. This week I'll dig further into DI patterns and refactoring towards designs that utilize DI.
 
 
 [fl]: https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents
