@@ -5,6 +5,7 @@ date: 2018-3-18 15:23:00 +0000
 categories: Dev-eryday
 ---
 
+Lots of .NET this week. Manning was running a sale on a few interesting books so I ended up purchasing *[ASP.NET Core in Action][act]*. I'm already quite familiar with ASP.NET Core, but it is great to have a deep book on the topic. Until now, I've only learned about ASP.NET Core through the official [docs][msdn], Pluralsight courses, blogs, various open source projects, and writing code myself. You might be thinking to yourself, "that's more than enough sources already, what do you need a book for?" Realistically, I don't need the book but reading through first five chapters has been beneficial. Having so many details in one place has clarified a few things regarding middleware and the request flow. I'm sure the book will continue to reward me in the coming months.
 
 ![Dev-eryday](https://farm5.staticflickr.com/4604/39706428715_83a4cd30b0.jpg)
 
@@ -21,7 +22,7 @@ Currents
 --------
 **Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [React 16 - The Complete Guide][re], [Good Parts of JavaScript and the Web][gp]
 
-**Book(s):** *[Dependency Injection in .NET][di]*
+**Book(s):** *[Dependency Injection in .NET][di]*, *[ASP.NET Core in Action][act]*
 
 On the Next...
 --------
@@ -54,4 +55,5 @@ On the Next...
 [sb]: https://www.sketchbook.com/
 [ro]: https://app.pluralsight.com/library/courses/client-side-react-router-4/table-of-contents
 [gp]: https://app.pluralsight.com/library/courses/good-parts-javascript-web/discussion
-[os]: https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway-ebook/dp/B000FC0SH8/
+[act]: https://www.manning.com/books/asp-dot-net-core-in-action
+[msdn]: https://docs.microsoft.com/en-us/aspnet/core/
