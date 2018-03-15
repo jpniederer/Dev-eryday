@@ -14,7 +14,7 @@ Lots of .NET this week. Manning was running a sale on a few interesting books so
 Finished
 --------
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [ASP.NET Core Identity Deep Dive][idd]
 
 **Book(s):** 
 
@@ -29,7 +29,7 @@ On the Next...
 
 
 
-
+[idd]: https://app.pluralsight.com/library/courses/aspdotnet-core-identity-deep-dive/table-of-contents
 [fl]: https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents
 [fun]: https://app.pluralsight.com/library/courses/making-functional-csharp/table-of-contents
 [rul]: https://www.amazon.com/12-Rules-Life-Antidote-Chaos-ebook/dp/B01FPGY5T0/
