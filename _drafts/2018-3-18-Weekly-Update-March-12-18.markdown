@@ -9,20 +9,20 @@ Lots of .NET this week. Manning was running a sale on a few interesting books so
 
 ![Dev-eryday](https://farm5.staticflickr.com/4604/39706428715_83a4cd30b0.jpg)
 
-
+I wrapped up my journey through *[Dependency Injection in .NET][di]*, I finished all of the DI content at least. The last section of the book, almost 200 pages, covers specific DI containers. Rather than go through these section, I'm thinking I'll go straight to the documentation for them. The version of the book that I have was published in 2012 so my guess is that quite a bit has changed since then with each of the featured containers. For now, I'm using the [documentation][coredi] on MSDN to get familar with the DI best practices within .NET Core. 
 
 Finished
 --------
 
 **Pluralsight Course(s):** [ASP.NET Core Identity Deep Dive][idd]
 
-**Book(s):** 
+**Book(s):** *[Dependency Injection in .NET][di]*
 
 Currents
 --------
 **Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [React 16 - The Complete Guide][re], [Good Parts of JavaScript and the Web][gp]
 
-**Book(s):** *[Dependency Injection in .NET][di]*, *[ASP.NET Core in Action][act]*
+**Book(s):** *[ASP.NET Core in Action][act]*
 
 On the Next...
 --------
@@ -57,3 +57,4 @@ On the Next...
 [gp]: https://app.pluralsight.com/library/courses/good-parts-javascript-web/discussion
 [act]: https://www.manning.com/books/asp-dot-net-core-in-action
 [msdn]: https://docs.microsoft.com/en-us/aspnet/core/
+[coredi]: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection#using-framework-provided-services
