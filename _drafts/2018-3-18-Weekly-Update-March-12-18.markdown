@@ -9,7 +9,7 @@ Lots of .NET this week. Manning was running a sale on a few interesting books so
 
 ![Dev-eryday](https://farm5.staticflickr.com/4604/39706428715_83a4cd30b0.jpg)
 
-I wrapped up my journey through *[Dependency Injection in .NET][di]*, I finished all of the DI content at least. The last section of the book, almost 200 pages, covers specific DI containers. Rather than go through these section, I'm thinking I'll go straight to the documentation for them. The version of the book that I have was published in 2012 so my guess is that quite a bit has changed since then with each of the featured containers. For now, I'm using the [documentation][coredi] on MSDN to get familar with the DI best practices within .NET Core. 
+I wrapped up my journey through *[Dependency Injection in .NET][di]*, I finished all of the standard DI content at least. The last section of the book, almost 200 pages, covers specific DI containers. Rather than go through these sections, I'm thinking I'll go straight to the documentation for them if I need to learn about the specific containers. The version of the book that I have was published in 2012 so my guess is that quite a bit has changed since then with each of the featured containers. For now, I'm using the [documentation][coredi] on MSDN to get familar with the DI best practices within .NET Core. 
 
 Finished
 --------
