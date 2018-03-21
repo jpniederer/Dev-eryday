@@ -15,7 +15,7 @@ Finished
 
 **Pluralsight Course(s):** 
 
-**Book(s):** 
+**Book(s):** *[Once Upon an Algorithm: How Stories Explain Computing][once]*
 
 Currents
 --------
@@ -57,3 +57,4 @@ On the Next...
 [act]: https://www.manning.com/books/asp-dot-net-core-in-action
 [msdn]: https://docs.microsoft.com/en-us/aspnet/core/
 [coredi]: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection#using-framework-provided-services
+[once]: https://www.amazon.com/Once-Upon-Algorithm-Stories-Computing/dp/0262036630
