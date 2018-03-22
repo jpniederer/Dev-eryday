@@ -5,6 +5,9 @@ date: 2018-3-25 13:30:00 +0000
 categories: Dev-eryday
 ---
 
+It's rare to find a book that can take a complex ideas about math or algorithms and convincingly tie into stories that can be read for pleasure. One of my favorite books of all time, *[Godel, Escher, and Bach: An Eternal Golden Braid][geb]* by Douglas Hofstader, did this better than any book I've ever come across. The way Hofstader was able to tie so many ideas into vignettes featuring Lewis Carroll's [tortoise and Achilles][hare] will always astound me. So inventive, enjoyable, and enlightening at the same time. 
+
+This week I read *[Once Upon an Algorithm][once]* by Martin Erwig. *Once Upon an Algorithm* (OUA) is cut from the same cloth as *Godel, Escher, and Bach* (GEB). OUA doesn't feature the same breadth of topics as GEB, but the way it explains the basic concepts of algorithms and the foundations of computing through famous stories is inventive, enjoyable, and at times enlightening. The book's coverage of ideas from computing is accessible and engaging. My favorite portion of the book is how it teaches control structures and loops via *Groundhog Day*. *Once Upon an Algorithm* would be a great addition to any introductory Computer Science course's reading list, I wish I had it back when I was starting to learn this stuff.
 
 ![Feelrz](https://farm1.staticflickr.com/801/25992868447_57bea37137.jpg>)
 
@@ -27,7 +30,8 @@ On the Next...
 --------
 
 
-
+[hare]: https://en.wikipedia.org/wiki/What_the_Tortoise_Said_to_Achilles
+[geb]: https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/
 [idd]: https://app.pluralsight.com/library/courses/aspdotnet-core-identity-deep-dive/table-of-contents
 [fl]: https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents
 [fun]: https://app.pluralsight.com/library/courses/making-functional-csharp/table-of-contents
