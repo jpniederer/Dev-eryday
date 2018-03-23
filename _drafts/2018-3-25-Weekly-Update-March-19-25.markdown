@@ -16,13 +16,13 @@ This week I read *[Once Upon an Algorithm][once]* by Martin Erwig. *Once Upon an
 Finished
 --------
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Good Parts of JavaScript and the Web][gp]
 
 **Book(s):** *[Once Upon an Algorithm: How Stories Explain Computing][once]*
 
 Currents
 --------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [React 16 - The Complete Guide][re], [Good Parts of JavaScript and the Web][gp]
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [React 16 - The Complete Guide][re]
 
 **Book(s):** *[ASP.NET Core in Action][act]*
 
