@@ -5,13 +5,13 @@ date: 2018-3-25 13:30:00 +0000
 categories: Dev-eryday
 ---
 
-It's rare to find a book that can take a complex ideas about math or algorithms and convincingly tie into stories that can be read for pleasure. One of my favorite books of all time, *[Godel, Escher, and Bach: An Eternal Golden Braid][geb]* by Douglas Hofstader, did this better than any book I've ever come across. The way Hofstader was able to tie so many ideas into vignettes featuring Lewis Carroll's [tortoise and Achilles][hare] will always astound me. So inventive, enjoyable, and enlightening at the same time. 
+It's rare to find a book that can take a complex ideas about math or algorithms and convincingly tie into stories that can be read for pleasure. One of my favorite books of all time, *[Godel, Escher, and Bach: An Eternal Golden Braid][geb]* by Douglas Hofstader, did this better than any book I've ever come across. The way Hofstader was able to tie so many ideas into vignettes featuring Lewis Carroll's [Tortoise and Achilles][hare] will always astound me. So inventive, enjoyable, and enlightening at the same time. 
 
 This week I read *[Once Upon an Algorithm][once]* by Martin Erwig. *Once Upon an Algorithm* (OUA) is cut from the same cloth as *Godel, Escher, and Bach* (GEB). OUA doesn't feature the same breadth of topics as GEB, but the way it explains the basic concepts of algorithms and the foundations of computing through famous stories is inventive, enjoyable, and at times enlightening. The book's coverage of ideas from computing is accessible and engaging. My favorite portion of the book is how it teaches control structures and loops via *Groundhog Day*. *Once Upon an Algorithm* would be a great addition to any introductory Computer Science course's reading list, I wish I had it back when I was starting to learn this stuff.
 
 ![Feelrz](https://farm1.staticflickr.com/801/25992868447_57bea37137.jpg>)
 
-
+I read a lot of *[ASP.NET Core in Action][act]*. Digging in deeply to ASP.NET Core has solidified my knowledge of .NET Core's web development solution. .NET Core is doing a lot of things right and I'm enjoying my time with it. 
 
 Finished
 --------
