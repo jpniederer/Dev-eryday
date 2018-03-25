@@ -11,7 +11,7 @@ This week I read *[Once Upon an Algorithm][once]* by Martin Erwig. *Once Upon an
 
 ![Feelrz](https://farm1.staticflickr.com/801/25992868447_57bea37137.jpg>)
 
-I read a lot of *[ASP.NET Core in Action][act]*. Digging in deeply to ASP.NET Core has solidified my knowledge of .NET Core's web development solution. .NET Core is doing a lot of things right and I'm enjoying my time with it. 
+I read a lot of *[ASP.NET Core in Action][act]*. Digging in deeply to ASP.NET Core has solidified my knowledge of .NET Core's web development solution. .NET Core is doing a lot of things right and I'm enjoying my time with it. There a few conventions that are different in core than the old MVC project from regular .NET. The book is a good way identify these differences from the ground up.
 
 Finished
 --------
@@ -29,6 +29,7 @@ Currents
 On the Next...
 --------
 
+I'm going to take it easy this week. MLB is starting back up so it's a good time to take a little break. I'll still be learning, but maybe not pushing quite as hard.
 
 [hare]: https://en.wikipedia.org/wiki/What_the_Tortoise_Said_to_Achilles
 [geb]: https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/
