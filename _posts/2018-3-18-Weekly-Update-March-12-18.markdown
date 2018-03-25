@@ -7,7 +7,7 @@ categories: Dev-eryday
 
 Lots of .NET this week. Manning was running a sale on a few interesting books so I ended up purchasing *[ASP.NET Core in Action][act]*. I'm already quite familiar with ASP.NET Core, but it is great to have a deep book on the topic. Until now, I've only learned about ASP.NET Core through the official [docs][msdn], Pluralsight courses, blogs, various open source projects, and writing code myself. You might be thinking to yourself, "that's more than enough sources already, what do you need a book for?" Realistically, I don't need the book but reading through first five chapters has been beneficial. Having so many details in one place has clarified a few things regarding middleware and the request flow. I'm sure the book will continue to reward me in the coming months.
 
-![Feelrz](https://farm1.staticflickr.com/801/25992868447_57bea37137.jpg>)
+![Feelrz](https://farm1.staticflickr.com/801/25992868447_57bea37137.jpg)
 
 I wrapped up my journey through *[Dependency Injection in .NET][di]*, I finished all of the standard DI content at least. The last section of the book, almost 200 pages, covers specific DI containers. Rather than go through these sections, I'm thinking I'll go straight to the documentation for them if I need to learn about the specific containers. The version of the book that I have was published in 2012 so my guess is that quite a bit has changed since then with each of the featured containers. For now, I'm using the [documentation][coredi] on MSDN to get familiar with the DI best practices within .NET Core. 
 
