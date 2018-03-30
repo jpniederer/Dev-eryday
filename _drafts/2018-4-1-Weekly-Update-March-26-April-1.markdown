@@ -5,28 +5,23 @@ date: 2018-3-18 13:30:00 +0000
 categories: Dev-eryday
 ---
 
-
+The 2018 Major League Baseball season started up this week. That means that my focus on Dev-eryday will take a back seat for a little while. I will still have a lot of time to to move forward with my extracurriculars though, just not as much as I have during the offseason. My favorite team, the Chicago Cubs, started their season off in style by beating the Miami Marlins. 2018 is shaping up to be another good year for the Cubs. I'm predicting they'll win 98+ games and could win their second World Series in the last three years. This team looks special.
 
 ![Feelrz](https://farm1.staticflickr.com/801/25992868447_57bea37137.jpg)
 
-
-
-Finished
---------
+## Finished
 
 **Pluralsight Course(s):** [ES6: The Right Parts][es6]
 
-**Book(s):** *[ASP.NET Core in Action][act]*
+**Book(s):** _[ASP.NET Core in Action][act]_
 
-Currents
---------
-**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [React 16 - The Complete Guide][re]
+## Currents
 
-**Book(s):** *[East of Eden][eden]*
+**Pluralsight Course(s):** [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [React 16 - The Complete Guide][re]
 
-On the Next...
---------
+**Book(s):** _[East of Eden][eden]_
 
+## On the Next...
 
 [eden]: https://www.amazon.com/East-Penguin-Twentieth-Century-Classics/dp/0140186395/
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
