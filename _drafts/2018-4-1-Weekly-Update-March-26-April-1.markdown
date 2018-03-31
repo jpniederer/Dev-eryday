@@ -9,6 +9,8 @@ The 2018 Major League Baseball season started up this week. That means that my f
 
 ![Feelrz](https://farm1.staticflickr.com/801/25992868447_57bea37137.jpg)
 
+Beyond baseball, I spent a good amount of time looking through some of the contents in the [awesome-dotnet-core][awe] repo on GitHub. The repo is full of cool links related to .NET Core. It's amazing how much great work the community is creating. We're so lucky as developers today to be able to have such an amazing collection of code available. The only thing bad about lists like this is finding enough time to research all interesting content. I'm sure it'll all be obsolete by the time I get through all of it.
+
 ## Finished
 
 **Pluralsight Course(s):** [ES6: The Right Parts][es6]
@@ -32,3 +34,4 @@ The 2018 Major League Baseball season started up this week. That means that my f
 [msdn]: https://docs.microsoft.com/en-us/aspnet/core/
 [coredi]: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection#using-framework-provided-services
 [es6]: https://app.pluralsight.com/library/courses/es6-the-right-parts/table-of-contents
+[awe]: https://github.com/thangchung/awesome-dotnet-core
