@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update: March 26 - April 1, 2018"
-date: 2018-3-18 13:30:00 +0000
+date: 2018-3-18 11:40:00 +0000
 categories: Dev-eryday
 ---
 
@@ -25,9 +25,9 @@ Beyond baseball, I spent a good amount of time looking through some of the conte
 
 ## On the Next...
 
-I'm going to read some fiction this week. I started John Steinbeck's *East of Eden* and it's great so far. Hopefully I'll find the time to finish it.
+I'm going to read some fiction this week. I started John Steinbeck's *East of Eden* and it's great so far. Hopefully I'll find the time to finish it this week.
 
-Beyond reading, I've working on creating the IdeaListz app I've been writing about for what seems like forever. It's going well but I'm only just starting to get momentum on it. The plan is to keep making progress each day and see how far I can get.
+Beyond reading, I've been working on creating the IdeaListz app I've been writing about for what seems like forever. It's going well but I'm only just starting to get momentum on it. The plan is to keep making progress each day and see how far I can get.
 
 [eden]: https://www.amazon.com/East-Penguin-Twentieth-Century-Classics/dp/0140186395/
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
