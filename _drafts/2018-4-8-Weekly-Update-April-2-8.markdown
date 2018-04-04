@@ -5,7 +5,7 @@ date: 2018-4-8 11:40:00 +0000
 categories: Dev-eryday
 ---
 
-
+I've had  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure] in my Current Pluralsight Courses for way too long. After several months of having it in my list, I was finally able to finish the course this week. I don't know why I got away from it for so long, but it's a course that's well worth viewing. Since I orginally started the course, I have come a long way in my knowledge of [IdentityServer4][is4], the token provider featured in the course.
 
 ![Cubs](https://farm1.staticflickr.com/885/40432510274_2046abe187.jpg)
 
@@ -13,13 +13,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure] 
 
 **Book(s):** 
 
 ## Currents
 
-**Pluralsight Course(s):** [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure], [React 16 - The Complete Guide][re]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re]
 
 **Book(s):** *[East of Eden][eden]*
 
@@ -36,3 +36,4 @@ categories: Dev-eryday
 [coredi]: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection#using-framework-provided-services
 [es6]: https://app.pluralsight.com/library/courses/es6-the-right-parts/table-of-contents
 [awe]: https://github.com/thangchung/awesome-dotnet-core
+[is4]: http://docs.identityserver.io/en/release/
