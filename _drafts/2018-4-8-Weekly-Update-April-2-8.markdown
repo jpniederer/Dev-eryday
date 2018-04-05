@@ -5,7 +5,7 @@ date: 2018-4-8 11:40:00 +0000
 categories: Dev-eryday
 ---
 
-I've had  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure] in my Current Pluralsight Courses for way too long. After several months of having it in my list, I was finally able to finish the course this week. I don't know why I got away from it for so long, but it's a course that's well worth viewing. Since I orginally started the course, I have come a long way in my knowledge of [IdentityServer4][is4], the token provider featured in the course.
+I've had  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure] in my Current Pluralsight Courses for way too long. After several months of having it in my list, I was finally able to finish the course this week. I don't know why I got away from it for so long, but it's a course that's well worth viewing. I started watching it and kind of forgot about it for the last few months. In the meantime I have come a long way in my knowledge of [IdentityServer4][is4], the token provider featured in the course, which helped me digest the material more easily. It's time to put some of the knowledge into practice.
 
 ![Cubs](https://farm1.staticflickr.com/885/40432510274_2046abe187.jpg)
 
