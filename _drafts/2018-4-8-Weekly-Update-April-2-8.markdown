@@ -15,11 +15,11 @@ I've had  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure] in my C
 
 **Pluralsight Course(s):**  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure] 
 
-**Book(s):** 
+**Book(s):** *[Don't Make Me Think, Revisited][think]*
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Domain-Driven Design: Working with Legacy Projects]
 
 **Book(s):** *[East of Eden][eden]*
 
@@ -37,3 +37,5 @@ I've had  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure] in my C
 [es6]: https://app.pluralsight.com/library/courses/es6-the-right-parts/table-of-contents
 [awe]: https://github.com/thangchung/awesome-dotnet-core
 [is4]: http://docs.identityserver.io/en/release/
+[ddd]: https://app.pluralsight.com/library/courses/domain-driven-design-legacy-projects/table-of-contents
+[think]: https://www.amazon.com/gp/product/0321965515/
