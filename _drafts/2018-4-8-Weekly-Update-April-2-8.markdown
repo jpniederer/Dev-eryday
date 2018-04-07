@@ -9,7 +9,7 @@ I've had  [Securing ASP.NET Core with OAuth2 and OpenID Connect][secure] in my C
 
 ![Cubs](https://farm1.staticflickr.com/885/40432510274_2046abe187.jpg)
 
-
+In addition to improving my system design skills in 2018, I also want to improve my user experience design skills. That's why I read through Steve Krug's *[Don't Make Me Think, Revisited][think]* this week. This is the third version of the book and it was originally released in 2013. I actually read the second edition in 2012, which was quite old at the time, so now was the perfect time to crack open the latest release to both review and refresh the material. The third edition is full tips improve user experience. The material is general enough that it will still be useful years from now.
 
 ## Finished
 
