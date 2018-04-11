@@ -13,7 +13,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):**  
+**Pluralsight Course(s):**  [UI Best Practices Playbook for ASP.NET MVC][ui]
 
 **Book(s):** 
 
@@ -40,3 +40,4 @@ categories: Dev-eryday
 [is4]: http://docs.identityserver.io/en/release/
 [ddd]: https://app.pluralsight.com/library/courses/domain-driven-design-legacy-projects/table-of-contents
 [think]: https://www.amazon.com/gp/product/0321965515/
+[ui]: https://app.pluralsight.com/library/courses/aspdotnet-mvc-ui-best-practices-playbook/table-of-contents
