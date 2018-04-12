@@ -5,7 +5,7 @@ date: 2018-4-15 17:52:00 +0000
 categories: Dev-eryday
 ---
 
-
+It's amazing to read about the about the people at the top of any field. From the best investors to the great writers, there are talented folks who rise to the top of their craft. Software development is no exception. This week I spent a lot of time reading *[Coder's at Work: Reflections on the Craft of Programming][wo]* by Peter Seibel which interviews several such software developers. Though there are many differences between the interview subjects, there are many common threads that lead to success as a coder. It's clear that these developers all share a profound sense of curiosity. It was often common for the interviewees to have started programming while they were young, like they were naturally drawn to the computer.
 
 ![Lessons from Don't Make me Think](https://farm1.staticflickr.com/867/40410975815_99a34bde2f.jpg)
 
@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):**  [UI Best Practices Playbook for ASP.NET MVC][ui]
 
-**Book(s):** 
+**Book(s):** *[Coder's at Work: Reflections on the Craft of Programming][wo]*
 
 ## Currents
 
@@ -41,3 +41,4 @@ categories: Dev-eryday
 [ddd]: https://app.pluralsight.com/library/courses/domain-driven-design-legacy-projects/table-of-contents
 [think]: https://www.amazon.com/gp/product/0321965515/
 [ui]: https://app.pluralsight.com/library/courses/aspdotnet-mvc-ui-best-practices-playbook/table-of-contents
+[wo]: https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/
