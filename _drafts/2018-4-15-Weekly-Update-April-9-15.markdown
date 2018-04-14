@@ -11,6 +11,8 @@ One question that Seibel typically asked the participants stuck with me. The que
 
 ![Lessons from Don't Make me Think](https://farm1.staticflickr.com/867/40410975815_99a34bde2f.jpg)
 
+Outside of reading, I put in some quality time on Pluralsight working through [UI Best Practices Playbook for ASP.NET MVC][ui]. It was interesting to watch this the week after reading through *[Don't Make Me Think, Revisited][think]*. I can't stress it enough, a usable UI can make the difference between having users and not having users. The course covered practical ways ASP.NET MVC applications can be made more user friendly. I feel that the course is effective because it contains a wide selection of use cases and thus covers enough cases that even the most seasoned developer will learn a thing or two. It was nice to follow up the general lessons from *Don't Make Me Think, Revisited* with the more grounded UI Best Practices Playbook for ASP.NET MVC.
+
 
 ## Finished
 
