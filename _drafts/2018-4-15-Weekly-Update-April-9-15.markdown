@@ -5,14 +5,13 @@ date: 2018-4-15 17:52:00 +0000
 categories: Dev-eryday
 ---
 
-It's amazing to read about the about the people at the top of any field. From the best investors to the great writers, there are talented folks who rise to the top of their craft. Software development is no exception. This week I spent a lot of time reading *[Coder's at Work: Reflections on the Craft of Programming][wo]* by Peter Seibel which interviews several such software developers. Though there are many differences between the interview subjects, there are many common threads that lead to success as a coder. It's clear that these developers all share a profound sense of curiosity. It was also common for the interviewees to have started programming while they were young, like they were naturally drawn to the computer.
+It's amazing to read about the the people at the top of any field. From the best investors to the great writers, there are talented folks who rise to the top of their craft. Software development is no exception. This week I spent a lot of time reading *[Coder's at Work: Reflections on the Craft of Programming][wo]* by Peter Seibel which interviews several titans of software development. Though there are many differences between the interview subjects, there are many common threads that lead to success as a coder. It's clear that these developers all share a profound sense of curiosity. It was also common for the interviewees to have started programming while they were young, like they were naturally drawn to the computer. Mostly though the developers seem like normal people. They worked hard and got really good at their craft.
 
-One question that Seibel typically asked the participants stuck with me. The question was about each coder's experience with Donald Knuth's classic series *[The Art of Computer Programming][taocp]*. The series is a vast overview of computer science, and is no walk in the park to work through. I was surprised that the majority not only had Knuth's volumes on their bookshelves, but had also read through the entire set and completed the exercises. Reading through *The Art of Computer Programming* is no small task for anybody, world class developers included. Amazon says that the set has 3168 pages. That means that if I start reading five pages every day I can complete the set in a little under two years. I feel like that would be time well spent.
+One question in particular that Seibel typically asked the participants stuck with me. The question was about each coder's favorite books and their experience with Donald Knuth's classic series *[The Art of Computer Programming][taocp]*. The series is a vast overview of computer science, and is no walk in the park to work through. I was surprised that the majority not only had Knuth's volumes on their bookshelves, but had also read through the entire set and even completed the exercises. Reading through *The Art of Computer Programming* is no small task for anybody, world class developers included. Amazon says that the set has 3168 pages. That means that if I start reading five pages every day I can complete the set in a little under two years. I feel like that would be time well spent. Sure, it will be a struggle, but sometimes that's what you need. Embrace it!
 
-![Lessons from Don't Make me Think](https://farm1.staticflickr.com/867/40410975815_99a34bde2f.jpg)
+![Embrace the Struggle](https://farm1.staticflickr.com/795/40569937985_af647e4b36_z.jpg)
 
 Outside of reading, I put in some quality time on Pluralsight working through [UI Best Practices Playbook for ASP.NET MVC][ui]. It was interesting to watch this the week after reading through *[Don't Make Me Think, Revisited][think]*. I can't stress it enough, a usable UI can make the difference between having users and not having users. The course covered practical ways ASP.NET MVC applications can be made more user friendly. I feel that the course is effective because it contains a wide selection of use cases and thus covers enough cases that even the most seasoned developer will learn a thing or two. It was nice to follow up the general lessons from *Don't Make Me Think, Revisited* with the more grounded UI Best Practices Playbook for ASP.NET MVC.
-
 
 ## Finished
 
@@ -28,7 +27,9 @@ Outside of reading, I put in some quality time on Pluralsight working through [U
 
 ## On the Next...
 
+I'm planning to finish *[East of Eden][eden]* this week. I've been reading John Steinbeck's essential novel for about three weeks now and it's time to wrap it up. The book is outstanding so far. For those who have never read it, *[East of Eden]* is a novel set in the early 1900s following two very different families in the spirit of the story of Cain and Able. The two families, the Trasks and Hamiltons, are connected by circumstance and the book chronicles their lives.
 
+Beyond reading, I'm still plugging away on my IdeaListz web application. I'm probably going to get into some frontend code this week. Last week I made some major strides with the API and backend functionality. Progress is happening daily.
 
 [eden]: https://www.amazon.com/East-Penguin-Twentieth-Century-Classics/dp/0140186395/
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
