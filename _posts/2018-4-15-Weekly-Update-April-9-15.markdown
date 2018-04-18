@@ -21,7 +21,7 @@ Outside of reading, I put in some quality time on Pluralsight working through [U
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Domain-Driven Design: Working with Legacy Projects]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Domain-Driven Design: Working with Legacy Projects][ddd]
 
 **Book(s):** *[East of Eden][eden]*
 
