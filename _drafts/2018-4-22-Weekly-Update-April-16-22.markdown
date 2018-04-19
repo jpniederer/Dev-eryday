@@ -13,7 +13,7 @@ Another week, another great course on Pluralsight. I worked through Vladimir Kho
 
 ## Finished
 
-**Pluralsight Course(s):** [Domain-Driven Design: Working with Legacy Projects][ddd]
+**Pluralsight Course(s):** [Domain-Driven Design: Working with Legacy Projects][ddd], [Visual Studio for Mac][vsm]
 
 **Book(s):** 
 
@@ -28,6 +28,7 @@ Another week, another great course on Pluralsight. I worked through Vladimir Kho
 
 
 [eden]: https://www.amazon.com/East-Penguin-Twentieth-Century-Classics/dp/0140186395/
+[vsm]: https://app.pluralsight.com/library/courses/visual-studio-mac/table-of-contents
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [core]: https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
 [secure]: https://app.pluralsight.com/library/courses/asp-dotnet-core-oauth2-openid-connect-securing/table-of-contents
