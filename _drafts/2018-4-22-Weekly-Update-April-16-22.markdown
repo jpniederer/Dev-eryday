@@ -15,13 +15,13 @@ Another week, another great course on Pluralsight. I worked through Vladimir Kho
 
 **Pluralsight Course(s):** [Domain-Driven Design: Working with Legacy Projects][ddd], [Visual Studio for Mac][vsm]
 
-**Book(s):** 
+**Book(s):** *[East of Eden][eden]*
 
 ## Currents
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
 
-**Book(s):** *[East of Eden][eden]*
+**Book(s):** 
 
 ## On the Next...
 
