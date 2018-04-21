@@ -13,7 +13,7 @@ Another week, another great course on Pluralsight. I worked through Vladimir Kho
 
 ## Finished
 
-**Pluralsight Course(s):** [Domain-Driven Design: Working with Legacy Projects][ddd], [Visual Studio for Mac][vsm]
+**Pluralsight Course(s):** [Domain-Driven Design: Working with Legacy Projects][ddd], [Visual Studio for Mac][vsm], [Play by Play: Modern Web Security Patterns][wsp]
 
 **Book(s):** *[East of Eden][eden]*
 
@@ -44,3 +44,4 @@ Another week, another great course on Pluralsight. I worked through Vladimir Kho
 [ui]: https://app.pluralsight.com/library/courses/aspdotnet-mvc-ui-best-practices-playbook/table-of-contents
 [wo]: https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/
 [taocp]: https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/
+[wsp]: https://app.pluralsight.com/library/courses/play-by-play-modern-web-security-patterns/table-of-contents
