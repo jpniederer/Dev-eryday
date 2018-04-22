@@ -21,11 +21,11 @@ Beyond the Domain Driven Design course I also finished another couple of quick c
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Encapsulation and SOLID][sol]
 
-**Book(s):** 
+**Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*
 
 ## On the Next...
 
-
+Having finally finished reading *East of Eden*, it's time to move away from fiction and back into reading a technical book. Therefore, I'm starting to read *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]* week. The praise coming from reviews over on Amazon is overwhelming and it looks like a great book. In today's world having a continuous delivery system set up for team's project can make a huge difference in terms of delivery agility. It looks like there are a number of valuable lessons to be taken away from the book.
 
 [eden]: https://www.amazon.com/East-Penguin-Twentieth-Century-Classics/dp/0140186395/
 [vsm]: https://app.pluralsight.com/library/courses/visual-studio-mac/table-of-contents
@@ -46,3 +46,4 @@ Beyond the Domain Driven Design course I also finished another couple of quick c
 [taocp]: https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/
 [wsp]: https://app.pluralsight.com/library/courses/play-by-play-modern-web-security-patterns/table-of-contents
 [sol]: https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents
+[cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
