@@ -25,7 +25,7 @@ In addition to improving my system design skills in 2018, I also want to improve
 
 ## On the Next...
 
-It's going to be a pretty standard week. I'm going to continue developing my IdeaListz application. I've been checking in code for it daily to a private Git repository. The development is coming along nicely, but I'm taking it slow. There's no rush to get it live right now. Outside of that, I'm going to probably finish a book and a Pluralsight couse and keep on learning every day. It's going to be another great week.
+It's going to be a pretty standard week. I'm going to continue developing my IdeaListz application. I've been checking in code for it daily to a private Git repository. The development is coming along nicely, but I'm taking it slow. There's no rush to get it live right now. Outside of that, I'm going to probably finish a book and a Pluralsight course and keep on learning every day. It's going to be another great week.
 
 [eden]: https://www.amazon.com/East-Penguin-Twentieth-Century-Classics/dp/0140186395/
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
