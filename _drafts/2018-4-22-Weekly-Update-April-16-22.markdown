@@ -9,7 +9,7 @@ Another week, another great course on Pluralsight. I worked through Vladimir Kho
 
 ![Embrace the Struggle](https://farm1.staticflickr.com/795/40569937985_af647e4b36_z.jpg)
 
-
+Beyond the Domain Driven Design course I also finished another couple of quick courses on Pluralsight. The first was [Visual Studio for Mac][vsm]. It gave a nice overview of Microsoft's Visual Studio IDE offering from the Mac operating system. The IDE is not quite as powerful as the Windows release, but is a great option for any .NET developer interested in using a Mac. The other course I went through was [Play by Play: Modern Web Security Patterns][wsp]. This course talked about a number of tricks web developers can use to increase the safety of their web-based systems. My favorite part was the coverage of content security policies, a way to define the allowed origins of resources allowed on your web pages. CSPs are typically used to prevent Cross Site Scripting attacks. 
 
 ## Finished
 
@@ -19,7 +19,7 @@ Another week, another great course on Pluralsight. I worked through Vladimir Kho
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Encapsulation and SOLID][sol]
 
 **Book(s):** 
 
@@ -45,3 +45,4 @@ Another week, another great course on Pluralsight. I worked through Vladimir Kho
 [wo]: https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/
 [taocp]: https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/
 [wsp]: https://app.pluralsight.com/library/courses/play-by-play-modern-web-security-patterns/table-of-contents
+[sol]: https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents
