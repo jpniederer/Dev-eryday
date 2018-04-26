@@ -13,13 +13,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Encapsulation and SOLID][sol]
 
 **Book(s):** 
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Encapsulation and SOLID][sol]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
 
 **Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*
 
