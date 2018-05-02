@@ -13,9 +13,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** [Encapsulation and SOLID][sol]
+**Pluralsight Course(s):** 
 
-**Book(s)**
+**Book(s)** *[Own the Day, Own Your Life][own]*
 
 ## Currents
 
@@ -32,3 +32,4 @@ categories: Dev-eryday
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
 [bba]: https://app.pluralsight.com/library/courses/angular-aspdotnet-core-business-applications/table-of-contents
 [acc]: https://www.amazon.com/Adaptive-Code-principles-Developer-Practices/dp/1509302581/
+[own]: https://www.amazon.com/Own-Day-Your-Life-Optimized-ebook/dp/B072HLS5QJ/
