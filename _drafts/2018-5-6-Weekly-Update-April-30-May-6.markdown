@@ -13,13 +13,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Building Business Applications with Angular and ASP.NET Core][bba]
 
 **Book(s)** *[Own the Day, Own Your Life][own]*
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Building Business Applications with Angular and ASP.NET Core][bba]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
 
 **Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*
 
