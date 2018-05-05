@@ -5,7 +5,7 @@ date: 2018-5-6 18:14:00 +0000
 categories: Dev-eryday
 ---
 
-
+When the weather starts getting nice, it gets a little harder to sit at the computer. Well, this week the weather got nice. I still put a good amount of time in at the keyboard and reading, but it's nice to finally get ouside again.
 
 ![Growth Pattern](https://farm1.staticflickr.com/967/39953625370_580eb9a784.jpg)
 
