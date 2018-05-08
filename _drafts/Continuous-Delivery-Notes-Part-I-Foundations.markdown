@@ -41,6 +41,24 @@ Chapter 1 is a high level overview of what's to come in the rest of the book. Ke
 
 Chapter 2: Configuration Management
 
+*configuration management* - the process by which all artifacts relevant to your project, and the relationships between them, are stored, retrieved, uniquely identified, and modified.
+
+The first step towards configuration management is to use version control. Version control, sometimes referred to as source control, allows us to capture every change made to a codebase. Every change is traceable and we can revert to any version of the file that came previously. Having an official record of each change allows for teamwork across the codebase. Any file related to the project should be stored in version control. Some popular version control systems you can use today are: [Git][git], [Team Foundation Server][tfs], [Mercurial][mer], [Subversion][svn].
+
+Some High Level Tips for Using Version Control Effectively
+* Keep Everything in Version Control
+* Check In Regularly
+* Prefer Not to Branch
+* Leave Meaningful Commit Messages
+
+Build out a system for managing dependencies. If your code depends on third party libraries or components, be sure to make a copy of all related files for each version. Being able to swap versions in and out as needed is a useful option to have. Exercise caution with checking your dependencies into source control as check in size can baloon.
+
+Application configuration should be handled the same way at every deployment level. Keeping things configurable is a good quality to strive for, but do not let the configuration flexibility kill system usability. Complex configurations are a major painpoint and often lead to code that is difficult to maintain.
+
+Your application configuration values are every bit as important as your code. That means that you should test your configurations and check them in to version control just as you would your code. The same applies to your deployment environment. There needs to be a way to verify and record any changes that are made to your system environments.
+
+The goal of Configuration Management is to be able to recreate your production system easily from scratch, revert to a previous version of the system, and to know that deployment environments are set up in the same way.
+
 Chapter 3: Continuous Integration
 
 Chapter 4: Implementing a Testing Strategy
@@ -48,3 +66,7 @@ Chapter 4: Implementing a Testing Strategy
 Stay tuned for part 2, The Deployment Pipeline.
 
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
+[git]: https://git-scm.com/
+[tfs]: https://www.visualstudio.com/tfs/
+[mer]: https://www.mercurial-scm.org/
+[svn]: https://subversion.apache.org/
