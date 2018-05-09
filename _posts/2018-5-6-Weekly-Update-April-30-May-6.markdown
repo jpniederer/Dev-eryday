@@ -7,7 +7,7 @@ categories: Dev-eryday
 
 When the weather starts getting nice, it gets a little harder to sit at the computer. Well, this week the weather got nice. I still put a good amount of time in at the keyboard and reading, but it's nice to finally get outside again.
 
-I was able to finish [Building Business Applications with Angular and ASP.NET Core][bba]. It's an exceptional course covering ASP.NET Core web services, interfacing with the service using Angular, and using IdentityServer as an IDP. I'm no expert in Angular, but it was nice to get an idea of how applications are built with it. The fact that Angular uses TypeScript by default makes it an intriguing option. I would like to see a similar course put together using React. 
+I was able to finish [Building Business Applications with Angular and ASP.NET Core][bba]. It's an exceptional course covering ASP.NET Core web services, interfacing with the service using Angular, and using IdentityServer as an IDP. I'm no expert in Angular, but it was nice to get an idea of how applications are built with it. The fact that Angular uses TypeScript by default makes it an intriguing option. I would like to see a similar course put together using React.
 
 ## Finished
 
@@ -17,7 +17,7 @@ I was able to finish [Building Business Applications with Angular and ASP.NET Co
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re]
 
 **Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*
 
