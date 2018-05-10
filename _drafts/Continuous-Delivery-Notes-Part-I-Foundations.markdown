@@ -9,9 +9,11 @@ Released in 2010, Jez Humble and Dave Farley's *[Continuous Delivery: Reliable S
 
 Since I'm reading this book, I want to take the time to record some thorough notes so I can come back to them later. It'd also be nice if they helped anyone else gain knowledge too. Therefore, I'm going to record my notes here at Dev-eryday through a series of posts. There will be three total posts, one covering each section from the book. This post covers Part I, Foundations. I'm also considering doing some videos on YouTube where I go over the notes covering a couple of chapters at a time. I think that would be a fun little experiment.
 
-Part I: Foundations
+### Part I: Foundations
 
-Chapter 1: The Problem of Delivering Software
+The first five chapters of the book cover some foundational pieces that make continuous delivery possible. First we'll take a general look at exactly what the problems with delivering software are. Then we'll start digging to concepts like configuration management, continuous integration, and testing strategies.
+
+### Chapter 1: The Problem of Delivering Software
 
 Our goal as professional software developers is to ideas into working software as quick as possible. The aim of *Continuous Delivery* is to introduce to tactics and best practices that can enable us to not only deliver software faster, but to also make it more reliable, supportable, and maintainable.
 
@@ -39,7 +41,7 @@ Some Best Practices for Software Delivery
 
 Chapter 1 is a high level overview of what's to come in the rest of the book. Key points: automate what you can, release often.
 
-Chapter 2: Configuration Management
+### Chapter 2: Configuration Management
 
 *configuration management* - the process by which all artifacts relevant to your project, and the relationships between them, are stored, retrieved, uniquely identified, and modified.
 
@@ -59,9 +61,35 @@ Your application configuration values are every bit as important as your code. T
 
 The goal of Configuration Management is to be able to recreate your production system easily from scratch, revert to a previous version of the system, and to know that deployment environments are set up in the same way.
 
-Chapter 3: Continuous Integration
+### Chapter 3: Continuous Integration
 
-Chapter 4: Implementing a Testing Strategy
+Continuous Integration (CI) is the practice of building the entire system and running through the automated tests after each commit. This practice solves the problem of lengthy integration sprints periodically throughout the project. Rather than performing integration at some scheduled point of the project, integration is performed every step of the way. CI leads to quicker release times, less bugs, and a better sense of how the entire system is coming along.
+
+There are three prequisites for continuous integration. They are:
+1. Version Control
+2. An Automated Build
+3. Agreement of the Team
+
+There are a number of techniques that can be used in order for continous integration to be applied smoothly.
+* Check in Regularly - Frequent check ins keep the code up to date across all members of the team. If big changes are worked on in isolation, it gets tricky when the time comes to get all the pieces working together again. It's also a good practice in general to work in more digestible pieces.
+* Create a Comprehensive Automated Test Suite - Unit tests, component tests, and acceptance tests all help to validate the commit hasn't broken anything. Being able to validate the code base at each commit creates confidence in the work.
+* Keep the Build and Test Process Short - The time it takes to build and test the code cannot hinder development time. When CI takes take too long, it becomes a burden to follow the process and the practice will fall away. A few minutes or less is ideal. As a project grows, it may become necessary to split the build out into multiple phases.
+* Managing Your Development Workspace - Developers should have a reliable development environment where they can run through the same procedures locally. A good approach to solving this is using configuration management. Quality goes up by empowering developers to perform local builds prior to saving code to source control.
+
+Continuous Integration Best Practices
+* Don't Check In on a Broken Build
+* Always Run All Commit Tests Locally Before Committing, or Get Your CI Server to Do It for You
+* Wait for Commit Test to Pass Before Moving On
+* Never Go Home on a Broken Build
+* Always Be Prepared to Revert to the Previous Revision
+* Time-Box Fixing Before Reverting
+* Don't Comment Out Failing Tests
+* Take Responsibility for All Breakages That Result from Your Changes
+* Test-Driven Development
+
+Popular Continuous Integration Software
+
+### Chapter 4: Implementing a Testing Strategy
 
 Stay tuned for part 2, The Deployment Pipeline.
 

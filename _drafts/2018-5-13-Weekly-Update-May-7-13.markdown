@@ -9,7 +9,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Play by Play: JavaScript Security][jss]
 
 **Book(s)** 
 
@@ -17,15 +17,13 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
 
-**Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*
+**Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*, *[Code: The Hidden Language of Computer Hardware and Software][code]*
 
 ## On the Next...
 
 
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
-[sol]: https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
-[bba]: https://app.pluralsight.com/library/courses/angular-aspdotnet-core-business-applications/table-of-contents
-[acc]: https://www.amazon.com/Adaptive-Code-principles-Developer-Practices/dp/1509302581/
-[own]: https://www.amazon.com/Own-Day-Your-Life-Optimized-ebook/dp/B072HLS5QJ/
+[code]: https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2/
+[jss]: https://app.pluralsight.com/library/courses/play-by-play-javascript-security/table-of-contents
