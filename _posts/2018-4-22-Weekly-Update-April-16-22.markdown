@@ -5,7 +5,7 @@ date: 2018-4-22 16:04:00 +0000
 categories: Dev-eryday
 ---
 
-Another week, another great course on Pluralsight. I worked through Vladimir Khorikov's newest content, [Domain-Driven Design: Working with Legacy Projects][ddd]. There's some excellent material here. Throughout the course Khorikov takes a legacy application then extends and modifies it using practices from domain driven design. The key concept that makes all of the refactorings possible is an anticorruption layer. The anticorruption allows us to work on new features without impacting the old ones by creating a way to map from one version to the other.  
+Another week, another great course on Pluralsight. I worked through Vladimir Khorikov's newest content, [Domain-Driven Design: Working with Legacy Projects][ddd]. There's some excellent material here. Throughout the course Khorikov takes a legacy application then extends and modifies it using practices from domain driven design. The key concept that makes all of the refactorings possible is an anticorruption layer. The anticorruption layer allows us to work on new features without impacting the old ones by creating a way to map from one version to the other.  
 
 ![Square the Circle](https://farm1.staticflickr.com/796/40917957534_cbe62b7c3b.jpg)
 
