@@ -107,6 +107,14 @@ Types of Tests
 * Business-Facing Tests That Critique the Project - Tests that put the product in the hands of the users. Users run through the system and evaluate if the software meets their needs.
 * Technology-Facing Tests That Critique the Project - These tests focus on things like system load and environment security. Considerable resources are usually needed to set these tests up.
 
+### Related Resources Worth Checking Out
+* *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]* - The book these notes are based on.
+* [Getting Started with Visual Studio Team Services (2018)][vsts] - This is a course on Pluralsight that shows how to use Microsoft's Visual Studio Team Services. It includes sections that show how to get your project in source control, implement continuous integration, run automated tests, and setup automatic deployments.
+* [Visual Studio Team Services][vs] - The actual site for Microsoft's cloud-based devops solution.
+* [GitHub][gh] - The most popular online Git solution.
+* [Travis-CI][tr] - This is an online continuous integration solution that integrates nicely with Github.
+* [Docker][do] - Container solution. Containers can make the process of continuous delivery a lot smoother.
+
 Stay tuned for part 2, The Deployment Pipeline.
 
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
@@ -114,3 +122,8 @@ Stay tuned for part 2, The Deployment Pipeline.
 [tfs]: https://www.visualstudio.com/tfs/
 [mer]: https://www.mercurial-scm.org/
 [svn]: https://subversion.apache.org/
+[vsts]: https://app.pluralsight.com/library/courses/getting-started-visual-studio-team-services-2018/table-of-contents
+[vs]: https://www.visualstudio.com/team-services/
+[gh]: https://github.com/
+[tr]: https://travis-ci.org/
+[do]: https://www.docker.com/

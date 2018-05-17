@@ -12,11 +12,11 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Getting Started with Visual Studio Team Services (2018)][vsts]
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Getting Started with Visual Studio Team Services (2018)][vsts]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
 
 **Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*, *[Code: The Hidden Language of Computer Hardware and Software][code]*
 
