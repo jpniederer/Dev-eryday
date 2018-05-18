@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Continuous Delivery Notes Part I: Foundations"
-date: 2018-5-1 16:04:00 +0000
+date: 2018-5-17 21:20:00 +0000
 categories: books
 ---
 
@@ -11,35 +11,35 @@ Since I'm reading this book, I want to take the time to record some thorough not
 
 ### Part I: Foundations
 
-The first five chapters of the book cover some foundational pieces that make continuous delivery possible. First, we'll take a general look at exactly what the problems with delivering software are. Then we'll start digging to concepts like configuration management, continuous integration, and testing strategies.
+The first four chapters of the book cover some foundational pieces that make continuous delivery possible. First, we'll take a general look at exactly what the problems with delivering software are. Then we'll start digging to concepts like configuration management, continuous integration, and testing strategies.
 
 ### Chapter 1: The Problem of Delivering Software
 
 ![Chapter 1](https://farm1.staticflickr.com/976/42072218722_8d53b9bcb2.jpg)
 
-Our goal as professional software developers is to ideas into working software as quick as possible. The aim of *Continuous Delivery* is to introduce to tactics and best practices that can enable us to not only deliver software faster, but to also make it more reliable, supportable, and maintainable.
+Our goal as professional software developers is to turn ideas into working software as quick as possible. The aim of *Continuous Delivery* is to introduce to tactics and best practices that can enable us to not only deliver software faster, but to also make it more reliable, supportable, and maintainable.
 
-Deployment Pipeline - a customized automated process through building, deploying, testing, and releasing your app. A deployment pipeline is the natural conclusion of continuous integration.
+*deployment pipeline* - a customized automated process through building, deploying, testing, and releasing your app. A deployment pipeline is the natural conclusion of continuous integration.
 
-There are a lot of common release antipatterns. These include: deploying software manually, deploying to a staging environment only after development is complete, manual configuration management of production environments. Generally, automate what you can and deploy both early and frequently.
+There are a lot of common release antipatterns. These include: deploying software manually, deploying to a staging environment only after development is complete, and manual configuration management of production environments. Generally, automate what you can and deploy both early and frequently.
 
 Benefits of continuous integration include:
 * Gives All Members of the Team the Ability to do Their Job - There is a path to obtain any previous version of the software. Test and support staff can easily get any build version of the deployed software
 * Limits Errors - By automating the testing process on each check in, the team knows any time a problem has been introduced into the deployment pipeline. Configuration management ensures that environments will be the same.
 * Less Stress - Consistent, incremental releases lead to confidence in the current build.
-* Deployment Flexibility - With all automated configuration management and deployment process, it's easy to move the app to a new server as needed. 
+* Deployment Flexibility - With an automated configuration management and deployment process, it's easy to move the app to a new server as needed. 
   
 Today, containerized environments are a perfect example of how all of these concepts have been baked into the modern deployment process.
 
 Some Best Practices for Software Delivery
 * Create a Repeatable, Reliable Process for Releasing Software - Try to make releasing your software as easy as possible. If releasing code is a burden on your team, releases will be painful and infrequent.
 * Automate Almost Everything - There's a theme appearing here. It's becoming clear that automation is good, manual is bad.
-* Keep Everything in Version Control - The second you don't have something is the time you need it most. Version control provides an easy way store version copies of all the text-based files needed as part of your project. Take advantage of it by putting everything in to your VCS.
+* Keep Everything in Version Control - The second you don't have something is the time you need it most. Version control provides an easy way to store versioned copies of all the text-based files needed as part of your project. Take advantage of it by putting everything in to your VCS.
 * If It Hurts, Do It More Frequently, and Bring the Pain Forward - By doing it more frequently you'll feel the need to improve the process. This will turn the pain point into a strength.
 * Build Quality In - Be testing all throughout the development process. Encourage everyone on the team to own the testing of the system.
 * Done Means Released - Software can be considered done once it has been released into production.
 * Everybody Is Responsible for the Delivery Process - Having team buy in all the way around brings the importance of the delivery process to the forefront. This also brings the team together leading to more efficiency.
-* Continuous Improvement - Strive for everything to get a little bit better over time. This fits in well with Dev-eryday.
+* Continuous Improvement - Strive for everything to get a little bit better over time. This fits in well with the concept Dev-eryday.
 
 Chapter 1 is a high-level overview of what's to come in the rest of the book. Key points: automate what you can, release often.
 
@@ -79,7 +79,7 @@ There are three prerequisites for continuous integration. They are:
 There are a number of techniques that can be used in order for continuous integration to be applied smoothly.
 * Check in Regularly - Frequent check ins keep the code up to date across all members of the team. If big changes are worked on in isolation, it gets tricky when the time comes to get all the pieces working together again. It's also a good practice in general to work in more digestible pieces.
 * Create a Comprehensive Automated Test Suite - Unit tests, component tests, and acceptance tests all help to validate the commit hasn't broken anything. Being able to validate the code base at each commit creates confidence in the work.
-* Keep the Build and Test Process Short - The time it takes to build and test the code cannot hinder development time. When CI takes take too long, it becomes a burden to follow the process and the practice will fall away. A few minutes or less is ideal. As a project grows, it may become necessary to split the build out into multiple phases.
+* Keep the Build and Test Process Short - The time it takes to build and test the code cannot hinder development time. When CI takes too long, it becomes a burden to follow the process and the practice will fall away. A few minutes or less is ideal. As a project grows, it may become necessary to split the build out into multiple phases.
 * Managing Your Development Workspace - Developers should have a reliable development environment where they can run through the same procedures locally. A good approach to solving this is using configuration management. Quality goes up by empowering developers to perform local builds prior to saving code to source control.
 
 Continuous Integration Best Practices
@@ -93,13 +93,11 @@ Continuous Integration Best Practices
 * Take Responsibility for All Breakages That Result from Your Changes
 * Test-Driven Development
 
-Popular Continuous Integration Software
-
 ### Chapter 4: Implementing a Testing Strategy
 
 ![Chapter 4](https://farm1.staticflickr.com/906/42072218652_8aa0d4197a.jpg)
 
-A thorough, up-to-date test library is a boon to any software project. Tests bring confidence through demonstrable proof that the system works as expected, they document expected behavior, and lead to better coding practices due to the patterns required to make code testable.
+A thorough, up-to-date test library is a boon to any software project. Tests bring confidence through demonstrable proof that the system works as expected, they document expected behavior, and lead to better coding practices due to the patterns required to make code testable. Testing should be performed throughout the development process, not all at once at the end.
 
 Types of Tests
 * Business-Facing Tests That Support the Development Process - These tests are often called functional or acceptance tests. These are the tests that validate that development has implemented the specified functionality. Functional tests are used to denote what's "done." Aim to automate these tests.
@@ -107,13 +105,20 @@ Types of Tests
 * Business-Facing Tests That Critique the Project - Tests that put the product in the hands of the users. Users run through the system and evaluate if the software meets their needs.
 * Technology-Facing Tests That Critique the Project - These tests focus on things like system load and environment security. Considerable resources are usually needed to set these tests up.
 
+If possible, teams should make sure they have automated tests where applicable. Automation brings many benefits including, but not limited to, faster feedback loops, decreased tester workload, allows for regression testing that ensures new code doesn't break old functionality, and the tests act as living documentation for how the system should act. Regression tests support refactoring which can greatly improve a codebase. For new projects, write automated tests as soon as possible so that the project can take advantage of them. The authors sum it up saying, "testing at the right time leads to better code."
+
+If you are in the middle of a project without tests, target the most important and high-value portions of code first. For legacy projects, first automate the build, then create some automated functional tests around the project. As changes to the legacy system are needed, create tests on the current functionality and the changes that are made to validate what you can. Add tests overtime where they'll deliver value, soon enough the codebase will have a reasonable level of test coverage.
+
+*integration testing* - tests which ensure that each independent part of your application works correctly with the services it depends on.
+
 ### Related Resources Worth Checking Out
 * *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]* - The book these notes are based on.
 * [Getting Started with Visual Studio Team Services (2018)][vsts] - This is a course on Pluralsight that shows how to use Microsoft's Visual Studio Team Services. It includes sections that show how to get your project in source control, implement continuous integration, run automated tests, and setup automatic deployments.
 * [Visual Studio Team Services][vs] - The actual site for Microsoft's cloud-based devops solution.
 * [GitHub][gh] - The most popular online Git solution.
-* [Travis-CI][tr] - This is an online continuous integration solution that integrates nicely with Github.
+* [Travis-CI][tr] - This is an online continuous integration solution that integrates nicely with GitHub.
 * [Docker][do] - Container solution. Containers can make the process of continuous delivery a lot smoother.
+*[Working Effectively with Legacy Code][lc]* - This is a great book that talks about how to work with legacy code. A major portion of the book shares tips on how to make legacy codebases testable.
 
 Stay tuned for part 2, The Deployment Pipeline.
 
@@ -127,3 +132,4 @@ Stay tuned for part 2, The Deployment Pipeline.
 [gh]: https://github.com/
 [tr]: https://travis-ci.org/
 [do]: https://www.docker.com/
+[lc]: https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/
