@@ -14,11 +14,13 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [Getting Started with Visual Studio Team Services (2018)][vsts]
 
+**Book(s):** *[Code: The Hidden Language of Computer Hardware and Software][code]*
+
 ## Currents
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
 
-**Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*, *[Code: The Hidden Language of Computer Hardware and Software][code]*
+**Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*, *[Snowcrash][snow]*
 
 ## On the Next...
 
@@ -33,3 +35,4 @@ categories: Dev-eryday
 [owa]: https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 [oid]: https://github.com/IdentityModel/oidc-client-js
 [cf]: https://codefights.com/
+[snow]: https://www.amazon.com/Snow-Crash-Novel-Neal-Stephenson-ebook/dp/B000FBJCJE/
