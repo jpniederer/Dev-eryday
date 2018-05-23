@@ -15,13 +15,13 @@ That sounds like it should work, doesn't it? Well, it did, for 99 tests, but it 
 
 ## Finished
 
-**Pluralsight Course(s):** [Getting Started with Visual Studio Team Services (2018)][vsts]
+**Pluralsight Course(s):** [Play by Play: Visual Studio Code Can Do That][vsc]
 
-**Book(s):** *[Code: The Hidden Language of Computer Hardware and Software][code]*
+**Book(s):** 
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Play by Play: Visual Studio Code Can Do That][vsc]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Building a Website with React and ASP.NET Core][rc]
 
 **Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*, *[Snowcrash][snow]*
 
@@ -46,4 +46,4 @@ That sounds like it should work, doesn't it? Well, it did, for 99 tests, but it 
 [team]: https://www.visualstudio.com/team-services/
 [auth]: https://firebase.google.com/products/auth/
 [lps]: https://leetcode.com/problems/longest-palindromic-substring/description/
-
+[rc]: https://app.pluralsight.com/library/courses/aspdotnet-core-react-building-website/exercise-files
