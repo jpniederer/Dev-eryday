@@ -11,17 +11,17 @@ That sounds like it should work, doesn't it? Well, it did, for 99 tests, but it 
 
 ![Everyday](https://farm1.staticflickr.com/967/41362483664_6321808246.jpg)
 
-
+I'm thinking it's time to take a small breather on the course front. I've learned a great deal by shotgunning courses, but there has to be some more practice time to let the new ideas settle. Out of all the stuff I learn, I would guess that I use less than 20% of it. That's a little low. On the bright side, even if the concepts aren't being put into practice, I would wager that the content influences my intuition and has made me a better problem solver.
 
 ## Finished
 
-**Pluralsight Course(s):** [Play by Play: Visual Studio Code Can Do That][vsc]
+**Pluralsight Course(s):** [Play by Play: Visual Studio Code Can Do That][vsc], [Building a Website with React and ASP.NET Core][rc]
 
 **Book(s):** 
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Building a Website with React and ASP.NET Core][rc]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Writing Purely Functional Code in C#][fun]
 
 **Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*, *[Snowcrash][snow]*
 
@@ -47,3 +47,4 @@ That sounds like it should work, doesn't it? Well, it did, for 99 tests, but it 
 [auth]: https://firebase.google.com/products/auth/
 [lps]: https://leetcode.com/problems/longest-palindromic-substring/description/
 [rc]: https://app.pluralsight.com/library/courses/aspdotnet-core-react-building-website/exercise-files
+[fun]: https://app.pluralsight.com/library/courses/writing-purely-functional-code-csharp/table-of-contents
