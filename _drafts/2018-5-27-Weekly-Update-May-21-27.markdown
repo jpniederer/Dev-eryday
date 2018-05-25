@@ -27,7 +27,7 @@ I'm thinking it's time to take a small breather on the course front. I've learne
 
 ## On the Next...
 
-
+I'm going to slow down on courses this week. I'm hoping to finish *[Snowcrash][snow]* with the day off for Memorial Day. It's a great book so far.
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
