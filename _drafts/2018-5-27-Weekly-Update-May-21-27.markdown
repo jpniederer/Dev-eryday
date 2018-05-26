@@ -13,6 +13,8 @@ That sounds like it should work, doesn't it? Well, it did, for 99 tests, but it 
 
 I'm thinking it's time to take a small breather on the course front. I've learned a great deal by shotgunning courses, but there has to be some more practice time to let the new ideas settle. Out of all the stuff I learn, I would guess that I use less than 20% of it. That's a little low. On the bright side, even if the concepts aren't being put into practice, I would wager that the content influences my intuition and has made me a better problem solver.
 
+I went through [Building a Website with React and ASP.NET Core][rc] this week on Pluralsight. I right on it as soon as it was released because this is the first React and ASP.NET Core course I've seen on Pluralsight. As a .NET developer who has really dived into .NET Core and React, it was exciting to see this course pop up on the recent course additions. The is for people who are already knowledgable in both React and building ASP.NET Core services. The section covering how to make REST API calls from React to ASP.NET Core was very good and made the course worth watching. One thing I had never seen before that the author shared was [redux-axios-middleware][ram], a Redux middleware that better equips actions and reducers to call REST APIs. I'm going to have to play with it to learn more.
+
 ## Finished
 
 **Pluralsight Course(s):** [Play by Play: Visual Studio Code Can Do That][vsc], [Building a Website with React and ASP.NET Core][rc]
