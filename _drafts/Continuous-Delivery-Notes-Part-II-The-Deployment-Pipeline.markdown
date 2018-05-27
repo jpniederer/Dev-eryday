@@ -7,19 +7,39 @@ categories: books
 
 Released in 2010, Jez Humble and Dave Farley's *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]* has become the go to resource for teaching software developers about deploying software. The book aims to teach readers best practices on how to release software as quickly and as safely as possible. The most successful technique that the authors have found is through the use of continuous delivery.
 
-Part II: The Deployment Pipeline
+### Part II: The Deployment Pipeline
 
-Chapter 5: Anatomy of the Deployment Pipeline
+deployment pipeline - an automated manifestation of your process for getting software from version control into the hands of your users.
 
-Chapter 6: Build and Deployment Scripting
+### Chapter 5: Anatomy of the Deployment Pipeline
 
-Chapter 7: The Commit Stage
+Deployment is when the software goes from developer to user. Throughout the development we will have ideally went through the deployment process in the test environment many times. Versions of the software that are unfit for release, those that don't pass tests, will be marked and fixed.
 
-Chapter 8: Automated Acceptance Testing
+Stages of the Deploymnet Pipeline:
+* Commit Stage - Asserts that the system works at the technical level. It compiles, passes a suite of automated tests, and runs code analysis.
+* Automated Acceptance Test Stages - Asserts that the system works at the functional and nonfunctional level, that behaviorally it meets the needs of its users and the specifications of the customer.
+* Manual Test Stages - Asserts that the system is usable and fulfills its requirements, detect any defects not caught by automated tests, and verify that it provides value to its users. These stages might typically include exploratory testing environments, integration environments, and user acceptance testing.
+* Release Stage - Delivers the system to users, either as packaged software or by deploying it into a production or staging environment.
 
-Chapter 9: Testing Nonfunctional Requirements
+Only build the binaries one time during the deployment pipeline. Build them during the commit stage and use the build throughout the entire deployment pipeline. Multiple builds is problematic because it can lead to subtle differences between the binaries. Use a single binary to minimize risk.
 
-Chapter 10: Deploying and Releasing Applications
+Deploy via the same process to each environment.
+
+Verify each deployment.
+
+The testing environment should be as similar to production as possible. We need as much confidence in our deployment to production as possible. By having a similar testing environment, we can iron out any issues that exist prior to moving the release to production.
+
+If the release fails at any stage of the pipeline the build is halted and marked as a failed build.
+
+### Chapter 6: Build and Deployment Scripting
+
+### Chapter 7: The Commit Stage
+
+### Chapter 8: Automated Acceptance Testing
+
+### Chapter 9: Testing Nonfunctional Requirements
+
+### Chapter 10: Deploying and Releasing Applications
 
 ### Related Resources Worth Checking Out
 * *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]* - The book these notes are based on.
