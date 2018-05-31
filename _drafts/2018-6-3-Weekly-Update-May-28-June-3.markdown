@@ -12,13 +12,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Writing Purely Functional Code in C#][fun]
 
 **Book(s):** *[Snowcrash][snow]*
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Writing Purely Functional Code in C#][fun]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
 
 **Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*
 
