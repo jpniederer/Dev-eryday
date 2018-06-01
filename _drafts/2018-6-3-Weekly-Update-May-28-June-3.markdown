@@ -5,6 +5,7 @@ date: 2018-6-3 13:45:00 +0000
 categories: Dev-eryday
 ---
 
+I spent a good chunk of time this week playing with testing in React. I did a deep dive into the docs on [Jest][je]. It's a robust JavaScript testing platform and it's easy to use.
 
 ![Dev-eryday](https://farm2.staticflickr.com/1736/28516367728_7b5b131564.jpg)
 
@@ -45,3 +46,4 @@ categories: Dev-eryday
 [lps]: https://leetcode.com/problems/longest-palindromic-substring/description/
 [rc]: https://app.pluralsight.com/library/courses/aspdotnet-core-react-building-website/exercise-files
 [fun]: https://app.pluralsight.com/library/courses/writing-purely-functional-code-csharp/table-of-contents
+[je]: https://facebook.github.io/jest/
