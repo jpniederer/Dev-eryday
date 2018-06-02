@@ -5,7 +5,7 @@ date: 2018-6-3 13:45:00 +0000
 categories: Dev-eryday
 ---
 
-I spent a good chunk of time this week playing with testing in React. I did a deep dive into the docs on [Jest][je]. It's a robust JavaScript testing platform and it's easy to use.
+I spent a good chunk of time this week playing with testing in React. I did a deep dive into the docs on [Jest][je]. It's a robust JavaScript testing platform and it's easy to use. Familiarity with Arrange/Act/Assert style tests makes for an easy translation. `expect(2 + 2).toBe(4);` would be like `Assert.AreEqual(2 + 2, 4);`.
 
 ![Dev-eryday](https://farm2.staticflickr.com/1736/28516367728_7b5b131564.jpg)
 
