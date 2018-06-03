@@ -9,7 +9,7 @@ I spent a good chunk of time this week playing with testing in React. I did a de
 
 ![Dev-eryday](https://farm2.staticflickr.com/1736/28516367728_7b5b131564.jpg)
 
-
+Outside of learning, I finished up the [Intro][cfi] line of questions on CodeFights. There are 60 coding challenges as part of the Intro sequence. Generally, the problems aren't too difficult and take around 10 to 20 minutes to finish. There were a number of problems I spent considerably more time on though. It was fun going through the problems. The problems on CodeFights can be completed in a ton of languages so it's fun to pick the best language for each problem. I primarily used C# to solve the problems.
 
 ## Finished
 
@@ -47,3 +47,4 @@ I spent a good chunk of time this week playing with testing in React. I did a de
 [rc]: https://app.pluralsight.com/library/courses/aspdotnet-core-react-building-website/exercise-files
 [fun]: https://app.pluralsight.com/library/courses/writing-purely-functional-code-csharp/table-of-contents
 [je]: https://facebook.github.io/jest/
+[cfi]: https://codefights.com/arcade/intro
