@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Weekly Update: May 28 - June 3, 2018"
-date: 2018-6-3 13:45:00 +0000
+date: 2018-6-3 15:45:00 +0000
 categories: Dev-eryday
 ---
 
-I spent a good chunk of time this week playing with testing in React. I did a deep dive into the docs on [Jest][je]. It's a robust JavaScript testing platform and it's easy to use. Familiarity with Arrange/Act/Assert style tests makes for an easy translation. `expect(2 + 2).toBe(4);` would be like `Assert.AreEqual(2 + 2, 4);`.
+I spent a good chunk of time this week playing with testing in React. I did a deep dive into the docs for the [Jest][je] testing solution. It's a robust JavaScript testing platform and it's easy to use. Familiarity with Arrange/Act/Assert style tests makes for an easy translation. `expect(2 + 2).toBe(4);` would be like `Assert.AreEqual(2 + 2, 4);`. The fact that Facebook uses Jest to test all of their JavaScript code lends credence to the tools.
 
-![Dev-eryday](https://farm2.staticflickr.com/1736/28516367728_7b5b131564.jpg)
+![Dev-eryday](https://farm2.staticflickr.com/1750/41820764474_9f58e40279.jpg)
 
-Outside of learning, I finished up the [Intro][cfi] line of questions on CodeFights. There are 60 coding challenges as part of the Intro sequence. Generally, the problems aren't too difficult and take around 10 to 20 minutes to finish. There were a number of problems I spent considerably more time on though. It was fun going through the problems. The problems on CodeFights can be completed in a ton of languages so it's fun to pick the best language for each problem. I primarily used C# to solve the problems.
+Outside of learning, I finished up the [Intro][cfi] line of questions on CodeFights. There are 60 coding challenges as part of the Intro sequence. Generally, the problems aren't too difficult and take around 10 to 20 minutes to finish. There were a number of problems I spent considerably more time on though. It was fun going through the problems. The problems on CodeFights can be completed in a ton of languages so it's fun to pick the best language for each problem. I primarily used C# to solve the problems. There are a lot more problems out there to solve so I won't stop visiting the site anytime soon. If I earn 500,000 points, I'm at 237,200 right now, I can buy a t-shirt.
 
 ## Finished
 
@@ -19,13 +19,13 @@ Outside of learning, I finished up the [Intro][cfi] line of questions on CodeFig
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re]
 
 **Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*
 
 ## On the Next...
 
-
+I want to circle back to *Continuous Delivery* this week. I got through part I and I haven't picked the book up since. The book has been rewarding so far, and I'd like to get through part II this week if possible.
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
