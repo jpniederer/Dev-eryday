@@ -13,7 +13,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Entity Framework Core 2: Mappings][ef]
 
 **Book(s):** 
 
@@ -48,3 +48,4 @@ categories: Dev-eryday
 [fun]: https://app.pluralsight.com/library/courses/writing-purely-functional-code-csharp/table-of-contents
 [je]: https://facebook.github.io/jest/
 [cfi]: https://codefights.com/arcade/intro
+[ef]: https://app.pluralsight.com/library/courses/e-f-core-2-beyond-the-basics-mappings/table-of-contents
