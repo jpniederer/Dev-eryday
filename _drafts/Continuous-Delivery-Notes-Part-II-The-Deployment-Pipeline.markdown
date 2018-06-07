@@ -23,7 +23,7 @@ Stages of the Deploymnet Pipeline:
 
 Only build the binaries one time during the deployment pipeline. Build them during the commit stage and use the build throughout the entire deployment pipeline. Multiple builds is problematic because it can lead to subtle differences between the binaries. Use a single binary to minimize risk.
 
-Deploy via the same process to each environment.
+Deploy via the same process to each environment. Automate as many steps as possible to reduce the opportunities for mistakes along the way.
 
 Verify each deployment.
 
@@ -33,13 +33,33 @@ If the release fails at any stage of the pipeline the build is halted and marked
 
 ### Chapter 6: Build and Deployment Scripting
 
+The aim of this chapter is to introduce notable build tools and share tips and tricks around scripting out your build and deployment processes. A number of build tools are given brief overviews. Build tools covered include: Make, Ant, MSBuild, Maven, Rake.
+
+All build scripts should be kept in version control. Build scripts are first class citizens of your project and every bit as important as the codebase.
+
+Tips
+* Always Use Relative Paths
+* Eliminate Manual Steps
+* Build In Traceability from Binaries to Version Control
+* Don't Check Binaries into Version Control as Part of Your Build
+* Test Targets Should Not Fail the Build
+* Constrain Your Application with Integrated Smoke Tests
+
 ### Chapter 7: The Commit Stage
+
+
 
 ### Chapter 8: Automated Acceptance Testing
 
+
+
 ### Chapter 9: Testing Nonfunctional Requirements
 
+
+
 ### Chapter 10: Deploying and Releasing Applications
+
+
 
 ### Related Resources Worth Checking Out
 * *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]* - The book these notes are based on.
