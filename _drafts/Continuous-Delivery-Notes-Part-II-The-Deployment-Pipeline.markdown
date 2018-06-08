@@ -47,7 +47,9 @@ Tips
 
 ### Chapter 7: The Commit Stage
 
+The Commit Stage is the first step in the deployment pipeline. Code is commmited and then compiled. New binaries are built, analyzed for health, and tools, such as test data and database update scripts, needed later in the pipeline are created. The commit stage should provide fast feedback so that errors are caught early. Developers need ownership of the commit stage because their work is intimately tied to the commit stage.
 
+There are a number of practices to follow when testing at the commit stage. The tests should avoid the UI, rely on dependency injection, stay away from the database, avoid asynchrony, use test doubles, minimize state, fake times to handle all possible occurrances. 
 
 ### Chapter 8: Automated Acceptance Testing
 
