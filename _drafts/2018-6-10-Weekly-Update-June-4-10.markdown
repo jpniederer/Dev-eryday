@@ -5,7 +5,7 @@ date: 2018-6-10 15:45:00 +0000
 categories: Dev-eryday
 ---
 
-
+It's great to dev-eryday. It's even better to live every day. Time moves so fast. Take a break every once in a while to just enjoy what is. Whatever feature you're working on, or article you're writing can probably wait. Do what you can to make the most of your time, even if that means skipping a day. 
 
 ![Dev-eryday](https://farm2.staticflickr.com/1750/41820764474_9f58e40279.jpg)
 
