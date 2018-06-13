@@ -13,7 +13,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** [Entity Framework Core 2: Mappings][ef]
+**Pluralsight Course(s):** [Test-Driven Development Using React][tdd]
 
 ## Currents
 
@@ -24,7 +24,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
-
+[tdd]: https://app.pluralsight.com/library/courses/test-driven-development-react/table-of-contents
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
 [code]: https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2/
