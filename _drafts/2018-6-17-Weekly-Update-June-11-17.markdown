@@ -15,6 +15,8 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [Test-Driven Development Using React][tdd]
 
+**Book(s):** *[Walden on Wheels: On the Open Road from Debt to Freedom][wal]*
+
 ## Currents
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re]
@@ -48,3 +50,4 @@ categories: Dev-eryday
 [cfi]: https://codefights.com/arcade/intro
 [ef]: https://app.pluralsight.com/library/courses/e-f-core-2-beyond-the-basics-mappings/table-of-contents
 [sp]: https://docs.microsoft.com/en-us/ef/core/modeling/shadow-properties
+[wal]: https://www.amazon.com/Walden-Wheels-Open-Road-Freedom-ebook/dp/B00B77UDWU/
