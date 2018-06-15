@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [Test-Driven Development Using React][tdd]
 
-**Book(s):** *[Walden on Wheels: On the Open Road from Debt to Freedom][wal]*
+**Book(s):** *[Walden on Wheels: On the Open Road from Debt to Freedom][wal]*, *[The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers][thi]*
 
 ## Currents
 
@@ -26,6 +26,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
+[thi]: https://www.amazon.com/Third-Door-Uncover-Successful-Launched-ebook/dp/B076NS2JSW/
 [tdd]: https://app.pluralsight.com/library/courses/test-driven-development-react/table-of-contents
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
