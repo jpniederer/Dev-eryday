@@ -19,7 +19,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Docker Deep Dive][doc]
 
 **Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*
 
@@ -52,3 +52,4 @@ categories: Dev-eryday
 [ef]: https://app.pluralsight.com/library/courses/e-f-core-2-beyond-the-basics-mappings/table-of-contents
 [sp]: https://docs.microsoft.com/en-us/ef/core/modeling/shadow-properties
 [wal]: https://www.amazon.com/Walden-Wheels-Open-Road-Freedom-ebook/dp/B00B77UDWU/
+[dok]: https://app.pluralsight.com/library/courses/docker-deep-dive-update/table-of-contents
