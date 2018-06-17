@@ -1,15 +1,17 @@
 ---
 layout: post
 title:  "Weekly Update: June 11 - June 17, 2018"
-date: 2018-6-17 15:45:00 +0000
+date: 2018-6-17 12:25:00 +0000
 categories: Dev-eryday
 ---
 
-I did a lot of reading this week. The bulk of my reading came from two non-technical books. The first was *[Walden on Wheels: On the Open Road from Debt to Freedom][wal]*. It was a true story about how one person's adventure in paying off their student loans. The second book was *[The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers][thi]*. It was another true story of one man's adventure to get advice from some of the most powerful people in the world. *The Third Door* is probably the best book I've read this year. It's a fun read and the story is incredible.
+I did a lot of reading this week. The bulk of my reading came from two non-technical books. The first was *[Walden on Wheels: On the Open Road from Debt to Freedom][wal]*. It's a true story about one person's adventure in paying off their student loans. The second book was *[The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers][thi]*. It was another true story of one man's adventure to get advice from some of the most powerful people in the world. *The Third Door* is probably the best book I've read this year. It's a fun read and the stories within are incredible. I couldn't recommend it any more.
 
-![Development Time](https://farm2.staticflickr.com/1723/41817698285_9a4c85229a.jpg)
+All the reading put me in position to evaluate the things I want to accomplish in the immediate future. The list below contains some development related things I want to make happen. I'm putting them out there and hopefully I can deliver on them over the next several months. I'm excited about each item on the list, it's all about making the time to make them happen.
 
+![Development Goals](https://farm2.staticflickr.com/1726/27989046677_901ec587fe.jpg)
 
+From a course standpoint, I went through [Test-Driven Development Using React][tdd] on Pluralsight. The course offers combines some basic React instruction with test-driven development. Each component is developed via the Red->Green->Refactor technique. It's interesting to see the cycle in action and I enjoyed the course for the way it brought the TDD practice together with React.
 
 ## Finished
 
@@ -25,7 +27,9 @@ I did a lot of reading this week. The bulk of my reading came from two non-techn
 
 ## On the Next...
 
+I'm going to finish up the [Docker Deep Dive][doc] course this week. Docker, or something similar, is going to be essential for developers in the future. Getting out in front on how to use containers is essential. One Docker-related resource that needs to be mentioned is [Play with Docker][pwd]. Play with Docker is a live browser-based playground where people interested in Docker can go to use containers. The site provides step-by-step labs that you can use to learn the basics of working with Docker. So, even if you don't have Docker installed locally there's no reason not to at least play with it.
 
+[pwd]: https://labs.play-with-docker.com/
 [thi]: https://www.amazon.com/Third-Door-Uncover-Successful-Launched-ebook/dp/B076NS2JSW/
 [tdd]: https://app.pluralsight.com/library/courses/test-driven-development-react/table-of-contents
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
