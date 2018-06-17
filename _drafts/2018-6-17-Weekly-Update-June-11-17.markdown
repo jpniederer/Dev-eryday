@@ -5,7 +5,7 @@ date: 2018-6-17 15:45:00 +0000
 categories: Dev-eryday
 ---
 
-
+I did a lot of reading this week. The bulk of my reading came from two non-technical books. The first was *[Walden on Wheels: On the Open Road from Debt to Freedom][wal]*. It was a true story about how one person's adventure in paying off their student loans. The second book was *[The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers][thi]*. It was another true story of one man's adventure to get advice from some of the most powerful people in the world. *The Third Door* is probably the best book I've read this year. It's a fun read and the story is incredible.
 
 ![Development Time](https://farm2.staticflickr.com/1723/41817698285_9a4c85229a.jpg)
 
