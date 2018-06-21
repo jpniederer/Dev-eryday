@@ -9,16 +9,17 @@ Another great week for reading. For as long as I can remember, whenever I've see
 
 ![Development Goals](https://farm2.staticflickr.com/1726/27989046677_901ec587fe.jpg)
 
+I completed two courses on Pluralsight this week. The first was [Docker Deep Dive][doc] which is a nice healthy dose of Docker. There's a ton of great information in the course. One thing that the course did really well was informing viewers details on the inner workings of the Docker Architecture. Some of the information might not be directly utilized when using containers, but is interesting and helpful to know. The other course was about creating [ASP.NET Core APIs that use IdentityServer4][api]. It's a quick course where a developer walks through a production API he created for a payment processing service. While presenting the code, best practices for working with APIs are discussed.
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Docker Deep Dive][doc], [Play by Play - Creating APIs for Developers with Identity Server 4][api]
 
 **Book(s):** *[Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture][doom]*
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Docker Deep Dive][doc]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
 
 **Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*
 
@@ -32,3 +33,4 @@ Another great week for reading. For as long as I can remember, whenever I've see
 [doom]: https://www.amazon.com/Masters-Doom-Created-Transformed-Culture-ebook/dp/B000FBFNL0/
 [jc]: https://en.wikipedia.org/wiki/John_Carmack
 [jr]: https://en.wikipedia.org/wiki/John_Romero
+[api]: https://app.pluralsight.com/library/courses/play-by-play-creating-apis-developers-identity-server-four/table-of-contents
