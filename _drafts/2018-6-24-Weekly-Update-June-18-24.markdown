@@ -25,7 +25,7 @@ I completed two courses on Pluralsight this week. The first was [Docker Deep Div
 
 ## On the Next...
 
-
+Each day of this month, I've spent some time on [freeCodeCamp][fcc] solving challenges. I'm a professional software developer, but I wanted to go through the exercises and see both how far I could get and how much I could learn in a month's time. So far it's been a nice experience. I would say in terms of learning for a professional dev the challenges won't provide much of a challenge, but the information content is great. I'm going to continue completing at least a few challenges each day and see where I'm at when the week ends.
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
@@ -34,3 +34,4 @@ I completed two courses on Pluralsight this week. The first was [Docker Deep Div
 [jc]: https://en.wikipedia.org/wiki/John_Carmack
 [jr]: https://en.wikipedia.org/wiki/John_Romero
 [api]: https://app.pluralsight.com/library/courses/play-by-play-creating-apis-developers-identity-server-four/table-of-contents
+[fcc]: https://www.freecodecamp.org/
