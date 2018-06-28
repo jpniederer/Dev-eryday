@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [Getting Started with ASP.NET Core SignalR][sig]
 
-**Book(s):**
+**Book(s):** *[How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease][hnd]*
 
 ## Currents
 
@@ -32,3 +32,4 @@ categories: Dev-eryday
 [api]: https://app.pluralsight.com/library/courses/play-by-play-creating-apis-developers-identity-server-four/table-of-contents
 [fcc]: https://www.freecodecamp.org/
 [sig]: https://app.pluralsight.com/library/courses/aspdotnet-core-signalr-getting-started/table-of-contents
+[hnd]: https://www.amazon.com/How-Not-Die-Discover-Scientifically-ebook/dp/B00Y7USB14/
