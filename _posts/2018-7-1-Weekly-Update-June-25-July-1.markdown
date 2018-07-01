@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Weekly Update: June 25 - July 3, 2018"
-date: 2018-7-3 16:35:00 +0000
+title:  "Weekly Update: June 25 - July 1, 2018"
+date: 2018-7-1 16:00:00 +0000
 categories: Dev-eryday
 ---
 
@@ -9,7 +9,7 @@ In all my time working with .NET, I've never played with the [SignalR][snr] or [
 
 ![ReactChat Mockup](https://farm2.staticflickr.com/1810/43120206951_7b49069f66.jpg)
 
-On top of the SignalR stuff, I consumed a course covering [xUnit][xu]. The course is called [xUnit with .NET Core][xuc]. Up to this point as a .NET developer, I've used [MSTest][mst]. It's been a solid test runner and framework, but the popularity of xUnit makes it a tool worth exploring. For anyone else in the same boat I have good news. The transition from MSTest to xUnit is natural. Both tools are capable testing frameworks that can be used to write robust unit tests for any .NET project. When it comes ot unit tests it doesn't really matter which flavor of tests you're writing, but that you're writing tests. The best testing framework is the one that you'll use.
+On top of the SignalR stuff, I consumed a course covering [xUnit][xu]. The course is called [Testing .NET Core Code with xUnit.net: Getting Started][xuc]. Up to this point as a .NET developer, I've used [MSTest][mst]. It's been a solid test runner and testing framework, but the popularity of xUnit makes it a tool worth exploring. For anyone else in the same boat I have good news. The transition from MSTest to xUnit is natural. Both tools are capable testing frameworks that can be used to write robust unit tests for any .NET project. When it comes to unit tests it doesn't really matter which flavor of tests you're writing, but that you're writing tests. The best testing framework is the one that you'll use.
 
 ## Finished
 
@@ -42,3 +42,4 @@ I'm looking forward to spending time working to create a chatroom app with Signa
 [xu]: https://xunit.github.io/
 [mst]: https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest
 [ncp]: https://github.com/jpniederer/NETCorePlayground
+[xuc]: https://app.pluralsight.com/library/courses/dotnet-core-testing-code-xunit-dotnet-getting-started/table-of-contents
