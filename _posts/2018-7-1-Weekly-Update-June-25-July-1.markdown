@@ -13,7 +13,7 @@ On top of the SignalR stuff, I consumed a course covering [xUnit][xu]. The cours
 
 ## Finished
 
-**Pluralsight Course(s):** [Getting Started with ASP.NET Core SignalR][sig]
+**Pluralsight Course(s):** [Getting Started with ASP.NET Core SignalR][sig], [Testing .NET Core Code with xUnit.net: Getting Started][xuc]
 
 **Book(s):** *[How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease][hnd]*
 
