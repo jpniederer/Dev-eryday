@@ -5,7 +5,7 @@ date: 2018-7- 16:00:00 +0000
 categories: Dev-eryday
 ---
 
-
+With Independence Day taking place in the states this week, it was time to take a step back and relax for a day. I took the day to read about sleep. My key source was *[Why We Sleep: Unlocking the Power of Sleep and Dreams][wws]*. Why We Sleep* is filled with information on how important sleep truly is. When it comes to our health, sleeping 8+ hours a day is essential for 99% of the population. Lack of sleep can lead to heart issues, high blood pressure, and even Alzheimer's. It's not just our health though, not sleeping enough can prevent our minds from learning new material.
 
 ![ReactChat Mockup](https://farm2.staticflickr.com/1810/43120206951_7b49069f66.jpg)
 
@@ -13,9 +13,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [ASP.NET Core MVC Testing Fundamentals][ctm]
 
-**Book(s):** 
+**Book(s):** *[Why We Sleep: Unlocking the Power of Sleep and Dreams][wws]*
 
 ## Currents
 
@@ -43,3 +43,5 @@ categories: Dev-eryday
 [mst]: https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest
 [ncp]: https://github.com/jpniederer/NETCorePlayground
 [xuc]: https://app.pluralsight.com/library/courses/dotnet-core-testing-code-xunit-dotnet-getting-started/table-of-contents
+[ctm]: https://app.pluralsight.com/library/courses/aspdotnet-core-mvc-testing-fundamentals/table-of-contents
+[wws]: https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams-ebook/dp/B06ZZ1YGJ5/
