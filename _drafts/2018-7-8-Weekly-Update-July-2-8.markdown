@@ -9,7 +9,7 @@ With Independence Day taking place in the states this week, it was time to take 
 
 ![ReactChat Mockup](https://farm2.staticflickr.com/1810/43120206951_7b49069f66.jpg)
 
-
+I continued my progress on learning about [xUnit.net][xu]. This week I worked through [ASP.NET Core MVC Testing Fundamentals][ctm] on Pluralsight. True to its title, it demonstrates how to test ASP.NET Core projects. The course covers basic testing concepts with xUnit, like Fact and Theory, using mocks, testing controllers, integration tests, and also doing UI tests with [Selenium][sel]. Overall, it's a great course. I found it to be better than [Testing .NET Core Code with xUnit.net: Getting Started][xuc] just because there is more content. I'd recommend starting with ASP.NET Core MVC Testing Fundamentals for anyone considering these courses to learn xUnit.net.
 
 ## Finished
 
@@ -25,7 +25,7 @@ With Independence Day taking place in the states this week, it was time to take 
 
 ## On the Next...
 
-
+The development of my chat app with ASP.NET Core SignalR and React is coming along nicely. If you're interested, you can track the code over here: [NETCorePlayground][ncp]. The functionality is getting there and I should be able to get a demo live soon. It's been fun putting a little bit of time into the project each day. I'll be working on it more this week.
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
@@ -45,3 +45,4 @@ With Independence Day taking place in the states this week, it was time to take 
 [xuc]: https://app.pluralsight.com/library/courses/dotnet-core-testing-code-xunit-dotnet-getting-started/table-of-contents
 [ctm]: https://app.pluralsight.com/library/courses/aspdotnet-core-mvc-testing-fundamentals/table-of-contents
 [wws]: https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams-ebook/dp/B06ZZ1YGJ5/
+[sel]: https://www.seleniumhq.org/
