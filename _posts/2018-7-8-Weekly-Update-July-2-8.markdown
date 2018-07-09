@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: July 2 - 8, 2018"
-date: 2018-7- 16:00:00 +0000
+date: 2018-7- 19:45:00 +0000
 categories: Dev-eryday
 ---
 
-With Independence Day taking place in the states this week, it was time to take a step back and relax for a day. I took the day to read about sleep. My key source was *[Why We Sleep: Unlocking the Power of Sleep and Dreams][wws]*. Why We Sleep* is filled with information on how important sleep truly is. When it comes to our health, sleeping 8+ hours a day is essential for 99% of the population. Lack of sleep can lead to heart issues, high blood pressure, and even Alzheimer's. It's not just our health though, not sleeping enough can prevent our minds from learning new material.
+With Independence Day taking place in the states this week, it was time to take a step back and relax for a day. I took the day to read about sleep. My key source was *[Why We Sleep: Unlocking the Power of Sleep and Dreams][wws]*. *Why We Sleep* is filled with information on how important sleep truly is. When it comes to our health, sleeping 8+ hours a day is essential for 99% of the population. Lack of sleep can lead to heart issues, high blood pressure, and even Alzheimer's. It's not just our health though, not sleeping enough can prevent our minds from learning new material. Get 8+ hours of sleep every chance you get, it's worth it.
 
-![ReactChat Mockup](https://farm2.staticflickr.com/1810/43120206951_7b49069f66.jpg)
+![Reach the Peak](https://farm1.staticflickr.com/923/41474980330_5b764b79f0.jpg)
 
 I continued my progress on learning about [xUnit.net][xu]. This week I worked through [ASP.NET Core MVC Testing Fundamentals][ctm] on Pluralsight. True to its title, it demonstrates how to test ASP.NET Core projects. The course covers basic testing concepts with xUnit, like Fact and Theory, using mocks, testing controllers, integration tests, and also doing UI tests with [Selenium][sel]. Overall, it's a great course. I found it to be better than [Testing .NET Core Code with xUnit.net: Getting Started][xuc] just because there is more content. I'd recommend starting with ASP.NET Core MVC Testing Fundamentals for anyone considering these courses to learn xUnit.net.
 
