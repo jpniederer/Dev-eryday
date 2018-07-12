@@ -5,27 +5,21 @@ date: 2018-7-15 19:45:00 +0000
 categories: Dev-eryday
 ---
 
-
-
 ![Reach the Peak](https://farm1.staticflickr.com/923/41474980330_5b764b79f0.jpg)
-
-
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):**
 
-**Book(s):** 
+**Book(s):** _[When I Stop Talking, You'll Know I'm Dead: Useful Stories from a Persuasive Man][stop]_
 
 ## Currents
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re]
 
-**Book(s):** *[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]*
+**Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_
 
 ## On the Next...
-
-
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
@@ -38,3 +32,4 @@ categories: Dev-eryday
 [ctm]: https://app.pluralsight.com/library/courses/aspdotnet-core-mvc-testing-fundamentals/table-of-contents
 [wws]: https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams-ebook/dp/B06ZZ1YGJ5/
 [sel]: https://www.seleniumhq.org/
+[stop]: https://www.amazon.com/When-Stop-Talking-Youll-Know-ebook/dp/B00351DSRI/
