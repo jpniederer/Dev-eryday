@@ -5,11 +5,13 @@ date: 2018-7-15 19:45:00 +0000
 categories: Dev-eryday
 ---
 
+I've been keeping an eye on [WebAssembly][wa] for quite some time. WebAssembly (Wasm is a compelling story for a lot of developers. The concept is that you can write native code in your language of choice (C#/C++, Rust, etc.) then it gets compiled so that it runs in the Wasm virtual machine. The code can then run natively in the browser. It's really cool. To research it some more, I sped through [WebAssembly: The Big Picture][wap] on Pluralsight. It gives a nice overview of what Wasm is and where it's headed. I've been thinking about playing with [Blazor][blz] for weeks now, I think it's time to dig in.
+
 ![Reach the Peak](https://farm1.staticflickr.com/923/41474980330_5b764b79f0.jpg)
 
 ## Finished
 
-**Pluralsight Course(s):**
+**Pluralsight Course(s):** [WebAssembly: The Big Picture][wap]
 
 **Book(s):** _[When I Stop Talking, You'll Know I'm Dead: Useful Stories from a Persuasive Man][stop]_
 
@@ -33,3 +35,6 @@ categories: Dev-eryday
 [wws]: https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams-ebook/dp/B06ZZ1YGJ5/
 [sel]: https://www.seleniumhq.org/
 [stop]: https://www.amazon.com/When-Stop-Talking-Youll-Know-ebook/dp/B00351DSRI/
+[wap]: https://app.pluralsight.com/library/courses/web-assembly-big-picture/table-of-contents
+[wa]: https://webassembly.org/
+[blz]: https://github.com/aspnet/Blazor
