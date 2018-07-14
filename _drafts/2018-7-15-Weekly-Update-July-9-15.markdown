@@ -17,7 +17,7 @@ I've been keeping an eye on [WebAssembly][wa] for quite some time. WebAssembly (
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Securing ASP.NET Core 2 with OAuth2 and OpenID Connect][oat]
 
 **Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_
 
@@ -38,3 +38,4 @@ I've been keeping an eye on [WebAssembly][wa] for quite some time. WebAssembly (
 [wap]: https://app.pluralsight.com/library/courses/web-assembly-big-picture/table-of-contents
 [wa]: https://webassembly.org/
 [blz]: https://github.com/aspnet/Blazor
+[oat]: https://app.pluralsight.com/library/courses/securing-aspdotnet-core2-oauth2-openid-connect/table-of-contents
