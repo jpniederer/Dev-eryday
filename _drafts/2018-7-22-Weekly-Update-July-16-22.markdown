@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** 
 
-**Book(s):** 
+**Book(s):** *[Delivering Happiness: A Path to Profits, Passion, and Purpose][hap]*
 
 ## Currents
 
@@ -43,3 +43,4 @@ categories: Dev-eryday
 [wa]: https://webassembly.org/
 [blz]: https://github.com/aspnet/Blazor
 [oat]: https://app.pluralsight.com/library/courses/securing-aspdotnet-core2-oauth2-openid-connect/table-of-contents
+[hap]: https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6/
