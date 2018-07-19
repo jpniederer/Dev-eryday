@@ -13,13 +13,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Securing ASP.NET Core 2 with OAuth2 and OpenID Connect][oat]
 
 **Book(s):** *[Delivering Happiness: A Path to Profits, Passion, and Purpose][hap]*
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Securing ASP.NET Core 2 with OAuth2 and OpenID Connect][oat]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
 
 **Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_
 
