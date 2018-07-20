@@ -19,7 +19,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Understanding Genetic Algorithms and Genetic Programming][uga]
 
 **Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_
 
@@ -44,3 +44,4 @@ categories: Dev-eryday
 [blz]: https://github.com/aspnet/Blazor
 [oat]: https://app.pluralsight.com/library/courses/securing-aspdotnet-core2-oauth2-openid-connect/table-of-contents
 [hap]: https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6/
+[uga]: https://app.pluralsight.com/library/courses/genetic-algorithms-genetic-programming/table-of-contents
