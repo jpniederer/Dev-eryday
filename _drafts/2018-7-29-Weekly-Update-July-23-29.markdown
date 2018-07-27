@@ -13,13 +13,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Understanding Genetic Algorithms and Genetic Programming][uga]
 
-**Book(s):** 
+**Book(s):** *[Draft No. 4: On the Writing Process][dn]*
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [Understanding Genetic Algorithms and Genetic Programming][uga]
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], 
 
 **Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_, *[Functional Programming in C#: How to Write Better C# Code][fun]*
 
@@ -46,3 +46,4 @@ categories: Dev-eryday
 [hap]: https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B003JTHXN6/
 [uga]: https://app.pluralsight.com/library/courses/genetic-algorithms-genetic-programming/table-of-contents
 [fun]: https://www.amazon.com/Functional-Programming-write-better-code/dp/1617293954/
+[dn]: https://www.amazon.com/Draft-No-4-Writing-Process-ebook/dp/B06X18NHC1/
