@@ -5,17 +5,17 @@ date: 2018-7-29 19:10:00 +0000
 categories: Dev-eryday
 ---
 
-This week was all about building momentum. I would say that I delivered on that front. I carried through with a lot of progress on the [SignalR and React Chat App][ncp] I've been working on. It's been fun, and the small project is coming together nicely. I've finally got the back end and front end tied together. Now I just need to wire up SignalR, React, and Redux and we'll have a usable app. It should be usable in the next few days.
+The  [SignalR and React Chat App][src] I've been working on is now live and available for chatting. It's basic, but it's really cool. I was able to combine an ASP.NET Core API, SignalR, React, and Redux to make a functional chat application. The source code is on GitHub and can be found [here][ncp]. There are a few things I'd like to add to the application, so I'll probably continue working on it for a little while. I'm also planning to do a write up about the technologies involved, how it works, and what could be added next. Try it out if you get a chance. Feel free to send me a message or two over there.
 
 ![One Page at a Time](https://farm1.staticflickr.com/935/43724023611_401451fecf.jpg)
 
-On top of working on the chat app, I finished a book, *[Draft No. 4: On the Writing Process][dn]*, and a course,  [Understanding Genetic Algorithms and Genetic Programming][uga]. *Draft No. 4* contains a ton of wisdom and stories about writing from [John McPhee][jmp]. A notable quote that I really liked from it was this: "The developing writer reacts to excellence as it is discovered--wherever and whenever--and of course does some imitating (unavoidably) in the process of drawing from the admired fabric things to make one's own. Rapidly, the components of imitation fade. What remains is a new element in your own voice, which is not in any way an imitation." McPhee was writing about writing prose, but it's just as relevant to software developers writing code. You have to start somewhere, copying the greats is probably the best way to start.
+It was another good week for reading. I powered right through *[Living with a SEAL: 31 Days Training with the Toughest Man on the Planet][seal]* by Jesse Itzler. It's about the month that Itzler invited a Navy SEAL, [David Goggins][dg], to come live with him. It was quite a month. For the month, Itzler agreed to doing whatever Goggins told him to do. This usually included running six miles each morning, four at night, and hundreds of push ups. It was interesting to read about Itzler's growth through the month and the challenges he went through. Itzler pushed through the difficult workouts to get out of his comfort zone. We don't all have to invite a SEAL to live with us, but we can can stand to add a little discomfort to our lives. 
 
 ## Finished
 
-**Pluralsight Course(s):** [Understanding Genetic Algorithms and Genetic Programming][uga]
+**Pluralsight Course(s):** [Containerizing Angular Applications with Docker][dock]
 
-**Book(s):** *[Draft No. 4: On the Writing Process][dn]*
+**Book(s):** *[Living with a SEAL: 31 Days Training with the Toughest Man on the Planet][seal]*
 
 ## Currents
 
@@ -25,7 +25,7 @@ On top of working on the chat app, I finished a book, *[Draft No. 4: On the Writ
 
 ## On the Next...
 
-I'm going to continue building momentum this week. The chat app should get deployed and it'll be available at some point. I'll share a link to it next week and get the readme updated over on GitHub with details about the project. Once the site is deployed, I'd like to get a writeup together about the system, attribute the resources I used along the way, and share anything else interesting about it.
+
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
@@ -48,3 +48,7 @@ I'm going to continue building momentum this week. The chat app should get deplo
 [fun]: https://www.amazon.com/Functional-Programming-write-better-code/dp/1617293954/
 [dn]: https://www.amazon.com/Draft-No-4-Writing-Process-ebook/dp/B06X18NHC1/
 [jmp]: https://en.wikipedia.org/wiki/John_McPhee
+[src]: https://chatappwithsignalr.azurewebsites.net/index.html
+[seal]: https://www.amazon.com/Living-SEAL-Training-Toughest-Planet-ebook/dp/B00U6DNZB2/
+[dock]: https://app.pluralsight.com/library/courses/containerizing-angular-apps-docker/table-of-contents
+[dg]: https://en.wikipedia.org/wiki/David_Goggins
