@@ -7,7 +7,7 @@ categories: Dev-eryday
 
 This week was all about building momentum. I would say that I delivered on that front. I carried through with a lot of progress on the [SignalR and React Chat App][ncp] I've been working on. It's been fun, and the small project is coming together nicely. I've finally got the back end and front end tied together. Now I just need to wire up SignalR, React, and Redux and we'll have a usable app. It should be usable in the next few days.
 
-![One Page at a Time](https://farm1.staticflickr.com/935/43724023611_401451fecf.jpg)
+![Momentum](https://farm1.staticflickr.com/935/43724023611_401451fecf.jpg)
 
 On top of working on the chat app, I finished a book, *[Draft No. 4: On the Writing Process][dn]*, and a course,  [Understanding Genetic Algorithms and Genetic Programming][uga]. *Draft No. 4* contains a ton of wisdom and stories about writing from [John McPhee][jmp]. A notable quote that I really liked from it was this: "The developing writer reacts to excellence as it is discovered--wherever and whenever--and of course does some imitating (unavoidably) in the process of drawing from the admired fabric things to make one's own. Rapidly, the components of imitation fade. What remains is a new element in your own voice, which is not in any way an imitation." McPhee was writing about writing prose, but it's just as relevant to software developers writing code. You have to start somewhere, copying the greats is probably the best way to start.
 
