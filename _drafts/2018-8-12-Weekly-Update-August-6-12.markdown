@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Weekly Update: July 30 - August 5, 2018"
-date: 2018-8-5 22:40:00 +0000
+title:  "Weekly Update: August 6 - 12, 2018"
+date: 2018-8-12 22:40:00 +0000
 categories: Dev-eryday
 ---
 
-The  [SignalR and React Chat App][src] I've been working on is now live and available for chatting. See the image below for a demo of what the app looks like. The site doesn't look exactly my initial sketch, but it's close. The app is basic, but it's cool. I was able to combine an ASP.NET Core API, SignalR, React, and Redux to make a functional chat application. The source code is on GitHub and can be found [here][ncp]. There are a few things I'd like to add to the application, so I'll probably continue working on it for a little while. I'm also planning to do a write up about the technologies involved, how it works, and what could be added next. Try it out if you get a chance. Feel free to send me a message or two over there.
+
 
 ![SignalR React Chat App](https://farm1.staticflickr.com/859/42971150405_27aa94fc14.jpg)
 
-It was another good week for reading. I powered right through *[Living with a SEAL: 31 Days Training with the Toughest Man on the Planet][seal]* by Jesse Itzler. It's about the month that Itzler invited a Navy SEAL, [David Goggins][dg], to come live with him. It was quite a month. For the month, Itzler agreed to doing whatever Goggins told him to do. This usually included running six miles each morning, four at night, and hundreds of pushups. It was interesting to read about Itzler's growth through the month and the challenges he went through. Itzler pushed through the difficult workouts to get out of his comfort zone. We don't all have to invite a SEAL to live with us, but we can stand to add a little discomfort to our lives. 
+ 
 
 ## Finished
 
-**Pluralsight Course(s):** [Containerizing Angular Applications with Docker][dock]
+**Pluralsight Course(s):** 
 
-**Book(s):** *[Living with a SEAL: 31 Days Training with the Toughest Man on the Planet][seal]*
+**Book(s):**
 
 ## Currents
 
@@ -25,7 +25,7 @@ It was another good week for reading. I powered right through *[Living with a SE
 
 ## On the Next...
 
-This week I'm going to continue moving forward and building momentum. The goal is to develop software for at least an hour a day. It's hard to get an hour in after work some days, but it's a rewarding practice. I'm going to clean up the SignalR React chat app a little bit and then I'm going to dive into another project. It's going to be hot outside, I may as well stay cool and be productive.
+
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
