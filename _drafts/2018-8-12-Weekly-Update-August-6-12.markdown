@@ -13,7 +13,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Error Handling in C# with Exceptions][err]
 
 **Book(s):**
 
@@ -52,3 +52,4 @@ categories: Dev-eryday
 [seal]: https://www.amazon.com/Living-SEAL-Training-Toughest-Planet-ebook/dp/B00U6DNZB2/
 [dock]: https://app.pluralsight.com/library/courses/containerizing-angular-apps-docker/table-of-contents
 [dg]: https://en.wikipedia.org/wiki/David_Goggins
+[err]: https://app.pluralsight.com/library/courses/c-sharp-error-handling-exceptions/table-of-contents
