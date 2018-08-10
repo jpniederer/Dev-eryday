@@ -30,7 +30,7 @@ This week I'm going to continue moving forward and building momentum. The goal i
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
 [snr]: https://www.asp.net/signalr
-[src]: https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-2.1
+[sic]: https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-2.1
 [xu]: https://xunit.github.io/
 [mst]: https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest
 [ncp]: https://github.com/jpniederer/NETCorePlayground/tree/master/ChatApp
