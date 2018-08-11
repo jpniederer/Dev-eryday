@@ -9,7 +9,7 @@ It was another good week. I spent a lot of my reading time going through *[Think
 
 ![SignalR React Chat App](https://farm1.staticflickr.com/859/42971150405_27aa94fc14.jpg)
 
- 
+ From a course standpoint, I finished up [Error Handling in C# with Exceptions][err]. It's a brief course covering exception handling in C#. It's pretty basic but good stuff to review every once in a while. Even on courses  covering subjects I know pretty well already, there's always a chance that they'll unearth a feature that you've overlooked or never even knew about. A language as large as C# has become is full tricks and concepts worth knowing about, it's good to cast a wide net.
 
 ## Finished
 
