@@ -25,7 +25,7 @@ It was another good week. I spent a lot of my reading time going through *[Think
 
 ## On the Next...
 
-
+This week I'm going to get the momentum rolling again. I didn't have much momentum this last week for some reason. I'm going to blame the heat. I'm thinking I'll post at least one new article this week on the site. On top of that, I'm going to work on a programming project. It may not be something that's open source, but I'm going to aim to write code from an hour a day outside of work.
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
