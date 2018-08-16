@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a Chat App with ASP.NET Core, SignalR, React, and Redux"
-date: 2018-8-15 15:33:00 +0000
+date: 2018-8-17 15:33:00 +0000
 categories: Creations
 description: In efforts to learn, I built a basic chat room application using ASP.NET Core, SignalR, React, and Redux. This is how I built it.
 ---
@@ -47,7 +47,27 @@ If you've read this far, thank you! You made it through the bulk of the work. No
   *[The Little ASP.NET Core Book][lc]* - A great introduction to ASP.NET Core by Nate Barbettini. The book walks readers through building out a Todo app using ASP.NET Core.
 
 ### What's Next
-I don't think I'll be spending much more time with this chat app, but there are a number of features that could be added to make it a far better application. I may add a few of them for the exercise of adding them or for the chance to write a tutorial for this site. Sometimes it just fun to add features to a little side project.
+I don't think I'll be spending much more time with this chat app, but there are a number of features that could be added to make it a far better application. I may add a few of them for the exercise of adding them or for the chance to write a tutorial for this site. Sometimes it just fun to add features to a little side project. Here are some things I thought up that would make nice additions to the app.
+
+**Flag Rooms with Unread Messages** - It'd be nice to know when new messages have been posted to a room while you're on the site.
+
+**Show SignalR Connection Status** - Currently, if the SignalR connection drops the user will only know by checking the browser's JavaScript console. It's not fun to be expecting new messages and nothing happens because the connection has been lost.
+
+**Automatically Attepmt to Connect When SignalR Connection is Lost** - When a connection is lost, the app should attempt to reconnect the user to the SignalR hub. This should happen every minute or so after the connection is lost.
+
+**Private Chat Rooms Reachable by Private URL** - I would use React Router to develop this. The room would only be visible to people with the URL. It would be really cool if the room self-destructed once all participants have left. The room and all messages sent would be wiped from the record.
+
+**Multimedia Message Support** - Popular social media and chap apps embed multimedia messages. The chat would be a lot nice if it did something like that.
+
+**Stream Old Messages as Needed on Loading a Room** - Right now, when users load a room the front end will load all messages for that room. If the site were to get popular, this would be impossible. Loading 30 or so at a time based on current scroll position may be a better way. 
+
+**Live Counts of Users by Room** - From a usability standpoint it would be nice to see if there are other users online and what rooms they're in. It's easy to being talking to a void with the current setup.
+
+**User Accounts** - The app doesn't have accounts currently. If there were user accounts, users would have to enter a name each time and message statistics could be kept.
+
+**Site Admin** - Some messages and rooms might need to be deleted some day. Admin functionality would provide the ability to keep the site operating well.
+
+**Testing** - I added a .NET project for testing and setup everything I'd need to test the React app. The thing I didn't do was actually write robust unit tests. This would probably be the best thing that could be added to the project. From there, tests could be written for each additional feature.
 
 What are some features you'd add app? Feel free to fork the [repo][gh] and post your code online if you do. Note that the ChatApp is in the [ChatApp Folder][caf] within the NETCorePlayground repo. I won't hesitate to merge the code into the main branch if it fits in with the application.
 
