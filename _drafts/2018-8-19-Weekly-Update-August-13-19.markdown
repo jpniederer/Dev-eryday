@@ -13,9 +13,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Building an Async API with ASP.NET Core][async]
 
-**Book(s):** 
+**Book(s):** *[Algorithms to Live By: The Computer Science of Human Decisions][alb]*
 
 ## Currents
 
@@ -33,5 +33,5 @@ categories: Dev-eryday
 [fun]: https://www.amazon.com/Functional-Programming-write-better-code/dp/1617293954/
 [src]: https://chatappwithsignalr.azurewebsites.net/index.html
 [err]: https://app.pluralsight.com/library/courses/c-sharp-error-handling-exceptions/table-of-contents
-[tlp]: https://www.amazon.com/Think-Like-Programmer-Introduction-Creative-ebook/dp/B008RQMDU4/
-[hsi]: https://www.amazon.com/How-Solve-Aspect-Mathematical-Method-ebook/dp/B0073X0IOA/
+[async]: https://app.pluralsight.com/library/courses/building-async-api-aspdotnet-core/table-of-contents
+[alb]: https://app.pluralsight.com/library/courses/building-async-api-aspdotnet-core/table-of-contents

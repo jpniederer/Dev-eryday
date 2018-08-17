@@ -46,6 +46,8 @@ If you've read this far, thank you! You made it through the bulk of the work. No
 
   *[The Little ASP.NET Core Book][lc]* - A great introduction to ASP.NET Core by Nate Barbettini. The book walks readers through building out a Todo app using ASP.NET Core.
 
+  [Building a Chat App with React.js and Chatkit][schat] - An interactive tutorial on [Scrimba][scrim] by Per Harald Borgen. The styling content from this course was used to build my app. I didn't watch the videos, but made heavy use of the source code in creating the app. Using the course's CSS, made it easy to setup the CSS Grid for the chat app.
+
 ### What's Next
 I don't think I'll be spending much more time with this chat app, but there are a number of features that could be added to make it a far better application. I may add a few of them for the exercise of adding them or for the chance to write a tutorial for this site. Sometimes it just fun to add features to a little side project. Here are some things I thought up that would make nice additions to the app.
 
@@ -83,3 +85,5 @@ What are some features you'd add app? Feel free to fork the [repo][gh] and post 
 [asb]: https://sketchbook.com/
 [lc]: https://www.recaffeinate.co/book/
 [rex]: https://redux.js.org/
+[scrim]: https://scrimba.com/
+[schat]: https://scrimba.com/g/greactchatkit
