@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a Chat App with ASP.NET Core, SignalR, React, and Redux"
-date: 2018-8-17 15:33:00 +0000
+date: 2018-8-21 15:33:00 +0000
 categories: Creations
 description: In efforts to learn, I built a basic chat room application using ASP.NET Core, SignalR, React, and Redux. This is how I built it.
 ---
@@ -31,6 +31,13 @@ Before we go any further, this won't be an in depth, line-by-line walk through. 
 
 ### Frontend
 
+The frontend side of the application is driven by three technologies: React, Redux, and CSS. Building out the frontend was my favorite part of the development experience.
+
+**High Level Frontend Steps**
+1. Setup Basic Component Layout
+2. Implement Components
+3. Tie Up Redux, the API, and Components
+4. Integrate SignalR into Essential Components
 
 ### Deployment
 
