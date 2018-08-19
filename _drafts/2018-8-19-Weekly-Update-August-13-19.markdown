@@ -25,7 +25,7 @@ Pluralsight released another cool .NET Core course this week. They've really bee
 
 ## On the Next...
 
-
+The goal for the next week is to get back in the swing of things. Something exceptional happened over the last weekend. I didn't have any access to the internet. I had my computer and was able to read, learn, and create a little bit, but it was the first time in years I've been offline for a couple of days in what feels like years. I have to say, it felt great to take a bit of a break from the constant bombardment of information that is flowing on the internet. I looked at the lack of access as an opportunity to take a minor break. Sure, it changed my plans for weekend, but it was nothing major. So I'm going to take the little break and use it hit next week even harder.
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
