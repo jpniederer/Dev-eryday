@@ -29,6 +29,48 @@ Before we go any further, this won't be an in depth, line-by-line walk through. 
 4. Build Out Dependency Injection
 5. Integrate SignalR Hubs
 
+Before doing anything, ensure that you have .NET Core 2.1 or above installed. There are links to download the 2.1 SDK [here][cdl]. The SDK needs to be installed in order to be able to build the backend API. With the installation out of the way, now you can create a project. If you have Visual Studio installed, go ahead and use the File -> New Solution menu wizard to create a new ASP.NET Core API project using .NET Core 2.1. You can also create the project via the command line by issuing `dotnet new webapp -o ChatAppWithSignalR` in your terminal. 
+
+The models for our ChatRoom and Message classes are basic POCOs. The code for each model is listed below to provide the properties we are storing for each record. These classes are added to the Models class following the standard MVC convention.
+
+*ChatRoom.cs*
+~~~
+using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace ChatAppWithSignalR.Models
+{
+    public class ChatRoom
+    {
+        public Guid Id { get; set; }
+        [Required]
+        public string Name { get; set; }
+    }
+}
+~~~
+
+*Message.cs*
+~~~
+using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace ChatAppWithSignalR.Models
+{
+    public class Message
+    {
+        public Guid Id { get; set; }
+        public Guid RoomId { get; set; }
+        [Required]
+        public string Contents { get; set; }
+        [Required]
+        public string UserName { get; set; }
+        public DateTimeOffset PostedAt { get; set; }
+    }
+}
+~~~
+
+With the basic models we'll be working with defined, we can start building out the infrastructure that we'll use to save to and read it from a data store. Since it works on all platforms, I chose to use [SQLite][sql] as the data store for the app. SQLite isn't the database engine I'd choose for a mission critical, centralized chap app, but it's perfect for our needs. It gets us up and running quickly, has a small footprint, and the data store can be deployed directly as a file with the rest of the application.
+
 ### Frontend
 
 The frontend side of the application is driven by three technologies: React, Redux, and CSS. Building out the frontend was my favorite part of the development experience.
@@ -54,6 +96,8 @@ If you've read this far, thank you! You made it through the bulk of the work. No
   *[The Little ASP.NET Core Book][lc]* - A great introduction to ASP.NET Core by Nate Barbettini. The book walks readers through building out a Todo app using ASP.NET Core.
 
   [Building a Chat App with React.js and Chatkit][schat] - An interactive tutorial on [Scrimba][scrim] by Per Harald Borgen. The styling content from this course was used to build my app. I didn't watch the videos, but made heavy use of the source code in creating the app. Using the course's CSS, made it easy to setup the CSS Grid for the chat app.
+
+  [Create a Web API with ASP.NET Core and Visual Studio][cwp]- This Microsoft's introduction tutorial for building out a web API using ASP.NET Core. 
 
 ### What's Next
 I don't think I'll be spending much more time with this chat app, but there are a number of features that could be added to make it a far better application. I may add a few of them for the exercise of adding them or for the chance to write a tutorial for this site. Sometimes it just fun to add features to a little side project. Here are some things I thought up that would make nice additions to the app.
@@ -94,3 +138,6 @@ What are some features you'd add app? Feel free to fork the [repo][gh] and post 
 [rex]: https://redux.js.org/
 [scrim]: https://scrimba.com/
 [schat]: https://scrimba.com/g/greactchatkit
+[cdl]: https://www.microsoft.com/net/download/dotnet-core/2.1
+[cwp]: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.1
+[sql]: https://www.sqlite.org/index.html
