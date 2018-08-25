@@ -10,7 +10,7 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** 
 
-**Book(s):** 
+**Book(s):** *[Deep Work][dw]*
 
 ## Currents
 
