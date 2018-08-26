@@ -8,7 +8,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Installing and Configuring IIS Servers][iis]
 
 **Book(s):** *[Deep Work][dw]*
 
@@ -26,3 +26,4 @@ categories: Dev-eryday
 [ncp]: https://github.com/jpniederer/NETCorePlayground/tree/master/ChatApp
 [fun]: https://www.amazon.com/Functional-Programming-write-better-code/dp/1617293954/
 [src]: https://chatappwithsignalr.azurewebsites.net/index.html
+[iis]: https://app.pluralsight.com/library/courses/installing-configuring-iis/table-of-contents
