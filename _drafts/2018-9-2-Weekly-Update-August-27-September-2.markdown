@@ -15,7 +15,7 @@ I did a little exploratory learning this week in the form of learning about Goog
 
 **Pluralsight Course(s):** [Flutter: Getting Started][flu]
 
-**Book(s):** 
+**Book(s):** *[Letting Go of the Words: Writing Web Content that Works][word]*
 
 ## Currents
 
@@ -37,3 +37,4 @@ I did a little exploratory learning this week in the form of learning about Goog
 [fl]: https://flutter.io/
 [rn]: https://facebook.github.io/react-native/
 [xm]: https://visualstudio.microsoft.com/xamarin/
+[word]: https://www.amazon.com/Letting-Go-Words-Interactive-Technologies-ebook/dp/B008HOJHDM/
