@@ -5,11 +5,11 @@ date: 2018-9-2 20:25:00 +0000
 categories: Dev-eryday
 ---
 
-I did a little exploratory learning this week in the form of learning about Google's [Flutter][fl]. With [Flutter: Getting Started][flu] being released on Pluralsight, it felt like a good time to check out what all the fuss about the SDK is. Flutter is interesting because it allows developers to create native mobile apps for both Android and iOS with one codebase using the Dart programming language. Yes, lots of other SDKs like [React Native][rn] and [Xamarin][xm] already exist and do similar things, but it's fun to gain a little insight on how the new options are doing things. Right now, I'm intrigued by Flutter but not keen on using Dart, which reminds me a lot of TypeScript, when I could be using JavaScript, TypeScript, or C# to build apps. I'm going to keep my eyes on Flutter but probably won't dive in just yet.
+Part of the reason why I keep working on Dev-eryday is to get better as a writer. Every week I post at least a "Weekly Update" post. Writing posts for the site isn't always the most enjoyable thing, but I never regret the time spent working on them. With each post I feel my writing gets a little better. I'm still nowhere close to the greats, but I'm making progress. This week I read *[Letting Go of the Words: Writing Web Content that Works][word]* and it's got me thinking a lot about the style and content of what I'm publishing. There's a lot of room for growth. The book goes into great detail about we can make our writing better for people who consume it digitally. Anyone writing content on the web should at least skim this book. There are a lot of lessons to be found.
 
 ![Commute Breakdown](https://farm2.staticflickr.com/1871/43383972075_1a3b3eddc3.jpg)
 
-
+I did a little exploratory learning this week in the form of learning about Google's [Flutter][fl]. With [Flutter: Getting Started][flu] being released on Pluralsight, it felt like a good time to check out what all the fuss about the SDK is. Flutter is interesting because it allows developers to create native mobile apps for both Android and iOS with one codebase using the Dart programming language. Yes, lots of other SDKs like [React Native][rn] and [Xamarin][xm] already exist and do similar things, but it's fun to gain a little insight on how the new options are doing things. Right now, I'm intrigued by Flutter but not keen on using Dart, which reminds me a lot of TypeScript, when I could be using JavaScript, TypeScript, or C# to build apps. I'm going to keep my eyes on Flutter but probably won't dive in just yet.
 
 ## Finished
 
