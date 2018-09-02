@@ -25,7 +25,7 @@ I did a little exploratory learning this week in the form of learning about Goog
 
 ## On the Next...
 
-
+This week I'm going to run a lot. My target is 25 miles for the week. With the arrival of September, it was time to start up a new monthly challenge. This month I've decided to attempt to run 100 miles. I'm pretty sure that's far more than I've ever ran in a single month. It's only the second day of the month and I've got 10 miles down already, 1/10 of the way complete. It's probably going to be a struggle but I think I can make it happen. You have to synthesize the stuff you really want. This challenge will push me physically and likely lead to quite a bit of mental growth. I'm excited for it.
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
