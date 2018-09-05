@@ -13,7 +13,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Vue.js Big Picture][vue]
 
 **Book(s):** 
 
@@ -38,3 +38,4 @@ categories: Dev-eryday
 [rn]: https://facebook.github.io/react-native/
 [xm]: https://visualstudio.microsoft.com/xamarin/
 [word]: https://www.amazon.com/Letting-Go-Words-Interactive-Technologies-ebook/dp/B008HOJHDM/
+[vue]: https://app.pluralsight.com/library/courses/vuejs-big-picture/table-of-contents
