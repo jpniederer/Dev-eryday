@@ -5,7 +5,7 @@ date: 2018-9-9 19:45:00 +0000
 categories: Dev-eryday
 ---
 
-
+In last week's Weekly Update I mentioned that I've started a challenge to run 100 miles in the month of September. I started the week off with 15 miles in the books. After a 5 mile run on Tuesday, a X mile run on Thursday, and X miles on Saturday, I'm up to a total of Y miles. The run early in the week was hot but luckily the weather cooled off a bit towards the end of the week which made the trials far more manageable. So far, this has been the most rewarding challenge I've taken on this calendar year.
 
 ![One Step Closer](https://farm2.staticflickr.com/1900/44386546872_e01f78ca4b.jpg)
 
