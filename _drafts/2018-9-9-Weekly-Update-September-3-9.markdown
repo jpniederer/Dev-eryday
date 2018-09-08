@@ -9,7 +9,7 @@ In last week's Weekly Update I mentioned that I've started a challenge to run 10
 
 ![One Step Closer](https://farm2.staticflickr.com/1900/44386546872_e01f78ca4b.jpg)
 
-
+I finally read all the way through Enrico Buonanno's *[Functional Programming in C#: How to Write Better C# Code][fun]*. It's a fantastic programming book. Though I've read through the entire book, I am by no means finished with the book. The book is packed with ideas and code that can serve as the gateway to programming functionally. The book uses C#, but it's general enough that anyone seeking guidance in the functionaly way can find the information. Topics covered include functors, monads, map, bind, immutability, managing state, and everything in between. I'll be thinking about this book for quite some time. I'm thinking I'll skim through *[JavaScript Allonge][jsa]* as a companion to this one.
 
 ## Finished
 
@@ -40,3 +40,4 @@ In last week's Weekly Update I mentioned that I've started a challenge to run 10
 [word]: https://www.amazon.com/Letting-Go-Words-Interactive-Technologies-ebook/dp/B008HOJHDM/
 [vue]: https://app.pluralsight.com/library/courses/vuejs-big-picture/table-of-contents
 [gtg]: https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6/
+[jsa]: https://leanpub.com/javascriptallongesix/read
