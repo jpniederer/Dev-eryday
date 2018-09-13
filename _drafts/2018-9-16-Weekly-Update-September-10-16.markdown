@@ -13,7 +13,7 @@ Back in June, I went through a ton of the challenges on [freeCodeCamp][fcc]. I c
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Continuously Deliver IIS-based .NET Applications][cdi]
 
 **Book(s):** 
 
@@ -44,3 +44,4 @@ Back in June, I went through a ton of the challenges on [freeCodeCamp][fcc]. I c
 [fcc]: https://www.freecodecamp.org/
 [cert]: https://www.freecodecamp.org/certification/fcc6a4b5394/javascript-algorithms-and-data-structures
 [cr]: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+[cdi]: https://app.pluralsight.com/library/courses/continuously-deliver-iis-dotnet-applications/table-of-contents
