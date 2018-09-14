@@ -15,13 +15,13 @@ Back in June, I went through a ton of the challenges on [freeCodeCamp][fcc]. I c
 
 **Pluralsight Course(s):** [Continuously Deliver IIS-based .NET Applications][cdi]
 
-**Book(s):** 
+**Book(s):** *[Good to Great: Why Some Companies Make the Leap...And Others Don't][gtg]*
 
 ## Currents
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re]
 
-**Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_, *[Good to Great: Why Some Companies Make the Leap...And Others Don't][gtg]*
+**Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_, 
 
 ## On the Next...
 
