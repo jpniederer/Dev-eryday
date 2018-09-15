@@ -9,7 +9,7 @@ Back in June, I went through a ton of the challenges on [freeCodeCamp][fcc]. I c
 
 ![One Step Closer](https://farm2.staticflickr.com/1900/44386546872_e01f78ca4b.jpg)
 
-
+In terms of learning, I took in a lot of great information in the last week. I finished reading *[Good to Great: Why Some Companies Make the Leap...And Others Don't][gtg]* by Jim Collins. The book, as its title suggests, lays out a number of things that companies can do to go from being a good company to being a great one. My favorite takeaway from the book was the [hedgehog concept][hc]. The idea is that a hedgehog has one tatic which is curling up and taking advantage of its spikey hair to protect itself. Great companies focus on being the best at one thing. I like this concept a lot and it's applicable to individuals as well. It's time to move from good to great.
 
 ## Finished
 
@@ -25,7 +25,7 @@ Back in June, I went through a ton of the challenges on [freeCodeCamp][fcc]. I c
 
 ## On the Next...
 
-
+Running, running, and more running. My challenge of running 100 miles in the month of September is going well.
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
@@ -45,3 +45,4 @@ Back in June, I went through a ton of the challenges on [freeCodeCamp][fcc]. I c
 [cert]: https://www.freecodecamp.org/certification/fcc6a4b5394/javascript-algorithms-and-data-structures
 [cr]: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
 [cdi]: https://app.pluralsight.com/library/courses/continuously-deliver-iis-dotnet-applications/table-of-contents
+[hc]: https://www.jimcollins.com/concepts/the-hedgehog-concept.html
