@@ -21,11 +21,13 @@ In terms of learning, I took in a lot of great information in the last week. I f
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re]
 
-**Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_, 
+**Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_
 
 ## On the Next...
 
-Running, running, and more running. My challenge of running 100 miles in the month of September is going well.
+Running, running, and more running. My challenge of running 100 miles in the month of September is going well. I'm up to a total of 60 miles now. So I'm now over halfway through the challenge. I have 40 more miles to go and I'll aim to get at least 20 more miles in this week. My last few runs have been slower than I would've liked so I'd like to have more of a focus on speed this week. For now, I'm on pace to get the challenge complete, but there are things I could be doing better.
+
+I'm going to spend some time this week reading *Continuous Delivery*. I don't think I've picked it up since May. It would be nice to make a dent in it and get it off the reading list.
 
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
