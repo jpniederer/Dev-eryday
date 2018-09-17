@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Weekly Update: September 10 - 16, 2018"
-date: 2018-9-16 19:45:00 +0000
+date: 2018-9-16 21:00:00 +0000
 categories: Dev-eryday
 ---
 
 Back in June, I went through a ton of the challenges on [freeCodeCamp][fcc]. I completed at least one of the challenges each day for the whole month. By the end of the month I had completed 300+ challenges. I would qualify the experience as more fun than it was difficult. This week I went back to the site for the first time since June. While there, I found out I was only two challenges away from earning their JavaScript Algorithms and Data Structures Certification. So, I completed the challenges and now I have the certification. Check it [out][cert]! There are five problems that need to be solved to get the cert. As a seasoned developer with a CS degree, I wouldn't say any of them were hard, but I enjoyed working through them. The [Cash Register][cr] took the longest (about an hour) and was the most enjoyable one to solve. For anyone looking to get into coding or people who just a good place to brush up on their web development skills, I highly recommend freeCodeCamp.
 
-![One Step Closer](https://farm2.staticflickr.com/1900/44386546872_e01f78ca4b.jpg)
+![The Hedgehog Concept](https://farm2.staticflickr.com/1843/42918765240_19c46990f4.jpg)
 
-In terms of learning, I took in a lot of great information in the last week. I finished reading *[Good to Great: Why Some Companies Make the Leap...And Others Don't][gtg]* by Jim Collins. The book, as its title suggests, lays out a number of things that companies can do to go from being a good company to being a great one. My favorite takeaway from the book was the [hedgehog concept][hc]. The idea is that a hedgehog has one tatic which is curling up and taking advantage of its spikey hair to protect itself. Great companies focus on being the best at one thing. I like this concept a lot and it's applicable to individuals as well. It's time to move from good to great.
+In terms of learning, I took in a lot of great information in the last week. I finished reading *[Good to Great: Why Some Companies Make the Leap...And Others Don't][gtg]* by Jim Collins. The book, as its title suggests, lays out a number of things that companies can do to go from being a good company to being a great one. My favorite takeaway from the book was the [hedgehog concept][hc]. The idea is that a hedgehog has one tactic which is curling up and taking advantage of its spikey hair to protect itself. Great companies focus on being the best at one thing. I like this concept a lot and it's applicable to individuals as well. It's time to move from good to great.
 
 ## Finished
 
@@ -25,7 +25,7 @@ In terms of learning, I took in a lot of great information in the last week. I f
 
 ## On the Next...
 
-Running, running, and more running. My challenge of running 100 miles in the month of September is going well. I'm up to a total of 60 miles now. So I'm now over halfway through the challenge. I have 40 more miles to go and I'll aim to get at least 20 more miles in this week. My last few runs have been slower than I would've liked so I'd like to have more of a focus on speed this week. For now, I'm on pace to get the challenge complete, but there are things I could be doing better.
+Running, running, and more running. My challenge of running 100 miles in the month of September is going well. I'm up to a total of 60 miles now. So, I'm now over halfway through the challenge. I have 40 more miles to go and I'll aim to get at least 20 more miles in this week. My last few runs have been slower than I would've liked so I'd like to have more of a focus on speed this week. For now, I'm on pace to get the challenge complete, but there are things I could be doing better.
 
 I'm going to spend some time this week reading *Continuous Delivery*. I don't think I've picked it up since May. It would be nice to make a dent in it and get it off the reading list.
 
