@@ -13,7 +13,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Getting Started with OAuth 2.0][oau]
 
 **Book(s):** 
 
@@ -46,3 +46,4 @@ categories: Dev-eryday
 [cr]: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
 [cdi]: https://app.pluralsight.com/library/courses/continuously-deliver-iis-dotnet-applications/table-of-contents
 [hc]: https://www.jimcollins.com/concepts/the-hedgehog-concept.html
+[oau]: https://app.pluralsight.com/library/courses/oauth-2-getting-started/table-of-contents
