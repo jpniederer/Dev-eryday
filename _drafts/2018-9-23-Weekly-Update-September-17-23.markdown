@@ -15,13 +15,13 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [Getting Started with OAuth 2.0][oau]
 
-**Book(s):** 
+**Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_
 
 ## Currents
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re]
 
-**Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_
+**Book(s):** 
 
 ## On the Next...
 
