@@ -21,12 +21,12 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re]
 
-**Book(s):** 
+**Book(s):** *[Design It!: From Programmer to Software Architect][di]*
 
 ## On the Next...
 
 
-
+[di]: https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093/
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
 [cd]: https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
 [ncp]: https://github.com/jpniederer/NETCorePlayground/tree/master/ChatApp
