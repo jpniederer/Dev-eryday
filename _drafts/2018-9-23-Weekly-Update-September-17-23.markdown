@@ -21,7 +21,7 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re]
 
-**Book(s):** *[Design It!: From Programmer to Software Architect][di]*
+**Book(s):** *[Design It!: From Programmer to Software Architect][di]*, *[Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts][tib]*
 
 ## On the Next...
 
@@ -47,3 +47,4 @@ categories: Dev-eryday
 [cdi]: https://app.pluralsight.com/library/courses/continuously-deliver-iis-dotnet-applications/table-of-contents
 [hc]: https://www.jimcollins.com/concepts/the-hedgehog-concept.html
 [oau]: https://app.pluralsight.com/library/courses/oauth-2-getting-started/table-of-contents
+[tib]: https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions-ebook/dp/B074DG9LQF/
