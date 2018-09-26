@@ -13,15 +13,15 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** [Getting Started with OAuth 2.0][oau]
+**Pluralsight Course(s):** 
 
-**Book(s):** _[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation][cd]_
+**Book(s):** *[Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts][tib]*
 
 ## Currents
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re]
 
-**Book(s):** *[Design It!: From Programmer to Software Architect][di]*, *[Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts][tib]*
+**Book(s):** *[Design It!: From Programmer to Software Architect][di]*
 
 ## On the Next...
 
