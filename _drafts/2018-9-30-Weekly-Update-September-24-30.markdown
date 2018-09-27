@@ -13,7 +13,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Less: Getting Started][lgs]
 
 **Book(s):** *[Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts][tib]*
 
@@ -52,3 +52,4 @@ categories: Dev-eryday
 [po]: https://dev-eryday.com/books/2018/05/17/Continuous-Delivery-Notes-Part-I-Foundations.html
 [ti]: https://travis-ci.org
 [ap]: https://azure.microsoft.com/en-us/services/devops/pipelines/
+[lgs]: https://app.pluralsight.com/library/courses/less-getting-started/table-of-contents
