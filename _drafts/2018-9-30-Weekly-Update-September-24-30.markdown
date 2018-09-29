@@ -5,7 +5,7 @@ date: 2018-9-30 21:10:00 +0000
 categories: Dev-eryday
 ---
 
-
+This was a good week. I finished up my 100 mile challenge. I wrapped it up by running 3.5 miles on Monday, 5.5 miles on Tuesday, and 7.5 miles on Thursday. That pushed the monthly total up to 100.25 miles for the month. For good measure, I added 6 more miles on Saturday to close out the month with 106.25 miles. I learned that I could probably run a marathon from this challenge. Don't get me wrong, it would be tough, but I know that I could do it if I signed up for one. The difficulty is in the time committment. It takes a lot of time to run 100 miles in a month. The training for a marathon would push the amount of training up to the next level. A marathon is something I'd definitely like to do someday, possibly sooner than later.
 
 ![Keep Moving Forward](https://farm2.staticflickr.com/1914/44155933044_4f4608d2c1.jpg)
 
