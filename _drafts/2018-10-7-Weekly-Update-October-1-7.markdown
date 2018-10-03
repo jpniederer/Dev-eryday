@@ -13,9 +13,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** [Less: Getting Started][lgs]
+**Pluralsight Course(s):** [GitHub Fundamentals][ghf]
 
-**Book(s):** *[Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts][tib]*
+**Book(s):** 
 
 ## Currents
 
@@ -38,3 +38,4 @@ categories: Dev-eryday
 [tw]: https://tailwindcss.com/
 [hn]: https://news.ycombinator.com/item?id=18084013
 [mlc]: http://course.fast.ai/ml.html
+[ghf]: https://app.pluralsight.com/library/courses/github-fundamentals/table-of-contents
