@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [GitHub Fundamentals][ghf]
 
-**Book(s):** 
+**Book(s):** *[Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days][spr]*
 
 ## Currents
 
@@ -39,3 +39,4 @@ categories: Dev-eryday
 [hn]: https://news.ycombinator.com/item?id=18084013
 [mlc]: http://course.fast.ai/ml.html
 [ghf]: https://app.pluralsight.com/library/courses/github-fundamentals/table-of-contents
+[spr]: https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas-ebook/dp/B010MH1DAQ/
