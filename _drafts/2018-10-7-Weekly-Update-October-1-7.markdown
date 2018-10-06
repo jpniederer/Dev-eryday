@@ -9,7 +9,15 @@ It's always bittersweet when the Cubs baseball season comes to a close. You see,
 
 ![How I Ran 100 Miles](https://farm2.staticflickr.com/1934/30063883737_9a74091b61.jpg)
 
+This week my attention was consumed by *[Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days][spr]*. It's a book that lays out how to approch a sprint effectively. The sprints are broken down into five days. The approach goes something like the list below.
 
+* Monday - Make a Map and Choose a Target
+* Tuesday - Sketch Competing Solutions
+* Wednesday - Decide on the Best
+* Thursday - Build a Realistic Prototype
+* Friday - Test with Target Customers
+
+Each sprint is focused on solving a specific problem. Monday sets the stage for the week. Tuesday is used to brainstorm potential options. Wednesday the best options are chosen. Thursday it's time to get to work. Friday is time to actually test the creation. I originally came to the book via [this][vid] awesome video on YouTube where the author explains how a sprint led robot delivery system used in hotels. The video is interesting and the book makes me want to go through a similar sprint.
 
 ## Finished
 
@@ -40,3 +48,4 @@ It's always bittersweet when the Cubs baseball season comes to a close. You see,
 [mlc]: http://course.fast.ai/ml.html
 [ghf]: https://app.pluralsight.com/library/courses/github-fundamentals/table-of-contents
 [spr]: https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas-ebook/dp/B010MH1DAQ/
+[vid]: https://www.youtube.com/watch?v=mMWzVyIhDTk
