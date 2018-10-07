@@ -5,7 +5,7 @@ date: 2018-9-30 11:30:00 +0000
 categories: Dev-eryday
 ---
 
-It's always bittersweet when the Cubs baseball season comes to a close. You see, I enjoy watching the team's games, but the time spent watching the games could be spent on other things. Things like learning, reading, creating, or anything else worth doing. Don't get me wrong, it's a lot of fun to watch the games when the team is winning. Foretunately/Unfortunately, the Cubs 2018 season came to an abrupt close this week following two consecutive losses at home. Both losses were close, but victory never felt possible in either of them. So, the offseason has started. It's time to roll up my sleeves and get to work.
+It's always bittersweet when the Cubs baseball season comes to a close. You see, I enjoy watching the team's games, but the time spent watching the games could be spent on other things. Things like learning, reading, creating, or anything else worth doing. Don't get me wrong, it's a lot of fun to watch the games when the team is winning. Foretunately/Unfortunately, the Cubs 2018 season came to an abrupt close this week following two consecutive losses at home. Both losses were close, but victory never felt possible in either of them. So, the offseason has started. It's time to roll up my sleeves and get to work. Offseason priorities include getting on a good sleep schedule, playing more guitar, and delivering more personal projects. It's going to be fun.
 
 ![How I Ran 100 Miles](https://farm2.staticflickr.com/1934/30063883737_9a74091b61.jpg)
 
