@@ -13,13 +13,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [C# Best Practices: Collections and Generics][gen]
 
-**Book(s):** 
+**Book(s):** *[Becoming a Technical Leader: An Organic Problem-Solving Approach][tl]*
 
 ## Currents
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re]
+**Pluralsight Course(s):** 
 
 **Book(s):** *[Design It!: From Programmer to Software Architect][di]*
 
@@ -42,3 +42,5 @@ categories: Dev-eryday
 [spr]: https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas-ebook/dp/B010MH1DAQ/
 [vid]: https://www.youtube.com/watch?v=mMWzVyIhDTk
 [gfg]: https://www.geeksforgeeks.org/
+[tl]: https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/
+[gen]: https://app.pluralsight.com/library/courses/csharp-best-practices-collections-generics/table-of-contents
