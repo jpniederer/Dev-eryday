@@ -19,7 +19,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):** [Entity Framework Core 2.1: What's New Playbook][efc]
 
 **Book(s):** *[Design It!: From Programmer to Software Architect][di]*
 
@@ -44,3 +44,4 @@ categories: Dev-eryday
 [gfg]: https://www.geeksforgeeks.org/
 [tl]: https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/
 [gen]: https://app.pluralsight.com/library/courses/csharp-best-practices-collections-generics/table-of-contents
+[efc]: https://app.pluralsight.com/library/courses/playbook-ef-core-2-1-whats-new/table-of-contents
