@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [React 16 - The Complete Guide][re], [C# Best Practices: Collections and Generics][gen]
 
-**Book(s):** *[Becoming a Technical Leader: An Organic Problem-Solving Approach][tl]*
+**Book(s):** *[Becoming a Technical Leader: An Organic Problem-Solving Approach][tl]*, *[The Fifth Risk][tfr]*
 
 ## Currents
 
@@ -45,3 +45,4 @@ categories: Dev-eryday
 [tl]: https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/
 [gen]: https://app.pluralsight.com/library/courses/csharp-best-practices-collections-generics/table-of-contents
 [efc]: https://app.pluralsight.com/library/courses/playbook-ef-core-2-1-whats-new/table-of-contents
+[tfr]: https://www.amazon.com/Fifth-Risk-Michael-Lewis-ebook/dp/B07FFCMSCX/
