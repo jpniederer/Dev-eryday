@@ -5,7 +5,7 @@ date: 2018-10-14 19:05:00 +0000
 categories: Dev-eryday
 ---
 
-
+I read a lot this week. The first book was *[Becoming a Technical Leader: An Organic Problem-Solving Approach][tl]* by Gerald Weinberg. The book is packed with tips about how to approach problem solving. Each chapter of the book has five to ten questions that really make you think about the content presented. Weinberg, a prolific writer about the process of problem solving, shares some great tips on managing software teams and projects. I'd recommend the book to anyone in software development. For those in management, it's great to see the leadership stories from Weinberg. For team contributors, it's perfect for showing you what your boss is up against and to open your mind for things you'll experience in the future.
 
 ![Sprint Outline](https://farm2.staticflickr.com/1935/30228778277_b5c2426786.jpg)
 
