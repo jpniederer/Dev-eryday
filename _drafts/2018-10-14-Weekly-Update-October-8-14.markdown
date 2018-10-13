@@ -9,7 +9,7 @@ I read a lot this week. The first book was *[Becoming a Technical Leader: An Org
 
 ![Sprint Outline](https://farm2.staticflickr.com/1935/30228778277_b5c2426786.jpg)
 
-
+On the course front, it was time for some review. It's good to be learning new things, but sometimes reviewing old concepts is the best use of time. The review covered C# Collections and Generics and React. [C# Best Practices: Collections and Generics][gen] from Pluralsight gives a great overview of the best practices of how to use arrays, lists, dictionaries, interfaces, and LINQ within C#. The best portion of the course are the questions the instructor asks after presenting on each topic. The React course, [React 16 - The Complete Guide][re], from Udemy is packed with all kinds of how-to on using React to build web applications. The course is 33.5 hours of content, probably 2 hours of which were watched this week. This course's best feature is its depth and breadth.
 
 ## Finished
 
