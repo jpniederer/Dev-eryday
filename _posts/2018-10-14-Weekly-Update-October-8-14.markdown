@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Weekly Update: October 8 - 14, 2018"
-date: 2018-10-14 19:05:00 +0000
+date: 2018-10-14 19:30:00 +0000
 categories: Dev-eryday
 ---
 
-I read a lot this week. The first book was *[Becoming a Technical Leader: An Organic Problem-Solving Approach][tl]* by Gerald Weinberg. The book is packed with tips about how to approach problem solving. Each chapter of the book has five to ten questions that really make you think about the content presented. Weinberg, a prolific writer about the process of problem solving, shares some great tips on managing software teams and projects. I'd recommend the book to anyone in software development. For those in management, it's great to see the leadership stories from Weinberg. For team contributors, it's perfect for showing you what your boss is up against and to open your mind for things you'll experience in the future.
+I read a lot this week. The first book was *[Becoming a Technical Leader: An Organic Problem-Solving Approach][tl]* by Gerald Weinberg. The book is packed with tips about how to approach problem solving. Each chapter of the book has five to ten questions that really make you think about the content presented. Weinberg, a prolific writer about the process of problem solving, shares some great tips on managing technical teams and projects. I'd recommend the book to anyone in software development. For those in management, it's great to see the leadership stories from Weinberg and his tips. For team contributors, it's perfect for showing you what your boss is up against and to open your mind for things you'll experience in the future.
 
-![Sprint Outline](https://farm2.staticflickr.com/1935/30228778277_b5c2426786.jpg)
+![Growth: Expectations vs. Reality](https://farm2.staticflickr.com/1916/45325130111_d49d90cdc1.jpg)
 
-On the course front, it was time for some review. It's good to be learning new things, but sometimes reviewing old concepts is the best use of time. The review covered C# Collections and Generics and React. [C# Best Practices: Collections and Generics][gen] from Pluralsight gives a great overview of the best practices of how to use arrays, lists, dictionaries, interfaces, and LINQ within C#. The best portion of the course are the questions the instructor asks after presenting on each topic. The React course, [React 16 - The Complete Guide][re], from Udemy is packed with all kinds of how-to on using React to build web applications. The course is 33.5 hours of content, probably 2 hours of which were watched this week. This course's best feature is its depth and breadth.
+On the course front, it was time for some review. It's good to be learning new things, but sometimes reviewing old concepts is the best use of time. The review covered C# Collections and Generics and React. [C# Best Practices: Collections and Generics][gen] from Pluralsight gives a great overview of the best practices of how to use arrays, lists, dictionaries, interfaces, and LINQ within C#. The best portion of the course are the questions the instructor asks after presenting on each topic. The React course, [React 16 - The Complete Guide][re], from Udemy is packed with all kinds of how-to on using React to build web applications. The course is 33.5 hours of content, probably 2 hours of which were watched this week. This course's best feature is its depth and breadth. It's definitely worth the $10 cover charge.
 
 ## Finished
 
@@ -25,7 +25,7 @@ On the course front, it was time for some review. It's good to be learning new t
 
 ## On the Next...
 
-
+I'm going to be creating and applying this week. It's time to apply all the concepts I've been learning to create. I want to release at least one system before the end of the year. So that's the plan for the week ahead. It's going to be a great one.
 
 [di]: https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093/
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
