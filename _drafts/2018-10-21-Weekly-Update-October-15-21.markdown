@@ -13,9 +13,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** [React 16 - The Complete Guide][re], [C# Best Practices: Collections and Generics][gen]
+**Pluralsight Course(s):** 
 
-**Book(s):** *[Becoming a Technical Leader: An Organic Problem-Solving Approach][tl]*, *[The Fifth Risk][tfr]*
+**Book(s):** *[It Doesn't Have to Be Crazy at Work][cra]*
 
 ## Currents
 
@@ -46,3 +46,4 @@ categories: Dev-eryday
 [gen]: https://app.pluralsight.com/library/courses/csharp-best-practices-collections-generics/table-of-contents
 [efc]: https://app.pluralsight.com/library/courses/playbook-ef-core-2-1-whats-new/table-of-contents
 [tfr]: https://www.amazon.com/Fifth-Risk-Michael-Lewis-ebook/dp/B07FFCMSCX/
+[cra]: https://www.amazon.com/Doesnt-Have-Be-Crazy-Work-ebook/dp/B079WV79TK/
