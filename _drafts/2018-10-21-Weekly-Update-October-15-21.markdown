@@ -13,13 +13,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** 
+**Pluralsight Course(s):**  [Entity Framework Core 2.1: What's New Playbook][efc]
 
 **Book(s):** *[It Doesn't Have to Be Crazy at Work][cra]*
 
 ## Currents
 
-**Pluralsight Course(s):** [Entity Framework Core 2.1: What's New Playbook][efc]
+**Pluralsight Course(s):** [CQRS In Practice][cqrs]
 
 **Book(s):** *[Design It!: From Programmer to Software Architect][di]*
 
@@ -47,3 +47,4 @@ categories: Dev-eryday
 [efc]: https://app.pluralsight.com/library/courses/playbook-ef-core-2-1-whats-new/table-of-contents
 [tfr]: https://www.amazon.com/Fifth-Risk-Michael-Lewis-ebook/dp/B07FFCMSCX/
 [cra]: https://www.amazon.com/Doesnt-Have-Be-Crazy-Work-ebook/dp/B079WV79TK/
+[cqrs]: https://app.pluralsight.com/library/courses/cqrs-in-practice/table-of-contents
