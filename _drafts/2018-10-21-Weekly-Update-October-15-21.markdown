@@ -5,11 +5,11 @@ date: 2018-10-21 19:30:00 +0000
 categories: Dev-eryday
 ---
 
-
+I've long been a fan of the company [basecamp][bc]. They make one of the best work management software solutions out there. It's also where [Ruby on Rails][ror] started up. The co-founders of basecamp, dhh and Jason Fried, released a new book last week: *[It Doesn't Have to Be Crazy at Work][cra]*. The book is a whirlwind tour of the practices and philosophies that make basecamp such a successful company. The book is littered with practical advice on how to construct business practices that are good for both the company's staff and their bottom line. *It Doesn't Have to Be Crazy at Work* is a short, enjoyable read that shares the promise of a better way to work. For another great read from the people at basecamp, check out *[Getting Real][gr]*. 
 
 ![Growth: Expectations vs. Reality](https://farm2.staticflickr.com/1916/45325130111_d49d90cdc1.jpg)
 
-
+I've been spending a ton of time diving into ASP.NET Core lately. I'm liking the way the platform is shaping up. Once area I'm trying to build up my knowledge is on the best practices with using [Entity Framework Core][ef]. EF Core, for anyone unfamiliar with the .NET development stack, is Microsoft's ORM for .NET Core. Julie Lerman's latest course, [Entity Framework Core 2.1: What's New Playbook][efc], served to further my mission to better learn EF core this week. The course shares lots of wisdom on things that have been newly added to EF Core. Things like lazy loading, HasData database seeding, transactions, and a lot more. Concepts are shared put into practice in code through the lens of MSTest unit tests so the concepts can be easily put into practice.
 
 ## Finished
 
@@ -25,7 +25,7 @@ categories: Dev-eryday
 
 ## On the Next...
 
-
+I recently started a project in my ASP.NET Core Playground repository on GitHub to build out a authentication system integrated with React. The target is to build out a system that uses IdentityServer4 to authenticate users on a React web app. The React web app would call an API built with ASP.NET Core. It's just a toy project, but I'd like to get it working and potentially could use it as a base for future personal projects. I'm hoping to make a lot of progress on it this week.
 
 [di]: https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093/
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
@@ -48,3 +48,6 @@ categories: Dev-eryday
 [tfr]: https://www.amazon.com/Fifth-Risk-Michael-Lewis-ebook/dp/B07FFCMSCX/
 [cra]: https://www.amazon.com/Doesnt-Have-Be-Crazy-Work-ebook/dp/B079WV79TK/
 [cqrs]: https://app.pluralsight.com/library/courses/cqrs-in-practice/table-of-contents
+[ror]: https://rubyonrails.org/
+[gr]: https://basecamp.com/books/getting-real
+[ef]: https://docs.microsoft.com/en-us/ef/core/
