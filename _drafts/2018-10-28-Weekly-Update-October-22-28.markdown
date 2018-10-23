@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Weekly Update: October 22 - 28, 2018"
+date: 2018-10-28 20:30:00 +0000
+categories: Dev-eryday
+---
+
+
+
+![Simplify.](https://farm2.staticflickr.com/1980/44569711635_a18923f025.jpg)
+
+
+
+## Finished
+
+**Pluralsight Course(s):**  [Entity Framework Core 2.1: What's New Playbook][efc]
+
+**Book(s):** *[It Doesn't Have to Be Crazy at Work][cra]*
+
+## Currents
+
+**Pluralsight Course(s):** [CQRS In Practice][cqrs]
+
+**Book(s):** *[Design It!: From Programmer to Software Architect][di]*
+
+## On the Next...
+
+
+[play]: https://github.com/jpniederer/NETCorePlayground
+[di]: https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093/
+[re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
+[src]: https://chatappwithsignalr.azurewebsites.net/index.html
+[oau]: https://app.pluralsight.com/library/courses/oauth-2-getting-started/table-of-contents
+[tib]: https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions-ebook/dp/B074DG9LQF/
+[lgs]: https://app.pluralsight.com/library/courses/less-getting-started/table-of-contents
+[gf]: https://app.pluralsight.com/library/courses/github-fundamentals/table-of-contents
+[tfs]: https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/
+[tw]: https://tailwindcss.com/
+[hn]: https://news.ycombinator.com/item?id=18084013
+[mlc]: http://course.fast.ai/ml.html
+[ghf]: https://app.pluralsight.com/library/courses/github-fundamentals/table-of-contents
+[spr]: https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas-ebook/dp/B010MH1DAQ/
+[vid]: https://www.youtube.com/watch?v=mMWzVyIhDTk
+[gfg]: https://www.geeksforgeeks.org/
+[tl]: https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/
+[gen]: https://app.pluralsight.com/library/courses/csharp-best-practices-collections-generics/table-of-contents
+[efc]: https://app.pluralsight.com/library/courses/playbook-ef-core-2-1-whats-new/table-of-contents
+[tfr]: https://www.amazon.com/Fifth-Risk-Michael-Lewis-ebook/dp/B07FFCMSCX/
+[cra]: https://www.amazon.com/Doesnt-Have-Be-Crazy-Work-ebook/dp/B079WV79TK/
+[cqrs]: https://app.pluralsight.com/library/courses/cqrs-in-practice/table-of-contents
+[ror]: https://rubyonrails.org/
+[gr]: https://basecamp.com/books/getting-real
+[ef]: https://docs.microsoft.com/en-us/ef/core/
