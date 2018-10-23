@@ -5,7 +5,7 @@ date: 2018-10-21 20:30:00 +0000
 categories: Dev-eryday
 ---
 
-I've long been a fan of the company [Basecamp][bc]. They make one of the best work management software solutions out there. It's also where [Ruby on Rails][ror] was created. The co-founders of Basecamp, dhh and Jason Fried, released a new book last week: *[It Doesn't Have to Be Crazy at Work][cra]*. The book is a whirlwind tour of the practices and philosophies that make Basecamp such a successful company. The book is littered with practical advice on how to construct business practices that are good for both the company's staff and its bottom line. *It Doesn't Have to Be Crazy at Work* is a short, enjoyable read that shares the promise of a better way to work. For another great read from the people at basecamp, check out *[Getting Real][gr]*. 
+I have long been a fan of the company [Basecamp][bc]. They make one of the best work management software solutions out there. It's also where [Ruby on Rails][ror] was created. The co-founders of Basecamp, dhh and Jason Fried, released a new book last week: *[It Doesn't Have to Be Crazy at Work][cra]*. The book is a whirlwind tour of the practices and philosophies that make Basecamp such a successful company. The book is littered with practical advice on how to construct business practices that are good for both the company's staff and its bottom line. *It Doesn't Have to Be Crazy at Work* is a short, enjoyable read that shares the promise of a better way to work. For another great read from the people at Basecamp, check out *[Getting Real][gr]*.
 
 ![Simplify.](https://farm2.staticflickr.com/1980/44569711635_a18923f025.jpg)
 
