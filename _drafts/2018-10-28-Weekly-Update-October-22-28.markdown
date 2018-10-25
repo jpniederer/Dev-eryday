@@ -5,7 +5,7 @@ date: 2018-10-28 20:30:00 +0000
 categories: Dev-eryday
 ---
 
-
+"Write it and they'll come." I think that's how Kevin Costner said it in *Field of Dreams* when he was talking about posts he'd make for his website and how they'd drive readers to the site. Or maybe it was, "build it and they'll come," as in if he built a baseball field, the players would come. Whatever the line was, it's time to get some more posts published here on Dev-eryday. 2018 hasn't been rich with posts outside of these little Weekly Updates. The updates are nice, and they push me to stay focused on getting better each day, but long, technical posts are great for growth. Information rich posts are also a great way to build up a readership, something that would a fun side effect.
 
 ![Simplify.](https://farm2.staticflickr.com/1980/44569711635_a18923f025.jpg)
 
@@ -13,9 +13,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):**  [Entity Framework Core 2.1: What's New Playbook][efc]
+**Pluralsight Course(s):**  
 
-**Book(s):** *[It Doesn't Have to Be Crazy at Work][cra]*
+**Book(s):** 
 
 ## Currents
 
