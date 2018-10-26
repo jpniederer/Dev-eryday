@@ -13,15 +13,15 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):**  
+**Pluralsight Course(s):** [Securing Angular Apps with OpenID Connect and OAuth2][saa]
 
-**Book(s):** 
+**Book(s):** *[Design It!: From Programmer to Software Architect][di]*
 
 ## Currents
 
 **Pluralsight Course(s):** [CQRS In Practice][cqrs]
 
-**Book(s):** *[Design It!: From Programmer to Software Architect][di]*
+**Book(s):** 
 
 ## On the Next...
 
@@ -51,3 +51,4 @@ categories: Dev-eryday
 [ror]: https://rubyonrails.org/
 [gr]: https://basecamp.com/books/getting-real
 [ef]: https://docs.microsoft.com/en-us/ef/core/
+[saa]: https://app.pluralsight.com/library/courses/openid-and-oauth2-securing-angular-apps/table-of-contents
