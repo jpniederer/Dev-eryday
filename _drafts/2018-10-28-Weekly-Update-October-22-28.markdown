@@ -21,7 +21,7 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [CQRS In Practice][cqrs]
 
-**Book(s):** 
+**Book(s):** *[Accelerate: The Science of Lean Software and DevOps][acc]*
 
 ## On the Next...
 
@@ -52,3 +52,4 @@ categories: Dev-eryday
 [gr]: https://basecamp.com/books/getting-real
 [ef]: https://docs.microsoft.com/en-us/ef/core/
 [saa]: https://app.pluralsight.com/library/courses/openid-and-oauth2-securing-angular-apps/table-of-contents
+[acc]: https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/
