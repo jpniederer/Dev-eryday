@@ -7,9 +7,9 @@ categories: Dev-eryday
 
 "Write it and they'll come." I think that's how Kevin Costner said it in *Field of Dreams* when he was talking about posts he'd make for his website and how they'd drive readers to the site. Or maybe it was, "build it and they'll come," as in if he built a baseball field, the players would come. Whatever the line was, it's time to get some more posts published here on Dev-eryday. 2018 hasn't been rich with posts outside of these little Weekly Updates. The updates are nice, and they push me to stay focused on getting better each day, but long, technical posts are great for growth. Information rich posts are also a great way to build up a readership, something that would a fun side effect.
 
-![Simplify.](https://farm2.staticflickr.com/1980/44569711635_a18923f025.jpg)
+Those posts need to be written. I've got to put in the time and earn the completion of those posts. If you want it, earn it. That's a phlosophy I've tried to instill in myself over the last few months. Something that made me think about this philosophy again this week was the $1.6 billion lottery that happened last Tuesday night. That billion dollar drawing was likely the closest I, and countless others, will ever come to being a billionaire. The lottery is a funny thing. Everyone wants to win it, but it's something that isn't earned. Focus energy on the things that can actually be earned.
 
-
+![Want it? Earn it!](https://farm2.staticflickr.com/1937/31716409298_3c5235e9f6.jpg)
 
 ## Finished
 
