@@ -14,13 +14,13 @@ categories: Dev-eryday
 
 **Pluralsight Course(s):** [Securing Angular Apps with OpenID Connect and OAuth2][saa]
 
-**Book(s):** *[Design It!: From Programmer to Software Architect][di]*
+**Book(s):** *[Accelerate: The Science of Lean Software and DevOps][acc]*
 
 ## Currents
 
 **Pluralsight Course(s):** [CQRS In Practice][cqrs]
 
-**Book(s):** *[Accelerate: The Science of Lean Software and DevOps][acc]*
+**Book(s):** 
 
 ## On the Next...
 
