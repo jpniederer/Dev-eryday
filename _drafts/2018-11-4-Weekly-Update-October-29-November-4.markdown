@@ -5,6 +5,7 @@ date: 2018-11-4 21:35:00 +0000
 categories: Dev-eryday
 ---
 
+Over the last couple weeks, I've been working through Wes Bos' [Advanced React][ar] course. I'm about halfway through it now, and can say that the course is great. The main goal of course is to teach [Next.js][njs], [GraphQL][gql], [Apollo][ap], [Prisma][pri], and of course [React][react]. Since I had never used Next.js, GraphQL, Apollo, or Prisma, I was intrigued by the course. Now that I'm getting comfortable with GraphQL, I can say that I'm really enjoying  the way Apollo integrates with it and find this workflow more natural than using Redux to handle state. These technologies offer some amazing capabilities and I'm enjoying getting familar with them. The wheels are spinning on the ways I can use these tools to build some cool software in the days ahead. Once I'm done with the course, I might publish a review. So far, I can say that the course is well worth the price of admission.
 
 ![Want it? Earn it!](https://farm2.staticflickr.com/1937/31716409298_3c5235e9f6.jpg)
 
@@ -25,7 +26,11 @@ categories: Dev-eryday
 ## On the Next...
 
 
-
+[njs]: https://nextjs.org/
+[gql]: https://graphql.org/
+[ap]: https://www.apollographql.com/
+[pri]: https://www.prisma.io/
+[ar]: https://advancedreact.com/
 [play]: https://github.com/jpniederer/NETCorePlayground
 [di]: https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093/
 [re]: https://www.udemy.com/react-the-complete-guide-incl-redux/
