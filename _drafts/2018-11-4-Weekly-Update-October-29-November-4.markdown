@@ -13,7 +13,7 @@ Over the last couple weeks, I've been working through Wes Bos' [Advanced React][
 
 ## Finished
 
-**Pluralsight Course(s):** [Securing Angular Apps with OpenID Connect and OAuth2][saa]
+**Pluralsight Course(s):** [Building an Enterprise Application with ASP.NET Core MVC][mvc]
 
 **Book(s):** *[Accelerate: The Science of Lean Software and DevOps][acc]*
 
@@ -58,3 +58,4 @@ Over the last couple weeks, I've been working through Wes Bos' [Advanced React][
 [ef]: https://docs.microsoft.com/en-us/ef/core/
 [saa]: https://app.pluralsight.com/library/courses/openid-and-oauth2-securing-angular-apps/table-of-contents
 [acc]: https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/
+[mvc]: https://app.pluralsight.com/library/courses/aspdotnet-core-mvc-enterprise-application/table-of-contents
