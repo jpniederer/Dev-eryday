@@ -21,7 +21,7 @@ Over the last couple weeks, I've been working through Wes Bos' [Advanced React][
 
 **Pluralsight Course(s):** [CQRS In Practice][cqrs]
 
-**Book(s):** 
+**Book(s):** *[Entity Framework Core in Action][efc]*
 
 ## On the Next...
 
@@ -59,3 +59,4 @@ Over the last couple weeks, I've been working through Wes Bos' [Advanced React][
 [saa]: https://app.pluralsight.com/library/courses/openid-and-oauth2-securing-angular-apps/table-of-contents
 [acc]: https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/
 [mvc]: https://app.pluralsight.com/library/courses/aspdotnet-core-mvc-enterprise-application/table-of-contents
+[efc]: https://www.amazon.com/Entity-Framework-Core-Action-Smith/dp/161729456X/
