@@ -5,11 +5,11 @@ date: 2018-11-4 21:35:00 +0000
 categories: Dev-eryday
 ---
 
-Over the last couple weeks, I've been working through Wes Bos' [Advanced React][ar] course. I'm about halfway through it now, and can say that the course is great. The main goal of course is to teach [Next.js][njs], [GraphQL][gql], [Apollo][ap], [Prisma][pri], and of course [React][react]. Since I had never used Next.js, GraphQL, Apollo, or Prisma, I was intrigued by the course. Now that I'm getting comfortable with GraphQL, I can say that I'm really enjoying  the way Apollo integrates with it and find this workflow more natural than using Redux to handle state. These technologies offer some amazing capabilities and I'm enjoying getting familar with them. The wheels are spinning on the ways I can use these tools to build some cool software in the days ahead. Once I'm done with the course, I might publish a review. So far, I can say that the course is well worth the price of admission.
+Over the last couple weeks, I've been working through Wes Bos' [Advanced React][ar] course. I'm about halfway through it now, and can say that the course is great. The main goal of course is to teach [Next.js][njs], [GraphQL][gql], [Apollo][ap], [Prisma][pri], and of course [React][react]. Since I had never used Next.js, GraphQL, Apollo, or Prisma, so I was intrigued by the course. Now that I'm getting comfortable with GraphQL, I can say that I'm really enjoying the way Apollo integrates with it and find this workflow more natural than using Redux to handle state. These technologies offer some amazing capabilities and I'm enjoying getting familar with them. The wheels are spinning on the ways I can use these tools to build some cool software in the days ahead. Once I'm done with the course, I might publish a review. So far, I can say that the course is well worth the price of admission.
 
 ![Want it? Earn it!](https://farm2.staticflickr.com/1937/31716409298_3c5235e9f6.jpg)
 
-
+On top of the Advanced React course, I spent a lot of time diving deep into ASP.NET Core MVC. [Building an Enterprise Application with ASP.NET Core MVC][mvc], a course on Pluralsight, was my primary resource. I've been using ASP.NET Core MVC for a while now, and much of the course was review, but hadn't yet viewed this course. The course covers a lot of ground. My favorite part of the course was the coverage of Tag Helpers. Tag Helpers can be used to create reusable, component-like, objects that can be injected into your Razor to encapsulate some functionality. 
 
 ## Finished
 
@@ -25,6 +25,7 @@ Over the last couple weeks, I've been working through Wes Bos' [Advanced React][
 
 ## On the Next...
 
+This week I started a new challenge for the month of November. The challenge for this month is to work on developing a new website, IdeaListz, each day of the month. I've written a lot about this web application and how I want to create it in the past. For those who are unfamiliar with the site, it will have functionality for creating lists of ideas. Users will be able to add and share their lists with the community. So far, I've been working on user registration. The development is going well so far.
 
 [njs]: https://nextjs.org/
 [gql]: https://graphql.org/
