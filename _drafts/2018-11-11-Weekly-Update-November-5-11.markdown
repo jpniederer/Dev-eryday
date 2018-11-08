@@ -13,13 +13,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Pluralsight Course(s):** [Building an Enterprise Application with ASP.NET Core MVC][mvc]
+**Pluralsight Course(s):** [CQRS In Practice][cqrs]
 
 **Book(s):** *[Accelerate: The Science of Lean Software and DevOps][acc]*
 
 ## Currents
 
-**Pluralsight Course(s):** [CQRS In Practice][cqrs]
+**Pluralsight Course(s):** 
 
 **Book(s):** *[Entity Framework Core in Action][efc]*
 
