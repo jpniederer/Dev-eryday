@@ -5,7 +5,7 @@ date: 2018-11-11 11:30:00 +0000
 categories: Dev-eryday
 ---
 
-
+The IdeaListz development is going strong. I've committed a fair amount of code to the repo each day of the month so far. This is the most Node.js code I've written. Node.js, GraphQL, Apollo, Nextjs, and all the other tools I'm using is making this project a lot of fun. Who needs to be playing Red Dead Redemption 2 when you can be creating a new web app to scratch your itch?
 
 ![IdeaListz](https://farm5.staticflickr.com/4846/45666040222_6f41a49f1d.jpg)
 
