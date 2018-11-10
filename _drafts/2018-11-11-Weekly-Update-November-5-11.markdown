@@ -5,7 +5,7 @@ date: 2018-11-11 11:30:00 +0000
 categories: Dev-eryday
 ---
 
-The IdeaListz development is going strong. I've committed a fair amount of code to the repo each day of the month so far. This is the most Node.js code I've written. Node.js, GraphQL, Apollo, Nextjs, and all the other tools I'm using is making this project a lot of fun. Who needs to be playing Red Dead Redemption 2 when you can be creating a new web app to scratch your itch?
+The IdeaListz development is going strong. As I've written before, I issued myself a challenge where I will progress on the development of the site each day of November. I've committed a fair amount of code to the repo each day of the month so far. This is the most Node.js code I've written. Node.js, GraphQL, Apollo, Nextjs, and all the other tools I'm using is making this project a lot of fun to work. Who needs to be playing Red Dead Redemption 2 when you can be creating a new web app to scratch your itch? I'll have to pick the game up once I've successfully completed the monthly challenge.
 
 ![IdeaListz](https://farm5.staticflickr.com/4846/45666040222_6f41a49f1d.jpg)
 
@@ -15,7 +15,7 @@ The IdeaListz development is going strong. I've committed a fair amount of code 
 
 **Pluralsight Course(s):** [CQRS In Practice][cqrs]
 
-**Book(s):** *[Accelerate: The Science of Lean Software and DevOps][acc]*
+**Book(s):** *[Daring Greatly][dg]*
 
 ## Currents
 
@@ -61,3 +61,4 @@ The IdeaListz development is going strong. I've committed a fair amount of code 
 [acc]: https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/
 [mvc]: https://app.pluralsight.com/library/courses/aspdotnet-core-mvc-enterprise-application/table-of-contents
 [efc]: https://www.amazon.com/Entity-Framework-Core-Action-Smith/dp/161729456X/
+[dg]: https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms-ebook/dp/B007P7HRS4/
