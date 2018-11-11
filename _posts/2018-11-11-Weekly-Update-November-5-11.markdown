@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Weekly Update: November 5 - 11, 2018"
-date: 2018-11-11 11:30:00 +0000
+date: 2018-11-11 17:45:00 +0000
 categories: Dev-eryday
 ---
 
-The IdeaListz development is going strong. As I've written before, I issued myself a challenge where I will progress on the development of the site each day of November. I've committed a fair amount of code to the repo each day of the month so far. This is the most Node.js code I've written. Node.js, [GraphQL][gql], [Apollo][ap], [Nextjs][njs], and all the other tools I'm using is making this project a lot of fun to work. Who needs to be playing Red Dead Redemption 2 when you can be creating a new web app to scratch your itch? I'll have to pick the game up once I've successfully completed the monthly challenge. Hopefully the there will be enough of the app developed by the end of the month and I'll be able to share it.
+The IdeaListz development is going strong. As I've written before, I issued myself a challenge where I will progress on the development of the site each day of November. I've committed a fair amount of code to the repo each day of the month so far. This is the most Node.js code I've written. Node.js, [GraphQL][gql], [Apollo][ap], [Nextjs][njs], and all the other tools I'm using is making this project a lot of fun to work on. Who needs to be playing Red Dead Redemption 2 when you can be creating a new web app to scratch your itch? I'll have to pick the game up once I've successfully completed the monthly challenge. Hopefully there will be enough of the app developed by the end of the month and I'll be able to share it.
 
-![IdeaListz](https://farm5.staticflickr.com/4846/45666040222_6f41a49f1d.jpg)
+![Work Through the Resistance](https://farm5.staticflickr.com/4833/44922211275_050ba89159.jpg)
 
-Beyond working on IdeaListz, I read quite a bit. My reading this week was primarily over soft subjects. Yes, I read some about EF Core in *[Entity Framework Core in Action][efc]* but I didn't put much of a dent in it. My primary pages this week came from Brene Brown's *[Daring Greatly][dg]* and Steven Pressfield's *[Do the Work][dw]*. I would recommend both of them. *Daring Greatly* touches on vulnerablility and shares stories about how people dealt with difficult realities that all humans face at some point in their lives or careers. *Do the Work*, a follow up to the also excellent *[The War of Art][woa]*, further explains how to defeat resistence when working on any project. It's a short, motivational push that has practical thoughts on getting things done. Things will always stand in your way of completing your work, vanquish them.
+Beyond working on IdeaListz, I read quite a bit. My reading this week was primarily over soft subjects. Yes, I read some about EF Core in *[Entity Framework Core in Action][efc]* but I didn't put much of a dent in it. My primary pages this week came from Brene Brown's *[Daring Greatly][dg]* and Steven Pressfield's *[Do the Work][dw]*. I would recommend both of them. *Daring Greatly* touches on vulnerability and shares stories about how people dealt with difficult realities that all humans face at some point in their lives or careers. *Do the Work*, a follow up to the also excellent *[The War of Art][woa]*, further explains how to defeat resistance when working on any project. It's a short, motivational push that has practical thoughts on getting things done. Things will always stand in your way of completing your work, vanquish them.
 
 ## Finished
 
@@ -25,7 +25,7 @@ Beyond working on IdeaListz, I read quite a bit. My reading this week was primar
 
 ## On the Next...
 
-The major goal for the upcoming week is to make progress on IdeaListz. I'm hoping to tie together a lot of the major functionality. I've got the user creation and maintenance flows 95% complete and I'm starting to get into the actual meat of the application. I can create new lists and ideas now but I havne't styled the forms at all. The biggest piece of the application will be organizing the data in a way that makes people want to participate in the site. I'm going to work finding the right design and bringing the system together as both a Idealist (the people creating lists) and a reader.
+The major goal for the upcoming week is to make progress on IdeaListz. I'm hoping to tie together a lot of the major functionality. I've got the user creation and maintenance flows 95% complete and I'm starting to get into the actual meat of the application. I can create new lists and ideas now but I haven't styled the forms at all. The biggest piece of the application will be organizing the data in a way that makes people want to participate in the site. I'm going to work finding the right design and bringing the system together as both an Idealist (the people creating lists) and a reader.
 
 [dw]: https://www.amazon.com/Do-Work-Steven-Pressfield-ebook/dp/B00NK0MJBK/
 [njs]: https://nextjs.org/
