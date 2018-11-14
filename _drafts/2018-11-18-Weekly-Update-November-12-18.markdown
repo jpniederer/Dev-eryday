@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [CQRS In Practice][cqrs]
 
-**Book(s):** *[Daring Greatly][dg]*, *[Do the Work][dw]*
+**Book(s):** *[Turning Pro][tp]*
 
 ## Currents
 
@@ -26,7 +26,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
-
+[tp]: https://www.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/
 [dw]: https://www.amazon.com/Do-Work-Steven-Pressfield-ebook/dp/B00NK0MJBK/
 [njs]: https://nextjs.org/
 [gql]: https://graphql.org/
