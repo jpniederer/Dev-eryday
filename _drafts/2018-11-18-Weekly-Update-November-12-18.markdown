@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [CQRS In Practice][cqrs]
 
-**Book(s):** *[Turning Pro][tp]*
+**Book(s):** *[Turning Pro][tp]*, *[Misbehaving: The Making of Behavioral Economics][mb]*
 
 ## Currents
 
@@ -64,3 +64,4 @@ categories: Dev-eryday
 [efc]: https://www.amazon.com/Entity-Framework-Core-Action-Smith/dp/161729456X/
 [dg]: https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms-ebook/dp/B007P7HRS4/
 [woa]: https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG/
+[mb]: https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler-ebook/dp/B00NUB4GFQ/
