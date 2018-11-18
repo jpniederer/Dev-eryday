@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Weekly Update: November 12 - 18, 2018"
-date: 2018-11-18 17:45:00 +0000
+date: 2018-11-18 14:45:00 +0000
 categories: Dev-eryday
 ---
 
-I did a lot of reading this week. Following up last week's reading of *[Do the Work][dw], I picked up Steven Pressfield's *[Turning Pro][tp]*. *Turning Pro* is a worthy follow up to *Do the Work*. It takes the battle against resistance further. Pros show up every day and put in the work. They don't necessarily produce their best work every day, but they're committed and put in the effort. By controlling what they can, professionals are able to defeat resistance and create the work they were meant to produce.
+I did a lot of reading this week. Following up last week's reading of *[Do the Work][dw], I picked up Steven Pressfield's *[Turning Pro][tp]*. *Turning Pro* is a worthy follow up to *Do the Work*. It takes the battle against resistance further. Pros show up every day and put in the work. They don't necessarily produce their best work every day, but they're committed and put in the effort no matter what. By controlling what they can, professionals are able to defeat resistance and create the work they were meant to produce. I also read Thaler's *[Misbehaving: The Making of Behavioral Economics][mb]*. It's an interesting look at behavioral economics and shows a ton of examples where humans act irrationally by default. I'm a big fan of reading about such cases because it helps us avoid being taken advantage of. We all could stand to think a little more like an econ.
 
 ![Work Through the Resistance](https://farm5.staticflickr.com/4833/44922211275_050ba89159.jpg)
 
-Outside of reading, I also made some progress on IdeaListz and started working on a Gatsby version of Dev-erday. I've been wanting to move Dev-eryday from Jekyll to Gatsby all year, the goal is to get it moved over to Gatsby by the end of the year. Having the site on Gatsby will be a great way to move the site forward.
+Outside of reading, I also made some progress on IdeaListz and started working on a Gatsby version of Dev-erday. I've been wanting to move Dev-eryday from Jekyll to Gatsby all year, the goal is to get it moved over to Gatsby before the end of the year. Having the site on Gatsby will be a great way to move the site forward. Since Gatsby uses React, JavaScript, and GraphQL, it's far more natural than the Ruby-based Jekyll. It's also generating a lot of praise and getting more popular by the day.
 
 ## Finished
 
@@ -25,7 +25,7 @@ Outside of reading, I also made some progress on IdeaListz and started working o
 
 ## On the Next...
 
-Thanksgiving week is finally here. It's time to kick back for a little bit. I'm hoping to make some more progress on the IdeaListz site. Also, it'd be nice to read a few chapters of *[Entity Framework Core in Action][efc]*. I'm six chapters in now, and really enjoying it. Entity Framework Core is a step forward for Microsoft's ORM. It's time to dig in further this week.
+Thanksgiving week is finally here. It's time to kick back for a little bit. I'm hoping to make some more progress on the IdeaListz site and keep plugging away at the Gatsby version of Dev-eryday. Also, it'd be nice to read a few chapters of *[Entity Framework Core in Action][efc]*. I'm six chapters in now, and really enjoying it. Entity Framework Core is a step forward for Microsoft's ORM. It's time to dig in further this week. The books guidance on integrating EF Core with ASP.NET Core is some of the best .NET Core material I've seen.
 
 [tp]: https://www.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/
 [dw]: https://www.amazon.com/Do-Work-Steven-Pressfield-ebook/dp/B00NK0MJBK/
