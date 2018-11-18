@@ -5,15 +5,15 @@ date: 2018-11-18 17:45:00 +0000
 categories: Dev-eryday
 ---
 
-
+I did a lot of reading this week. Following up last week's reading of *[Do the Work][dw], I picked up Steven Pressfield's *[Turning Pro][tp]*. *Turning Pro* is a worthy follow up to *Do the Work*. It takes the battle against resistance further. Pros show up every day and put in the work. They don't necessarily produce their best work every day, but they're committed and put in the effort. By controlling what they can, professionals are able to defeat resistance and create the work they were meant to produce.
 
 ![Work Through the Resistance](https://farm5.staticflickr.com/4833/44922211275_050ba89159.jpg)
 
-
+Outside of reading, I also made some progress on IdeaListz and started working on a Gatsby version of Dev-erday. I've been wanting to move Dev-eryday from Jekyll to Gatsby all year, the goal is to get it moved over to Gatsby by the end of the year. Having the site on Gatsby will be a great way to move the site forward.
 
 ## Finished
 
-**Online Course(s):** [CQRS In Practice][cqrs]
+**Online Course(s):** [Design a Monitoring Strategy for Identity and Security in Microsoft Azure][dms]
 
 **Book(s):** *[Turning Pro][tp]*, *[Misbehaving: The Making of Behavioral Economics][mb]*
 
@@ -25,6 +25,7 @@ categories: Dev-eryday
 
 ## On the Next...
 
+Thanksgiving week is finally here. It's time to kick back for a little bit. I'm hoping to make some more progress on the IdeaListz site. Also, it'd be nice to read a few chapters of *[Entity Framework Core in Action][efc]*. I'm six chapters in now, and really enjoying it. Entity Framework Core is a step forward for Microsoft's ORM. It's time to dig in further this week.
 
 [tp]: https://www.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/
 [dw]: https://www.amazon.com/Do-Work-Steven-Pressfield-ebook/dp/B00NK0MJBK/
@@ -65,3 +66,4 @@ categories: Dev-eryday
 [dg]: https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms-ebook/dp/B007P7HRS4/
 [woa]: https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG/
 [mb]: https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler-ebook/dp/B00NUB4GFQ/
+[dms]: https://app.pluralsight.com/library/courses/microsoft-azure-monitoring-strategy-identity-security-design/table-of-contents
