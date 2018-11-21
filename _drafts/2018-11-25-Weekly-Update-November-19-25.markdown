@@ -13,7 +13,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Design a Monitoring Strategy for Identity and Security in Microsoft Azure][dms]
+**Online Course(s):** [Microsoft Azure Developer: Managing Code Reviews with VSTS][mcr]
 
 **Book(s):** *[Turning Pro][tp]*, *[Misbehaving: The Making of Behavioral Economics][mb]*
 
@@ -67,3 +67,4 @@ categories: Dev-eryday
 [woa]: https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG/
 [mb]: https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler-ebook/dp/B00NUB4GFQ/
 [dms]: https://app.pluralsight.com/library/courses/microsoft-azure-monitoring-strategy-identity-security-design/table-of-contents
+[mcr]: https://app.pluralsight.com/library/courses/microsoft-azure-vsts-code-reviews-managing/table-of-contents
