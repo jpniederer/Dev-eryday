@@ -5,6 +5,7 @@ date: 2018-11-25 14:45:00 +0000
 categories: Dev-eryday
 ---
 
+Ah, Thanksgiving week. A glorious week of feasting, football, and sales. Every year, Thanksgiving seems to get bigger. It's become a holiday that needs three pies, a 20 pound turkey, and $200 60" televisions. I enjoy every minute of it. It's also nice getting a four-day weekend for all of it. This year I'm thankful for a lot of things. From freedom to family, things are good. Mostly though, I'm thankful to live in a time where technology allows us to do so much. All of human knowledge is at our fingertips and we have beautiful devices to take it all in. We live in amazing times. Thanks to everyone who helped make it all possible.
 
 
 ![Work Through the Resistance](https://farm5.staticflickr.com/4833/44922211275_050ba89159.jpg)
