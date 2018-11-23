@@ -16,7 +16,7 @@ Ah, Thanksgiving week. A glorious week of feasting, football, and sales. Every y
 
 **Online Course(s):** [Microsoft Azure Developer: Managing Code Reviews with VSTS][mcr]
 
-**Book(s):** *[Turning Pro][tp]*, *[Misbehaving: The Making of Behavioral Economics][mb]*
+**Book(s):** *[Goodbye, Things: The New Japanese Minimalism][gt]*
 
 ## Currents
 
@@ -69,3 +69,4 @@ Ah, Thanksgiving week. A glorious week of feasting, football, and sales. Every y
 [mb]: https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler-ebook/dp/B00NUB4GFQ/
 [dms]: https://app.pluralsight.com/library/courses/microsoft-azure-monitoring-strategy-identity-security-design/table-of-contents
 [mcr]: https://app.pluralsight.com/library/courses/microsoft-azure-vsts-code-reviews-managing/table-of-contents
+[gt]: https://www.amazon.com/Goodbye-Things-New-Japanese-Minimalism-ebook/dp/B01HDSU7KE/
