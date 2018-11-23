@@ -26,7 +26,7 @@ Ah, Thanksgiving week. A glorious week of feasting, football, and sales. Every y
 
 ## On the Next...
 
-
+It was great to have a nice little break for Thanksgiving, but it's time for one last sprint for 2018. I've got three weeks left before going into hibernation to close out the year. It's my goal to make these weeks as impactful as possible. Learning, writing, and creating are the basics of Dev-eryday and I'm going to double down on them. The Gatsby update of Dev-eryday and the IdeaListz site are my primary objectives.
 
 [tp]: https://www.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/
 [dw]: https://www.amazon.com/Do-Work-Steven-Pressfield-ebook/dp/B00NK0MJBK/
