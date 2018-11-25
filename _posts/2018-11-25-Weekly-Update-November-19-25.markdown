@@ -7,7 +7,7 @@ categories: Dev-eryday
 
 Ah, Thanksgiving week. A glorious week of feasting, football, and sales. Every year, Thanksgiving seems to get bigger. It's become a holiday that needs three pies, a 20 pound turkey, and $200 60" televisions. I enjoy every minute of it. It's also nice getting a four-day weekend to make the most of it. This year I'm thankful for a lot of things. From freedom to family, things are good. Mostly though, I'm thankful to live in a time where technology allows us to do so much. All of human knowledge is at our fingertips and we have beautiful devices to take it all in. We live in amazing times. Thanks to everyone who helped make it all possible. Also, thank you for coming here and viewing Dev-eryday.
 
-![Happy Thanksgiving, Thank You](https://farm5.staticflickr.com/4833/44922211275_050ba89159.jpg)
+![Happy Thanksgiving, Thank You](https://farm5.staticflickr.com/4807/32173613978_f2831fc2db.jpg)
 
 I read about minimalism this week through *[Goodbye, Things: The New Japanese Minimalism][gt]*. Minimalism, the idea of having only the bare minimum of things you need, is an attractive lifestyle. As a whole, we consume, and waste, far more than we should. Any effort towards having and using less is a step in the right direction. As Tyler Durdan says, "the stuff you own ends up owning you." A focus on the having the right collection of things can be a truly freeing experience.
 
