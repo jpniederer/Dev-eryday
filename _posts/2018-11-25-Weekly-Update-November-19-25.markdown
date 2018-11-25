@@ -1,16 +1,15 @@
 ---
 layout: post
 title:  "Weekly Update: November 19 - 25, 2018"
-date: 2018-11-25 14:45:00 +0000
+date: 2018-11-25 12:25:00 +0000
 categories: Dev-eryday
 ---
 
-Ah, Thanksgiving week. A glorious week of feasting, football, and sales. Every year, Thanksgiving seems to get bigger. It's become a holiday that needs three pies, a 20 pound turkey, and $200 60" televisions. I enjoy every minute of it. It's also nice getting a four-day weekend for all of it. This year I'm thankful for a lot of things. From freedom to family, things are good. Mostly though, I'm thankful to live in a time where technology allows us to do so much. All of human knowledge is at our fingertips and we have beautiful devices to take it all in. We live in amazing times. Thanks to everyone who helped make it all possible.
+Ah, Thanksgiving week. A glorious week of feasting, football, and sales. Every year, Thanksgiving seems to get bigger. It's become a holiday that needs three pies, a 20 pound turkey, and $200 60" televisions. I enjoy every minute of it. It's also nice getting a four-day weekend to make the most of it. This year I'm thankful for a lot of things. From freedom to family, things are good. Mostly though, I'm thankful to live in a time where technology allows us to do so much. All of human knowledge is at our fingertips and we have beautiful devices to take it all in. We live in amazing times. Thanks to everyone who helped make it all possible. Also, thank you for coming here and viewing Dev-eryday.
 
+![Happy Thanksgiving, Thank You](https://farm5.staticflickr.com/4833/44922211275_050ba89159.jpg)
 
-![Work Through the Resistance](https://farm5.staticflickr.com/4833/44922211275_050ba89159.jpg)
-
-
+I read about minimalism this week through *[Goodbye, Things: The New Japanese Minimalism][gt]*. Minimalism, the idea of having only the bare minimum of things you need, is an attractive lifestyle. As a whole, we consume, and waste, far more than we should. Any effort towards having and using less is a step in the right direction. As Tyler Durdan says, "the stuff you own ends up owning you." A focus on the having the right collection of things can be a truly freeing experience.
 
 ## Finished
 
@@ -26,7 +25,7 @@ Ah, Thanksgiving week. A glorious week of feasting, football, and sales. Every y
 
 ## On the Next...
 
-It was great to have a nice little break for Thanksgiving, but it's time for one last sprint for 2018. I've got three weeks left before going into hibernation to close out the year. It's my goal to make these weeks as impactful as possible. Learning, writing, and creating are the basics of Dev-eryday and I'm going to double down on them. The Gatsby update of Dev-eryday and the IdeaListz site are my primary objectives.
+It was great to have a nice little break for Thanksgiving, but it's time for one last sprint for 2018. I've got three weeks left before heading into hibernation to close out the year. It's my goal to make these weeks as impactful as possible. Learning, writing, and creating are the basics of Dev-eryday and I'm going to double down on them. The Gatsby update of Dev-eryday and the IdeaListz site are my primary objectives. I will make some progress on each of those projects this week.
 
 [tp]: https://www.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/
 [dw]: https://www.amazon.com/Do-Work-Steven-Pressfield-ebook/dp/B00NK0MJBK/
