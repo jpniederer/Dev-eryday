@@ -14,7 +14,7 @@ Ah, Thanksgiving week. A glorious week of feasting, football, and sales. Every y
 
 ## Finished
 
-**Online Course(s):** [Microsoft Azure Developer: Managing Code Reviews with VSTS][mcr]
+**Online Course(s):** [Functional Programming: The Big Picture][fpbp]
 
 **Book(s):** *[Goodbye, Things: The New Japanese Minimalism][gt]*
 
@@ -70,3 +70,4 @@ It was great to have a nice little break for Thanksgiving, but it's time for one
 [dms]: https://app.pluralsight.com/library/courses/microsoft-azure-monitoring-strategy-identity-security-design/table-of-contents
 [mcr]: https://app.pluralsight.com/library/courses/microsoft-azure-vsts-code-reviews-managing/table-of-contents
 [gt]: https://www.amazon.com/Goodbye-Things-New-Japanese-Minimalism-ebook/dp/B01HDSU7KE/
+[fbbp]: https://app.pluralsight.com/library/courses/functional-programming-big-picture/table-of-contents
