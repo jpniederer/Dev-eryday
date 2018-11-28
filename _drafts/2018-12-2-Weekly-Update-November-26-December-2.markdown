@@ -13,9 +13,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Functional Programming: The Big Picture][fpbp]
+**Online Course(s):** [Microsoft Azure Developer: Managing Code Reviews with VSTS][mcr]
 
-**Book(s):** *[Goodbye, Things: The New Japanese Minimalism][gt]*
+**Book(s):** 
 
 ## Currents
 
