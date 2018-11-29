@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Microsoft Azure Developer: Managing Code Reviews with VSTS][mcr]
 
-**Book(s):** 
+**Book(s):** *[Flow: The Psychology of Optimal Experience][flo]*
 
 ## Currents
 
@@ -70,3 +70,4 @@ categories: Dev-eryday
 [mcr]: https://app.pluralsight.com/library/courses/microsoft-azure-vsts-code-reviews-managing/table-of-contents
 [gt]: https://www.amazon.com/Goodbye-Things-New-Japanese-Minimalism-ebook/dp/B01HDSU7KE/
 [fbbp]: https://app.pluralsight.com/library/courses/functional-programming-big-picture/table-of-contents
+[flo]: https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics-ebook/dp/B000W94FE6/
