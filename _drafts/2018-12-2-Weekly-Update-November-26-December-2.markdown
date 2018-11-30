@@ -5,7 +5,7 @@ date: 2018-12-2 12:25:00 +0000
 categories: Dev-eryday
 ---
 
-
+With November wrapping up this week, another monthly challenge has come to a close. As I've written before, November's challenge was to work on building a web application every day. The application is called IdeaListz and its goal is to be a place where people can create lists of ideas around some topic. Initially I was hoping to have the site live by the end of the month but I didn't quite get there. All the basic features like user creation, list management, and idea writing are in place but the site needs a little polish before going live. I'm going to clean it up over the next couple weeks and hopefully have it live before Christmas. It'll be my gift to myself. The site will still be rough, but I can get it online for anyone who wants to use it and I'll get to share all the lists I've written over the last two years.
 
 ![Happy Thanksgiving, Thank You](https://farm5.staticflickr.com/4807/32173613978_f2831fc2db.jpg)
 
