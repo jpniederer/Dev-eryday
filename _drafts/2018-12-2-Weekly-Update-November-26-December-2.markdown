@@ -25,7 +25,7 @@ With November wrapping up this week, another monthly challenge has come to a clo
 
 ## On the Next...
 
-
+December is here. It's been a good year so far. This week I will finish the [Advanced React and GraphQL][ar] course. I've relied on it heavily in building out the IdeaListz app. It hasn't taught me much in terms of React content, but its major value has been in teaching NextJS and GraphQL. On top of finishing that course, I will finish *[Entity Framework Core in Action][efc]* too.
 
 [tp]: https://www.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/
 [dw]: https://www.amazon.com/Do-Work-Steven-Pressfield-ebook/dp/B00NK0MJBK/
