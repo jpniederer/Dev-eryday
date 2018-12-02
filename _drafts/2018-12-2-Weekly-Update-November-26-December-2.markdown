@@ -9,7 +9,7 @@ With November wrapping up this week, another monthly challenge has come to a clo
 
 ![Happy Thanksgiving, Thank You](https://farm5.staticflickr.com/4807/32173613978_f2831fc2db.jpg)
 
-
+Many families have a tradition of using an Advent Calendar to countdown the days until Christmas. The last several years, the development community has had something similar with [Advent of Code][aoc]. Each day through Christmas has a different programming problem to solve. I've never participated in the challenge but this year I'm giving it a go. Only two of the problems have launched so far and I've completed each of them. The challenges are supposed to start fairly simple and get progressively harder over the course of the days. It was fun to do the first couple of problems and I'm looking forward to seeing how far I can get.
 
 ## Finished
 
