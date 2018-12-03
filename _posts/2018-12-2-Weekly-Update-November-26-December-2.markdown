@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Weekly Update: November 26 - December 2, 2018"
-date: 2018-12-2 12:25:00 +0000
+date: 2018-12-2 18:35:00 +0000
 categories: Dev-eryday
 ---
 
-With November wrapping up this week, another monthly challenge has come to a close. As I've written before, November's challenge was to work on building a web application every day. The application is called IdeaListz and its goal is to be a place where people can create lists of ideas around some topic. Initially I was hoping to have the site live by the end of the month but I didn't quite get there. All the basic features like user creation, list management, and idea writing are in place but the site needs a little polish before going live. I'm going to clean it up over the next couple weeks and hopefully have it live before Christmas. It'll be my gift to myself. The site will still be rough, but I can get it online for anyone who wants to use it and I'll get to share all the lists I've written over the last two years.
+With November wrapping up this week, another monthly challenge has come to a close. As I've written before, November's challenge was to work on building a web application every day. The application is called IdeaListz and its goal is to be a place where people can create lists of ideas around some topic and then share them. Initially I was hoping to have the site live by the end of the month, but I didn't quite get there. All the basic features like user creation, list management, and idea writing are in place but the site needs a little polish before going live. I'm going to clean it up over the next couple weeks and hopefully have it live before Christmas. It'll be my gift to myself. The site will still be rough, but I can get it online for anyone who wants to use it and I'll get to share all the lists I've written over the last two years.
 
-![Happy Thanksgiving, Thank You](https://farm5.staticflickr.com/4807/32173613978_f2831fc2db.jpg)
+![Advent of Code 2018](https://farm5.staticflickr.com/4836/46101579502_a6e075088b.jpg)
 
-Many families have a tradition of using an Advent Calendar to countdown the days until Christmas. The last several years, the development community has had something similar with [Advent of Code][aoc]. Each day through Christmas has a different programming problem to solve. I've never participated in the challenge but this year I'm giving it a go. Only two of the problems have launched so far and I've completed each of them. The challenges are supposed to start fairly simple and get progressively harder over the course of the days. It was fun to do the first couple of problems and I'm looking forward to seeing how far I can get.
+Many families have a tradition of using an Advent Calendar to countdown the days until Christmas. The last several years, the development community has had something similar with [Advent of Code][aoc]. Each day through Christmas has a different programming problem to solve. I've never participated in the challenge before, but this year I'm giving it a go. Only two of the problems have launched so far and I've completed each of them. The challenges are supposed to start fairly simple and get progressively harder over the course of the days. It was fun to do the first couple of problems and I'm looking forward to seeing how far I can get.
 
 ## Finished
 
