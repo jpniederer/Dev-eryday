@@ -71,3 +71,4 @@ December is here. It's been a good year so far. This week I will finish the [Adv
 [gt]: https://www.amazon.com/Goodbye-Things-New-Japanese-Minimalism-ebook/dp/B01HDSU7KE/
 [fbbp]: https://app.pluralsight.com/library/courses/functional-programming-big-picture/table-of-contents
 [flo]: https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics-ebook/dp/B000W94FE6/
+[aoc]: https://adventofcode.com/
