@@ -9,9 +9,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Advanced React and GraphQL][ar]
+**Online Course(s):** 
 
-**Book(s):** *[Entity Framework Core in Action][efc]*
+**Book(s):** 
 
 ## Currents
 
