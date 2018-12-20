@@ -11,13 +11,13 @@ categories: Dev-eryday
 
 **Online Course(s):** [Micro Frontends Architecture][mfa]
 
-**Book(s):** 
+**Book(s):** *[The Simple Path to Wealth][spw]*
 
 ## Currents
 
 **Online Course(s):** 
 
-**Book(s):** *[The Simple Path to Wealth][spw]*
+**Book(s):** 
 
 ## On the Next...
 
