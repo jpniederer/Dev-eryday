@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Micro Frontends Architecture][mfa]
 
-**Book(s):** *[The Simple Path to Wealth][spw]*
+**Book(s):** *[The Simple Path to Wealth][spw]*, *[Can't Hurt Me: Master Your Mind and Defy the Odds][chm]*
 
 ## Currents
 
@@ -60,3 +60,4 @@ categories: Dev-eryday
 [efc]: https://www.amazon.com/Entity-Framework-Core-Action-Smith/dp/161729456X/
 [mfa]: https://app.pluralsight.com/library/courses/micro-frontends-architecture/table-of-contents
 [spw]: https://www.amazon.com/Simple-Path-Wealth-financial-independence-ebook/dp/B01H97OQY2/
+[chm]: https://www.amazon.com/Cant-Hurt-Me-Master-Your-ebook/dp/B07H453KGH/
