@@ -5,7 +5,7 @@ date: 2018-12-23 11:01:00 +0000
 categories: Dev-eryday
 ---
 
-
+This was pretty much a true week off. Nothing but a little minor reading and finishing up a video course from last week. It was a nice break from technology.
 
 ## Finished
 
@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** None
 
 **Book(s):** 
 
