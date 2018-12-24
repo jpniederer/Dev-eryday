@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Weekly Update: December 17 - 23, 2018"
-date: 2018-12-23 11:01:00 +0000
+date: 2018-12-23 20:15:00 +0000
 categories: Dev-eryday
 ---
 
-This was pretty much a true week off. Nothing but a little minor reading and finishing up a video course from last week. It was a nice break from technology.
+This was pretty much a true week off so just a quick update. Nothing but a little minor reading and finishing up a video course from last week. It was a nice break from technology.
 
 ## Finished
 
@@ -17,11 +17,11 @@ This was pretty much a true week off. Nothing but a little minor reading and fin
 
 **Online Course(s):** None
 
-**Book(s):** 
+**Book(s):** None
 
 ## On the Next...
 
-
+I'm going to ramp up at some point, probably after Christmas.
 
 [aoc]: https://adventofcode.com/
 [aocr]: https://github.com/jpniederer/AdventOfCode2018
