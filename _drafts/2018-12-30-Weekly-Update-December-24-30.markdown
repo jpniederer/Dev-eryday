@@ -9,7 +9,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Micro Frontends Architecture][mfa]
+**Online Course(s):** [Razor Pages in ASP.NET Core: Getting Started][rp]
 
 **Book(s):** *[The Simple Path to Wealth][spw]*, *[Can't Hurt Me: Master Your Mind and Defy the Odds][chm]*
 
@@ -61,3 +61,4 @@ I'm going to ramp up at some point, probably after Christmas.
 [mfa]: https://app.pluralsight.com/library/courses/micro-frontends-architecture/table-of-contents
 [spw]: https://www.amazon.com/Simple-Path-Wealth-financial-independence-ebook/dp/B01H97OQY2/
 [chm]: https://www.amazon.com/Cant-Hurt-Me-Master-Your-ebook/dp/B07H453KGH/
+[rp]: https://app.pluralsight.com/library/courses/razor-pages-aspdotnet-core-getting-started/table-of-contents
