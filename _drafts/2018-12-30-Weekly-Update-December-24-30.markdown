@@ -5,23 +5,25 @@ date: 2018-12-30 20:15:00 +0000
 categories: Dev-eryday
 ---
 
+This week was the last full week of the year. No matter what the year holds, the end always seems to come quicker than I expect it to. 2018 has been a great year and it seems like we barely got to know it. Oh well, time never stops. To wrap up the year, I spent the last two weeks on vacation and have got in a lot of relaxation. It's been nice, but I'm ready to start up 2019.
 
+On the course front I took in two quick courses on Pluralsight, [Razor Pages in ASP.NET Core: Getting Started][rp] and [C# Interfaces][inter]. The content on Razor Pages was new and the Interface course was a nice refresher using C# interfaces. I'd recommend each course. For reading, I completed *[What I Wish I Knew When I Was 20][twen]*. Though I'm older than 20, it was a fun holiday read with some great advice on risk taking and failing. My major takeaway from the book was that if you aren't failing regularly, you aren't taking enough risks. So get out there and fail.
 
 ## Finished
 
 **Online Course(s):** [Razor Pages in ASP.NET Core: Getting Started][rp], [C# Interfaces][inter]
 
-**Book(s):** *[The Simple Path to Wealth][spw]*, *[Can't Hurt Me: Master Your Mind and Defy the Odds][chm]*
+**Book(s):** *[What I Wish I Knew When I Was 20][twen]*
 
 ## Currents
 
 **Online Course(s):** None
 
-**Book(s):** None
+**Book(s):** *[][]*
 
 ## On the Next...
 
-I'm going to ramp up at some point, probably after Christmas.
+So here were, 2019 begins this week. I'm going to hit the ground running. The last few days I've been trying to plan out the year to come and I'm excited for what's in store for the new year. There's lots to read and learn, but there is a ton of stuff I want to create, share, and build. I'm looking forward to having a healthy, productive, and fun 2019. If everything goes as planned, it'll be my best year yet. I hope it's prosperous and enjoyable for you as well.
 
 [aoc]: https://adventofcode.com/
 [aocr]: https://github.com/jpniederer/AdventOfCode2018
@@ -63,3 +65,4 @@ I'm going to ramp up at some point, probably after Christmas.
 [chm]: https://www.amazon.com/Cant-Hurt-Me-Master-Your-ebook/dp/B07H453KGH/
 [rp]: https://app.pluralsight.com/library/courses/razor-pages-aspdotnet-core-getting-started/table-of-contents
 [inter]: https://app.pluralsight.com/library/courses/using-csharp-interfaces/table-of-contents
+[twen]: https://www.amazon.com/What-Wish-Knew-When-Was-ebook/dp/B0028MVGZQ/
