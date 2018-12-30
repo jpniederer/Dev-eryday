@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: December 24 - 30, 2018"
-date: 2018-12-30 20:15:00 +0000
+date: 2018-12-30 14:40:00 +0000
 categories: Dev-eryday
 ---
 
-This week was the last full week of the year. No matter what the year holds, the end always seems to come quicker than I expect it to. 2018 has been a great year and it seems like we barely got to know it. Oh well, time never stops. To wrap up the year, I spent the last two weeks on vacation and have got in a lot of relaxation. It's been nice, but I'm ready to start up 2019.
+This week was the last full week of the year. No matter what the year holds, the end always seems to come quicker than I expect it to. 2018 has been a great year and it seems like we barely got to know it. Oh well, time never stops. To wrap up the year, I spent the last two weeks on vacation and have got in a lot of relaxation. It's been a nice break, but I'm ready to start up 2019.
 
-On the course front I took in two quick courses on Pluralsight, [Razor Pages in ASP.NET Core: Getting Started][rp] and [C# Interfaces][inter]. The content on Razor Pages was new and the Interface course was a nice refresher using C# interfaces. I'd recommend each course. For reading, I completed *[What I Wish I Knew When I Was 20][twen]*. Though I'm older than 20, it was a fun holiday read with some great advice on risk taking and failing. My major takeaway from the book was that if you aren't failing regularly, you aren't taking enough risks. So get out there and fail.
+On the course front I was able to slip in a couple of quick courses on Pluralsight, [Razor Pages in ASP.NET Core: Getting Started][rp] and [C# Interfaces][inter]. The content on Razor Pages was new for me and the Interface course was a nice refresher using C# interfaces. I'd recommend each course. Razor Pages are interesting and remind me a little bit of ASP.NET Web Forms. It's less complex than MVC and I like how it can be used right there within an MVC project if you have the need for it. For reading, I completed *[What I Wish I Knew When I Was 20][twen]*. Though I'm now older than 20, it was a fun holiday read with some great advice on risk taking and failing. My major takeaway from the book was that if you aren't failing regularly, you aren't taking enough risks. I need to get out there and fail more, the perfect message for heading into the new year.
 
 ## Finished
 
@@ -17,13 +17,13 @@ On the course front I took in two quick courses on Pluralsight, [Razor Pages in 
 
 ## Currents
 
-**Online Course(s):** None
+**Online Course(s):** [Dependency Injection On-Ramp][dior]
 
-**Book(s):** *[][]*
+**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*
 
 ## On the Next...
 
-So here were, 2019 begins this week. I'm going to hit the ground running. The last few days I've been trying to plan out the year to come and I'm excited for what's in store for the new year. There's lots to read and learn, but there is a ton of stuff I want to create, share, and build. I'm looking forward to having a healthy, productive, and fun 2019. If everything goes as planned, it'll be my best year yet. I hope it's prosperous and enjoyable for you as well.
+So here were, 2019 begins this week. I'm going to hit the ground running. The last few days I've been trying to plan out the year to come and I'm excited for what's in store for the new year. There's lots to read and learn, but there is also a ton of stuff I want to create, share, and build. In addition to building on past success, I'm going to take on new challenges, seek smart risks, and live each day. Needless to say, I'm looking forward to having a healthy, productive, and fun 2019. If everything goes as planned, it'll be my best year yet. I hope it's prosperous and enjoyable for you as well.
 
 [aoc]: https://adventofcode.com/
 [aocr]: https://github.com/jpniederer/AdventOfCode2018
@@ -66,3 +66,5 @@ So here were, 2019 begins this week. I'm going to hit the ground running. The la
 [rp]: https://app.pluralsight.com/library/courses/razor-pages-aspdotnet-core-getting-started/table-of-contents
 [inter]: https://app.pluralsight.com/library/courses/using-csharp-interfaces/table-of-contents
 [twen]: https://www.amazon.com/What-Wish-Knew-When-Was-ebook/dp/B0028MVGZQ/
+[dior]: https://app.pluralsight.com/library/courses/dependency-injection-on-ramp/table-of-contents
+[brk]: https://www.amazon.com/Brothers-Karamazov-Novel-Parts-Epilogue-ebook/dp/B004ZM10OE/
