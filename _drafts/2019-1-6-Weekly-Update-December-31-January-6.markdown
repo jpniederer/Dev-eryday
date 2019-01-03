@@ -9,9 +9,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Razor Pages in ASP.NET Core: Getting Started][rp], [C# Interfaces][inter]
+**Online Course(s):** 
 
-**Book(s):** *[What I Wish I Knew When I Was 20][twen]*
+**Book(s):** *[Finding Ultra][fu]*
 
 ## Currents
 
@@ -66,3 +66,4 @@ categories: Dev-eryday
 [twen]: https://www.amazon.com/What-Wish-Knew-When-Was-ebook/dp/B0028MVGZQ/
 [dior]: https://app.pluralsight.com/library/courses/dependency-injection-on-ramp/table-of-contents
 [brk]: https://www.amazon.com/Brothers-Karamazov-Novel-Parts-Epilogue-ebook/dp/B004ZM10OE/
+[fu]: https://www.amazon.com/Finding-Ultra-Revised-Updated-Discovering-ebook/dp/B006LSZ82U/
