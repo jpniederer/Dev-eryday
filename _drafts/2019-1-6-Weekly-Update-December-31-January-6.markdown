@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** 
+**Online Course(s):** [Dependency Injection On-Ramp][dior]
 
 **Book(s):** *[Finding Ultra][fu]*
 
 ## Currents
 
-**Online Course(s):** [Dependency Injection On-Ramp][dior]
+**Online Course(s):** [Architecting an ASP.NET Core MVC Application for Unit Testibility][mvct]
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*
 
@@ -67,3 +67,4 @@ categories: Dev-eryday
 [dior]: https://app.pluralsight.com/library/courses/dependency-injection-on-ramp/table-of-contents
 [brk]: https://www.amazon.com/Brothers-Karamazov-Novel-Parts-Epilogue-ebook/dp/B004ZM10OE/
 [fu]: https://www.amazon.com/Finding-Ultra-Revised-Updated-Discovering-ebook/dp/B006LSZ82U/
+[mvct]: https://app.pluralsight.com/library/courses/architecting-aspnet-core-mvc-unit-testability/table-of-contents
