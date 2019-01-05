@@ -17,7 +17,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Architecting an ASP.NET Core MVC Application for Unit Testibility][mvct]
 
-**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*
+**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Refactoring: Improving the Design of Existing Code (2nd Edition)][rf2]*
 
 ## On the Next...
 
@@ -68,3 +68,4 @@ categories: Dev-eryday
 [brk]: https://www.amazon.com/Brothers-Karamazov-Novel-Parts-Epilogue-ebook/dp/B004ZM10OE/
 [fu]: https://www.amazon.com/Finding-Ultra-Revised-Updated-Discovering-ebook/dp/B006LSZ82U/
 [mvct]: https://app.pluralsight.com/library/courses/architecting-aspnet-core-mvc-unit-testability/table-of-contents
+[rf2]: https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/
