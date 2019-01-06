@@ -5,7 +5,7 @@ date: 2019-1-6 14:40:00 +0000
 categories: Dev-eryday
 ---
 
-
+It was a pretty good first week of the year. I laid down some intentions and got the year started on the right track. One of the best things I did this week was starting Martin Fowler's *[Refactoring: Improving the Design of Existing Code (2nd Edition)][rf2]*. The 2nd edition of the classic book on the practice of refactoring came out recently and I'm super excited to be reading it. I'm through a couple of chapters now and it's as good as advertised. The first chapter works through a refactoring on a small piece of code that calculates bill amounts and prints invoices for a play performance organization. The second chapter discusses the types of refactoring, reasons to refactor, and times where refactoring might not be needed.
 
 ## Finished
 
