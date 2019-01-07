@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: December 31 - January 6, 2019"
-date: 2019-1-6 14:40:00 +0000
+date: 2019-1-6 23:00:00 +0000
 categories: Dev-eryday
 ---
 
 It was a pretty good first week of the year. I laid down some intentions and got the year started on the right track. One of the best things I did this week was starting Martin Fowler's *[Refactoring: Improving the Design of Existing Code (2nd Edition)][rf2]*. The 2nd edition of the classic book on the practice of refactoring came out recently and I'm super excited to be reading it. I'm through a couple of chapters now and it's as good as advertised. The first chapter works through a refactoring on a small piece of code that calculates bill amounts and prints invoices for a play performance organization. The second chapter discusses the types of refactoring, reasons to refactor, and times where refactoring might not be needed.
+
+I quickly read through *[Finding Ultra][fu]* by Rich Roll. Roll shares his saga from out of shape to competing in ultra-endurance competitions. It's a truly enjoyable read. It's got me wanting to run a marathon this year. Roll also has a great [podcast][rrp] that is definitely worth checking out.
 
 ## Finished
 
@@ -21,8 +23,9 @@ It was a pretty good first week of the year. I laid down some intentions and got
 
 ## On the Next...
 
+I'm going to keep reading through *Refactoring*. I might even get my hands on the  *[Refactoring Workbook][https://www.amazon.com/Refactoring-Workbook-William-C-Wake/dp/0321109295] if I get far enough.
 
-
+[rrp]: https://www.richroll.com/category/podcast/
 [aoc]: https://adventofcode.com/
 [aocr]: https://github.com/jpniederer/AdventOfCode2018
 [sra]: https://app.pluralsight.com/library/courses/react-auth0-authentication-security/table-of-contents
