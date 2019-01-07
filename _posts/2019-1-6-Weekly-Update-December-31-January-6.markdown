@@ -23,8 +23,9 @@ I quickly read through *[Finding Ultra][fu]* by Rich Roll. Roll shares his saga 
 
 ## On the Next...
 
-I'm going to keep reading through *Refactoring*. I might even get my hands on the  *[Refactoring Workbook][https://www.amazon.com/Refactoring-Workbook-William-C-Wake/dp/0321109295] if I get far enough.
+I'm going to keep reading through *Refactoring*. I might even get my hands on the  *[Refactoring Workbook][rw]* if I get far enough.
 
+[rw]: https://www.amazon.com/Refactoring-Workbook-William-C-Wake/dp/0321109295
 [rrp]: https://www.richroll.com/category/podcast/
 [aoc]: https://adventofcode.com/
 [aocr]: https://github.com/jpniederer/AdventOfCode2018
