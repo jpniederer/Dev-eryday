@@ -5,7 +5,7 @@ date: 2019-1-13 23:00:00 +0000
 categories: Dev-eryday
 ---
 
-
+This week there was some big news from GitHub. GitHub announced that they're now allowing unlimited free private repositories for all users. This is a huge win for individuals and small teams. Other online source control services like Visual Studio Online, GitLab, and BitBucket have offered free private repos for a while, but I just prefer to use GitHub. Maybe it's the carrot of keeping the commit streak alive that keeps me tied to the product. I'm excited about the news and I've already created a couple of private repos in celebration. Note that the repos only allow a limited number of contributors, but most of the projects I'm working on don't require more than a couple.
 
 ## Finished
 
