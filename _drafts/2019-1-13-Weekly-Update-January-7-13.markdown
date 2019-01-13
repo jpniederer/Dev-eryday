@@ -9,9 +9,9 @@ This week there was some big news from GitHub. GitHub announced that they're now
 
 ## Finished
 
-**Online Course(s):** [Dependency Injection On-Ramp][dior]
+**Online Course(s):** [Serilog Enrichers: Getting Common Information into Log Entries][se]
 
-**Book(s):** *[Finding Ultra][fu]*
+**Book(s):** *[Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts][mwm]*
 
 ## Currents
 
@@ -22,7 +22,7 @@ This week there was some big news from GitHub. GitHub announced that they're now
 ## On the Next...
 
 
-
+[se]: https://app.pluralsight.com/library/courses/serilog-enrichers-getting-info-into-log-entries/table-of-contents
 [rw]: https://www.amazon.com/Refactoring-Workbook-William-C-Wake/dp/0321109295
 [rrp]: https://www.richroll.com/category/podcast/
 [aoc]: https://adventofcode.com/
@@ -71,3 +71,4 @@ This week there was some big news from GitHub. GitHub announced that they're now
 [fu]: https://www.amazon.com/Finding-Ultra-Revised-Updated-Discovering-ebook/dp/B006LSZ82U/
 [mvct]: https://app.pluralsight.com/library/courses/architecting-aspnet-core-mvc-unit-testability/table-of-contents
 [rf2]: https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/
+[mwm]: https://www.amazon.com/Mistakes-Were-Made-But-Not-ebook/dp/B003K15IOE/
