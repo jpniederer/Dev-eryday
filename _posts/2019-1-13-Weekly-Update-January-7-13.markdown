@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: January 7 - 13, 2019"
-date: 2019-1-13 23:00:00 +0000
+date: 2019-1-13 22:00:00 +0000
 categories: Dev-eryday
 ---
 
-This week there was some big news from GitHub. GitHub announced that they're now allowing unlimited free private repositories for all users. This is a huge win for individuals and small teams. Other online source control services like Visual Studio Online, GitLab, and BitBucket have offered free private repos for a while, but I just prefer to use GitHub. Maybe it's the carrot of keeping the commit streak alive that keeps me tied to the product. I'm excited about the news and I've already created a couple of private repos in celebration. Note that the repos only allow a limited number of contributors, but most of the projects I'm working on don't require more than a couple.
+This week there was some big news from GitHub. GitHub announced that they're now allowing unlimited free private repositories for all users. This is a huge win for individuals and small teams. Other online source control services like Visual Studio Online, GitLab, and BitBucket have offered free private repos for a while, but I just prefer to use GitHub. Maybe it's the carrot of keeping the commit streak alive that keeps me tied to the product. It's also just a great source control service. I'm excited about the news and I've already created a couple of private repos in celebration. Note that the repos only allow a limited number of contributors, but most of the projects I'm working on don't require more than a couple.
+
+For reading this week, I read *[Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts][mwm]*. It's got a ton examples about why we make mistakes and how we justify them. It was fascinating to read about some of the cases were people admitted to crimes that they did not commit. A lot of the time it comes down to the way the interrogators present their questions. Language, intimidation, force, and uncertainty on the part of the accused can all force false admissions. The book covers a ton more and offers a lot of research to back up its claims. I recommend it, it may shine some light on mistakes you or others are making. It could even make you more accepting of them.
 
 ## Finished
 
@@ -21,6 +23,7 @@ This week there was some big news from GitHub. GitHub announced that they're now
 
 ## On the Next...
 
+I will finish *[Refactoring: Improving the Design of Existing Code (2nd Edition)][rf2]* this week. I'm up to the catalog of refactorings now and I'm planning to take note of each of them. Once I've reviewed them all, I'll play with the code for a few of more interesting ones. It'd be cool to make a post on here about some of them. I'm excited for this week. There's snow on the ground and it's going to be cold, but I have a lot of great books to read and there's always a ton of code to write. It'll be a good week.
 
 [se]: https://app.pluralsight.com/library/courses/serilog-enrichers-getting-info-into-log-entries/table-of-contents
 [rw]: https://www.amazon.com/Refactoring-Workbook-William-C-Wake/dp/0321109295
