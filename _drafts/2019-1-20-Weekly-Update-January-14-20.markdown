@@ -9,9 +9,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Serilog Enrichers: Getting Common Information into Log Entries][se]
+**Online Course(s):** [Architecting an ASP.NET Core MVC Application for Unit Testibility][mvct]
 
-**Book(s):** *[Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts][mwm]*
+**Book(s):** 
 
 ## Currents
 
