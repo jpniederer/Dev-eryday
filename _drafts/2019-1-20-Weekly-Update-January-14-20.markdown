@@ -5,24 +5,24 @@ date: 2019-1-20 22:00:00 +0000
 categories: Dev-eryday
 ---
 
-
+I finished up *[Refactoring: Improving the Design of Existing Code (2nd Edition)][rf2]* by Martin Fowler this week. It's amazing how many refactoring methods that Fowler has been able to catalog and explain so eloquently. He's a true master of the craft of software development. Each refactoring includes an example and a description of when, why, and why not to use to the refactoring. An interesting thing about the book is that it uses JavaScript as the language for all code examples. It's rare to see a general software engineering book like this JavaScript. This may start a trend for future. Though a fair amount of the refactorings were familiar, I will definitely be revisiting many of the refactorings in the weeks ahead. I want to build some muscle memory around a lot of these.
 
 ## Finished
 
 **Online Course(s):** [Architecting an ASP.NET Core MVC Application for Unit Testibility][mvct]
 
-**Book(s):** 
+**Book(s):** *[Refactoring: Improving the Design of Existing Code (2nd Edition)][rf2]*, *[The Manual: A Philosopher's Guide to Life][pgl]*
 
 ## Currents
 
 **Online Course(s):** [Architecting an ASP.NET Core MVC Application for Unit Testibility][mvct]
 
-**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Refactoring: Improving the Design of Existing Code (2nd Edition)][rf2]*
+**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*
 
 ## On the Next...
 
 
-
+[pgl]: https://www.amazon.com/Manual-Philosophers-Guide-Stoic-Philosophy-ebook/dp/B072KZWHW4/
 [se]: https://app.pluralsight.com/library/courses/serilog-enrichers-getting-info-into-log-entries/table-of-contents
 [rw]: https://www.amazon.com/Refactoring-Workbook-William-C-Wake/dp/0321109295
 [rrp]: https://www.richroll.com/category/podcast/
