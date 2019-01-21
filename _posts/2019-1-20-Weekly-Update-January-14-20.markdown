@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update: January 14 - 20, 2019"
-date: 2019-1-20 28:35:00 +0000
+date: 2019-1-20 18:35:00 +0000
 categories: Dev-eryday
 ---
 
