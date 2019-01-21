@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: January 14 - 20, 2019"
-date: 2019-1-20 22:00:00 +0000
+date: 2019-1-20 28:35:00 +0000
 categories: Dev-eryday
 ---
 
-I finished up *[Refactoring: Improving the Design of Existing Code (2nd Edition)][rf2]* by Martin Fowler this week. It's amazing how many refactoring methods that Fowler has been able to catalog and explain so eloquently. He's a true master of the craft of software development. Each refactoring includes an example and a description of when, why, and why not to use to the refactoring. An interesting thing about the book is that it uses JavaScript as the language for all code examples. It's rare to see a general software engineering book like this JavaScript. This may start a trend for future. Though a fair amount of the refactorings were familiar, I will definitely be revisiting many of the refactorings in the weeks ahead. I want to build some muscle memory around a lot of these.
+I finished up *[Refactoring: Improving the Design of Existing Code (2nd Edition)][rf2]* by Martin Fowler this week. It's amazing how many refactoring methods that Fowler has been able to catalog and explain so eloquently. He's a true master of the craft of software development. Each refactoring includes an example and a description of when, why, and why not to use the refactoring. An interesting thing about the book is that it uses JavaScript as the language for all code examples. It's rare to see a general software engineering book like this use JavaScript. This may set a trend of seeing more JavaScript in future books. Though a fair amount of the refactorings were familiar, I will definitely be revisiting many of the refactorings in the weeks ahead. I want to build some muscle memory around a lot of these techniques. Be comfortable with many of these refactorings can help improve the quality of many code bases.
+
+There's an article I read this week that I have to share. There was an iOS developer who shared a story of having six job interviews at six high-profile Bay area software companies in six business days. All six interviews yielded job offers. Here's a [link][intp] to the post. It's a must read in my opinion. The six companies were: LinkedIn, Yelp, Apple, Amazon, Facebook, and Google. It's an impressive feat to get a job offer at any of these companies, let alone all of them. I've practiced for technical interviews before, but I've never actually participated in one at any of these companies. It'd be a fun challenge to go through the "gauntlet" like this at some point. For some supplemental reading about the post, check out the comments over at [HackerNews][inthn].
 
 ## Finished
 
@@ -15,13 +17,15 @@ I finished up *[Refactoring: Improving the Design of Existing Code (2nd Edition)
 
 ## Currents
 
-**Online Course(s):** [Architecting an ASP.NET Core MVC Application for Unit Testibility][mvct]
+**Online Course(s):** [Using HttpClient to Consume APIs in .NET Core][can]
 
-**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*
+**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Code Complete 2][cc]*
 
 ## On the Next...
 
+Now that I've read through *Refactoring*, it's time to start another vaunted software development book. I'll be starting *[Code Complete 2][cc]* this week. At over 900 pages, *Code Complete* could take a couple of months to finish. I've skimmed over it in the past, but I'm excited to finally start an official journey through it. *Code Complete* looks like a book that will uncover many hard earned lessons on software construction.
 
+[cc]: https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/
 [pgl]: https://www.amazon.com/Manual-Philosophers-Guide-Stoic-Philosophy-ebook/dp/B072KZWHW4/
 [se]: https://app.pluralsight.com/library/courses/serilog-enrichers-getting-info-into-log-entries/table-of-contents
 [rw]: https://www.amazon.com/Refactoring-Workbook-William-C-Wake/dp/0321109295
@@ -73,3 +77,6 @@ I finished up *[Refactoring: Improving the Design of Existing Code (2nd Edition)
 [mvct]: https://app.pluralsight.com/library/courses/architecting-aspnet-core-mvc-unit-testability/table-of-contents
 [rf2]: https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/
 [mwm]: https://www.amazon.com/Mistakes-Were-Made-But-Not-ebook/dp/B003K15IOE/
+[intp]: https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996
+[inthn]: https://news.ycombinator.com/item?id=18942572
+[can]: https://app.pluralsight.com/library/courses/httpclient-consume-apis-dotnet-core/table-of-contents
