@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Architecting an ASP.NET Core MVC Application for Unit Testibility][mvct]
 
-**Book(s):** *[Refactoring: Improving the Design of Existing Code (2nd Edition)][rf2]*, *[The Manual: A Philosopher's Guide to Life][pgl]*
+**Book(s):** *[Atomic Habits][ah]*
 
 ## Currents
 
@@ -78,3 +78,4 @@ categories: Dev-eryday
 [intp]: https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996
 [inthn]: https://news.ycombinator.com/item?id=18942572
 [can]: https://app.pluralsight.com/library/courses/httpclient-consume-apis-dotnet-core/table-of-contents
+[ah]: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/
