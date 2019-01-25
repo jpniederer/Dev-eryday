@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Architecting an ASP.NET Core MVC Application for Unit Testibility][mvct]
+**Online Course(s):** [Using HttpClient to Consume APIs in .NET Core][can]
 
 **Book(s):** *[Atomic Habits][ah]*
 
 ## Currents
 
-**Online Course(s):** [Using HttpClient to Consume APIs in .NET Core][can]
+**Online Course(s):** 
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Code Complete 2][cc]*
 
