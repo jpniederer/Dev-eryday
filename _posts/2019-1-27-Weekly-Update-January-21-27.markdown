@@ -1,11 +1,34 @@
 ---
 layout: post
 title:  "Weekly Update: January 21 - 27, 2019"
-date: 2019-1-27 18:35:00 +0000
+date: 2019-1-27 17:17:00 +0000
 categories: Dev-eryday
 ---
 
+This was a calm week. The winter weather in the Midwest has gotten fierce and it doesn't appear to be easing up any time soon, so that's given me more time at the keyboard. I've been using that time to sharpen up my CSS skills. It's also presented me with more time to read. Most of that reading time went to *[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones][ah]* by James Clear. It's a great read and I'd say it's the best content I've ever read on creating good habits and stopping bad ones.
 
+The key concept from the book is that habits have four stages:
+
+1. Cue
+2. Craving
+3. Response
+4. Reward
+
+The cue hits us and generates a craving which brings our response that leads to some reward. The stages of the habit can be used to ensure that we do good habits and stop doing bad ones. The steps to create a habit can be seen as following:
+
+1. Make it obvious (cue).
+2. Make it attractive (craving).
+3. Make it easy (response).
+4. Make it satisfying (reward).
+
+In order to stop a habit, we can hack the stages by constructing an environment where the unwanted habit has the following features:
+
+1. Make it invisible (cue).
+2. Make it unattractive (craving).
+3. Make it difficult (response).
+4. Make it unsatisfying (reward).
+
+The book is filled with a lot of practical steps that anyone can take to improve their habits. It's the stuff that we repeatedly do that takes up most of our time, that's why it's incredibly important to build up the habits that best align with our goals.
 
 ## Finished
 
@@ -15,13 +38,13 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)][css]
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Code Complete 2][cc]*
 
 ## On the Next...
 
-
+This week I'm going to work hard on taking what I learned from *Atomic Habits* and applying it into my daily life. I want to build some systems around the habits I'd like to do regularly and ones I'd like to do less often. A habit I'm targeting to build is to do more active practice when learning software development ideas. I'm great with taking courses and reading documentation, but I'd like to do some more active practice with the ideas that I'm learning about. Actively write code when taking in the new concepts and start writing posts about the new material. On the flipside, a habit I'd like to do less of is streaming entertainment on sites like Netflix, Hulu, and YouTube.
 
 [cc]: https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/
 [pgl]: https://www.amazon.com/Manual-Philosophers-Guide-Stoic-Philosophy-ebook/dp/B072KZWHW4/
@@ -79,3 +102,4 @@ categories: Dev-eryday
 [inthn]: https://news.ycombinator.com/item?id=18942572
 [can]: https://app.pluralsight.com/library/courses/httpclient-consume-apis-dotnet-core/table-of-contents
 [ah]: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/
+[css]: https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/learn/v4/overview
