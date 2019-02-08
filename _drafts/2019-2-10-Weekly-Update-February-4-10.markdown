@@ -9,9 +9,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [C# Attributes: Power and Flexibility for Your Code][attr]
+**Online Course(s):** [Building GraphQL APIs with ASP.NET Core][gql]
 
-**Book(s):** *[The Everything Store: Jeff Bezos and the Age of Amazon][amaz]*
+**Book(s):** **
 
 ## Currents
 
@@ -22,9 +22,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
-
+[gql]: https://app.pluralsight.com/library/courses/building-graphql-apis-aspdotnet-core/table-of-contents
 [cc]: https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/
 [brk]: https://www.amazon.com/Brothers-Karamazov-Novel-Parts-Epilogue-ebook/dp/B004ZM10OE/
 [css]: https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/learn/v4/overview
-[amaz]: https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon-ebook/dp/B00BWQW73E/
-[attr]: https://app.pluralsight.com/library/courses/c-sharp-attributes-power-flexibility-code/table-of-contents
