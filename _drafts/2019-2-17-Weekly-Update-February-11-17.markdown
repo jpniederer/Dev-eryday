@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Building GraphQL APIs with ASP.NET Core][gql]
+**Online Course(s):** [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)][css]
 
 **Book(s):** *[Market Wizards, Updated: Interviews with Top Traders][mw]*
 
 ## Currents
 
-**Online Course(s):** [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)][css]
+**Online Course(s):** 
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Code Complete 2][cc]*
 
