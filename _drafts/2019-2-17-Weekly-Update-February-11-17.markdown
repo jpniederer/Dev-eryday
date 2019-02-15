@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)][css], [Understanding ASP.NET Core 2.x][core]
 
-**Book(s):** *[Market Wizards, Updated: Interviews with Top Traders][mw]*
+**Book(s):** *[Post Office: A Novel][po]*
 
 ## Currents
 
@@ -32,3 +32,4 @@ categories: Dev-eryday
 [next]: https://nextjs.org/
 [gat]: https://www.gatsbyjs.org/
 [core]: https://app.pluralsight.com/library/courses/understanding-aspdotnet-core-2x/table-of-contents
+[po]: https://www.amazon.com/dp/B005TKC2CA
