@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [Creating a Site with CSS Grid and Bootstrap 4][cssb]
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Code Complete 2][cc]*
 
@@ -38,3 +38,4 @@ categories: Dev-eryday
 [vc]: https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-2.2
 [rp]: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/index?view=aspnetcore-2.2&tabs=visual-studio
 [fsa]: https://app.pluralsight.com/library/courses/react-express-full-stack-app-building/table-of-contents
+[cssb]: https://app.pluralsight.com/library/courses/css-grid-bootstrap-4-creating-site/table-of-contents
