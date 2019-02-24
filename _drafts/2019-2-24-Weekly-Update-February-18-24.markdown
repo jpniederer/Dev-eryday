@@ -11,7 +11,7 @@ After reading two chapters of  *[Code Complete 2][cc]* each day, I'm 30 chapters
 
 **Online Course(s):** [Building a Full Stack App with React and Express][fsa]
 
-**Book(s):** 
+**Book(s):** *[Twenty Thousand Leagues Under the Sea][twe]*
 
 ## Currents
 
@@ -39,3 +39,4 @@ This is the week that I will finally finish *Code Complete 2*. If I continue to 
 [rp]: https://docs.microsoft.com/en-us/aspnet/core/razor-pages/index?view=aspnetcore-2.2&tabs=visual-studio
 [fsa]: https://app.pluralsight.com/library/courses/react-express-full-stack-app-building/table-of-contents
 [cssb]: https://app.pluralsight.com/library/courses/css-grid-bootstrap-4-creating-site/table-of-contents
+[twe]: https://www.amazon.com/Twenty-Thousand-Leagues-under-Sea-ebook/dp/B002RKSZJO/
