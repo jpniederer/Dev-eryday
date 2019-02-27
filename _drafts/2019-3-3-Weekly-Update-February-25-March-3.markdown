@@ -8,13 +8,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Building a Full Stack App with React and Express][fsa]
+**Online Course(s):** [Creating a Site with CSS Grid and Bootstrap 4][cssb]
 
 **Book(s):** *[Twenty Thousand Leagues Under the Sea][twe]*
 
 ## Currents
 
-**Online Course(s):** [Creating a Site with CSS Grid and Bootstrap 4][cssb]
+**Online Course(s):** 
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Code Complete 2][cc]*
 
