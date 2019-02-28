@@ -10,13 +10,13 @@ categories: Dev-eryday
 
 **Online Course(s):** [Creating a Site with CSS Grid and Bootstrap 4][cssb]
 
-**Book(s):** *[Twenty Thousand Leagues Under the Sea][twe]*
+**Book(s):** *[Code Complete 2][cc]*
 
 ## Currents
 
 **Online Course(s):** 
 
-**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Code Complete 2][cc]*
+**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, 
 
 ## On the Next...
 
