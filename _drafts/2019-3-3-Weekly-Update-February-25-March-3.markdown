@@ -14,7 +14,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [Documenting an ASP.NET Core API with OpenAPI/Swagger][doc]
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, 
 
@@ -41,3 +41,4 @@ categories: Dev-eryday
 [twe]: https://www.amazon.com/Twenty-Thousand-Leagues-under-Sea-ebook/dp/B002RKSZJO/
 [saga]: https://github.com/redux-saga/redux-saga
 [thun]: https://github.com/reduxjs/redux-thunk
+[doc]: https://app.pluralsight.com/library/courses/aspdotnet-core-api-openapi-swagger/table-of-contents
