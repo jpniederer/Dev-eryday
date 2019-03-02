@@ -5,6 +5,9 @@ date: 2019-3-3 19:30:00 +0000
 categories: Dev-eryday
 ---
 
+I did it. I've finally completed *[Code Complete 2][cc]*. It's a great read and full of practical advice about creating well-designed, maintainable applications that empower users. The book is long, but justifies its length by sharing good ideas on every page. Due to the length, I let Siri read a lot of book. The screen reader feature on iOS is a godsend. Not only does it read faster than I can in my head, it also never gets distracted or varies the pace.
+
+With the arrival of March, it's time to bring on a new challenge. This month I want to push forward on a personal project each day. The goal is to set aside some time each day to work on a personal project each day. I spent the first day assessing the current status of the project and setting a few intentions for the challenge. It'd be great if the outcome of the month is a deployed web app.
 
 ## Finished
 
