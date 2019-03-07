@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Creating a Site with CSS Grid and Bootstrap 4][cssb]
+**Online Course(s):** [Documenting an ASP.NET Core API with OpenAPI/Swagger][doc]
 
 **Book(s):** *[Code Complete 2][cc]*
 
 ## Currents
 
-**Online Course(s):** [Documenting an ASP.NET Core API with OpenAPI/Swagger][doc]
+**Online Course(s):** 
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*
 
