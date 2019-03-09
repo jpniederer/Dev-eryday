@@ -11,13 +11,13 @@ categories: Dev-eryday
 
 **Online Course(s):** [Documenting an ASP.NET Core API with OpenAPI/Swagger][doc]
 
-**Book(s):** *[Code Complete 2][cc]*
+**Book(s):** *[Mindset: The New Psychology of Success][mind]*
 
 ## Currents
 
 **Online Course(s):** 
 
-**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*
+**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Programming on Purpose][pop]*
 
 ## On the Next...
 
@@ -45,3 +45,4 @@ categories: Dev-eryday
 [thun]: https://github.com/reduxjs/redux-thunk
 [doc]: https://app.pluralsight.com/library/courses/aspdotnet-core-api-openapi-swagger/table-of-contents
 [pop]: https://www.amazon.com/Programming-Purpose-Essays-Software-Design/dp/0137213743/
+[mind]: https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/
