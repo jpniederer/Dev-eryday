@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Documenting an ASP.NET Core API with OpenAPI/Swagger][doc], [GatsbyJS: Getting Started][gats]
+**Online Course(s):** [Dependency Injection in ASP.NET Core][di]
 
 **Book(s):** *[Mindset: The New Psychology of Success][mind]*
 
 ## Currents
 
-**Online Course(s):** [Dependency Injection in ASP.NET Core][di]
+**Online Course(s):** 
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Programming on Purpose][pop]*
 
