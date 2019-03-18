@@ -100,7 +100,7 @@ The Services folder contains the interfaces that define the database interaction
 
 The IChatRoomService and IMessageService are used within the ChatRoomController and MessageController. These controllers provide GET and POST REST methods that can be called from the front end.
 
-Be sure to register the services in Startup.cs. Adding the services here will provide the Microsoft.Extensions.DependencyInjection the ability to instantiate an IChatRoomService or IMessageService when they are needed. The AddScoped ensures that the Service object is created only for the lifetime of a single request. Check out Microsoft's documentation on dependency injection [here][https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.1].
+Be sure to register the services in Startup.cs. Adding the services here will provide the Microsoft.Extensions.DependencyInjection the ability to instantiate an IChatRoomService or IMessageService when they are needed. The AddScoped ensures that the Service object is created only for the lifetime of a single request. Check out Microsoft's documentation on dependency injection [here][dpi].
 
 *Startup.cs*
 ~~~
@@ -291,3 +291,4 @@ Before you leave, I hope that this post and the Chat App push you to build out a
 [sigri]: https://github.com/aspnet/SignalR/issues/2410
 [grid]: https://www.w3schools.com/css/css_grid.asp
 [styles]: https://github.com/jpniederer/NETCorePlayground/blob/master/ChatApp/ReactFrontend/react-chat/src/App.css
+[dpi]: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.1
