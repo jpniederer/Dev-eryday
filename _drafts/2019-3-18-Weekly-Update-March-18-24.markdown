@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Dependency Injection in ASP.NET Core][di]
+**Online Course(s):**  [Getting Started with Dependency Injection in .NET][depn]
 
 **Book(s):** *[Programming on Purpose][pop]*
 
 ## Currents
 
-**Online Course(s):** [Getting Started with Dependency Injection in .NET][depn]
+**Online Course(s):** 
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Get Programming with F#: A Guide for .NET Developers][fs]*
 
