@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):**  [Getting Started with Dependency Injection in .NET][depn]
 
-**Book(s):** *[Programming on Purpose][pop]*
+**Book(s):** *[Start with Why: How Great Leaders Inspire Everyone to Take Action][why]*
 
 ## Currents
 
@@ -33,3 +33,4 @@ categories: Dev-eryday
 [fs]: https://www.amazon.com/Get-Programming-guide-NET-developers/dp/1617293997/
 [depn]: https://app.pluralsight.com/library/courses/using-dependency-injection-on-ramp/table-of-contents
 [dip]: https://www.amazon.com/Dependency-Injection-Principles-Practices-Patterns/dp/161729473X/
+[why]: https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/
