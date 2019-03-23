@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [More Effective LINQ][linq]
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Get Programming with F#: A Guide for .NET Developers][fs]*
 
@@ -34,3 +34,4 @@ categories: Dev-eryday
 [depn]: https://app.pluralsight.com/library/courses/using-dependency-injection-on-ramp/table-of-contents
 [dip]: https://www.amazon.com/Dependency-Injection-Principles-Practices-Patterns/dp/161729473X/
 [why]: https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/
+[linq]: https://app.pluralsight.com/library/courses/linq-more-effective/table-of-contents
