@@ -5,7 +5,7 @@ date: 2019-3-24 21:25:00 +0000
 categories: Dev-eryday
 ---
 
-
+It's finally starting to feel like spring. Things aren't turning green yet, but it's coming. I took a step back this week and used the transformation of the seasons to consider "why." Part of the impetus for this was that I read *[Start with Why: How Great Leaders Inspire Everyone to Take Action][why]* by Simon Sinek. The book is driven by the idea that great companies and leaders build their message around the why, not the how or what. A prime of a company that is built around their why that the book shares is Apple. Apple wasn't the first company to release an MP3 player, but they were the one that made it ubiquitous. They weren't the first company to make a smart phone either, they were the one that made everyone feel like they needed one. They made this happn by focusing on why.
 
 ## Finished
 
