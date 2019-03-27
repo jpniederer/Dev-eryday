@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):**  [Getting Started with Dependency Injection in .NET][depn]
+**Online Course(s):** [More Effective LINQ][linq]
 
 **Book(s):** *[Start with Why: How Great Leaders Inspire Everyone to Take Action][why]*
 
 ## Currents
 
-**Online Course(s):** [More Effective LINQ][linq]
+**Online Course(s):** 
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Get Programming with F#: A Guide for .NET Developers][fs]*
 
