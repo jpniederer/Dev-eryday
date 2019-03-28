@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [Building an API with ASP.NET Web API][api]
 
 **Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Get Programming with F#: A Guide for .NET Developers][fs]*
 
@@ -37,3 +37,4 @@ categories: Dev-eryday
 [linq]: https://app.pluralsight.com/library/courses/linq-more-effective/table-of-contents
 [bq]: https://www.calfussman.com/podcasts/2019/3/12/simon-sinek-the-infinite-game
 [ig]: https://www.amazon.com/Infinite-Game-Simon-Sinek/dp/073521350X/
+[api]: https://app.pluralsight.com/library/courses/aspnet-web-api-building/table-of-contents
