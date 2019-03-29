@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [More Effective LINQ][linq]
 
-**Book(s):** *[Start with Why: How Great Leaders Inspire Everyone to Take Action][why]*
+**Book(s):** *[CSS in 44 Minutes][css]*
 
 ## Currents
 
@@ -38,3 +38,4 @@ categories: Dev-eryday
 [bq]: https://www.calfussman.com/podcasts/2019/3/12/simon-sinek-the-infinite-game
 [ig]: https://www.amazon.com/Infinite-Game-Simon-Sinek/dp/073521350X/
 [api]: https://app.pluralsight.com/library/courses/aspnet-web-api-building/table-of-contents
+[css]: https://jgthms.com/css-in-44-minutes-ebook
