@@ -5,7 +5,7 @@ date: 2019-3-31 18:55:00 +0000
 categories: Dev-eryday
 ---
 
-
+I have a worthwhile tip this week. For anyone reading technical books, keep an eye out for Manning's [DEAL OF THE DAY][dotd] offers. Each day, Manning will offer a set of books at half price if you use the code on the offer page. I used the code a couple of times this week to pick up some new books I've been excited about for a while. The books I purchased were new editions of classic .NET-centric books. The first is the fourth edition of Jon Skeet's *[C# in Depth][cid]*. The second book is the second edition of *[Dependency Injection Principles, Practices, and Patterns][dim]* by Steven van Deursen and Mark Seemann. It'll be a while before I get to either of them, but I'm to have them in my library.
 
 ## Finished
 
@@ -39,3 +39,6 @@ categories: Dev-eryday
 [ig]: https://www.amazon.com/Infinite-Game-Simon-Sinek/dp/073521350X/
 [api]: https://app.pluralsight.com/library/courses/aspnet-web-api-building/table-of-contents
 [css]: https://jgthms.com/css-in-44-minutes-ebook
+[dim]: https://www.manning.com/books/dependency-injection-principles-practices-patterns
+[cid]: https://www.manning.com/books/c-sharp-in-depth-fourth-edition
+[dotd]: https://www.manning.com/dotd
