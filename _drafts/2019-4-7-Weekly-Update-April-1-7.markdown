@@ -9,7 +9,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [More Effective LINQ][linq]
+**Online Course(s):** [What's New in Visual Studio 2019][nvs]
 
 **Book(s):** *[CSS in 44 Minutes][css]*
 
@@ -43,3 +43,4 @@ categories: Dev-eryday
 [cid]: https://www.manning.com/books/c-sharp-in-depth-fourth-edition
 [dotd]: https://www.manning.com/dotd
 [lp]: https://www.linqpad.net/
+[nvs]: https://app.pluralsight.com/library/courses/visual-studio-whats-new/table-of-contents
