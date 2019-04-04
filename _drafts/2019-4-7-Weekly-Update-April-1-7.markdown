@@ -11,13 +11,13 @@ categories: Dev-eryday
 
 **Online Course(s):** [What's New in Visual Studio 2019][nvs]
 
-**Book(s):** *[CSS in 44 Minutes][css]*
+**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*
 
 ## Currents
 
 **Online Course(s):** [Building an API with ASP.NET Web API][api]
 
-**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*, *[Get Programming with F#: A Guide for .NET Developers][fs]*
+**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*
 
 ## On the Next...
 
