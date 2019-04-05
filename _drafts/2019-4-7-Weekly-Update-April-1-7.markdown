@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** [Building an API with ASP.NET Web API][api]
+**Online Course(s):** [SOLID Principles for C# Developers][sol]
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*
 
@@ -44,3 +44,4 @@ categories: Dev-eryday
 [dotd]: https://www.manning.com/dotd
 [lp]: https://www.linqpad.net/
 [nvs]: https://app.pluralsight.com/library/courses/visual-studio-whats-new/table-of-contents
+[sol]: https://app.pluralsight.com/library/courses/csharp-solid-principles/table-of-contents
