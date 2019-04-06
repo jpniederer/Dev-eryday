@@ -17,7 +17,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [SOLID Principles for C# Developers][sol]
 
-**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*
+**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[Dependency Injection Principles, Practices, and Patterns][dim]*
 
 ## On the Next...
 
