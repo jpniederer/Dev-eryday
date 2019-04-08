@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Weekly Update: April 1 - 7, 2019"
-date: 2019-4-7 22:10:00 +0000
+date: 2019-4-7 23:34:00 +0000
 categories: Dev-eryday
 ---
 
-I've been reading *[The Brothers Karamazov: A Novel in Four Parts][brk]* all year, but it feels longer than that. It's a long book, but that's a really long time for me to be reading a book. I'm usually finishing a book after a week or two, but not this one. Coming in at 825 pages, *The Brothers Karamazov* is a true epic novel. The novel is brilliant and covers so much ground. It's philosophical tour de force, covering ethics, morals, faith, and so much more. Centering on the three Karamazov brother, their father, and the people they associate with, the book is set in 18th century Russia. The relationships and dynamics between the brothers make for the perfect setting to consider deep, universal themes.
-
+I've been reading *[The Brothers Karamazov: A Novel in Four Parts][brk]* all year, but it feels like even longer than that. It's a long book, but three plus months a really long time for me to be reading a book. I'm used to finishing a book after a week or two, but not this one. Coming in at 825 pages, *The Brothers Karamazov* is a true epic novel. The novel is brilliant and is more than worthy of its length. It's a philosophical tour de force, covering ethics, morals, faith, and so much more. Centering on the three Karamazov brothers, their father, and the people they associate with, the book is set in 18th century Russia. The relationships and dynamics between the brothers make for the perfect setting to consider deep, universal themes. The book doesn't have anything to do with technology, but it has definitely opened up my mind a little further.
 
 ## Finished
 
@@ -22,7 +21,7 @@ I've been reading *[The Brothers Karamazov: A Novel in Four Parts][brk]* all yea
 
 ## On the Next...
 
-
+I'm going to really dive into *[Dependency Injection Principles, Practices, and Patterns][dim]* this week. I've read over a quarter of it so far and I'm getting a great return on the time invested. The meat of the book is found in a catalog of DI Patterns which I will be reading this week. Beyond the reading, my main focus will be on getting outside and enjoying the Spring weather.
 
 
 [brk]: https://www.amazon.com/Brothers-Karamazov-Novel-Parts-Epilogue-ebook/dp/B004ZM10OE/
