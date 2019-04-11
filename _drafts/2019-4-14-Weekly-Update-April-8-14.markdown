@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [SOLID Principles for C# Developers][sol]
 
-**Book(s):** *[The Brothers Karamazov: A Novel in Four Parts][brk]*
+**Book(s):** *[Find Your Why][fyw]*
 
 ## Currents
 
@@ -36,3 +36,4 @@ categories: Dev-eryday
 [dim]: https://www.manning.com/books/dependency-injection-principles-practices-patterns
 [cid]: https://www.manning.com/books/c-sharp-in-depth-fourth-edition
 [sol]: https://app.pluralsight.com/library/courses/csharp-solid-principles/table-of-contents
+[fyw]: https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728/
