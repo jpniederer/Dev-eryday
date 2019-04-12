@@ -5,7 +5,7 @@ date: 2019-4-14 23:34:00 +0000
 categories: Dev-eryday
 ---
 
-
+I think about time a lot. Mostly it's about how I'm spending my time and how I could be using it more effectively. One night this week, I was burning time aimlessly reading Quora answers when I came accross an obvious idea that I hadn't considered before. The post was by the author Ryan Holiday who learned about the idea from another author, Robert Greene. The concept is Alive Time versus Dead Time. Alive Time is when we are working towards something we want. Dead Time is when we just letting time pass. In any moment we can ask our self  "Is this going to be Alive Time or Dead Time?" At any point it's our choice whether to use the time we've been granted as Alive Time or Dead Time. I'm trying improve my ratio. For anyone interested in the concept, here's a seperate [post][atdt] where Holiday goes in depth on the topic.
 
 ## Finished
 
@@ -37,3 +37,4 @@ categories: Dev-eryday
 [cid]: https://www.manning.com/books/c-sharp-in-depth-fourth-edition
 [sol]: https://app.pluralsight.com/library/courses/csharp-solid-principles/table-of-contents
 [fyw]: https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728/
+[atdt]: https://thoughtcatalog.com/ryan-holiday/2014/09/alive-time-vs-dead-time/
