@@ -15,7 +15,7 @@ I think about time a lot. Mostly it's about how I'm spending my time and how I c
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [ReSharper Fundamentals][rf]
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[Dependency Injection Principles, Practices, and Patterns][dim]*
 
@@ -38,3 +38,4 @@ I think about time a lot. Mostly it's about how I'm spending my time and how I c
 [sol]: https://app.pluralsight.com/library/courses/csharp-solid-principles/table-of-contents
 [fyw]: https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728/
 [atdt]: https://thoughtcatalog.com/ryan-holiday/2014/09/alive-time-vs-dead-time/
+[rf]: https://app.pluralsight.com/library/courses/resharper-fundamentals/table-of-contents
