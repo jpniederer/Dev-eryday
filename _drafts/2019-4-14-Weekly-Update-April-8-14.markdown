@@ -7,6 +7,8 @@ categories: Dev-eryday
 
 I think about time a lot. Mostly it's about how I'm spending my time and how I could be using it more effectively. One night this week, I was burning time aimlessly reading Quora answers when I came accross an obvious idea that I hadn't considered before. The post was by the author Ryan Holiday who learned about the idea from another author, Robert Greene. The concept is Alive Time versus Dead Time. Alive Time is when we are working towards something we want. Dead Time is when we just letting time pass. In any moment we can ask our self  "Is this going to be Alive Time or Dead Time?" At any point it's our choice whether to use the time we've been granted as Alive Time or Dead Time. I'm trying improve my ratio. For anyone interested in the concept, here's a seperate [post][atdt] where Holiday goes in depth on the topic.
 
+I made a good amount of progress on *[Dependency Injection Principles, Practices, and Patterns][dim]*, but I'm still less than halfway through. I read through the meat of the first version of the text last year, skipping only the content on using specific containers, and this second edition quite an improvement on an already fine text. A lot has changed in terms of technical offerings since the first edition was released in 2011, and the new edition has updated along with the landscape. The conceptual content is first rate, eloquently discussing how to use DI to make your code extensible, testible, mantainable, and capable of being worked on by teams of developers.
+
 ## Finished
 
 **Online Course(s):** [SOLID Principles for C# Developers][sol]
