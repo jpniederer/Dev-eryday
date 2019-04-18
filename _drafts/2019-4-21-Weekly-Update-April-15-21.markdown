@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [SOLID Principles for C# Developers][sol]
+**Online Course(s):** [ReSharper Fundamentals][rf]
 
 **Book(s):** *[Find Your Why][fyw]*
 
 ## Currents
 
-**Online Course(s):** [ReSharper Fundamentals][rf]
+**Online Course(s):** 
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[Dependency Injection Principles, Practices, and Patterns][dim]*
 
