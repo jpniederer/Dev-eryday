@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [ReSharper Fundamentals][rf]
 
-**Book(s):** *[Find Your Why][fyw]*
+**Book(s):** *[Steve Jobs][sj]*
 
 ## Currents
 
@@ -39,3 +39,4 @@ categories: Dev-eryday
 [fyw]: https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728/
 [atdt]: https://thoughtcatalog.com/ryan-holiday/2014/09/alive-time-vs-dead-time/
 [rf]: https://app.pluralsight.com/library/courses/resharper-fundamentals/table-of-contents
+[sj]: https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537
