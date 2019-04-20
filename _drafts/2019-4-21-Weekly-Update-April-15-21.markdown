@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [Docker Images and Containers for ASP.NET Core][dock]
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[Dependency Injection Principles, Practices, and Patterns][dim]*
 
@@ -40,3 +40,4 @@ categories: Dev-eryday
 [atdt]: https://thoughtcatalog.com/ryan-holiday/2014/09/alive-time-vs-dead-time/
 [rf]: https://app.pluralsight.com/library/courses/resharper-fundamentals/table-of-contents
 [sj]: https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537
+[dock]: https://app.pluralsight.com/library/courses/docker-images-containers-aspdotnet-core/table-of-contents
