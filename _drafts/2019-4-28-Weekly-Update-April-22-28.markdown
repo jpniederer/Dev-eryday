@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [ReSharper Fundamentals][rf]
+**Online Course(s):** [Docker Images and Containers for ASP.NET Core][dock]
 
 **Book(s):** *[Steve Jobs][sj]*
 
