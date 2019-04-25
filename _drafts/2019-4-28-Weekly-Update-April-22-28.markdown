@@ -13,13 +13,13 @@ categories: Dev-eryday
 
 **Online Course(s):** [Docker Images and Containers for ASP.NET Core][dock]
 
-**Book(s):** *[Steve Jobs][sj]*
+**Book(s):** *[Dependency Injection Principles, Practices, and Patterns][dim]*
 
 ## Currents
 
 **Online Course(s):** [Docker Images and Containers for ASP.NET Core][dock]
 
-**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[Dependency Injection Principles, Practices, and Patterns][dim]*
+**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, 
 
 ## On the Next...
 
