@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Docker Images and Containers for ASP.NET Core][dock]
+**Online Course(s):** [Creating and Configuring New Websites in IIS][iis]
 
 **Book(s):** *[Dependency Injection Principles, Practices, and Patterns][dim]*
 
 ## Currents
 
-**Online Course(s):** [Creating and Configuring New Websites in IIS][iis]
+**Online Course(s):** 
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*,  *[Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell][tdc]*
 
