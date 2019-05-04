@@ -15,7 +15,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [Using React Hooks][urh]
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*,  
 
@@ -42,3 +42,4 @@ categories: Dev-eryday
 [dock]: https://app.pluralsight.com/library/courses/docker-images-containers-aspdotnet-core/table-of-contents
 [tdc]: https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook-ebook/dp/B076ZHG3H3/
 [iis]: https://app.pluralsight.com/library/courses/creating-configuring-new-websites-iis/table-of-contents
+[urh]: https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
