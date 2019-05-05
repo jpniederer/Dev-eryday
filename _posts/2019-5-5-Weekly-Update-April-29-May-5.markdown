@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: April 29 - May 5, 2019"
-date: 2019-5-5 22:45:00 +0000
+date: 2019-5-5 18:55:00 +0000
 categories: Dev-eryday
 ---
 
+Some weeks you've got it, and some weeks you don't. I wasn't feeling it much this week, but I made the most of what I had. Week's like this are an opportunity to test the strength of dev-eryday. Even with a lower time investment than normal, I was still able to finish a brief video course on [IIS][iis] and a book about [Bill Campbell][tdc].  No matter how I'm feeling, each day is a chance to get a little better. Some days that may only be 10 minutes, and that's okay. The important part is to invest at least a little bit to the mission.
 
+I want to say a few words about *Trillion Dollar Coach*. The book is a fantastic read that shares the principles and some of the stories about one of the most important people in the history of Silicon Valley. Bill Campbell was a leader of leaders who coached people like Eric Schmidt, Marissa Mayer, Sheryl Sandberg, and so many more. Campbell led people through a strong connection to everyone he interacted with. By creating an environment of trust and connection, Campbell gave the teams he worked with the ability to perform at their best. What's even more incredible was how he coached the leaders of billion-dollar companies like Apple, Google, and Facebook for free. Campbell's story builds an inspiring case to adopt some his philosophies.
 
 ## Finished
 
@@ -21,7 +23,7 @@ categories: Dev-eryday
 
 ## On the Next...
 
-
+I'm going to work on a side project this week. It's a pretty simple project, so I may be able to get something live by the end of the week. The project will include a website, but it's mostly driven by writing. So, I'm planning to spend a good amount of time this week writing. Beyond writing, I'm going to read, learn, and create.
 
 [core]: https://app.pluralsight.com/library/courses/understanding-aspdotnet-core-2x/table-of-contents
 [po]: https://www.amazon.com/dp/B005TKC2CA
