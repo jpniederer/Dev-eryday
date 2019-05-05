@@ -17,7 +17,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Using React Hooks][urh]
 
-**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*,  
+**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*,  *[The Culture Code: The Secrets of Highly Successful Groups][tcc]*
 
 ## On the Next...
 
@@ -43,3 +43,4 @@ categories: Dev-eryday
 [tdc]: https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook-ebook/dp/B076ZHG3H3/
 [iis]: https://app.pluralsight.com/library/courses/creating-configuring-new-websites-iis/table-of-contents
 [urh]: https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
+[tcc]: https://www.amazon.com/Culture-Code-Secrets-Highly-Successful-ebook/dp/B01MSY1Y6Z/
