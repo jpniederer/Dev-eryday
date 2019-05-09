@@ -9,7 +9,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Creating and Configuring New Websites in IIS][iis]
+**Online Course(s):** [Building Server-side Rendered React Apps for Beginners][bsr]
 
 **Book(s):** *[Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell][tdc]*
 
@@ -44,3 +44,4 @@ categories: Dev-eryday
 [iis]: https://app.pluralsight.com/library/courses/creating-configuring-new-websites-iis/table-of-contents
 [urh]: https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
 [tcc]: https://www.amazon.com/Culture-Code-Secrets-Highly-Successful-ebook/dp/B01MSY1Y6Z/
+[bsr]: https://app.pluralsight.com/library/courses/building-server-side-rendered-react-apps-beginners/table-of-contents
