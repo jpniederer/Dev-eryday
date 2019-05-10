@@ -11,13 +11,13 @@ categories: Dev-eryday
 
 **Online Course(s):** [Creating and Configuring New Websites in IIS][iis]
 
-**Book(s):** *[Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell][tdc]*
+**Book(s):** *[The Culture Code: The Secrets of Highly Successful Groups][tcc]*
 
 ## Currents
 
 **Online Course(s):** [Using React Hooks][urh]
 
-**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*,  *[The Culture Code: The Secrets of Highly Successful Groups][tcc]*
+**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*,  
 
 ## On the Next...
 
