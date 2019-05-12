@@ -5,7 +5,7 @@ date: 2019-5-5 18:55:00 +0000
 categories: Dev-eryday
 ---
 
-
+The last couple of weeks I've mentioned a new side project here. I'm happy to inform you that I have a rough version of it live now. The site needs a ton of work from the design to the content creation still, but it's live. The project is called [Tesla2024][tes] and it's an experiment in investing. Starting in May 2019, I'm going to invest the money that could be spent on a new Tesla Model 3 on loan for the next 60 months in stocks with high growth potential. My thinking is that even in a rough market, the dollar-cost averaging should be keep me in a decent position. The site will exist to log the experiment.
 
 ## Finished
 
@@ -15,13 +15,13 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** [Using React Hooks][urh]
+**Online Course(s):** [Using React Hooks][urh], [Tactical Design Patterns in .NET: Creating Objects][tdp]
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*,  
 
 ## On the Next...
 
-
+I'm going to continue working on Tesla2024 this week. As I said above, I haven't done any of the design work on it so far, it's just the default Gatsby design right now. I'd like to lockdown a color scheme, get some assets, and make it look presentable.
 
 [core]: https://app.pluralsight.com/library/courses/understanding-aspdotnet-core-2x/table-of-contents
 [po]: https://www.amazon.com/dp/B005TKC2CA
@@ -45,3 +45,5 @@ categories: Dev-eryday
 [urh]: https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
 [tcc]: https://www.amazon.com/Culture-Code-Secrets-Highly-Successful-ebook/dp/B01MSY1Y6Z/
 [bsr]: https://app.pluralsight.com/library/courses/building-server-side-rendered-react-apps-beginners/table-of-contents
+[tdp]: https://app.pluralsight.com/library/courses/tactical-design-patternsdot-net/table-of-contents
+[tes]: https://tesla2024.com
