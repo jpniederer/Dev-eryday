@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: April 29 - May 5, 2019"
-date: 2019-5-5 18:55:00 +0000
+date: 2019-5-12 21:00:00 +0000
 categories: Dev-eryday
 ---
 
-The last couple of weeks I've mentioned a new side project here. I'm happy to inform you that I have a rough version of it live now. The site needs a ton of work from the design to the content creation still, but it's live. The project is called [Tesla2024][tes] and it's an experiment in investing. Starting in May 2019, I'm going to invest the money that could be spent on a new Tesla Model 3 on loan for the next 60 months in stocks with high growth potential. My thinking is that even in a rough market, the dollar-cost averaging should be keep me in a decent position. The site will exist to log the experiment.
+The last couple of weeks I've mentioned a new side project I'm working on here. I'm happy to inform you that I have a rough version of it live now. The site needs a ton of work from the design to the content creation still, but it's live. The project is called [Tesla2024][tes] and it's an experiment in investing. Starting in May 2019, I'm going to invest the money that could be spent on a new Tesla Model 3 on loan over the next 60 months in stocks with high growth potential. My thinking is that even in a rough market, the dollar-cost averaging should be keep me in a decent position. The site will exist to log the experiment. The content that's online now includes an about page and the rules I'm opening the experiment with.
+
+[Microsoft Build][msb] took place this week. I didn't attend, but I tracked the news of what went down up in Redmond. There were a number of interesting sessions and announcements from the conference. Of the news I've seen, I'm most excited about .NET 5, the new Windows Terminal, and the 1.0 release of ML.NET.
 
 ## Finished
 
@@ -17,11 +19,13 @@ The last couple of weeks I've mentioned a new side project here. I'm happy to in
 
 **Online Course(s):** [Using React Hooks][urh], [Tactical Design Patterns in .NET: Creating Objects][tdp]
 
-**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*,  
+**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*
 
 ## On the Next...
 
-I'm going to continue working on Tesla2024 this week. As I said above, I haven't done any of the design work on it so far, it's just the default Gatsby design right now. I'd like to lockdown a color scheme, get some assets, and make it look presentable.
+I'm going to continue working on Tesla2024 this week. As I said above, I haven't done any of the design work on it so far, it's just the default Gatsby design right now. I'd like to lockdown a color scheme, get some assets, and make it look presentable. Beyond that, that I'll continue to write more about the experiment and get it to where I can post updates.
+
+Outside of Tesla2024, I'm going to try to watch more of the videos from Microsoft Build. I've watched a few of the presentations already, but I've barely scratched the surface.
 
 [core]: https://app.pluralsight.com/library/courses/understanding-aspdotnet-core-2x/table-of-contents
 [po]: https://www.amazon.com/dp/B005TKC2CA
