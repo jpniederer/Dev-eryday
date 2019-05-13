@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Update: April 29 - May 5, 2019"
+title:  "Weekly Update: May 6 - 12, 2019"
 date: 2019-5-12 21:00:00 +0000
 categories: Dev-eryday
 ---
