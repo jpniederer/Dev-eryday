@@ -47,3 +47,4 @@ categories: Dev-eryday
 [bsr]: https://app.pluralsight.com/library/courses/building-server-side-rendered-react-apps-beginners/table-of-contents
 [tdp]: https://app.pluralsight.com/library/courses/tactical-design-patternsdot-net/table-of-contents
 [tes]: https://tesla2024.com
+[life]: https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence-ebook/dp/B06WGNPM7V/
