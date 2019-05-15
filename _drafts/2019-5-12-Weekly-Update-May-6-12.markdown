@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Building Server-side Rendered React Apps for Beginners][bsr]
 
-**Book(s):** *[The Culture Code: The Secrets of Highly Successful Groups][tcc]*
+**Book(s):** *[Life 3.0: Being Human in the Age of Artificial Intelligence][life]*
 
 ## Currents
 
@@ -43,5 +43,5 @@ categories: Dev-eryday
 [tdc]: https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook-ebook/dp/B076ZHG3H3/
 [iis]: https://app.pluralsight.com/library/courses/creating-configuring-new-websites-iis/table-of-contents
 [urh]: https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
-[tcc]: https://www.amazon.com/Culture-Code-Secrets-Highly-Successful-ebook/dp/B01MSY1Y6Z/
 [bsr]: https://app.pluralsight.com/library/courses/building-server-side-rendered-react-apps-beginners/table-of-contents
+[life]: https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence-ebook/dp/B06WGNPM7V/
