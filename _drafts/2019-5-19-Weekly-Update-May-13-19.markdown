@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Weekly Update: April 29 - May 5, 2019"
-date: 2019-5-5 18:55:00 +0000
+title:  "Weekly Update: May 13 - 19, 2019"
+date: 2019-5-19 21:00:00 +0000
 categories: Dev-eryday
 ---
 
@@ -15,9 +15,9 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** [Using React Hooks][urh]
+**Online Course(s):** [Using React Hooks][urh], [Tactical Design Patterns in .NET: Creating Objects][tdp]
 
-**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*,  
+**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*
 
 ## On the Next...
 
@@ -43,5 +43,7 @@ categories: Dev-eryday
 [tdc]: https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook-ebook/dp/B076ZHG3H3/
 [iis]: https://app.pluralsight.com/library/courses/creating-configuring-new-websites-iis/table-of-contents
 [urh]: https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
+[tcc]: https://www.amazon.com/Culture-Code-Secrets-Highly-Successful-ebook/dp/B01MSY1Y6Z/
 [bsr]: https://app.pluralsight.com/library/courses/building-server-side-rendered-react-apps-beginners/table-of-contents
-[life]: https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence-ebook/dp/B06WGNPM7V/
+[tdp]: https://app.pluralsight.com/library/courses/tactical-design-patternsdot-net/table-of-contents
+[tes]: https://tesla2024.com
