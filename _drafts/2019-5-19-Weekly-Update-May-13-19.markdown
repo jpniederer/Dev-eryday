@@ -9,7 +9,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Building Server-side Rendered React Apps for Beginners][bsr]
+**Online Course(s):** [State of .NET: Executive Briefing][son]
 
 **Book(s):** *[Life 3.0: Being Human in the Age of Artificial Intelligence][life]*
 
@@ -48,3 +48,4 @@ categories: Dev-eryday
 [tdp]: https://app.pluralsight.com/library/courses/tactical-design-patternsdot-net/table-of-contents
 [tes]: https://tesla2024.com
 [life]: https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence-ebook/dp/B06WGNPM7V/
+[son]: https://app.pluralsight.com/library/courses/state-of-dotnet-executive-briefing/table-of-contents
