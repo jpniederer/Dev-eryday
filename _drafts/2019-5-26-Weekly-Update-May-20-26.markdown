@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [State of .NET: Executive Briefing][son]
+**Online Course(s):** [Tactical Design Patterns in .NET: Creating Objects][tdp]
 
-**Book(s):** *[Life 3.0: Being Human in the Age of Artificial Intelligence][life]*
+**Book(s):** 
 
 ## Currents
 
-**Online Course(s):** [Using React Hooks][urh], [Tactical Design Patterns in .NET: Creating Objects][tdp]
+**Online Course(s):** [Using React Hooks][urh], 
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*
 
