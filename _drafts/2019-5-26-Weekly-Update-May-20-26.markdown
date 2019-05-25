@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Tactical Design Patterns in .NET: Creating Objects][tdp]
 
-**Book(s):** 
+**Book(s):** *[Let's Go (So We Can Get Back): A Memoir of Recording and Discording with Wilco, Etc.][wilco]*
 
 ## Currents
 
@@ -49,3 +49,4 @@ categories: Dev-eryday
 [tes]: https://tesla2024.com
 [life]: https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence-ebook/dp/B06WGNPM7V/
 [son]: https://app.pluralsight.com/library/courses/state-of-dotnet-executive-briefing/table-of-contents
+[wilco]: https://www.amazon.com/Lets-Can-Get-Back-Discording-ebook/dp/B07BPP1T72/
