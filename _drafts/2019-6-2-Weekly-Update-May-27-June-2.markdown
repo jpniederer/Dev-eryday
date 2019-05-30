@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Tactical Design Patterns in .NET: Creating Objects][tdp]
+**Online Course(s):** [Using React Hooks][urh]
 
 **Book(s):** *[Let's Go (So We Can Get Back): A Memoir of Recording and Discording with Wilco, Etc.][wilco]*
 
 ## Currents
 
-**Online Course(s):** [Using React Hooks][urh]
+**Online Course(s):** 
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*
 
