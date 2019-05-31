@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Using React Hooks][urh]
 
-**Book(s):** *[Let's Go (So We Can Get Back): A Memoir of Recording and Discording with Wilco, Etc.][wilco]*
+**Book(s):** *[The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers][hta]*
 
 ## Currents
 
@@ -50,3 +50,4 @@ categories: Dev-eryday
 [life]: https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence-ebook/dp/B06WGNPM7V/
 [son]: https://app.pluralsight.com/library/courses/state-of-dotnet-executive-briefing/table-of-contents
 [wilco]: https://www.amazon.com/Lets-Can-Get-Back-Discording-ebook/dp/B07BPP1T72/
+[hta]: https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA/
