@@ -15,9 +15,9 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [Writing Testable Code][wtc]
 
-**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*
+**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[C# in Depth][cid]*
 
 ## On the Next...
 
@@ -51,3 +51,5 @@ categories: Dev-eryday
 [son]: https://app.pluralsight.com/library/courses/state-of-dotnet-executive-briefing/table-of-contents
 [wilco]: https://www.amazon.com/Lets-Can-Get-Back-Discording-ebook/dp/B07BPP1T72/
 [hta]: https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA/
+[cid]: https://www.amazon.com/C-Depth-Jon-Skeet/dp/1617294535/
+[wtc]: https://app.pluralsight.com/library/courses/writing-testable-code/table-of-contents
