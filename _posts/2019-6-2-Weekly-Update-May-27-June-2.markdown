@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Weekly Update: May 27 - June 2, 2019"
-date: 2019-6-2 21:47:00 +0000
+date: 2019-6-2 23:00:00 +0000
 categories: Dev-eryday
 ---
 
-
+I'm going to keep it brief this week. I'm feeling kind of lazy. I finished a book, *[The Hard Thing About Hard Things][hta]*, and a course, [Using React Hooks][urh]. The book was full of lessons that would be useful for CEOs of companies. I'm not sure there was a lot of takeaways for me. I liked that Bill Campbell, the focus of *The Trillion Dollar Coach*, was everywhere throughout the book. Campbell's reach is astounding. The course was great but I just audited the material. I really like what I've seen from React Hooks. Now I just need to sit down and spend some time with it. Hooks looks like a major improvement on the way state is handled in React components.
 
 ## Finished
 
@@ -21,7 +21,7 @@ categories: Dev-eryday
 
 ## On the Next...
 
-
+This week I'm not going to commit to anything for Dev-eryday. I'm sure I'll be active, but it's not going to be a priority. I've committed to a new monthly challenge for June that I'm calling "Drenched June." The concept is simple, every day of the month I will workout hard enough to get drenched. We're two days into June and I'm two for two far. It's going to be a fun month. The increased physical activity is going to raise the mind to new heights.
 
 [core]: https://app.pluralsight.com/library/courses/understanding-aspdotnet-core-2x/table-of-contents
 [po]: https://www.amazon.com/dp/B005TKC2CA
