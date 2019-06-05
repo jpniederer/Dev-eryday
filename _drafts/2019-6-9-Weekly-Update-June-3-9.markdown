@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Using React Hooks][urh]
+**Online Course(s):** [Writing Testable Code][wtc]
 
 **Book(s):** *[The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers][hta]*
 
 ## Currents
 
-**Online Course(s):** [Writing Testable Code][wtc]
+**Online Course(s):** 
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[C# in Depth][cid]*
 
