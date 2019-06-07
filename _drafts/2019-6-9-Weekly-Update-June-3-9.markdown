@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Writing Testable Code][wtc]
 
-**Book(s):** *[The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers][hta]*
+**Book(s):** *[Ghost in the Wires: My Adventures as the World's Most Wanted Hacker][gtw]*
 
 ## Currents
 
@@ -53,3 +53,4 @@ categories: Dev-eryday
 [hta]: https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA/
 [cid]: https://www.amazon.com/C-Depth-Jon-Skeet/dp/1617294535/
 [wtc]: https://app.pluralsight.com/library/courses/writing-testable-code/table-of-contents
+[gtw]: https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted-ebook/dp/B0047Y0F0K/
