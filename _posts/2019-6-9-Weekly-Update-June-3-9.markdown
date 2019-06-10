@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: June 3 - 9, 2019"
-date: 2019-6-9 23:00:00 +0000
+date: 2019-6-9 21:30:00 +0000
 categories: Dev-eryday
 ---
 
+This week I was captivated by *[Ghost in the Wires: My Adventures as the World's Most Wanted Hacker][gtw]*, a book that details some stories from legendary hacker Kevin Mitnick. It's an addictive read. From hacking phone systems to get free, untraceable calls to stealing the source code from many companies like Sun Microsystems and Motorola, Mitnick pulled off some truly impressive feats. Performing such hacks led to a chaotic and fascinating life for Mitnick who lived on the run with multiple identities in several cities for over a decade. The thing impressed me most with Mitnick's story is how skilled he was at social engineering. So often the hacks would rely on strategic conversations that allowed Mitnick to seem like someone the target should share information with. The technology may change, but social engineering never goes out of style. The book is a riveting read.
 
+On the course side I watched through [Writing Testable Code][wtc]. It's a brief course that shares some refactoring techniques that can be used to make your code more testable. Course content includes seams, state, single responsibility principle, and dependency injection. There's some cool videos in the course and it was a fun one to watch.
 
 ## Finished
 
@@ -15,13 +17,13 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [ASP.NET Identity 2 Fundamentals][iden]
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[C# in Depth][cid]*
 
 ## On the Next...
 
-
+I think I'm going to try to find another book of stories about hacking, *Ghost in the Wires* has me wanting more. I read *Cuckoo's Egg* a while back and really enjoyed it too. These real tales of hackers and people preventing or trying to catch them are fascinating. Beyond reading about hacking, I'll spend some time programming, writing, and learning.
 
 [core]: https://app.pluralsight.com/library/courses/understanding-aspdotnet-core-2x/table-of-contents
 [po]: https://www.amazon.com/dp/B005TKC2CA
@@ -54,3 +56,4 @@ categories: Dev-eryday
 [cid]: https://www.amazon.com/C-Depth-Jon-Skeet/dp/1617294535/
 [wtc]: https://app.pluralsight.com/library/courses/writing-testable-code/table-of-contents
 [gtw]: https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted-ebook/dp/B0047Y0F0K/
+[iden]: https://app.pluralsight.com/library/courses/asp-dot-net-identity-fundamentals/table-of-contents
