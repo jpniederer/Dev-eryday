@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Writing Testable Code][wtc]
+**Online Course(s):** [ASP.NET Identity 2 Fundamentals][iden]
 
 **Book(s):** *[Ghost in the Wires: My Adventures as the World's Most Wanted Hacker][gtw]*
 
 ## Currents
 
-**Online Course(s):** [ASP.NET Identity 2 Fundamentals][iden]
+**Online Course(s):** 
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[C# in Depth][cid]*
 
