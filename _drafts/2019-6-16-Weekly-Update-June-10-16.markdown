@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [ASP.NET Identity 2 Fundamentals][iden]
 
-**Book(s):** *[Ghost in the Wires: My Adventures as the World's Most Wanted Hacker][gtw]*
+**Book(s):** *[A Mind for Numbers][mfn]*
 
 ## Currents
 
@@ -22,7 +22,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
-
+[mfn]: https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU/
 [core]: https://app.pluralsight.com/library/courses/understanding-aspdotnet-core-2x/table-of-contents
 [po]: https://www.amazon.com/dp/B005TKC2CA
 [doc]: https://app.pluralsight.com/library/courses/aspdotnet-core-api-openapi-swagger/table-of-contents
