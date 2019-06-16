@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: June 10 - 16, 2019"
-date: 2019-6-16 21:30:00 +0000
+date: 2019-6-16 14:00:00 +0000
 categories: Dev-eryday
 ---
 
-I breezed through an interesting book this week. The book is Barbara Oakley's *[A Mind for Numbers][mfn]*. Oakley, a co-creator of the legendary [Learning How to Learn MMOC][lhl], shares some tips on how to maximize the effects of learning, specifically focusing on concepts from math and science.. I really enjoyed the tips on procrastination. 
+I breezed through an interesting book this week. The book is Barbara Oakley's *[A Mind for Numbers][mfn]*. Oakley, a co-creator of the legendary [Learning How to Learn MMOC][lhl], shares some tips on how to maximize the effects of learning, specifically focusing on concepts from math and science. I really enjoyed the tips on procrastination. Having things planned out, recognizing procrastination cues, using Pomodoro, and making your actions automatic are all things I'm going to integrate into my workflow. The material on chunking information while learning is also insightful. It's amazing how much more effective at learning recall and testing is than merely reading a text. A little active learning goes a lot further than a ton of passive learning. I may have to organize some formal notes and guidelines to follow based around the book.
 
+On the technical reading side, I'm still reading through Jon Skeet's latest edition of *[C# in Depth][cid]*. I'm up to the additions of C# 5 and greatly enjoying the material so far. Skeet's thoughts about .NET never fail to be insightful. The language is aging exceptionally.  I also finished up viewing [ASP.NET Identity 2 Fundamentals][iden]. It's a whirlwind tour of everything Microsoft has provided developers with in ASP.NET Identity 2. 
 
 ## Finished
 
@@ -22,6 +23,7 @@ I breezed through an interesting book this week. The book is Barbara Oakley's *[
 
 ## On the Next...
 
+In the week ahead, I'm going to push forward with *[C# in Depth][cid]* and integrate the learning techniques from *[A Mind for Numbers][mfn]* into my workflow. I'm excited to add the new tricks into my bag of tools. I also picked up a couple of new courses covering web programming techniques on Udemy, so I may audit some of that material. It should be fun.
 
 [mfn]: https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU/
 [core]: https://app.pluralsight.com/library/courses/understanding-aspdotnet-core-2x/table-of-contents
