@@ -5,6 +5,7 @@ date: 2019-6-16 21:30:00 +0000
 categories: Dev-eryday
 ---
 
+I breezed through an interesting book this week. The book is Barbara Oakley's *[A Mind for Numbers][mfn]*. Oakley, a co-creator of the legendary [Learning How to Learn MMOC][lhl], shares some tips on how to maximize the effects of learning, specifically focusing on concepts from math and science.. I really enjoyed the tips on procrastination. 
 
 
 ## Finished
@@ -15,7 +16,7 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [Testing with EF Core][eftest]
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[C# in Depth][cid]*
 
@@ -55,3 +56,4 @@ categories: Dev-eryday
 [wtc]: https://app.pluralsight.com/library/courses/writing-testable-code/table-of-contents
 [gtw]: https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted-ebook/dp/B0047Y0F0K/
 [iden]: https://app.pluralsight.com/library/courses/asp-dot-net-identity-fundamentals/table-of-contents
+[lhl]: https://www.coursera.org/learn/learning-how-to-learn
