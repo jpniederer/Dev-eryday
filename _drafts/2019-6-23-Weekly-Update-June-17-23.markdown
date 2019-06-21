@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [ASP.NET Identity 2 Fundamentals][iden]
+**Online Course(s):** [Testing with EF Core][eftest]
 
 **Book(s):** *[A Mind for Numbers][mfn]*
 
 ## Currents
 
-**Online Course(s):** [Testing with EF Core][eftest]
+**Online Course(s):** 
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[C# in Depth][cid]*
 
