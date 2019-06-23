@@ -25,6 +25,7 @@ On the technical reading side, I'm still reading through Jon Skeet's latest edit
 
 In the week ahead, I'm going to push forward with *[C# in Depth][cid]* and integrate the learning techniques from *[A Mind for Numbers][mfn]* into my workflow. I'm excited to add the new tricks into my bag of tools. I also picked up a couple of new courses covering web programming techniques on Udemy, so I may audit some of that material. It should be fun.
 
+[eftest]: https://app.pluralsight.com/library/courses/ef-core-testing/table-of-contents
 [mfn]: https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU/
 [core]: https://app.pluralsight.com/library/courses/understanding-aspdotnet-core-2x/table-of-contents
 [po]: https://www.amazon.com/dp/B005TKC2CA
