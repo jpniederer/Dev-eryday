@@ -15,14 +15,14 @@ categories: Dev-eryday
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [Understanding ASP.NET Core Security][csec]
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[C# in Depth][cid]*
 
 ## On the Next...
 
-
-
+[csec]: https://app.pluralsight.com/library/courses/asp-dot-net-core-security-understanding/table-of-contents
+[eftest]: https://app.pluralsight.com/library/courses/ef-core-testing/table-of-contents
 [mfn]: https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU/
 [core]: https://app.pluralsight.com/library/courses/understanding-aspdotnet-core-2x/table-of-contents
 [po]: https://www.amazon.com/dp/B005TKC2CA
