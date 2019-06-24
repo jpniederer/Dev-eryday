@@ -1,26 +1,27 @@
 ---
 layout: post
 title:  "Weekly Update: June 17 - 23, 2019"
-date: 2019-6-23 14:00:00 +0000
+date: 2019-6-23 22:53:00 +0000
 categories: Dev-eryday
 ---
 
-
+I hit reset this week. Some weeks you've got it, some weeks you don't, and this week I didn't have too much. It's important to pump the brakes every once in a while in order to recharge. This week was a good time to reboot. I was still able to finished the brief  [Testing with EF Core][eftest] on Pluralsight. I also started up a new book, *[The Master and Margarita][mam]*, it's fiction and pretty good so far. 
 
 ## Finished
 
 **Online Course(s):** [Testing with EF Core][eftest]
 
-**Book(s):** *[A Mind for Numbers][mfn]*
-
 ## Currents
 
 **Online Course(s):** [Understanding ASP.NET Core Security][csec]
 
-**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[C# in Depth][cid]*
+**Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[C# in Depth][cid]*, *[The Master and Margarita][mam]*
 
 ## On the Next...
 
+My goal for the week ahead is to finish a book and to stream less. I want to aim small and rise far about the target. It's going to be a good week.
+
+[mam]: https://www.amazon.com/MASTER-MARGARITA-50th-Anniversary-Penguin-Classics-ebook/dp/B01DJZWALO/
 [csec]: https://app.pluralsight.com/library/courses/asp-dot-net-core-security-understanding/table-of-contents
 [eftest]: https://app.pluralsight.com/library/courses/ef-core-testing/table-of-contents
 [mfn]: https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU/
