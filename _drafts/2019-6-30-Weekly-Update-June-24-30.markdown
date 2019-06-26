@@ -11,6 +11,8 @@ categories: Dev-eryday
 
 **Online Course(s):** [Testing with EF Core][eftest]
 
+**Book(s):** *[Big Ideas: How to Unleash Your Creative Self and Have More Aha! Moments][bi]*
+
 ## Currents
 
 **Online Course(s):** [Understanding ASP.NET Core Security][csec]
@@ -20,7 +22,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
-
+[bi]: https://www.amazon.com/BIG-IDEAS-UNLEASH-CREATIVE-MOMENTS-ebook/dp/B07K2GZMN1/
 [mam]: https://www.amazon.com/MASTER-MARGARITA-50th-Anniversary-Penguin-Classics-ebook/dp/B01DJZWALO/
 [csec]: https://app.pluralsight.com/library/courses/asp-dot-net-core-security-understanding/table-of-contents
 [eftest]: https://app.pluralsight.com/library/courses/ef-core-testing/table-of-contents
