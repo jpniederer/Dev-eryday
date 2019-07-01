@@ -1,26 +1,36 @@
 ---
 layout: post
 title:  "Weekly Update: June 24 - 30, 2019"
-date: 2019-6-30 22:53:00 +0000
+date: 2019-6-30 23:00:00 +0000
 categories: Dev-eryday
 ---
 
+Another quick update this week. Summer is here, and the weather is reflecting it. I used the heat to help complete the monthly challenge that I've been focusing on for the month of June. The challenge, unrelated to anything software development, was to complete a workout that led to me getting drenched each day of the month. I'm happy to report that the challenge is now complete and was a huge success. There were some difficult days in there, but all is well that ends well. Now it's time to schedule a few hard earned recovery days.
 
+On the learning side of the house, I read through a book called *[Big Ideas][bi]* that discussed how to have more good ideas. It's a fun read. The authors elaborate on some of the science behind how ideas are formulated through the different types of brain waves. The different types of waves yield different types of thoughts and we can change what we do to draw out the different types of waves.  The meat of the book lays out a process that leads to creative thoughts, or what the book likes to call "AHA! moments." Their process is as follows:
+  1. Identify
+  2. Ideate
+  3. Incubate
+  4. Illuminate
+  5. Identify
+
+One thing I need to do more of is to wait for the insights of the illuminate phase through creating more opportunities to let my brain produce gamma waves.
 
 ## Finished
 
-**Online Course(s):** [Understanding ASP.NET Core Security][csec]
+**Online Course(s):** [Migrating Applications and Services to Azure with Visual Studio 2019][mas]
 
 **Book(s):** *[Big Ideas: How to Unleash Your Creative Self and Have More Aha! Moments][bi]*
 
 ## Currents
 
-**Online Course(s):** 
+**Online Course(s):** [Understanding ASP.NET Core Security][csec]
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[C# in Depth][cid]*, *[The Master and Margarita][mam]*
 
 ## On the Next...
 
+I'm going to finish up *[C# in Depth][cid]* this week. Another thing I'm going to do is take a nice break. Independence Day is taking place on Thursday this week and it will be a good time to take a nice time out.
 
 [bi]: https://www.amazon.com/BIG-IDEAS-UNLEASH-CREATIVE-MOMENTS-ebook/dp/B07K2GZMN1/
 [mam]: https://www.amazon.com/MASTER-MARGARITA-50th-Anniversary-Penguin-Classics-ebook/dp/B01DJZWALO/
@@ -60,3 +70,4 @@ categories: Dev-eryday
 [gtw]: https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted-ebook/dp/B0047Y0F0K/
 [iden]: https://app.pluralsight.com/library/courses/asp-dot-net-identity-fundamentals/table-of-contents
 [lhl]: https://www.coursera.org/learn/learning-how-to-learn
+[mas]: https://app.pluralsight.com/library/courses/visual-studio-azure-migrating-applications-services/table-of-contents
