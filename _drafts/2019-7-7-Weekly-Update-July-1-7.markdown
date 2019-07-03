@@ -9,13 +9,13 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Migrating Applications and Services to Azure with Visual Studio 2019][mas]
+**Online Course(s):**  [Understanding ASP.NET Core Security][csec]
 
 **Book(s):** *[Big Ideas: How to Unleash Your Creative Self and Have More Aha! Moments][bi]*
 
 ## Currents
 
-**Online Course(s):** [Understanding ASP.NET Core Security][csec]
+**Online Course(s):**
 
 **Book(s):** *[Get Programming with F#: A Guide for .NET Developers][fs]*, *[C# in Depth][cid]*, *[The Master and Margarita][mam]*
 
