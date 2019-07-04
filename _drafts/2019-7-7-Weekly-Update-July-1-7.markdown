@@ -9,7 +9,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):**  [Understanding ASP.NET Core Security][csec]
+**Online Course(s):**  [Understanding ASP.NET Core Security][csec], [Data Visualization: Best Practices][dvbp]
 
 **Book(s):** *[Big Ideas: How to Unleash Your Creative Self and Have More Aha! Moments][bi]*
 
@@ -62,3 +62,4 @@ categories: Dev-eryday
 [iden]: https://app.pluralsight.com/library/courses/asp-dot-net-identity-fundamentals/table-of-contents
 [lhl]: https://www.coursera.org/learn/learning-how-to-learn
 [mas]: https://app.pluralsight.com/library/courses/visual-studio-azure-migrating-applications-services/table-of-contents
+[dvbp]: https://app.pluralsight.com/library/courses/data-visualization-best-practices/table-of-contents
