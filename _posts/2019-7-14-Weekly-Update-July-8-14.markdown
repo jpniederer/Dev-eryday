@@ -1,17 +1,19 @@
 ---
 layout: post
 title:  "Weekly Update: July 8 - 14, 2019"
-date: 2019-7-14 22:56:00 +0000
+date: 2019-7-14 23:40:00 +0000
 categories: Dev-eryday
 ---
 
+Man, it was hot this week. Luckily, I was able to beat the heat by staying inside reading a fantastic book, *[Super Thinking: The Big Book of Mental Models][st]*, by Gabriel Weinberg and Lauren McCann. In the book, Weinberg, the founder of the security focused technology startup DuckDuckGo, and McCann, an MIT trained statistician and researcher, present a collection of mental models for better navigating the world. Each model is accompanied by a description, context for when it should be used, and notable historical cases where it was used if applicable. I've researched mental models quite a bit in the past, mostly through Shane Parrish's [list][fsl] on Farnam Street and through the study of both Warren Buffett and Charlie Munger. *Super Thinking* is as lucid as any material on the subject as I've read and provides an extensive survey of many of the most important mental models. I'll share my favorite model from the book here for a little taste of the content. My favorite model is called "Hanlon's Razor" and it says that we shouldn't attribute anything to malintent that could otherwise be attributed to simple oversight or incompetence. So often, I find myself assuming that if something doesn't go right that it was due to someone or something stacking the odds against me, the vast majority of the time that line of thinking is wrong and just causes frustration. I'm thinking that anyone who is reading my in the weeds weekly update posts, would greatly enjoy reading *Super Thinking*.
 
+Beyond reading, I spent some time working on my [Tesla2024][tes] website. The site is created with GatsbyJS and I put in the effort required to get the site dynamically displaying new posts. So, it's officially a blog now. There are currently three posts on the site that I had already written. It feels good to have the content live, but there's a lot of work needed on the site still.
 
 ## Finished
 
-**Online Course(s):**  [Understanding ASP.NET Core Security][csec], [Data Visualization: Best Practices][dvbp]
+**Online Course(s):**  [Developing AI Models in Microsoft Azure][aim]
 
-**Book(s):** *[C# in Depth][cid]*
+**Book(s):** *[Super Thinking: The Big Book of Mental Models][st]*
 
 ## Currents
 
@@ -21,8 +23,11 @@ categories: Dev-eryday
 
 ## On the Next...
 
+This week I'm wanting to add a couple of features to the Tesla2024 website. The features that I have in mind are adding a page component to display the current value of my investments for the experiment. Another thing I'd like to add is a purchase history to display all of my stock purchases that were made for the holdings I'm tracking for the experiment. Beyond that, I want to spend some time reading, learning, and creating technical solutions.
 
-
+[fsl]: https://fs.blog/mental-models/
+[aim]: https://app.pluralsight.com/library/courses/microsoft-azure-ai-models-developing/table-of-contents
+[st]: https://www.amazon.com/Super-Thinking-Book-Mental-Models-ebook/dp/B07P8J83WR/
 [bi]: https://www.amazon.com/BIG-IDEAS-UNLEASH-CREATIVE-MOMENTS-ebook/dp/B07K2GZMN1/
 [mam]: https://www.amazon.com/MASTER-MARGARITA-50th-Anniversary-Penguin-Classics-ebook/dp/B01DJZWALO/
 [csec]: https://app.pluralsight.com/library/courses/asp-dot-net-core-security-understanding/table-of-contents
