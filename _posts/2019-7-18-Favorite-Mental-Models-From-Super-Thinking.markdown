@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Favorite Mental Models from Super Thinking"
-date: 2019-7-28 23:10:00 +0000
+date: 2019-7-18 23:10:00 +0000
 categories: Books
 ---
 
