@@ -5,13 +5,7 @@ date: 2019-7-21 23:40:00 +0000
 categories: Dev-eryday
 ---
 
-
-
-## Finished
-
-**Online Course(s):**  [Developing AI Models in Microsoft Azure][aim]
-
-**Book(s):** *[Super Thinking: The Big Book of Mental Models][st]*
+This was an abnormal week. I didn't finish any books or courses, which I think this a first time in the history of Dev-eryday. I did read and learn though, just didn't complete anything. One notable from a learning standpoint was that I started going through the basics of CSS again for a deep review. For years I've wanted to really learn CSS but there's always been something more attractive that I've learned instead. I'm taking notes to mark the progress and it's going along nicely. The motivation for the CSS review was listening to an episode of the Syntax podcast titled *[The Fundamentals - HTML + CSS][syn]. I knew enough of the content to get by, but without examples and Google at my disposal I'm toast. Also, the lack of CSS knowledge hinders the end products I create. More knowledge in this area will yield better design which will lead to better products.
 
 ## Currents
 
@@ -21,8 +15,9 @@ categories: Dev-eryday
 
 ## On the Next...
 
+I'm going to finish a book and a course next week. I'm also going to continue my journey though CSS.
 
-
+[syn]: https://syntax.fm/show/158/the-fundamentals-html-css
 [fsl]: https://fs.blog/mental-models/
 [aim]: https://app.pluralsight.com/library/courses/microsoft-azure-ai-models-developing/table-of-contents
 [st]: https://www.amazon.com/Super-Thinking-Book-Mental-Models-ebook/dp/B07P8J83WR/
