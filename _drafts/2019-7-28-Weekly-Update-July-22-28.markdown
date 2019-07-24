@@ -9,7 +9,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):**  [Developing AI Models in Microsoft Azure][aim]
+**Online Course(s):**  [Semantic HTML][smh]
 
 **Book(s):** *[Super Thinking: The Big Book of Mental Models][st]*
 
@@ -22,7 +22,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
-
+[smh]: https://app.pluralsight.com/library/courses/semantic-html/table-of-contents
 [fsl]: https://fs.blog/mental-models/
 [aim]: https://app.pluralsight.com/library/courses/microsoft-azure-ai-models-developing/table-of-contents
 [st]: https://www.amazon.com/Super-Thinking-Book-Mental-Models-ebook/dp/B07P8J83WR/
