@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):**  [Semantic HTML][smh]
 
-**Book(s):** *[Super Thinking: The Big Book of Mental Models][st]*
+**Book(s):** *[The Headspace Guide to Meditation and Mindfulness][hs]*
 
 ## Currents
 
@@ -22,6 +22,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
+[hs]: https://www.amazon.com/Get-Some-Headspace-Mindfulness-Minutes-ebook/dp/B006ZL1KAW/
 [smh]: https://app.pluralsight.com/library/courses/semantic-html/table-of-contents
 [fsl]: https://fs.blog/mental-models/
 [aim]: https://app.pluralsight.com/library/courses/microsoft-azure-ai-models-developing/table-of-contents
