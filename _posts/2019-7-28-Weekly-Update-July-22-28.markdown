@@ -1,17 +1,19 @@
 ---
 layout: post
 title:  "Weekly Update: July 22 - 28, 2019"
-date: 2019-7-28 23:40:00 +0000
+date: 2019-7-28 22:59:00 +0000
 categories: Dev-eryday
 ---
 
+I've been thinking about the structure of Dev-eryday. The way it's been structured for the longest time is that I must watch at least a few minutes of a tech tutorial video and do some kind of check in on GitHub each day. Most days I'll also take the opportunity to read a portion of a deep technical manual or textbook. These things are good tasks to do each day, but they can only push skills so far. In terms of in the weeds, hands-on learning, these check boxes leave quite a bit to be desired. There probably should have been a more formal stipulation to build and create each day, not just to passively learn. It's easy to fall into a routine of doing the minimum.
 
+I read a lot this week. I finished two good books, *[The Headspace Guide to Meditation and Mindfulness][hs]* and *[The Algebra of Happiness: Notes on the Pursuit of Success, Love, and Meaning][tah]*. Neither are directly related to software development, but I feel like they'll make me better at my craft.
 
 ## Finished
 
 **Online Course(s):**  [Semantic HTML][smh]
 
-**Book(s):** *[The Headspace Guide to Meditation and Mindfulness][hs]*
+**Book(s):** *[The Headspace Guide to Meditation and Mindfulness][hs]*, *[The Algebra of Happiness: Notes on the Pursuit of Success, Love, and Meaning][tah]*
 
 ## Currents
 
@@ -21,7 +23,9 @@ categories: Dev-eryday
 
 ## On the Next...
 
+In the week ahead I'm going to start up a new challenge for the month of August, which is starting on Thursday. I didn't do a monthly challenge in July, so I should get back on track by committing to a monthly challenge for August. I've found that the best challenges are often the ones that are adjacent to my goals, so making the challenge be something related to making Dev-eryday more grounded in creating and building stuff would be something worth considering. Outside of the challenge, I'll keep on marching along on the current Dev-eryday style and learning as much as possible.
 
+[tah]: https://www.amazon.com/Algebra-Happiness-Pursuit-Success-Meaning/dp/0593084195
 [hs]: https://www.amazon.com/Get-Some-Headspace-Mindfulness-Minutes-ebook/dp/B006ZL1KAW/
 [smh]: https://app.pluralsight.com/library/courses/semantic-html/table-of-contents
 [fsl]: https://fs.blog/mental-models/
