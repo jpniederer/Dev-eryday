@@ -9,9 +9,9 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):**  [Semantic HTML][smh]
+**Online Course(s):** [Testing .NET Code in Visual Studio 2019][tnc]
 
-**Book(s):** *[The Headspace Guide to Meditation and Mindfulness][hs]*, *[The Algebra of Happiness: Notes on the Pursuit of Success, Love, and Meaning][tah]*
+**Book(s):** 
 
 ## Currents
 
@@ -22,7 +22,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
-
+[tnc]: https://app.pluralsight.com/library/courses/visual-studio-testing-dotnet-code/table-of-contents
 [tah]: https://www.amazon.com/Algebra-Happiness-Pursuit-Success-Meaning/dp/0593084195
 [hs]: https://www.amazon.com/Get-Some-Headspace-Mindfulness-Minutes-ebook/dp/B006ZL1KAW/
 [smh]: https://app.pluralsight.com/library/courses/semantic-html/table-of-contents
