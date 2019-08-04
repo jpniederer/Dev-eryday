@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Testing .NET Code in Visual Studio 2019][tnc]
 
-**Book(s):** 
+**Book(s):** *[The Four: The Hidden DNA of Amazong, Apple, Facebook, and Google][four]*
 
 ## Currents
 
@@ -22,6 +22,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
+[four]: https://www.amazon.com/Four-Hidden-Amazon-Facebook-Google-ebook/dp/B06WP982HX/
 [tnc]: https://app.pluralsight.com/library/courses/visual-studio-testing-dotnet-code/table-of-contents
 [tah]: https://www.amazon.com/Algebra-Happiness-Pursuit-Success-Meaning/dp/0593084195
 [hs]: https://www.amazon.com/Get-Some-Headspace-Mindfulness-Minutes-ebook/dp/B006ZL1KAW/
