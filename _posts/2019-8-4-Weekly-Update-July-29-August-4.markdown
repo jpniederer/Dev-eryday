@@ -1,17 +1,19 @@
 ---
 layout: post
 title:  "Weekly Update: July 29 - August 4, 2019"
-date: 2019-8-4 22:59:00 +0000
+date: 2019-8-4 22:05:00 +0000
 categories: Dev-eryday
 ---
 
+I invested a lot of time reading this week. Most of that time was spent reading Scott Galloway's *[The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google][four]*. The book goes in-depth on how Amazon, Apple, Facebook, and Google operate and how they've amassed so much power. Written in 2017, the book shares thoughts on where each of the companies was heading then, much of which has proven to come to fruition. Amazon is hitting everywhere, Apple has stayed a must-have luxury product, and Facebook and Google have dominated advertising and accumulated the smartest staffs in history. The primary idea I took from the book is that data is power and each of these companies is leveraging it to gain even more power. One company that would likely be in the mix if the book were written today is Microsoft, which now has a market cap over one trillion dollars, higher than that of any of the featured companies right now. Galloway cited Microsoft as a company that could be in the mix to join the four, identifying LinkedIn as a big reason why. Office365, Azure, LinkedIn, the GitHub purchase, and targeting allow operating systems have all been major factors in Microsoft's rise. Overall, the book is a good read.
 
+Outside of reading, I watched through [Testing .NET Code in Visual Studio 2019][tnc] on Pluralsight. It's a brief overview of how to use automated testing libraries while building .NET projects in Visual Studio 2019. Testing techniques are demonstrated using Microsoft Test, xUnit, and nUnit. I also spent some time learning [TailwindCSS][tc]. TailwindCSS provides a library of low-level CSS classes that enable developers to create highly customized UIs without ever leaving their HTML. I'm enjoying picking it up so far and I'm slowly integrating it into [Tesla2024][tes]. It could be the missing piece that makes design finally click for me.
 
 ## Finished
 
 **Online Course(s):** [Testing .NET Code in Visual Studio 2019][tnc]
 
-**Book(s):** *[The Four: The Hidden DNA of Amazong, Apple, Facebook, and Google][four]*
+**Book(s):** *[The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google][four]*
 
 ## Currents
 
@@ -21,7 +23,9 @@ categories: Dev-eryday
 
 ## On the Next...
 
+In the week ahead I'm going to continue learning TailwindCSS and getting the Tesla2024 site styled. I'm also looking to spend some time writing some code after hours. I haven't been coding much on the side lately and I want to get back into the habit of it.
 
+[tc]: https://tailwindcss.com/
 [four]: https://www.amazon.com/Four-Hidden-Amazon-Facebook-Google-ebook/dp/B06WP982HX/
 [tnc]: https://app.pluralsight.com/library/courses/visual-studio-testing-dotnet-code/table-of-contents
 [tah]: https://www.amazon.com/Algebra-Happiness-Pursuit-Success-Meaning/dp/0593084195
