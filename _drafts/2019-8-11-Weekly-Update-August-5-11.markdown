@@ -9,7 +9,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Testing .NET Code in Visual Studio 2019][tnc]
+**Online Course(s):** [Modern Web Layout with Flexbox and CSS Grid][mwl]
 
 **Book(s):** *[The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google][four]*
 
@@ -22,7 +22,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
-
+[mwl]: https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents
 [tc]: https://tailwindcss.com/
 [four]: https://www.amazon.com/Four-Hidden-Amazon-Facebook-Google-ebook/dp/B06WP982HX/
 [tnc]: https://app.pluralsight.com/library/courses/visual-studio-testing-dotnet-code/table-of-contents
