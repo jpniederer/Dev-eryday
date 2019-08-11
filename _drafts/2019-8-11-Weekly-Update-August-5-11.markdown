@@ -11,7 +11,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Modern Web Layout with Flexbox and CSS Grid][mwl]
 
-**Book(s):** *[The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google][four]*
+**Book(s):** *[Moonwalking with Einstein: The Art and Science of Remembering Everything][moon]*
 
 ## Currents
 
@@ -22,6 +22,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
+[moon]: https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything-ebook/dp/B004H4XI5O/
 [mwl]: https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents
 [tc]: https://tailwindcss.com/
 [four]: https://www.amazon.com/Four-Hidden-Amazon-Facebook-Google-ebook/dp/B06WP982HX/
