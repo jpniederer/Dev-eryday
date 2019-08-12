@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: August 5 - 11, 2019"
-date: 2019-8-11 22:05:00 +0000
+date: 2019-8-11 22:45:00 +0000
 categories: Dev-eryday
 ---
 
+I feel like I'm caught in a loop. In life you can't put a "break;" in the middle of a loop to terminate it, you have to make an effort to get out. Last week I wrote about a notion I had to change up the format of Dev-eryday a little bit but no progress was made on that front. Once you've been doing something for so long it can be a struggle to switch it up. It's going to happen at some point, for now, I'm content with the progress I've made in the last week. Even if I didn't spend a ton of time studying nitty-gritty programming techniques in my free time, still learned some things on the job and a little bit offline. That's still a productive week.
 
+I read the book *[Moonwalking with Einstein: The Art and Science of Remembering Everything][moon]* by journalist turned memory champion, Joshua Foer. It's an incredible story that shows how malleable the human memory is. Foer, after a story brings him to the 2001 U.S. Memory Championship event, finds himself sucked into the community and a memory champion himself only a year later. The people who participate in the memory challenges swear that great memory is a skill that anyone can pick up. Foer better than anyone solidifies that claim. I'm charting my path on how I can get in the 2020 championship now (not really, but maybe I could?).
 
 ## Finished
 
@@ -21,6 +23,7 @@ categories: Dev-eryday
 
 ## On the Next...
 
+I'm not sure what next week holds. It's not software development related, but I've been playing a lot of guitar lately. I've been playing for years but never studied enough music theory to understand much of what I'm doing. That's been different recently as I've been diving into the theory and some knowledge is starting to form. Songs are starting to make a little more sense beyond the tablature. So, I'm going to continue the momentum on my study of music theory. On top of that, I'll read and keep on learning.
 
 [moon]: https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything-ebook/dp/B004H4XI5O/
 [mwl]: https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents
