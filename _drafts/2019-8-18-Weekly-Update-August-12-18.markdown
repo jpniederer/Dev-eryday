@@ -9,7 +9,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Modern Web Layout with Flexbox and CSS Grid][mwl]
+**Online Course(s):** [Node.js: The Big Picture][ntbp]
 
 **Book(s):** *[Secrets of the JavaScript Ninja][sjn]*
 
@@ -22,6 +22,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
+[ntbp]: https://app.pluralsight.com/library/courses/nodejs-big-picture/table-of-contents
 [sjn]: https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/
 [moon]: https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything-ebook/dp/B004H4XI5O/
 [mwl]: https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents
