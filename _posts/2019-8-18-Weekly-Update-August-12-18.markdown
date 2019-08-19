@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Weekly Update: August 12 - 18, 2019"
-date: 2019-8-18 22:45:00 +0000
+date: 2019-8-18 21:45:00 +0000
 categories: Dev-eryday
 ---
 
+Before this week, I don't think I've ever completed a book about JavaScript. I've read parts of several books, many documentation pages on MDN, and tons of questions/answers on StackOverflow about the language, but never had I finished a book about the popular programming language. Now I can say that I've read one as I completed *[Secrets of the JavaScript Ninja][sjn]* by John Resig, Bear Bieault, and Josip Maras. The book appealed to me because it targets intermediate JavaScript developers and John Resig's affiliation with the book. I don't think I'll ever be a fan of the title of "ninja" for developers, but this is a solid book on JavaScript.
+
+The part of the book that I enjoyed the most was its coverage of prototypes. The way that JavaScript uses object prototypes to allow for object-oriented programming is similar to using classes in C# or Java, but not identical. It's these minute differences that have held back my JavaScript programming on occasion. All in all, the book was a solid investment because it uncovered several details that I might not have found otherwise. Language documentation is excellent, but books and deep dives into the source code can offer insights beyond what's found in the literature.
 
 
 ## Finished
@@ -21,6 +24,7 @@ categories: Dev-eryday
 
 ## On the Next...
 
+I'm excited for the week ahead. Summer is coming to a close, and I should be spending more time indoors, which will lead to more time reading, learning, and creating. I've got a lot of things I want to develop, but one of the problems of having so many things to create is that you have to pick only one to focus on a single project. Hopefully, I can pare down my list and identify the essential projects and get to work on completing them.
 
 [ntbp]: https://app.pluralsight.com/library/courses/nodejs-big-picture/table-of-contents
 [sjn]: https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/
