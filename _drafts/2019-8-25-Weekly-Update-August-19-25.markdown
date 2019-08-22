@@ -10,7 +10,7 @@ categories: Dev-eryday
 
 ## Finished
 
-**Online Course(s):** [Node.js: The Big Picture][ntbp]
+**Online Course(s):** [Prototyping Your UX Design in React][pyu]
 
 **Book(s):** *[Secrets of the JavaScript Ninja][sjn]*
 
@@ -23,7 +23,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
-
+[pyu]: https://app.pluralsight.com/library/courses/react-prototyping-ux-design/table-of-contents
 [ntbp]: https://app.pluralsight.com/library/courses/nodejs-big-picture/table-of-contents
 [sjn]: https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/
 [moon]: https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything-ebook/dp/B004H4XI5O/
