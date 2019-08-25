@@ -12,7 +12,7 @@ categories: Dev-eryday
 
 **Online Course(s):** [Prototyping Your UX Design in React][pyu]
 
-**Book(s):** *[Secrets of the JavaScript Ninja][sjn]*
+**Book(s):** *[CSS in Depth][cssd]*
 
 ## Currents
 
@@ -23,6 +23,7 @@ categories: Dev-eryday
 ## On the Next...
 
 
+[cssd]: https://www.amazon.com/CSS-Depth-Keith-J-Grant/dp/1617293458/
 [pyu]: https://app.pluralsight.com/library/courses/react-prototyping-ux-design/table-of-contents
 [ntbp]: https://app.pluralsight.com/library/courses/nodejs-big-picture/table-of-contents
 [sjn]: https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/
