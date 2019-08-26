@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Weekly Update: August 12 - 18, 2019"
-date: 2019-8-18 21:45:00 +0000
+title:  "Weekly Update: August 19 - 25, 2019"
+date: 2019-8-25 22:41:00 +0000
 categories: Dev-eryday
 ---
 
-
-
+It seems like I've been working to improve my skills with CSS all year. The reason it's been so stretched out is that I typically only spend an hour a week on it. It's difficult to master anything if you aren't putting in the time required to make it come together. This week I pushed forward more than ever through reading *[CSS in Depth][cssd]* by Keith Grant. The book provides an excellent overview of CSS through examples. I coded along throughout and had an enjoyable time working through it. The book covers the basics like specificity (inline -> ID -> class -> tag), the box model (concentric squares, Margin - Border - Padding - Content), layouts, and advanced subjects like transitions and animations. My favorite content in the book is its coverage of the different ways to position elements on a page. CSS has had many techniques to layout elements over the years from tables to floats to flexbox and grid. The state of laying out elements today is a dream compared to the methods used in the past. I'm glad to have worked through the book, and I'm feeling great about where I'm at with CSS. I'm going to continue to test and improve my skills, and I'm looking forward to creating lots of useful, functional applications with my newfound abilities.
 
 ## Finished
 
@@ -22,6 +21,7 @@ categories: Dev-eryday
 
 ## On the Next...
 
+The last week of August is upon us. That means it's time to enjoy what's left of summer. Outside of that, I'm want to create this week. I'm going to think about what I can create to make my life easier. If that line of thinking goes anywhere, I'll create a quick prototype and see how it goes.
 
 [cssd]: https://www.amazon.com/CSS-Depth-Keith-J-Grant/dp/1617293458/
 [pyu]: https://app.pluralsight.com/library/courses/react-prototyping-ux-design/table-of-contents
