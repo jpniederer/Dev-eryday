@@ -5,13 +5,13 @@ date: 2019-9-1 22:41:00 +0000
 categories: Dev-eryday
 ---
 
-
+I'm going to keep this ultra brief this week because it's a three day weekend and I want to maximize it. I read a book, watched a course, and learned a number of things--a typical week.
 
 ## Finished
 
-**Online Course(s):** [Prototyping Your UX Design in React][pyu]
+**Online Course(s):** [Refactoring for C# Developers][rfc]
 
-**Book(s):** *[CSS in Depth][cssd]*
+**Book(s):** *[Competing Against Luck: The Story of Innovation and Customer Choice][cal]*
 
 ## Currents
 
@@ -21,8 +21,10 @@ categories: Dev-eryday
 
 ## On the Next...
 
+I've started up a new challenge called "Intentional Browsing" where the goal is to spend less time aimlessly consuming content. Outside of a 30-minute free period each day, I must record each web page that I visit along with the intended purpose of the visit. The overhead of browsing and recordind intent should help prevent idle browsing. Beyond taking on that challenge, I'm working on cleaning up some content for a future web project. At the rate I'm going, the content clean up will take a month or so. I'm excited about the project, but there's a lot of work to come.
 
-
+[rfc]: https://app.pluralsight.com/library/courses/refactoring-csharp-developers/table-of-contents
+[cal]: https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612/
 [cssd]: https://www.amazon.com/CSS-Depth-Keith-J-Grant/dp/1617293458/
 [pyu]: https://app.pluralsight.com/library/courses/react-prototyping-ux-design/table-of-contents
 [ntbp]: https://app.pluralsight.com/library/courses/nodejs-big-picture/table-of-contents
