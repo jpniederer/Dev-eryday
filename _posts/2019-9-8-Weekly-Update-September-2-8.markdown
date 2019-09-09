@@ -1,17 +1,19 @@
 ---
 layout: post
 title:  "Weekly Update: September 2 - 8, 2019"
-date: 2019-9-8 22:41:00 +0000
+date: 2019-9-8 23:41:00 +0000
 categories: Dev-eryday
 ---
 
+I'm getting excited for the upcoming release of.NET Core 3.0 and the [.NET Conf][dnc] that's happening September 23-25. Since they're taking place the week of September 23, I spent a reasonable amount of time diving into the [features][nc3] and [migrating][ncm] some test project to the updated version. The update process seems to be fairly straightforward but could be tricky for large projects. Be sure and check the [agenda][nca] for the .NET Conf, looks like a lot of great content coming down the pipeline. The only thing bad about the work going on around .NET Core is finding enough time to master it and stay up to date with everything else that's going on with technology.
 
+Speaking of .NET Core, I worked through [ASP.NET Core Tag Helpers and View Components][ath]. It's an excellent course covering the ASP.NET Core Tag Helper and View Component features. Tag Helpers and View Components remind me a lot of how components are developed in React. For my reading this week, I breezed through *This is Marketing* by Seth Godin. It's a whirlwind tour of some of Godin's popular ideas on marketing. I'm not an expert on the subject but I have read a couple of books by Godin in the past. It's nice to review topics like marketing a couple of times a year to gain some perspective on the subject. It's a quick, entertaining read that recommends you find a small audience and over-deliver for them.
 
 ## Finished
 
-**Online Course(s):** [Refactoring for C# Developers][rfc]
+**Online Course(s):** [ASP.NET Core Tag Helpers and View Components][ath]
 
-**Book(s):** *[Competing Against Luck: The Story of Innovation and Customer Choice][cal]*
+**Book(s):** *[This is Marketing: You Can't Be Seen Until You Learn to See][ycb]*
 
 ## Currents
 
@@ -21,8 +23,14 @@ categories: Dev-eryday
 
 ## On the Next...
 
+I'm going to keep on preparing for the launch of .NET Core 3.0 in the week ahead.
 
-
+[nca]: https://www.dotnetconf.net/Agenda
+[ncm]: https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-2.2&tabs=visual-studio
+[nc3]: https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0
+[dnc]: https://www.dotnetconf.net/
+[ycb]: https://www.amazon.com/This-Marketing-Cant-Until-Learn/dp/B07DKN7DG2/
+[ath]: https://app.pluralsight.com/library/courses/aspdotnet-core-tag-helpers/table-of-contents
 [rfc]: https://app.pluralsight.com/library/courses/refactoring-csharp-developers/table-of-contents
 [cal]: https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612/
 [cssd]: https://www.amazon.com/CSS-Depth-Keith-J-Grant/dp/1617293458/
