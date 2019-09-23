@@ -5,13 +5,13 @@ date: 2019-9-22 23:55:00 +0000
 categories: Dev-eryday
 ---
 
-This week marked the unofficial end to the 2019 Major League Baseball season for me. The season actually has another full week of games on the docket, but I'm checking out early this year due to the rough finish the Chicago Cubs have experienced. PECOTA said they'd only win 84 games before the season started and they're at 82 wins with six games left to play. These grim predictions didn't seem right, but have proven to be remarkably accurate. I'm not shook up in the slightest about the outcome of the season and I feel like it's a sign of the seasons to come.
+This week marked the unofficial end to the 2019 Major League Baseball season for me. The season still has another full week of games on the docket, but I'm checking out early this year due to the rough finish the Chicago Cubs have experienced. PECOTA said they'd only win 84 games before the season started and they're at 82 wins with six games left to play. These grim predictions didn't seem right but have proven to be remarkably accurate. I'm not shaken up in the slightest about the outcome of the season, and I feel like it's a sign of the seasons to come. The 2015 through 2019 Joe Maddon led Cubs teams were the best Cubs teams of my lifetime and it was a joy to get to see them play out.
 
-I read *[Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked][irr]* by Adam Alter. *Irresistible* looks at the growing problem of technology addiction. This is remarkable, almost too high to believe, but half of the developed world is addicted to something. Part of the reason why we're so addicted is that technology is engineered to get as much of our attention as it possibly can. The book covers a lot behind the general occurance of addiction and weaves that into how it applies to addiction to technology. I enjoyed the book a lot and will try to be more mindful of the tactics used by companies to gain as much of my attention as possible, avoiding them where I can.
+I read *[Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked][irr]* by Adam Alter. *Irresistible* looks at the growing problem of technology addiction. This is a remarkable, almost too high to believe, but half of the developed world is addicted to something. Part of the reason why we're so addicted is that technology is engineered to get as much of our attention as it possibly can. The book covers a lot behind the general occurrence of addiction and weaves that into how it applies to addiction to technology. I enjoyed the book a lot and will try to be more mindful of the tactics used by companies to gain as much of my attention as possible, avoiding them where I can.
 
 ## Finished
 
-**Online Course(s):** [ASP.NET Authentication: The Big Picture][antbp]
+**Online Course(s):** [Ethical Hacking: Social Engineering][se]
 
 **Book(s):** *[Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked][irr]*
 
@@ -23,9 +23,9 @@ I read *[Irresistible: The Rise of Addictive Technology and the Business of Keep
 
 ## On the Next...
 
-I'm thinking about taking it easy this week. I've been working a lot on a personal project that isn't software related at I'm wanting to focus on pushing it through to completion. It will eventually make its way to being a code project, but for now, it's not.
+It's here, the [.NET Conference][dnc] is taking place this week. That and the release of .NET Core 3.0 should be more than enough to keep me busy now that baseball is out of the picture. I'm excited for all of the content that the people from the .NET team will be pushing out this week and can't wait to learn more about their latest release.
 
-
+[se]: https://app.pluralsight.com/library/courses/ethical-hacking-social-engineering/table-of-contents
 [irr]: https://www.amazon.com/Irresistible-Addictive-Technology-Business-Keeping/dp/0735222843/
 [antbp]: https://app.pluralsight.com/library/courses/aspdotnet-authentication-big-picture/table-of-contents
 [okt]: https://developer.okta.com
